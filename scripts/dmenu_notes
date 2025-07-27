@@ -1,0 +1,54 @@
+#!/usr/bin/env bash
+
+NOTES_DIR="$HOME/notes"
+mkdir -p "$NOTES_DIR"
+
+# default terminal and editor
+TERMINAL=${TERMINAL:-kitty}
+EDITOR_CMD=${EDITOR_CMD:-micro}
+
+# Dracula palette
+BG="#f799ae"        # background
+FG="#000000"        # foreground
+SEL_BG="#c98191"    # selection & current line
+
+new_note() {
+  local name
+  name=$(printf "" \
+    | dmenu -c \
+        -nb "$BG" \
+        -nf "$FG" \
+        -sb "$SEL_BG" \
+        -sf "$FG" \
+        -p "Enter a name: "
+  ) || exit 0
+
+  [[ -z $name ]] && name=$(date +%F_%T | tr ':' '-')
+  setsid -f "$TERMINAL" -e $EDITOR_CMD "$NOTES_DIR/$name.md" \
+    >/dev/null 2>&1
+}
+
+choose_note() {
+  local choice
+  choice=$(
+    {
+      printf "New\n"
+      ls -t1 "$NOTES_DIR"
+    } | dmenu -c \
+        -l 10 -i \
+        -nb "$BG" \
+        -nf "$FG" \
+        -sb "$SEL_BG" \
+        -sf "$FG" \
+        -p "Choose note or create new: "
+  ) || exit 0
+
+  case "$choice" in
+    New)   new_note ;;
+    *.md)  setsid -f "$TERMINAL" -e $EDITOR_CMD "$NOTES_DIR/$choice" \
+             >/dev/null 2>&1 ;;
+    *)     exit ;;
+  esac
+}
+
+choose_note
