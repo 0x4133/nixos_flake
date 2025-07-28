@@ -154,7 +154,13 @@
 
   programs.thunar.enable = true;
   
-  
+  nixpkgs.overlays = [
+    (self: super: {
+      mpv = super.mpv.override {
+        scripts = [ self.mpvScripts.mpris ];
+      };
+    })
+  ];
 
   programs.hyprland = {
     # Install the packages from nixpkgs
