@@ -153,6 +153,9 @@
     ];
   };
 
+
+  fonts.packages = builtins.filter lib.attrsets.isDerivation (builtins.attrValues pkgs.nerd-fonts)
+
   programs.thunar.enable = true;
   
   nixpkgs.overlays = [
