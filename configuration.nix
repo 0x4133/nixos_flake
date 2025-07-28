@@ -145,7 +145,7 @@
        bat
        ani-cli
        mpv
-       
+       tlv
        ffmpeg
        fzf
       
