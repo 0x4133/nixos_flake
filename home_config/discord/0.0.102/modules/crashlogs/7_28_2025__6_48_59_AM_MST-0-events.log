@@ -1,0 +1,13 @@
+7/28/2025, 6:48:59 AM MST 0: 
+
+----------------------------------------------
+7/28/2025, 6:48:59 AM MST 1: Discord starting: {"releaseChannel":"stable","version":"0.0.102"}, modulepath: /home/aaron/.config/discord/0.0.102/modules
+7/28/2025, 6:48:59 AM MST 2: ✅ webContents.created web1 ""
+7/28/2025, 6:48:59 AM MST 3: ✅ window.created win1 "discord"
+7/28/2025, 6:48:59 AM MST 4: ✅ webContents.did-finish-load web1
+7/28/2025, 6:49:05 AM MST 5: ✅ webContents.created web2 ""
+7/28/2025, 6:49:05 AM MST 6: ✅ window.created win2 "Discord"
+7/28/2025, 6:49:07 AM MST 7: ✅ webContents.did-finish-load web2
+7/28/2025, 6:49:08 AM MST 8: window.close win1
+7/28/2025, 6:49:08 AM MST 9: webContents.destroyed web1
+7/28/2025, 6:49:08 AM MST 10: window.closed win1

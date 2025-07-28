@@ -1,0 +1,6 @@
+[2025-Jul-28 06:49:10.176 -07:00][22778:22778][info ] Logging initialized
+[2025-Jul-28 06:49:10.176 -07:00][22778:22778][info ] Initializing krisp SDK...
+[2025-Jul-28 06:49:10.176 -07:00][22778:22778][info ] DoKrispInitialize
+[2025-Jul-28 06:49:10.629 -07:00][22778:22778][warning] Application not signed by Discord, Krisp is not enabled
+[2025-Jul-28 06:49:10.629 -07:00][22778:22778][warning] Failed to setup Krisp module, error code: -3
+[2025-Jul-28 06:49:10.629 -07:00][22778:22778][info ] Krisp SDK initialized
