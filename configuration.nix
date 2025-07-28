@@ -166,18 +166,19 @@
 
   # List packages installed in system profile. To search, run:
   # $ nix search wget
-  environment.systemPackages = with pkgs; [
+environment.systemPackages = with pkgs; [
   #  vim # Do not forget to add an editor to edit configuration.nix! The Nano editor is also installed by default.
   #  wget
-  (dmenu.overrideAttrs (oldAttrs: rec {
-    patches = [
+  (dmenu.overrideAttrs (oldAttrs: {
+    patches = (oldAttrs.patches or []) ++ [
       # Specify local patches:
-   /home/aaron/flakes/scripts/dmenu-center-20250407-b1e217b.diff
-   }))];
-     hyprpaper
-     dmenu
-    
-  ];
+      /home/aaron/flakes/scripts/dmenu-center-20250407-b1e217b.diff
+    ];
+  }))
+  hyprpaper # hyprpaper is added as a separate package after the dmenu override
+  # If you want the unpatched dmenu as well, you would list it separately.
+  # dmenu 
+];
 
   # Some programs need SUID wrappers, can be configured further or are
   # started in user sessions.
