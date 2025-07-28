@@ -150,7 +150,7 @@
        fzf
        go
       code-cursor
-      npm
+      nodejs_24
       
     ];
   };
