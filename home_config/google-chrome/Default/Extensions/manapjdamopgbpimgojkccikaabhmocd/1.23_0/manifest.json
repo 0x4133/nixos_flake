@@ -1,0 +1,17 @@
+{
+   "background": {
+      "service_worker": "background.js"
+   },
+   "description": "OSINT web extension",
+   "host_permissions": [  ],
+   "icons": {
+      "128": "icons/logo_128.png",
+      "48": "icons/logo_48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhkHrlJADokrDACVgjcGDs4/NkZkNVyPyacxgMNuW8eKPScy2T8nAVcA60OvLQ6gc/Xcxi2W/E5CXm81EOr/ld+3SMfGGG8jgXBWxL9AArzlt0JrAiYpXQg0o7cJlf9H9yY68PtJUUnzxlae69w5LPVRhERpJYYPVajPPXaYjx9tpY16Ro743d6/FCkDL/7Qml1f9Bm1DsE9Z3lMkIN2U4/5QSx6CAD+Pp/7s+Hp3TFMmdgO+k9dWSTKsZfEhmFhu9Gj4UI0XOkaua2iSyd2CuyNibldvXk1TT5OZPEGMAriAldAStnsHyxoAQnWelsOOZZ2okqInSSTkCUX+pmW+vQIDAQAB",
+   "manifest_version": 3,
+   "name": "Sputnik",
+   "permissions": [ "contextMenus", "background", "scripting" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.23"
+}
