@@ -131,7 +131,8 @@
        wofi
      # dolphin
        firefox
-       
+       waypaper
+       swaybg 
        bash
        micro
        fastfetch
