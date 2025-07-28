@@ -131,6 +131,7 @@
        wofi
      # dolphin
        firefox
+       yt-dlp
        waypaper
        swaybg 
        bash
