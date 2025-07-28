@@ -1,13 +1,13 @@
-2025/07/27-14:04:35.117 a7f Reusing MANIFEST /home/aaron/.config/google-chrome/Default/IndexedDB/https_mynixos.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/07/27-14:04:35.117 a7f Recovering log #16
-2025/07/27-14:04:35.118 a7f Reusing old log /home/aaron/.config/google-chrome/Default/IndexedDB/https_mynixos.com_0.indexeddb.leveldb/000016.log 
-2025/07/27-14:04:35.127 a7f Level-0 table #21: started
-2025/07/27-14:04:35.129 a7f Level-0 table #21: 3574 bytes OK
-2025/07/27-14:04:35.131 a7f Delete type=0 #16
-2025/07/27-14:04:35.131 a7f Manual compaction at level-0 from '\x00\x09\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at (end)
-2025/07/27-14:32:32.489 a80 Compacting 1@1 + 1@2 files
-2025/07/27-14:32:32.541 a80 Generated table #22@1: 66 keys, 3649 bytes
-2025/07/27-14:32:32.541 a80 Compacted 1@1 + 1@2 files => 3649 bytes
-2025/07/27-14:32:32.543 a80 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/07/27-14:32:32.544 a80 Delete type=2 #21
-2025/07/27-14:32:32.544 a80 Delete type=2 #18
+2025/07/27-21:57:16.686 a5c Reusing MANIFEST /home/aaron/.config/google-chrome/Default/IndexedDB/https_mynixos.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/27-21:57:16.686 a5c Recovering log #20
+2025/07/27-21:57:16.687 a5c Reusing old log /home/aaron/.config/google-chrome/Default/IndexedDB/https_mynixos.com_0.indexeddb.leveldb/000020.log 
+2025/07/27-21:57:16.869 a5b Level-0 table #25: started
+2025/07/27-21:57:16.872 a5b Level-0 table #25: 4014 bytes OK
+2025/07/27-21:57:16.874 a5b Delete type=0 #20
+2025/07/27-21:57:16.874 a5b Manual compaction at level-0 from '\x00\x0a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/07/27-21:58:17.684 a5b Compacting 1@1 + 1@2 files
+2025/07/27-21:58:17.692 a5b Generated table #26@1: 66 keys, 3648 bytes
+2025/07/27-21:58:17.692 a5b Compacted 1@1 + 1@2 files => 3648 bytes
+2025/07/27-21:58:17.694 a5b compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/07/27-21:58:17.694 a5b Delete type=2 #25
+2025/07/27-21:58:17.694 a5b Delete type=2 #22
