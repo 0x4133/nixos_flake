@@ -149,6 +149,7 @@
        ffmpeg
        fzf
        go
+       cursor
       
     ];
   };
