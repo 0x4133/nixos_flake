@@ -150,6 +150,7 @@
        fzf
        go
       code-cursor
+      npm
       
     ];
   };
