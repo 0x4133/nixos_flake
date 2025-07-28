@@ -145,7 +145,7 @@
        bat
        ani-cli
        mpv
-       
+       discord
        ffmpeg
        fzf
       
