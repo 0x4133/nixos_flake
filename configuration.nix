@@ -142,6 +142,7 @@
        tealdeer
        xclip
        bat
+       ani-cli
     ];
   };
 
