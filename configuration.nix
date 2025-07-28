@@ -147,7 +147,7 @@
        aria2c
        ffmpeg
        fzf
-       ani-skip
+      
     ];
   };
 
