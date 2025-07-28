@@ -149,7 +149,7 @@
        ffmpeg
        fzf
        go
-       cursor
+      code-cursor
       
     ];
   };
