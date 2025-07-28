@@ -131,7 +131,7 @@
        wofi
      # dolphin
        firefox
-       dmenu
+       
        bash
        micro
        fastfetch
@@ -160,12 +160,21 @@
   # Allow unfree packages
   nixpkgs.config.allowUnfree = true;
 
+  services.hyprpaper = {
+     enable = true;
+     settings = {
+      # Your hyprpaper settings here
+     };
+   };
+
+
   # List packages installed in system profile. To search, run:
   # $ nix search wget
   environment.systemPackages = with pkgs; [
   #  vim # Do not forget to add an editor to edit configuration.nix! The Nano editor is also installed by default.
   #  wget
-     hyprpaper
+     dmenu
+    
   ];
 
   # Some programs need SUID wrappers, can be configured further or are
