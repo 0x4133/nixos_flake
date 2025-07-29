@@ -151,7 +151,7 @@
        go
       code-cursor
       nodejs_24
-      python13
+      python3
       
     ];
   };
