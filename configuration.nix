@@ -152,7 +152,7 @@
       code-cursor
       nodejs_24
       python3
-      
+      system76-keyboard-configurator 
     ];
   };
 
