@@ -1,0 +1,151 @@
+2025-07-28 19:13:02.861 [warning] Dir "/home/aaron/projects/stego_ai/.pixi/envs" is not watchable (directory does not exist)
+2025-07-28 19:13:02.925 [info] Starting Environment refresh
+2025-07-28 19:13:02.925 [info] Searching for interpreters in posix paths locator
+2025-07-28 19:13:02.935 [info] Searching for pyenv environments
+2025-07-28 19:13:02.935 [info] Searching for conda environments
+2025-07-28 19:13:02.935 [info] Searching for global virtual environments
+2025-07-28 19:13:02.935 [info] Searching for custom virtual environments
+2025-07-28 19:13:02.968 [info] pyenv is not installed
+2025-07-28 19:13:02.968 [info] Finished searching for pyenv environments: 42 milliseconds
+2025-07-28 19:13:02.968 [info] Finished searching for custom virtual envs: 40 milliseconds
+2025-07-28 19:13:02.985 [info] > conda info --json
+2025-07-28 19:13:02.998 [info] > hatch env show --json
+2025-07-28 19:13:02.998 [info] cwd: .
+2025-07-28 19:13:03.024 [info] > pyenv which python
+2025-07-28 19:13:03.024 [info] cwd: .
+2025-07-28 19:13:03.025 [info] Finished searching for global virtual envs: 98 milliseconds
+2025-07-28 19:13:03.148 [info] Finished searching for interpreters in posix paths locator: 225 milliseconds
+2025-07-28 19:13:03.149 [info] Environments refresh paths discovered (event): 226 milliseconds
+2025-07-28 19:13:03.149 [info] Environments refresh finished (event): 227 milliseconds
+2025-07-28 19:13:03.149 [info] Environments refresh paths discovered: 227 milliseconds
+2025-07-28 19:13:03.152 [info] Environment refresh took 230 milliseconds
+2025-07-28 19:13:03.175 [info] > python -c "import sys;print(sys.executable)"
+2025-07-28 19:13:03.184 [error] [Error: Command failed: python -c "import sys;print(sys.executable)"
+/bin/sh: line 1: python: command not found
+
+	at genericNodeError (node:internal/errors:984:15)
+	at wrappedFn (node:internal/errors:538:14)
+	at ChildProcess.exithandler (node:child_process:422:12)
+	at ChildProcess.emit (node:events:536:35)
+	at maybeClose (node:internal/child_process:1104:16)
+	at Socket.<anonymous> (node:internal/child_process:456:11)
+	at Socket.emit (node:events:524:28)
+	at Pipe.<anonymous> (node:net:343:12)] {
+  code: 127,
+  killed: false,
+  signal: null,
+  cmd: 'python -c "import sys;print(sys.executable)"'
+}
+2025-07-28 19:13:03.197 [info] > pyenv which python
+2025-07-28 19:13:03.197 [info] cwd: .
+2025-07-28 19:13:03.201 [info] Editor support is inactive since language server is set to None.
+2025-07-28 19:13:37.247 [info] Discover tests for workspace name: stego_ai - uri: /home/aaron/projects/stego_ai/error_correction.py
+2025-07-28 19:14:32.208 [info] Discover tests for workspace name: stego_ai - uri: /home/aaron/projects/stego_ai/transport_layers.py
+2025-07-28 19:15:31.552 [info] Discover tests for workspace name: stego_ai - uri: /home/aaron/projects/stego_ai/stego_qr.py
+2025-07-28 19:16:35.361 [info] Discover tests for workspace name: stego_ai - uri: /home/aaron/projects/stego_ai/utils.py
+2025-07-28 19:17:01.363 [info] Discover tests for workspace name: stego_ai - uri: /home/aaron/projects/stego_ai/examples/basic_usage.py
+2025-07-28 19:18:12.851 [info] Discover tests for workspace name: stego_ai - uri: /home/aaron/projects/stego_ai/tests/test_stego_qr.py
+2025-07-28 19:18:55.185 [info] Discover tests for workspace name: stego_ai - uri: /home/aaron/projects/stego_ai/examples/transport_integration.py
+2025-07-28 19:20:23.497 [info] Discover tests for workspace name: stego_ai - uri: /home/aaron/projects/stego_ai/test_core_functionality.py
+2025-07-28 19:21:11.445 [info] Discover tests for workspace name: stego_ai - uri: /home/aaron/projects/stego_ai/test_core_functionality.py
+2025-07-28 19:21:27.388 [info] Discover tests for workspace name: stego_ai - uri: /home/aaron/projects/stego_ai/mesh_encoder.py
+2025-07-28 19:21:37.430 [info] Discover tests for workspace name: stego_ai - uri: /home/aaron/projects/stego_ai/mesh_encoder.py
+2025-07-28 19:23:10.382 [info] Discover tests for workspace name: stego_ai - uri: /home/aaron/projects/stego_ai/demo.py
+2025-07-28 19:24:10.285 [info] Starting Environment refresh
+2025-07-28 19:24:10.285 [info] Searching for interpreters in posix paths locator
+2025-07-28 19:24:10.288 [info] Searching for pyenv environments
+2025-07-28 19:24:10.288 [info] Searching for conda environments
+2025-07-28 19:24:10.288 [info] Searching for global virtual environments
+2025-07-28 19:24:10.288 [info] Searching for custom virtual environments
+2025-07-28 19:24:10.293 [info] pyenv is not installed
+2025-07-28 19:24:10.293 [info] Finished searching for pyenv environments: 7 milliseconds
+2025-07-28 19:24:10.293 [info] Finished searching for custom virtual envs: 6 milliseconds
+2025-07-28 19:24:10.294 [info] Finished searching for global virtual envs: 7 milliseconds
+2025-07-28 19:24:10.302 [info] Found: /etc/profiles/per-user/aaron/bin/python --> /nix/store/djck7mx6jad1w0yy6zings96dyxanls6-python3-3.13.5/bin/python3.13
+2025-07-28 19:24:10.303 [info] Found: /etc/profiles/per-user/aaron/bin/python3 --> /nix/store/djck7mx6jad1w0yy6zings96dyxanls6-python3-3.13.5/bin/python3.13
+2025-07-28 19:24:10.303 [info] Found: /etc/profiles/per-user/aaron/bin/python3.13 --> /nix/store/djck7mx6jad1w0yy6zings96dyxanls6-python3-3.13.5/bin/python3.13
+2025-07-28 19:24:10.309 [info] Finished searching for interpreters in posix paths locator: 25 milliseconds
+2025-07-28 19:24:10.360 [info] > /etc/profiles/per-user/aaron/bin/python -I ~/.cursor/extensions/ms-python.python-2025.6.1-linux-x64/python_files/get_output_via_markers.py ~/.cursor/extensions/ms-python.python-2025.6.1-linux-x64/python_files/interpreterInfo.py
+2025-07-28 19:24:10.360 [info] Environments refresh paths discovered (event): 78 milliseconds
+2025-07-28 19:24:10.360 [info] Environments refresh paths discovered: 78 milliseconds
+2025-07-28 19:24:10.417 [info] Environments refresh finished (event): 135 milliseconds
+2025-07-28 19:24:10.422 [info] Environment refresh took 142 milliseconds
+2025-07-28 19:24:15.341 [info] Editor support is inactive since language server is set to None.
+2025-07-28 19:24:15.345 [info] Active interpreter [/home/aaron/projects/stego_ai]:  /etc/profiles/per-user/aaron/bin/python
+2025-07-28 19:24:15.390 [info] Running installed packages checker:  {
+  id: '/etc/profiles/per-user/aaron/bin/python',
+  sysPrefix: '/nix/store/djck7mx6jad1w0yy6zings96dyxanls6-python3-3.13.5',
+  envType: 'Global',
+  envName: '',
+  envPath: '',
+  path: '/etc/profiles/per-user/aaron/bin/python',
+  architecture: 3,
+  sysVersion: '3.13.5 (main, Jun 11 2025, 15:36:57) [GCC 14.3.0]',
+  version: {
+    raw: '3.13.5',
+    major: 3,
+    minor: 13,
+    patch: 5,
+    build: [],
+    prerelease: [ 'final', '0' ]
+  },
+  displayName: 'Python 3.13.5 64-bit',
+  detailedDisplayName: 'Python 3.13.5 64-bit',
+  type: undefined
+} /home/aaron/.cursor/extensions/ms-python.python-2025.6.1-linux-x64/python_files/installed_check.py /home/aaron/projects/stego_ai/requirements.txt
+2025-07-28 19:24:15.390 [info] > /etc/profiles/per-user/aaron/bin/python ~/.cursor/extensions/ms-python.python-2025.6.1-linux-x64/python_files/installed_check.py ./requirements.txt
+2025-07-28 19:24:15.390 [info] Discover tests for workspace name: stego_ai - uri: /home/aaron/projects/stego_ai
+2025-07-28 19:24:15.390 [info] Python interpreter path: /etc/profiles/per-user/aaron/bin/python
+2025-07-28 19:24:18.388 [info] Send text to terminal: /etc/profiles/per-user/aaron/bin/python /home/aaron/projects/stego_ai/demo.py
+2025-07-28 19:25:06.599 [info] Send text to terminal: /etc/profiles/per-user/aaron/bin/python /home/aaron/projects/stego_ai/stego_qr.py
+2025-07-28 19:25:35.723 [info] > ./venv/bin/python -I ~/.cursor/extensions/ms-python.python-2025.6.1-linux-x64/python_files/get_output_via_markers.py ~/.cursor/extensions/ms-python.python-2025.6.1-linux-x64/python_files/interpreterInfo.py
+2025-07-28 19:25:35.723 [info] Environments refresh paths discovered: 50 milliseconds
+2025-07-28 19:25:35.778 [info] Environments refresh finished (event): 105 milliseconds
+2025-07-28 19:25:39.528 [info] Editor support is inactive since language server is set to None.
+2025-07-28 19:25:39.532 [info] Active interpreter [/home/aaron/projects/stego_ai]:  /home/aaron/projects/stego_ai/venv/bin/python
+2025-07-28 19:25:39.577 [info] Running installed packages checker:  {
+  id: '/home/aaron/projects/stego_ai/venv/bin/python',
+  sysPrefix: '/home/aaron/projects/stego_ai/venv',
+  envType: 'Venv',
+  envName: 'venv',
+  envPath: '/home/aaron/projects/stego_ai/venv',
+  path: '/home/aaron/projects/stego_ai/venv/bin/python',
+  architecture: 3,
+  sysVersion: '3.13.5 (main, Jun 11 2025, 15:36:57) [GCC 14.3.0]',
+  version: {
+    raw: '3.13.5',
+    major: 3,
+    minor: 13,
+    patch: 5,
+    build: [],
+    prerelease: [ 'final', '0' ]
+  },
+  displayName: "Python 3.13.5 ('venv')",
+  detailedDisplayName: "Python 3.13.5 ('venv': venv)",
+  type: 'Virtual'
+} /home/aaron/.cursor/extensions/ms-python.python-2025.6.1-linux-x64/python_files/installed_check.py /home/aaron/projects/stego_ai/requirements.txt
+2025-07-28 19:25:39.577 [info] > ./venv/bin/python ~/.cursor/extensions/ms-python.python-2025.6.1-linux-x64/python_files/installed_check.py ./requirements.txt
+2025-07-28 19:25:39.577 [info] Discover tests for workspace name: stego_ai - uri: /home/aaron/projects/stego_ai
+2025-07-28 19:25:39.577 [info] Python interpreter path: ./venv/bin/python
+2025-07-28 19:29:01.842 [info] Discover tests for workspace name: stego_ai - uri: /home/aaron/projects/stego_ai/main.py
+2025-07-28 19:29:05.152 [info] Send text to terminal: /home/aaron/projects/stego_ai/venv/bin/python /home/aaron/projects/stego_ai/main.py
+2025-07-28 19:30:08.338 [info] Discover tests for workspace name: stego_ai - uri: /home/aaron/projects/stego_ai/error_correction_simple.py
+2025-07-28 19:30:59.599 [info] Discover tests for workspace name: stego_ai - uri: /home/aaron/projects/stego_ai/stego_qr_simple.py
+2025-07-28 19:31:33.079 [info] Discover tests for workspace name: stego_ai - uri: /home/aaron/projects/stego_ai/test_simple.py
+2025-07-28 19:31:57.291 [info] Send text to terminal: /home/aaron/projects/stego_ai/venv/bin/python /home/aaron/projects/stego_ai/main.py
+2025-07-28 19:31:57.540 [info] Discover tests for workspace name: stego_ai - uri: /home/aaron/projects/stego_ai/main.py
+2025-07-28 19:32:12.883 [info] Discover tests for workspace name: stego_ai - uri: /home/aaron/projects/stego_ai/mesh_encoder.py
+2025-07-28 19:32:20.863 [info] Discover tests for workspace name: stego_ai - uri: /home/aaron/projects/stego_ai/error_correction_simple.py
+2025-07-28 19:32:24.173 [info] Send text to terminal: /home/aaron/projects/stego_ai/venv/bin/python /home/aaron/projects/stego_ai/main.py
+2025-07-28 19:32:24.422 [info] Discover tests for workspace name: stego_ai - uri: /home/aaron/projects/stego_ai/main.py
+2025-07-28 19:32:29.028 [info] Discover tests for workspace name: stego_ai - uri: /home/aaron/projects/stego_ai/stego_qr_simple.py
+2025-07-28 19:32:39.310 [info] Discover tests for workspace name: stego_ai - uri: /home/aaron/projects/stego_ai/test_simple.py
+2025-07-28 19:32:45.353 [info] Discover tests for workspace name: stego_ai - uri: /home/aaron/projects/stego_ai/main.py
+2025-07-28 19:32:46.971 [info] Discover tests for workspace name: stego_ai - uri: /home/aaron/projects/stego_ai/test_simple.py
+2025-07-28 19:32:54.986 [info] Discover tests for workspace name: stego_ai - uri: /home/aaron/projects/stego_ai/test_simple.py
+2025-07-28 19:33:22.302 [info] Send text to terminal: /home/aaron/projects/stego_ai/venv/bin/python /home/aaron/projects/stego_ai/test_simple.py
+2025-07-28 19:33:26.672 [info] Send text to terminal: /home/aaron/projects/stego_ai/venv/bin/python /home/aaron/projects/stego_ai/stego_qr.py
+2025-07-28 19:33:42.076 [info] Discover tests for workspace name: stego_ai - uri: /home/aaron/projects/stego_ai/simple_demo.py
+2025-07-28 19:33:51.331 [info] Send text to terminal: /home/aaron/projects/stego_ai/venv/bin/python /home/aaron/projects/stego_ai/simple_demo.py
+2025-07-28 19:36:13.967 [info] Send text to terminal: /home/aaron/projects/stego_ai/venv/bin/python /home/aaron/projects/stego_ai/main.py
+2025-07-28 19:36:14.216 [info] Discover tests for workspace name: stego_ai - uri: /home/aaron/projects/stego_ai/main.py

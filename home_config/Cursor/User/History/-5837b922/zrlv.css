@@ -1,0 +1,56 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles for React Flow */
+.react-flow__node {
+  border-radius: 8px;
+  border: 2px solid #e5e7eb;
+  background: white;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+}
+
+.react-flow__node.selected {
+  border-color: #3b82f6;
+  box-shadow: 0 0 0 2px rgba(59, 130, 246, 0.2);
+}
+
+.react-flow__edge-path {
+  stroke: #6b7280;
+  stroke-width: 2;
+}
+
+.react-flow__edge.selected .react-flow__edge-path {
+  stroke: #3b82f6;
+  stroke-width: 3;
+}
+
+.react-flow__controls {
+  border-radius: 8px;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+}
+
+.react-flow__minimap {
+  border-radius: 8px;
+  border: 1px solid #e5e7eb;
+}
+
+/* Dark mode styles */
+.dark .react-flow__node {
+  background: #1f2937;
+  border-color: #4b5563;
+  color: white;
+}
+
+.dark .react-flow__edge-path {
+  stroke: #9ca3af;
+}
+
+.dark .react-flow__controls {
+  background: #1f2937;
+  border: 1px solid #4b5563;
+}
+
+.dark .react-flow__minimap {
+  border-color: #4b5563;
+}

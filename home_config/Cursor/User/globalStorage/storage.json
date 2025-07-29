@@ -1,0 +1,86 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "39f681f45d3214971c3be9bd0fd86452513f7b8b47591a8767603b86b7e67001",
+    "telemetry.macMachineId": "bf7d0f0dff5f249d564fb0827c96f196833faef1928d7a6d363b985560080879",
+    "telemetry.devDeviceId": "d8edd486-3ce7-4d07-a9d8-2d0c65f37d01",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/aaron/projects/api_caller"
+            },
+            {
+                "folderUri": "file:///home/aaron/projects/stego_ai"
+            }
+        ],
+        "emptyWindows": [
+            {
+                "backupFolder": "1753734728418"
+            }
+        ]
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/aaron/projects/api_caller": "__default__profile__",
+            "file:///home/aaron/projects/stego_ai": "__default__profile__"
+        },
+        "emptyWindows": {
+            "1753734728418": "__default__profile__"
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/aaron/projects/stego_ai",
+            "backupPath": "/home/aaron/.config/Cursor/Backups/4419208707169a24fa9ee30a766efd5e",
+            "uiState": {
+                "mode": 1,
+                "x": 2606,
+                "y": 3,
+                "width": 911,
+                "height": 1074
+            }
+        },
+        "openedWindows": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1e2127",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#7b88a1",
+            "background": "#1e2127",
+            "editorBackground": "#1e2127",
+            "titleBarBackground": "#191c22",
+            "titleBarBorder": "rgba(255, 255, 255, 0.05)",
+            "activityBarBackground": "#191c22",
+            "sideBarBackground": "#191c22",
+            "sideBarBorder": "rgba(255, 255, 255, 0.05)",
+            "statusBarBackground": "#191c22",
+            "statusBarBorder": "rgba(255, 255, 255, 0.05)",
+            "statusBarNoFolderBackground": "#191c22"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 0,
+            "sideBarWidth": 170,
+            "auxiliarySideBarWidth": 170,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "auxiliarySideBarWidth": [
+                170,
+                [
+                    "c28e107ea1613416d0485de256b8c54e",
+                    "d7d7c982169a0f4126c26b3d8a0b89c9"
+                ]
+            ]
+        }
+    }
+}

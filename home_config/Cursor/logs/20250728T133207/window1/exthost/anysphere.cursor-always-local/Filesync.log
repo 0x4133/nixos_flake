@@ -1,0 +1,621 @@
+2025-07-28 13:32:13.809 [error] Failed to check if file sync is enabled for user {}
+2025-07-28 13:32:13.809 [error] Failed to fetch fsConfig File sync is disabled
+2025-07-28 13:32:13.809 [error] Failed to fetch fsConfig File sync is disabled
+2025-07-28 13:32:14.025 [info] [registerEventListeners] Registering event listeners
+2025-07-28 13:32:15.018 [error] Failed to check if file sync is enabled for user {"name":"ConnectError","rawMessage":"Error","code":16,"metadata":{},"details":[{"type":"aiserver.v1.ErrorDetails","value":{"0":8,"1":2,"2":18,"3":85,"4":10,"5":14,"6":78,"7":111,"8":116,"9":32,"10":108,"11":111,"12":103,"13":103,"14":101,"15":100,"16":32,"17":105,"18":110,"19":46,"20":18,"21":65,"22":78,"23":111,"24":116,"25":32,"26":108,"27":111,"28":103,"29":103,"30":101,"31":100,"32":32,"33":105,"34":110,"35":46,"36":32,"37":73,"38":102,"39":32,"40":121,"41":111,"42":117,"43":32,"44":97,"45":114,"46":101,"47":32,"48":108,"49":111,"50":103,"51":103,"52":101,"53":100,"54":32,"55":105,"56":110,"57":44,"58":32,"59":116,"60":114,"61":121,"62":32,"63":108,"64":111,"65":103,"66":103,"67":105,"68":110,"69":103,"70":32,"71":111,"72":117,"73":116,"74":32,"75":97,"76":110,"77":100,"78":32,"79":98,"80":97,"81":99,"82":107,"83":32,"84":105,"85":110,"86":46,"87":32,"88":0,"89":24,"90":1},"debug":{"error":"ERROR_NOT_LOGGED_IN","details":{"title":"Not logged in.","detail":"Not logged in. If you are logged in, try logging out and back in.","isRetryable":false},"isExpected":true}}]}
+2025-07-28 13:32:15.018 [error] Failed to fetch fsConfig File sync is disabled
+2025-07-28 13:32:15.019 [error] Failed to fetch fsConfig File sync is disabled
+2025-07-28 13:33:11.858 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-07-28 13:33:11.859 [error] Failed to fetch fsConfig File sync is disabled
+2025-07-28 13:33:11.859 [error] Failed to fetch fsConfig File sync is disabled
+2025-07-28 13:33:12.455 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-07-28 13:33:12.455 [error] Failed to fetch fsConfig File sync is disabled
+2025-07-28 13:33:12.455 [error] Failed to fetch fsConfig File sync is disabled
+2025-07-28 13:33:12.455 [info] File sync enabled status: false
+2025-07-28 13:33:12.572 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-07-28 13:33:12.572 [error] Failed to fetch fsConfig File sync is disabled
+2025-07-28 13:33:12.572 [error] Failed to fetch fsConfig File sync is disabled
+2025-07-28 13:33:12.572 [info] File sync enabled status: false
+2025-07-28 13:33:14.116 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-07-28 13:33:14.475 [info] Fetched fsConfig in 357.53001999999833ms
+2025-07-28 13:33:14.476 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-07-28 13:33:14.476 [info] File sync enabled status: true
+2025-07-28 13:33:14.476 [info] Starting sync of visible tabs
+2025-07-28 13:33:14.476 [info] Synced all visible tabs in 0.2924540000021807ms
+2025-07-28 13:33:14.487 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-07-28 13:33:14.732 [info] Fetched fsConfig in 244.4712989999971ms
+2025-07-28 13:33:14.732 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-07-28 13:33:14.732 [info] File sync enabled status: true
+2025-07-28 13:33:14.732 [info] Starting sync of visible tabs
+2025-07-28 13:33:14.732 [info] Synced all visible tabs in 0.08015100000193343ms
+2025-07-28 13:33:14.856 [info] Starting sync of visible tabs
+2025-07-28 13:33:14.856 [info] Synced all visible tabs in 0.23057500000140863ms
+2025-07-28 13:33:15.086 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-07-28 13:33:15.312 [info] Fetched fsConfig in 225.90239999999903ms
+2025-07-28 13:33:15.312 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-07-28 13:34:08.484 [error] Failed to check if file sync is enabled for user {}
+2025-07-28 13:34:08.484 [error] Failed to fetch fsConfig File sync is disabled
+2025-07-28 13:34:08.484 [error] Failed to fetch fsConfig File sync is disabled
+2025-07-28 13:34:08.828 [info] [registerEventListeners] Registering event listeners
+2025-07-28 13:34:09.870 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-07-28 13:34:10.092 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-07-28 13:34:10.373 [info] Fetched fsConfig in 501.72117199999957ms
+2025-07-28 13:34:10.374 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-07-28 13:34:10.389 [info] Fetched fsConfig in 296.05197899999985ms
+2025-07-28 13:34:10.389 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-07-28 13:34:10.389 [info] File sync enabled status: true
+2025-07-28 13:34:10.389 [info] Starting sync of visible tabs
+2025-07-28 13:34:10.389 [info] Synced all visible tabs in 0.12075700000059442ms
+2025-07-28 13:34:10.840 [info] Starting sync of visible tabs
+2025-07-28 13:34:10.840 [info] Synced all visible tabs in 0.2784189999993032ms
+2025-07-28 13:34:11.068 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-07-28 13:34:11.315 [info] Fetched fsConfig in 246.2080850000002ms
+2025-07-28 13:34:11.315 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-07-28 13:41:13.568 [info] Uploaded file tailwind.config.js modelVersion=2 in 522.3045350000029ms
+2025-07-28 13:41:13.571 [info] Uploaded file tailwind.config.js modelVersion=2 in 451.3805160000338ms
+2025-07-28 13:41:13.593 [info] Uploaded file tailwind.config.js modelVersion=4 in 450.6164179999614ms
+2025-07-28 13:41:13.657 [info] Uploaded file tailwind.config.js modelVersion=4 in 510.2226210000226ms
+2025-07-28 13:41:13.921 [info] Handled visible editors change in 4.293153999955393ms
+2025-07-28 13:41:22.859 [info] Uploaded file postcss.config.js modelVersion=2 in 45.397653999971226ms
+2025-07-28 13:41:22.861 [info] Uploaded file postcss.config.js modelVersion=2 in 43.79735599999549ms
+2025-07-28 13:41:23.184 [info] Synced file postcss.config.js modelVersion=4 in 44.672147000033874ms
+2025-07-28 13:41:31.652 [info] Uploaded file src/index.css modelVersion=2 in 43.674448999983724ms
+2025-07-28 13:41:31.654 [info] Uploaded file src/index.css modelVersion=2 in 48.14226899994537ms
+2025-07-28 13:41:31.982 [info] Synced file src/index.css modelVersion=4 in 43.67532699997537ms
+2025-07-28 13:41:41.723 [info] Uploaded file src/types/index.ts modelVersion=2 in 42.718322000000626ms
+2025-07-28 13:41:41.725 [info] Uploaded file src/types/index.ts modelVersion=2 in 41.849181000026874ms
+2025-07-28 13:41:42.041 [info] Synced file src/types/index.ts modelVersion=4 in 48.410241000005044ms
+2025-07-28 13:42:01.895 [info] Uploaded file src/store/index.ts modelVersion=2 in 43.558689999976195ms
+2025-07-28 13:42:01.896 [info] Uploaded file src/store/index.ts modelVersion=2 in 41.65522799995961ms
+2025-07-28 13:42:01.926 [info] Uploaded file src/store/index.ts modelVersion=4 in 46.50900000002002ms
+2025-07-28 13:42:01.927 [info] Uploaded file src/store/index.ts modelVersion=4 in 46.0323399999761ms
+2025-07-28 13:42:06.436 [info] Uploaded file package.json modelVersion=2 in 55.482620000024326ms
+2025-07-28 13:42:09.255 [info] Uploaded file src/store/index.ts modelVersion=2 in 43.505008000007365ms
+2025-07-28 13:42:09.271 [info] Uploaded file src/store/index.ts modelVersion=2 in 61.36885600001551ms
+2025-07-28 13:42:09.286 [info] Uploaded file src/store/index.ts modelVersion=2 in 47.23983400000725ms
+2025-07-28 13:42:09.287 [info] Uploaded file src/store/index.ts modelVersion=2 in 49.911055999982636ms
+2025-07-28 13:42:29.633 [info] Uploaded file src/utils/execution.ts modelVersion=2 in 45.485987000050955ms
+2025-07-28 13:42:29.639 [info] Uploaded file src/utils/execution.ts modelVersion=2 in 45.90383500000462ms
+2025-07-28 13:42:29.942 [info] Synced file src/utils/execution.ts modelVersion=4 in 46.473625000042375ms
+2025-07-28 13:42:47.263 [info] Uploaded file src/utils/nodes.ts modelVersion=2 in 41.884551999974065ms
+2025-07-28 13:42:47.265 [info] Uploaded file src/utils/nodes.ts modelVersion=2 in 41.12486099998932ms
+2025-07-28 13:42:47.561 [info] Synced file src/utils/nodes.ts modelVersion=4 in 43.85386599996127ms
+2025-07-28 13:42:55.651 [info] Uploaded file src/utils/interpolation.ts modelVersion=2 in 44.445367000065744ms
+2025-07-28 13:42:55.652 [info] Uploaded file src/utils/interpolation.ts modelVersion=2 in 42.52798499993514ms
+2025-07-28 13:42:55.676 [info] Uploaded file src/utils/interpolation.ts modelVersion=4 in 42.61617500009015ms
+2025-07-28 13:42:55.677 [info] Uploaded file src/utils/interpolation.ts modelVersion=4 in 42.23976699996274ms
+2025-07-28 13:43:04.498 [info] Uploaded file src/utils/safeEval.ts modelVersion=2 in 40.249747000052594ms
+2025-07-28 13:43:04.500 [info] Uploaded file src/utils/safeEval.ts modelVersion=2 in 45.12105600000359ms
+2025-07-28 13:43:04.516 [info] Uploaded file src/utils/safeEval.ts modelVersion=4 in 44.054880000068806ms
+2025-07-28 13:43:04.517 [info] Uploaded file src/utils/safeEval.ts modelVersion=4 in 43.4851019999478ms
+2025-07-28 13:43:30.178 [info] Uploaded file src/components/nodes/ApiNode.tsx modelVersion=2 in 44.84457800001837ms
+2025-07-28 13:43:30.179 [info] Uploaded file src/components/nodes/ApiNode.tsx modelVersion=2 in 42.8080159999663ms
+2025-07-28 13:43:30.498 [info] Synced file src/components/nodes/ApiNode.tsx modelVersion=4 in 46.01867400004994ms
+2025-07-28 13:43:47.647 [info] Uploaded file src/components/nodes/TransformNode.tsx modelVersion=2 in 38.61222999996971ms
+2025-07-28 13:43:47.648 [info] Uploaded file src/components/nodes/TransformNode.tsx modelVersion=2 in 42.80534899991471ms
+2025-07-28 13:43:47.681 [info] Uploaded file src/components/nodes/TransformNode.tsx modelVersion=4 in 40.20633299998008ms
+2025-07-28 13:43:47.689 [info] Uploaded file src/components/nodes/TransformNode.tsx modelVersion=4 in 50.24287099996582ms
+2025-07-28 13:43:54.653 [info] Synced file src/components/nodes/TransformNode.tsx modelVersion=7 in 45.351502000004984ms
+2025-07-28 13:44:11.803 [info] Uploaded file src/components/nodes/OutputNode.tsx modelVersion=2 in 43.75861499994062ms
+2025-07-28 13:44:11.811 [info] Uploaded file src/components/nodes/OutputNode.tsx modelVersion=2 in 47.46307699999306ms
+2025-07-28 13:44:11.835 [info] Uploaded file src/components/nodes/OutputNode.tsx modelVersion=4 in 44.07927899993956ms
+2025-07-28 13:44:11.836 [info] Uploaded file src/components/nodes/OutputNode.tsx modelVersion=4 in 43.30822799995076ms
+2025-07-28 13:44:40.710 [info] Uploaded file src/components/Flow.tsx modelVersion=2 in 43.44986100005917ms
+2025-07-28 13:44:40.716 [info] Uploaded file src/components/Flow.tsx modelVersion=2 in 54.49224500008859ms
+2025-07-28 13:44:40.738 [info] Uploaded file src/components/Flow.tsx modelVersion=4 in 43.20048100000713ms
+2025-07-28 13:44:40.740 [info] Uploaded file src/components/Flow.tsx modelVersion=4 in 46.642689000000246ms
+2025-07-28 13:44:54.052 [info] Uploaded file src/components/Flow.tsx modelVersion=2 in 45.49335400003474ms
+2025-07-28 13:44:54.057 [info] Uploaded file src/components/Flow.tsx modelVersion=2 in 42.92817999992985ms
+2025-07-28 13:45:17.600 [info] Uploaded file src/components/NodePalette.tsx modelVersion=2 in 41.42074600001797ms
+2025-07-28 13:45:17.601 [info] Uploaded file src/components/NodePalette.tsx modelVersion=2 in 45.70181299990509ms
+2025-07-28 13:45:17.635 [info] Uploaded file src/components/NodePalette.tsx modelVersion=4 in 43.83170300000347ms
+2025-07-28 13:45:17.636 [info] Uploaded file src/components/NodePalette.tsx modelVersion=4 in 46.3545790000353ms
+2025-07-28 13:45:23.247 [info] Synced file src/components/NodePalette.tsx modelVersion=7 in 48.34965000010561ms
+2025-07-28 13:45:38.735 [info] Uploaded file src/components/ExecutionPanel.tsx modelVersion=2 in 44.58180500008166ms
+2025-07-28 13:45:38.736 [info] Uploaded file src/components/ExecutionPanel.tsx modelVersion=2 in 42.90671799995471ms
+2025-07-28 13:45:38.750 [info] Uploaded file src/components/ExecutionPanel.tsx modelVersion=4 in 41.76029700005893ms
+2025-07-28 13:45:38.762 [info] Uploaded file src/components/ExecutionPanel.tsx modelVersion=4 in 55.74475600000005ms
+2025-07-28 13:45:48.025 [warning] Failed to sync changes for src/components/Flow.tsx, version=4, retrying (attempt 1) [invalid_argument] File length mismatch: FileLengthMismatch: New size would be: 7574, but expected size is: 7584
+2025-07-28 13:45:48.089 [warning] Failed to sync changes for src/components/Flow.tsx, version=4, retrying (attempt 2) [invalid_argument] File length mismatch: FileLengthMismatch: New size would be: 7574, but expected size is: 7584
+2025-07-28 13:45:48.176 [warning] Failed to sync changes for src/components/Flow.tsx, version=4, retrying (attempt 3) [invalid_argument] File length mismatch: FileLengthMismatch: New size would be: 7574, but expected size is: 7584
+2025-07-28 13:45:48.177 [error] Failed to sync changes for src/components/Flow.tsx, version=4, attempting full file sync [invalid_argument] File length mismatch: FileLengthMismatch: New size would be: 7574, but expected size is: 7584
+2025-07-28 13:45:48.222 [info] Uploaded file src/components/Flow.tsx modelVersion=4 in 44.59361199999694ms
+2025-07-28 13:45:48.398 [info] Synced file src/components/Flow.tsx modelVersion=4 in 39.903699999907985ms
+2025-07-28 13:45:52.099 [info] Synced file src/components/Flow.tsx modelVersion=6 in 42.49236400006339ms
+2025-07-28 13:45:55.819 [info] Synced file src/components/Flow.tsx modelVersion=8 in 43.484035999979824ms
+2025-07-28 13:46:04.075 [info] Uploaded file src/App.tsx modelVersion=2 in 42.0351569999475ms
+2025-07-28 13:46:04.077 [info] Uploaded file src/App.tsx modelVersion=2 in 41.03804100002162ms
+2025-07-28 13:46:04.394 [info] Synced file src/App.tsx modelVersion=4 in 44.63974499993492ms
+2025-07-28 13:46:11.341 [info] Uploaded file vite.config.ts modelVersion=2 in 44.26109000004362ms
+2025-07-28 13:46:11.343 [info] Uploaded file vite.config.ts modelVersion=2 in 41.876479999977164ms
+2025-07-28 13:46:33.410 [info] Uploaded file src/test/setup.ts modelVersion=2 in 243.31967999995686ms
+2025-07-28 13:46:33.423 [info] Uploaded file src/test/setup.ts modelVersion=2 in 259.9819369999459ms
+2025-07-28 13:46:33.449 [info] Uploaded file src/test/setup.ts modelVersion=4 in 255.42144999990705ms
+2025-07-28 13:46:33.451 [info] Uploaded file src/test/setup.ts modelVersion=4 in 254.40866100008134ms
+2025-07-28 13:46:45.020 [info] Synced file src/test/setup.ts modelVersion=7 in 47.20714600000065ms
+2025-07-28 13:46:48.347 [info] Synced file src/test/setup.ts modelVersion=9 in 42.43550200003665ms
+2025-07-28 13:46:49.291 [info] Synced file src/test/setup.ts modelVersion=15 in 43.03355699998792ms
+2025-07-28 13:48:00.417 [info] Uploaded file Dockerfile modelVersion=2 in 222.86296399997082ms
+2025-07-28 13:48:00.418 [info] Uploaded file Dockerfile modelVersion=4 in 109.30160999996588ms
+2025-07-28 13:48:00.419 [info] Uploaded file Dockerfile modelVersion=2 in 151.8933969999198ms
+2025-07-28 13:48:00.420 [info] Uploaded file Dockerfile modelVersion=4 in 112.87969700002577ms
+2025-07-28 13:48:16.454 [info] Synced file Dockerfile modelVersion=7 in 43.425012000021525ms
+2025-07-28 13:48:27.675 [info] Uploaded file nginx.conf modelVersion=2 in 41.983910000068136ms
+2025-07-28 13:48:27.677 [info] Uploaded file nginx.conf modelVersion=2 in 47.00203299999703ms
+2025-07-28 13:48:27.695 [info] Uploaded file nginx.conf modelVersion=4 in 42.00909299997147ms
+2025-07-28 13:48:27.697 [info] Uploaded file nginx.conf modelVersion=4 in 42.331933000008576ms
+2025-07-28 13:48:44.305 [info] Uploaded file package.json modelVersion=3 in 46.198967000003904ms
+2025-07-28 13:48:44.307 [info] Uploaded file package.json modelVersion=3 in 55.526872000074945ms
+2025-07-28 13:48:44.308 [info] Uploaded file package.json modelVersion=3 in 50.3984740000451ms
+2025-07-28 13:49:06.084 [info] Uploaded file src/test/execution.test.ts modelVersion=2 in 81.80993099999614ms
+2025-07-28 13:49:06.085 [info] Uploaded file src/test/execution.test.ts modelVersion=2 in 86.28423599991947ms
+2025-07-28 13:49:06.389 [info] Synced file src/test/execution.test.ts modelVersion=4 in 46.31804399995599ms
+2025-07-28 13:49:22.891 [info] Uploaded file postcss.config.js modelVersion=2 in 43.96212000004016ms
+2025-07-28 13:49:30.749 [info] Synced file postcss.config.js modelVersion=3 in 42.60005199990701ms
+2025-07-28 13:49:52.448 [info] Synced file package.json modelVersion=4 in 40.182987999985926ms
+2025-07-28 13:49:53.676 [info] Uploaded file postcss.config.js modelVersion=2 in 47.99673300003633ms
+2025-07-28 13:49:53.685 [info] Uploaded file postcss.config.js modelVersion=2 in 54.624468999914825ms
+2025-07-28 13:53:01.406 [info] Handled visible editors change in 2.2717820000834763ms
+2025-07-28 14:00:42.896 [info] Uploaded file src/components/Flow.tsx modelVersion=2 in 438.10459799994715ms
+2025-07-28 14:00:42.898 [info] Uploaded file src/components/Flow.tsx modelVersion=2 in 512.4808990000747ms
+2025-07-28 14:00:42.911 [info] Uploaded file src/components/Flow.tsx modelVersion=2 in 528.1428120001219ms
+2025-07-28 14:00:42.912 [info] Uploaded file src/components/Flow.tsx modelVersion=2 in 452.30402399995364ms
+2025-07-28 14:00:56.694 [info] Synced file src/components/Flow.tsx modelVersion=4 in 45.476876999950036ms
+2025-07-28 14:01:11.125 [info] Synced file src/components/Flow.tsx modelVersion=6 in 45.43769500008784ms
+2025-07-28 14:01:24.755 [info] Uploaded file src/components/NodePalette.tsx modelVersion=2 in 42.73454299988225ms
+2025-07-28 14:01:24.757 [info] Uploaded file src/components/NodePalette.tsx modelVersion=2 in 47.42425100016408ms
+2025-07-28 14:01:33.930 [info] Uploaded file src/components/nodes/ApiNode.tsx modelVersion=2 in 46.05860200012103ms
+2025-07-28 14:01:33.941 [info] Uploaded file src/components/nodes/ApiNode.tsx modelVersion=2 in 38.09056899999268ms
+2025-07-28 14:01:39.336 [info] Synced file src/components/nodes/ApiNode.tsx modelVersion=4 in 41.54737600008957ms
+2025-07-28 14:01:46.384 [info] Synced file src/components/nodes/ApiNode.tsx modelVersion=6 in 37.34213100001216ms
+2025-07-28 14:01:54.235 [info] Synced file src/components/nodes/ApiNode.tsx modelVersion=8 in 48.18861500010826ms
+2025-07-28 14:02:00.762 [info] Synced file src/components/nodes/ApiNode.tsx modelVersion=10 in 42.63717200001702ms
+2025-07-28 14:02:06.261 [info] Synced file src/components/nodes/ApiNode.tsx modelVersion=12 in 44.72870000009425ms
+2025-07-28 14:02:11.808 [info] Uploaded file src/components/nodes/TransformNode.tsx modelVersion=2 in 41.53149199998006ms
+2025-07-28 14:02:11.809 [info] Uploaded file src/components/nodes/TransformNode.tsx modelVersion=2 in 46.47277100011706ms
+2025-07-28 14:02:17.774 [info] Synced file src/components/nodes/TransformNode.tsx modelVersion=4 in 42.35925700003281ms
+2025-07-28 14:02:22.737 [info] Uploaded file src/components/nodes/OutputNode.tsx modelVersion=2 in 42.78288400010206ms
+2025-07-28 14:02:22.760 [info] Uploaded file src/components/nodes/OutputNode.tsx modelVersion=2 in 39.88464000006206ms
+2025-07-28 14:02:42.336 [info] Uploaded file src/components/Flow.tsx modelVersion=2 in 48.81718900008127ms
+2025-07-28 14:02:42.338 [info] Uploaded file src/components/Flow.tsx modelVersion=2 in 53.95275300019421ms
+2025-07-28 14:02:47.013 [info] Synced file src/components/Flow.tsx modelVersion=4 in 45.640333000104874ms
+2025-07-28 14:02:54.534 [info] Synced file src/components/Flow.tsx modelVersion=6 in 41.70140500017442ms
+2025-07-28 14:32:45.459 [info] Uploaded file src/components/nodes/ApiNode.tsx modelVersion=2 in 433.69604300009087ms
+2025-07-28 14:32:45.460 [info] Uploaded file src/components/nodes/ApiNode.tsx modelVersion=2 in 517.458846999798ms
+2025-07-28 14:32:45.463 [info] Uploaded file src/components/nodes/ApiNode.tsx modelVersion=2 in 436.84788000024855ms
+2025-07-28 14:32:45.467 [info] Uploaded file src/components/nodes/ApiNode.tsx modelVersion=2 in 446.801899000071ms
+2025-07-28 14:32:50.845 [info] Uploaded file src/components/nodes/TransformNode.tsx modelVersion=2 in 47.81450100010261ms
+2025-07-28 14:32:50.863 [info] Uploaded file src/components/nodes/TransformNode.tsx modelVersion=2 in 42.27643899992108ms
+2025-07-28 14:33:04.665 [info] Uploaded file src/components/Flow.tsx modelVersion=7 in 47.6744559998624ms
+2025-07-28 14:33:04.669 [info] Uploaded file src/components/Flow.tsx modelVersion=7 in 44.685184999834746ms
+2025-07-28 14:33:05.024 [info] Synced file src/components/Flow.tsx modelVersion=8 in 46.63509500026703ms
+2025-07-28 14:33:11.624 [info] Uploaded file src/components/Flow.tsx modelVersion=2 in 49.06582899997011ms
+2025-07-28 14:33:11.628 [info] Uploaded file src/components/Flow.tsx modelVersion=2 in 41.53853200003505ms
+2025-07-28 14:33:24.647 [warning] Failed to sync changes for src/components/nodes/ApiNode.tsx, version=4, retrying (attempt 1) [invalid_argument] File length mismatch: FileLengthMismatch: New size would be: 5941, but expected size is: 5950
+2025-07-28 14:33:24.711 [warning] Failed to sync changes for src/components/nodes/ApiNode.tsx, version=4, retrying (attempt 2) [invalid_argument] File length mismatch: FileLengthMismatch: New size would be: 5941, but expected size is: 5950
+2025-07-28 14:33:24.797 [warning] Failed to sync changes for src/components/nodes/ApiNode.tsx, version=4, retrying (attempt 3) [invalid_argument] File length mismatch: FileLengthMismatch: New size would be: 5941, but expected size is: 5950
+2025-07-28 14:33:24.798 [error] Failed to sync changes for src/components/nodes/ApiNode.tsx, version=4, attempting full file sync [invalid_argument] File length mismatch: FileLengthMismatch: New size would be: 5941, but expected size is: 5950
+2025-07-28 14:33:24.839 [info] Uploaded file src/components/nodes/ApiNode.tsx modelVersion=4 in 40.835616999771446ms
+2025-07-28 14:33:30.911 [info] Synced file src/components/nodes/ApiNode.tsx modelVersion=6 in 44.031324999872595ms
+2025-07-28 14:33:36.784 [info] Synced file src/components/nodes/ApiNode.tsx modelVersion=8 in 45.65546700032428ms
+2025-07-28 14:33:42.803 [info] Synced file src/components/nodes/ApiNode.tsx modelVersion=10 in 45.52928500017151ms
+2025-07-28 14:33:54.016 [warning] Failed to sync changes for src/components/nodes/TransformNode.tsx, version=4, retrying (attempt 1) [invalid_argument] File length mismatch: FileLengthMismatch: New size would be: 4057, but expected size is: 4063
+2025-07-28 14:33:54.084 [warning] Failed to sync changes for src/components/nodes/TransformNode.tsx, version=4, retrying (attempt 2) [invalid_argument] File length mismatch: FileLengthMismatch: New size would be: 4057, but expected size is: 4063
+2025-07-28 14:33:54.171 [warning] Failed to sync changes for src/components/nodes/TransformNode.tsx, version=4, retrying (attempt 3) [invalid_argument] File length mismatch: FileLengthMismatch: New size would be: 4057, but expected size is: 4063
+2025-07-28 14:33:54.171 [error] Failed to sync changes for src/components/nodes/TransformNode.tsx, version=4, attempting full file sync [invalid_argument] File length mismatch: FileLengthMismatch: New size would be: 4057, but expected size is: 4063
+2025-07-28 14:33:54.217 [info] Uploaded file src/components/nodes/TransformNode.tsx modelVersion=4 in 45.42704099975526ms
+2025-07-28 14:37:39.645 [info] Uploaded file src/index.css modelVersion=3 in 181.09491899982095ms
+2025-07-28 14:37:39.646 [info] Uploaded file src/index.css modelVersion=3 in 178.86697500012815ms
+2025-07-28 14:37:39.646 [info] Uploaded file src/index.css modelVersion=3 in 178.92988299997523ms
+2025-07-28 14:37:39.648 [info] Uploaded file src/index.css modelVersion=3 in 255.92440599994734ms
+2025-07-28 14:37:39.648 [info] Uploaded file src/index.css modelVersion=3 in 186.05882499972358ms
+2025-07-28 14:37:53.921 [info] Uploaded file src/components/NodePalette.tsx modelVersion=2 in 243.68139899987727ms
+2025-07-28 14:37:53.937 [info] Uploaded file src/components/NodePalette.tsx modelVersion=2 in 257.40486699994653ms
+2025-07-28 14:37:53.947 [info] Uploaded file src/components/NodePalette.tsx modelVersion=2 in 237.5807659998536ms
+2025-07-28 14:37:53.962 [info] Uploaded file src/components/NodePalette.tsx modelVersion=2 in 254.86547800013795ms
+2025-07-28 14:38:08.729 [info] Uploaded file src/components/nodes/ApiNode.tsx modelVersion=2 in 44.00292899971828ms
+2025-07-28 14:38:08.733 [info] Uploaded file src/components/nodes/ApiNode.tsx modelVersion=2 in 41.00826200004667ms
+2025-07-28 14:38:19.232 [info] Synced file src/components/nodes/ApiNode.tsx modelVersion=4 in 44.876454000361264ms
+2025-07-28 14:38:34.634 [info] Synced file src/components/nodes/ApiNode.tsx modelVersion=6 in 44.80159900011495ms
+2025-07-28 14:38:44.938 [info] Synced file src/components/nodes/ApiNode.tsx modelVersion=8 in 42.25121700018644ms
+2025-07-28 14:38:53.420 [info] Synced file src/components/nodes/ApiNode.tsx modelVersion=10 in 47.07906699972227ms
+2025-07-28 14:39:01.340 [info] Synced file src/components/nodes/ApiNode.tsx modelVersion=12 in 44.068636999931186ms
+2025-07-28 14:39:17.297 [info] Uploaded file src/components/Flow.tsx modelVersion=2 in 41.633651999756694ms
+2025-07-28 14:39:17.317 [info] Uploaded file src/components/Flow.tsx modelVersion=2 in 48.01121399970725ms
+2025-07-28 14:39:28.298 [info] Uploaded file src/components/ExecutionPanel.tsx modelVersion=2 in 40.14614500012249ms
+2025-07-28 14:39:28.299 [info] Uploaded file src/components/ExecutionPanel.tsx modelVersion=2 in 46.72356599988416ms
+2025-07-28 14:39:44.406 [info] Synced file src/components/ExecutionPanel.tsx modelVersion=4 in 47.17079500015825ms
+2025-07-28 14:39:51.997 [info] Synced file src/components/ExecutionPanel.tsx modelVersion=6 in 49.18684000009671ms
+2025-07-28 14:45:39.237 [info] Uploaded file src/components/nodes/ApiNode.tsx modelVersion=2 in 428.20313100051135ms
+2025-07-28 14:45:39.238 [info] Uploaded file src/components/nodes/ApiNode.tsx modelVersion=2 in 424.66868300084025ms
+2025-07-28 14:45:39.264 [info] Uploaded file src/components/nodes/ApiNode.tsx modelVersion=2 in 531.0529450001195ms
+2025-07-28 14:45:39.332 [info] Uploaded file src/components/nodes/ApiNode.tsx modelVersion=2 in 518.7048530001193ms
+2025-07-28 14:45:43.570 [info] Synced file src/components/nodes/ApiNode.tsx modelVersion=4 in 47.324865999631584ms
+2025-07-28 14:45:48.225 [info] Uploaded file src/components/nodes/TransformNode.tsx modelVersion=2 in 48.0121679995209ms
+2025-07-28 14:45:48.249 [info] Uploaded file src/components/nodes/TransformNode.tsx modelVersion=2 in 41.664242000319064ms
+2025-07-28 14:45:53.513 [info] Synced file src/components/nodes/TransformNode.tsx modelVersion=4 in 42.51907999999821ms
+2025-07-28 14:45:57.461 [info] Uploaded file src/components/nodes/OutputNode.tsx modelVersion=2 in 41.29426399990916ms
+2025-07-28 14:45:57.462 [info] Uploaded file src/components/nodes/OutputNode.tsx modelVersion=2 in 44.687729000113904ms
+2025-07-28 14:46:12.861 [info] Uploaded file src/components/Flow.tsx modelVersion=2 in 44.18203100003302ms
+2025-07-28 14:46:12.867 [info] Uploaded file src/components/Flow.tsx modelVersion=2 in 40.60999199934304ms
+2025-07-28 14:46:12.896 [info] Uploaded file src/components/Flow.tsx modelVersion=2 in 48.803698000498116ms
+2025-07-28 14:46:12.897 [info] Uploaded file src/components/Flow.tsx modelVersion=2 in 47.99637399986386ms
+2025-07-28 14:46:19.732 [info] Synced file src/components/Flow.tsx modelVersion=4 in 46.111352999694645ms
+2025-07-28 14:46:24.611 [info] Synced file src/components/Flow.tsx modelVersion=6 in 44.10382099915296ms
+2025-07-28 16:05:45.807 [info] Uploaded file src/components/nodes/ApiNode.tsx modelVersion=2 in 399.36616900004447ms
+2025-07-28 16:05:45.826 [info] Uploaded file src/components/nodes/ApiNode.tsx modelVersion=2 in 443.5789010003209ms
+2025-07-28 16:05:45.830 [info] Uploaded file src/components/nodes/ApiNode.tsx modelVersion=2 in 517.4856139998883ms
+2025-07-28 16:05:45.886 [info] Uploaded file src/components/nodes/ApiNode.tsx modelVersion=2 in 479.94729799963534ms
+2025-07-28 16:05:53.140 [info] Synced file src/components/nodes/ApiNode.tsx modelVersion=4 in 40.42769099958241ms
+2025-07-28 16:05:59.880 [info] Synced file src/components/nodes/ApiNode.tsx modelVersion=6 in 40.381630999967456ms
+2025-07-28 16:06:06.933 [info] Uploaded file src/components/nodes/TransformNode.tsx modelVersion=2 in 44.63849899917841ms
+2025-07-28 16:06:06.963 [info] Uploaded file src/components/nodes/TransformNode.tsx modelVersion=2 in 42.88971200026572ms
+2025-07-28 16:06:16.139 [info] Uploaded file src/components/Flow.tsx modelVersion=7 in 63.73877200111747ms
+2025-07-28 16:06:16.155 [info] Uploaded file src/components/Flow.tsx modelVersion=7 in 40.921753000468016ms
+2025-07-28 16:06:16.615 [info] Synced file src/components/Flow.tsx modelVersion=8 in 40.05118300020695ms
+2025-07-28 16:08:14.131 [info] Synced file src/components/Flow.tsx modelVersion=10 in 222.4659269992262ms
+2025-07-28 16:08:24.850 [info] Uploaded file src/utils/execution.ts modelVersion=2 in 41.51148699969053ms
+2025-07-28 16:08:24.859 [info] Uploaded file src/utils/execution.ts modelVersion=2 in 46.92531399987638ms
+2025-07-28 16:08:24.874 [info] Uploaded file src/utils/execution.ts modelVersion=2 in 41.78416199982166ms
+2025-07-28 16:08:24.875 [info] Uploaded file src/utils/execution.ts modelVersion=2 in 44.38901700079441ms
+2025-07-28 16:08:29.410 [info] Uploaded file src/utils/nodes.ts modelVersion=2 in 42.262871999293566ms
+2025-07-28 16:08:29.432 [info] Uploaded file src/utils/nodes.ts modelVersion=2 in 41.38567200116813ms
+2025-07-28 16:10:22.592 [info] Synced file src/components/nodes/ApiNode.tsx modelVersion=8 in 228.1085149999708ms
+2025-07-28 16:10:33.458 [info] Synced file src/components/nodes/ApiNode.tsx modelVersion=10 in 45.7864549998194ms
+2025-07-28 16:10:42.133 [info] Synced file src/components/nodes/ApiNode.tsx modelVersion=12 in 41.687919000163674ms
+2025-07-28 16:10:52.349 [info] Synced file src/components/nodes/TransformNode.tsx modelVersion=4 in 278.82183500006795ms
+2025-07-28 16:11:04.631 [info] Synced file src/components/Flow.tsx modelVersion=12 in 51.35020200163126ms
+2025-07-28 16:14:58.463 [info] Synced file src/components/nodes/ApiNode.tsx modelVersion=14 in 228.9164480008185ms
+2025-07-28 16:15:12.535 [info] Synced file src/components/nodes/ApiNode.tsx modelVersion=16 in 43.00969499908388ms
+2025-07-28 16:15:23.311 [info] Synced file src/components/nodes/ApiNode.tsx modelVersion=18 in 41.028496999293566ms
+2025-07-28 16:15:33.403 [info] Synced file src/components/nodes/TransformNode.tsx modelVersion=6 in 45.59665099903941ms
+2025-07-28 16:15:46.491 [info] Synced file src/components/Flow.tsx modelVersion=14 in 45.04448299854994ms
+2025-07-28 16:17:32.876 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-07-28 16:17:33.122 [info] Fetched fsConfig in 245.18198299966753ms
+2025-07-28 16:17:33.122 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-07-28 16:17:33.122 [info] File sync enabled status: true
+2025-07-28 16:17:33.122 [info] Starting sync of visible tabs
+2025-07-28 16:17:33.122 [info] Synced all visible tabs in 0.24410299956798553ms
+2025-07-28 16:18:57.002 [info] Synced file src/components/nodes/ApiNode.tsx modelVersion=20 in 418.60213400051ms
+2025-07-28 16:19:09.804 [info] Synced file src/components/Flow.tsx modelVersion=16 in 45.600152999162674ms
+2025-07-28 16:19:16.228 [info] Uploaded file src/components/Flow.tsx modelVersion=2 in 42.84113099984825ms
+2025-07-28 16:19:16.235 [info] Uploaded file src/components/Flow.tsx modelVersion=2 in 45.02737200073898ms
+2025-07-28 16:19:25.082 [info] Uploaded file src/store/index.ts modelVersion=2 in 45.066839998587966ms
+2025-07-28 16:19:25.083 [info] Uploaded file src/store/index.ts modelVersion=2 in 43.00840700045228ms
+2025-07-28 16:22:04.821 [info] Uploaded file src/components/nodes/ApiNode.tsx modelVersion=2 in 131.43630200065672ms
+2025-07-28 16:22:04.822 [info] Uploaded file src/components/nodes/ApiNode.tsx modelVersion=2 in 162.5150800012052ms
+2025-07-28 16:22:04.823 [info] Uploaded file src/components/nodes/ApiNode.tsx modelVersion=2 in 131.69081600010395ms
+2025-07-28 16:22:04.827 [info] Uploaded file src/components/nodes/ApiNode.tsx modelVersion=2 in 238.13151399977505ms
+2025-07-28 16:22:12.720 [info] Synced file src/components/nodes/ApiNode.tsx modelVersion=4 in 47.061613000929356ms
+2025-07-28 16:22:19.744 [info] Synced file src/components/nodes/ApiNode.tsx modelVersion=6 in 48.89668199978769ms
+2025-07-28 16:22:26.724 [info] Uploaded file src/components/nodes/TransformNode.tsx modelVersion=2 in 39.825883999466896ms
+2025-07-28 16:22:26.725 [info] Uploaded file src/components/nodes/TransformNode.tsx modelVersion=2 in 46.483531998470426ms
+2025-07-28 16:22:26.754 [info] Uploaded file src/components/nodes/TransformNode.tsx modelVersion=2 in 43.562798999249935ms
+2025-07-28 16:22:26.755 [info] Uploaded file src/components/nodes/TransformNode.tsx modelVersion=2 in 46.805326998233795ms
+2025-07-28 16:26:02.705 [info] Uploaded file src/components/Flow.tsx modelVersion=2 in 311.6403609998524ms
+2025-07-28 16:26:02.761 [info] Uploaded file src/components/Flow.tsx modelVersion=2 in 369.1493179984391ms
+2025-07-28 16:26:02.773 [info] Uploaded file src/components/Flow.tsx modelVersion=2 in 453.48247100040317ms
+2025-07-28 16:26:02.773 [info] Uploaded file src/components/Flow.tsx modelVersion=2 in 456.6559469997883ms
+2025-07-28 16:26:08.667 [info] Synced file src/components/Flow.tsx modelVersion=4 in 45.49987999908626ms
+2025-07-28 16:26:15.315 [info] Uploaded file src/index.css modelVersion=2 in 45.981314999982715ms
+2025-07-28 16:26:15.316 [info] Uploaded file src/index.css modelVersion=2 in 40.08477500081062ms
+2025-07-28 16:26:15.329 [info] Uploaded file src/index.css modelVersion=2 in 42.193665999919176ms
+2025-07-28 16:26:15.330 [info] Uploaded file src/index.css modelVersion=2 in 41.77407499961555ms
+2025-07-28 16:26:25.173 [info] Uploaded file src/components/nodes/ApiNode.tsx modelVersion=2 in 43.266581999138ms
+2025-07-28 16:26:25.175 [info] Uploaded file src/components/nodes/ApiNode.tsx modelVersion=2 in 43.157492998987436ms
+2025-07-28 16:26:32.270 [info] Uploaded file src/components/TestInput.tsx modelVersion=2 in 37.729884998872876ms
+2025-07-28 16:26:32.271 [info] Uploaded file src/components/TestInput.tsx modelVersion=2 in 40.51873800158501ms
+2025-07-28 16:26:32.312 [info] Uploaded file src/components/TestInput.tsx modelVersion=4 in 44.34307999908924ms
+2025-07-28 16:26:32.313 [info] Uploaded file src/components/TestInput.tsx modelVersion=4 in 44.12621100060642ms
+2025-07-28 16:26:38.745 [info] Synced file src/components/Flow.tsx modelVersion=6 in 41.68814499862492ms
+2025-07-28 16:26:41.838 [info] Synced file src/components/Flow.tsx modelVersion=8 in 41.75474100001156ms
+2025-07-28 16:26:51.099 [info] Synced file src/components/Flow.tsx modelVersion=10 in 43.7368179988116ms
+2025-07-28 16:26:58.439 [info] Synced file src/components/nodes/ApiNode.tsx modelVersion=4 in 40.84498600102961ms
+2025-07-28 16:27:06.633 [info] Synced file src/components/nodes/ApiNode.tsx modelVersion=6 in 41.098200000822544ms
+2025-07-28 16:27:13.738 [info] Synced file src/components/nodes/ApiNode.tsx modelVersion=8 in 45.52722199819982ms
+2025-07-28 16:52:18.839 [info] Uploaded file src/components/MinimalTest.tsx modelVersion=2 in 532.2192419990897ms
+2025-07-28 16:52:18.858 [info] Uploaded file src/components/MinimalTest.tsx modelVersion=2 in 480.6936510000378ms
+2025-07-28 16:52:18.863 [info] Uploaded file src/components/MinimalTest.tsx modelVersion=4 in 465.4521559998393ms
+2025-07-28 16:52:18.868 [info] Uploaded file src/components/MinimalTest.tsx modelVersion=4 in 469.53496799990535ms
+2025-07-28 16:52:23.405 [info] Uploaded file src/App.tsx modelVersion=2 in 42.60204399935901ms
+2025-07-28 16:52:23.410 [info] Uploaded file src/App.tsx modelVersion=2 in 42.03851700015366ms
+2025-07-28 16:52:37.255 [info] Uploaded file src/components/TestNode.tsx modelVersion=2 in 40.75884499959648ms
+2025-07-28 16:52:37.256 [info] Uploaded file src/components/TestNode.tsx modelVersion=2 in 44.65464000031352ms
+2025-07-28 16:52:37.273 [info] Uploaded file src/components/TestNode.tsx modelVersion=4 in 40.09148200042546ms
+2025-07-28 16:52:37.274 [info] Uploaded file src/components/TestNode.tsx modelVersion=4 in 42.20094100013375ms
+2025-07-28 16:52:41.295 [info] Uploaded file src/components/MinimalTest.tsx modelVersion=2 in 41.04052099958062ms
+2025-07-28 16:52:41.299 [info] Uploaded file src/components/MinimalTest.tsx modelVersion=2 in 39.09780300036073ms
+2025-07-28 16:52:46.339 [info] Synced file src/components/MinimalTest.tsx modelVersion=4 in 59.68969400040805ms
+2025-07-28 16:52:50.874 [info] Synced file src/components/MinimalTest.tsx modelVersion=6 in 47.71886299923062ms
+2025-07-28 16:52:57.429 [info] Uploaded file src/index.css modelVersion=2 in 48.86729899980128ms
+2025-07-28 16:52:57.430 [info] Uploaded file src/index.css modelVersion=2 in 51.648825999349356ms
+2025-07-28 16:53:12.182 [info] Synced file src/components/TestNode.tsx modelVersion=7 in 43.47552599944174ms
+2025-07-28 16:53:15.203 [info] Synced file src/components/TestNode.tsx modelVersion=10 in 43.622489999979734ms
+2025-07-28 16:53:21.630 [info] Synced file src/components/MinimalTest.tsx modelVersion=8 in 43.80076099932194ms
+2025-07-28 16:53:29.057 [info] Uploaded file src/components/PortalInput.tsx modelVersion=2 in 39.0931599996984ms
+2025-07-28 16:53:29.061 [info] Uploaded file src/components/PortalInput.tsx modelVersion=2 in 40.52924600057304ms
+2025-07-28 16:53:29.094 [info] Uploaded file src/components/PortalInput.tsx modelVersion=4 in 41.81188899837434ms
+2025-07-28 16:53:29.095 [info] Uploaded file src/components/PortalInput.tsx modelVersion=4 in 44.76408600062132ms
+2025-07-28 16:53:43.114 [info] Synced file src/components/TestNode.tsx modelVersion=13 in 46.7793979998678ms
+2025-07-28 16:53:51.900 [info] Synced file src/components/MinimalTest.tsx modelVersion=10 in 45.115097001194954ms
+2025-07-28 16:53:59.624 [info] Synced file src/components/MinimalTest.tsx modelVersion=12 in 41.01954099908471ms
+2025-07-28 16:54:04.561 [warning] Failed to sync changes for src/App.tsx, version=3, retrying (attempt 1) [invalid_argument] File length mismatch: FileLengthMismatch: New size would be: 1161, but expected size is: 1168
+2025-07-28 16:54:04.621 [warning] Failed to sync changes for src/App.tsx, version=3, retrying (attempt 2) [invalid_argument] File length mismatch: FileLengthMismatch: New size would be: 1161, but expected size is: 1168
+2025-07-28 16:54:04.707 [warning] Failed to sync changes for src/App.tsx, version=3, retrying (attempt 3) [invalid_argument] File length mismatch: FileLengthMismatch: New size would be: 1161, but expected size is: 1168
+2025-07-28 16:54:04.708 [error] Failed to sync changes for src/App.tsx, version=3, attempting full file sync [invalid_argument] File length mismatch: FileLengthMismatch: New size would be: 1161, but expected size is: 1168
+2025-07-28 16:54:04.750 [info] Uploaded file src/App.tsx modelVersion=3 in 41.9372639991343ms
+2025-07-28 16:54:04.841 [info] Synced file src/App.tsx modelVersion=3 in 47.55355999991298ms
+2025-07-28 16:54:11.476 [info] Uploaded file src/components/Flow.tsx modelVersion=2 in 43.178829999640584ms
+2025-07-28 16:54:11.479 [info] Uploaded file src/components/Flow.tsx modelVersion=2 in 48.856151999905705ms
+2025-07-28 16:54:19.249 [info] Uploaded file src/components/nodes/ApiNode.tsx modelVersion=2 in 45.3878750000149ms
+2025-07-28 16:54:19.257 [info] Uploaded file src/components/nodes/ApiNode.tsx modelVersion=2 in 41.58443599939346ms
+2025-07-28 16:54:28.029 [info] Synced file src/components/nodes/ApiNode.tsx modelVersion=4 in 41.207634998485446ms
+2025-07-28 16:54:35.336 [info] Synced file src/components/nodes/ApiNode.tsx modelVersion=6 in 48.11766799911857ms
+2025-07-28 16:54:42.081 [info] Uploaded file src/components/nodes/TransformNode.tsx modelVersion=2 in 48.70380499958992ms
+2025-07-28 16:54:42.094 [info] Uploaded file src/components/nodes/TransformNode.tsx modelVersion=2 in 56.71224399842322ms
+2025-07-28 16:54:42.123 [info] Uploaded file src/components/nodes/TransformNode.tsx modelVersion=2 in 45.40201899968088ms
+2025-07-28 16:56:39.987 [warning] Failed to sync changes for src/components/Flow.tsx, version=4, retrying (attempt 1) [invalid_argument] File length mismatch: FileLengthMismatch: New size would be: 13110, but expected size is: 13434
+2025-07-28 16:56:40.053 [warning] Failed to sync changes for src/components/Flow.tsx, version=4, retrying (attempt 2) [invalid_argument] File length mismatch: FileLengthMismatch: New size would be: 13110, but expected size is: 13434
+2025-07-28 16:56:40.134 [warning] Failed to sync changes for src/components/Flow.tsx, version=4, retrying (attempt 3) [invalid_argument] File length mismatch: FileLengthMismatch: New size would be: 13110, but expected size is: 13434
+2025-07-28 16:56:40.134 [error] Failed to sync changes for src/components/Flow.tsx, version=4, attempting full file sync [invalid_argument] File length mismatch: FileLengthMismatch: New size would be: 13110, but expected size is: 13434
+2025-07-28 16:56:40.177 [info] Uploaded file src/components/Flow.tsx modelVersion=4 in 42.62959500029683ms
+2025-07-28 16:56:45.000 [info] Synced file src/components/Flow.tsx modelVersion=6 in 43.83288799971342ms
+2025-07-28 16:56:47.923 [info] Synced file src/components/Flow.tsx modelVersion=8 in 46.26263999938965ms
+2025-07-28 16:56:55.551 [info] Uploaded file src/components/nodes/ApiNode.tsx modelVersion=2 in 43.246892001479864ms
+2025-07-28 16:56:55.573 [info] Uploaded file src/components/nodes/ApiNode.tsx modelVersion=2 in 42.886550998315215ms
+2025-07-28 16:57:00.305 [info] Synced file src/components/nodes/ApiNode.tsx modelVersion=4 in 42.1720980014652ms
+2025-07-28 16:57:06.889 [info] Synced file src/components/nodes/ApiNode.tsx modelVersion=6 in 43.35009099915624ms
+2025-07-28 16:57:14.865 [info] Uploaded file src/components/nodes/ApiNode.tsx modelVersion=2 in 48.48782999999821ms
+2025-07-28 16:57:14.872 [info] Uploaded file src/components/nodes/ApiNode.tsx modelVersion=2 in 40.856666998937726ms
+2025-07-28 16:57:36.919 [warning] Failed to sync changes for src/components/nodes/ApiNode.tsx, version=4, retrying (attempt 1) [invalid_argument] File length mismatch: FileLengthMismatch: New size would be: 8205, but expected size is: 8616
+2025-07-28 16:57:36.987 [warning] Failed to sync changes for src/components/nodes/ApiNode.tsx, version=4, retrying (attempt 2) [invalid_argument] File length mismatch: FileLengthMismatch: New size would be: 8205, but expected size is: 8616
+2025-07-28 16:57:37.072 [warning] Failed to sync changes for src/components/nodes/ApiNode.tsx, version=4, retrying (attempt 3) [invalid_argument] File length mismatch: FileLengthMismatch: New size would be: 8205, but expected size is: 8616
+2025-07-28 16:57:37.072 [error] Failed to sync changes for src/components/nodes/ApiNode.tsx, version=4, attempting full file sync [invalid_argument] File length mismatch: FileLengthMismatch: New size would be: 8205, but expected size is: 8616
+2025-07-28 16:57:37.115 [info] Uploaded file src/components/nodes/ApiNode.tsx modelVersion=4 in 42.02397300116718ms
+2025-07-28 16:57:50.943 [warning] Failed to sync changes for src/components/nodes/TransformNode.tsx, version=4, retrying (attempt 1) [invalid_argument] File length mismatch: FileLengthMismatch: New size would be: 4458, but expected size is: 4694
+2025-07-28 16:57:51.009 [warning] Failed to sync changes for src/components/nodes/TransformNode.tsx, version=4, retrying (attempt 2) [invalid_argument] File length mismatch: FileLengthMismatch: New size would be: 4458, but expected size is: 4694
+2025-07-28 16:57:51.096 [warning] Failed to sync changes for src/components/nodes/TransformNode.tsx, version=4, retrying (attempt 3) [invalid_argument] File length mismatch: FileLengthMismatch: New size would be: 4458, but expected size is: 4694
+2025-07-28 16:57:51.097 [error] Failed to sync changes for src/components/nodes/TransformNode.tsx, version=4, attempting full file sync [invalid_argument] File length mismatch: FileLengthMismatch: New size would be: 4458, but expected size is: 4694
+2025-07-28 16:57:51.146 [info] Uploaded file src/components/nodes/TransformNode.tsx modelVersion=4 in 49.735190000385046ms
+2025-07-28 16:59:54.967 [info] Uploaded file src/components/nodes/ApiNode.tsx modelVersion=2 in 278.00747499987483ms
+2025-07-28 16:59:54.968 [info] Uploaded file src/components/nodes/ApiNode.tsx modelVersion=2 in 197.3381329998374ms
+2025-07-28 16:59:54.969 [info] Uploaded file src/components/nodes/ApiNode.tsx modelVersion=2 in 153.25169000029564ms
+2025-07-28 16:59:54.973 [info] Uploaded file src/components/nodes/ApiNode.tsx modelVersion=2 in 209.5471590012312ms
+2025-07-28 17:00:01.073 [info] Synced file src/components/nodes/ApiNode.tsx modelVersion=4 in 39.44301399961114ms
+2025-07-28 17:00:05.617 [info] Synced file src/components/nodes/ApiNode.tsx modelVersion=6 in 44.51793199963868ms
+2025-07-28 17:00:25.063 [info] Uploaded file src/utils/nodes.ts modelVersion=2 in 45.72994000092149ms
+2025-07-28 17:00:25.085 [info] Uploaded file src/utils/nodes.ts modelVersion=2 in 42.21928299963474ms
+2025-07-28 17:00:43.798 [warning] Failed to sync changes for src/utils/nodes.ts, version=4, retrying (attempt 1) [invalid_argument] File length mismatch: FileLengthMismatch: New size would be: 3702, but expected size is: 3859
+2025-07-28 17:00:43.867 [warning] Failed to sync changes for src/utils/nodes.ts, version=4, retrying (attempt 2) [invalid_argument] File length mismatch: FileLengthMismatch: New size would be: 3702, but expected size is: 3859
+2025-07-28 17:00:43.949 [warning] Failed to sync changes for src/utils/nodes.ts, version=4, retrying (attempt 3) [invalid_argument] File length mismatch: FileLengthMismatch: New size would be: 3702, but expected size is: 3859
+2025-07-28 17:00:43.949 [error] Failed to sync changes for src/utils/nodes.ts, version=4, attempting full file sync [invalid_argument] File length mismatch: FileLengthMismatch: New size would be: 3702, but expected size is: 3859
+2025-07-28 17:00:43.994 [info] Uploaded file src/utils/nodes.ts modelVersion=4 in 45.21770600043237ms
+2025-07-28 17:04:56.334 [info] Uploaded file src/components/ExecutionPanel.tsx modelVersion=2 in 340.65202700160444ms
+2025-07-28 17:04:56.337 [info] Uploaded file src/components/ExecutionPanel.tsx modelVersion=2 in 336.43518899939954ms
+2025-07-28 17:04:56.347 [info] Uploaded file src/components/ExecutionPanel.tsx modelVersion=2 in 434.18203900009394ms
+2025-07-28 17:04:56.349 [info] Uploaded file src/components/ExecutionPanel.tsx modelVersion=2 in 360.5274950005114ms
+2025-07-28 17:05:03.738 [info] Synced file src/components/ExecutionPanel.tsx modelVersion=4 in 43.014998000115156ms
+2025-07-28 17:05:10.958 [info] Synced file src/components/ExecutionPanel.tsx modelVersion=6 in 46.60487399995327ms
+2025-07-28 17:05:19.273 [info] Synced file src/components/ExecutionPanel.tsx modelVersion=8 in 46.29814000055194ms
+2025-07-28 17:05:24.688 [info] Uploaded file src/utils/nodes.ts modelVersion=2 in 41.048955999314785ms
+2025-07-28 17:05:24.692 [info] Uploaded file src/utils/nodes.ts modelVersion=2 in 38.33802399970591ms
+2025-07-28 17:05:29.732 [info] Synced file src/utils/nodes.ts modelVersion=4 in 42.561179999262094ms
+2025-07-28 17:05:33.933 [info] Synced file src/utils/nodes.ts modelVersion=6 in 59.199989000335336ms
+2025-07-28 17:05:38.312 [info] Synced file src/utils/nodes.ts modelVersion=8 in 42.08990100026131ms
+2025-07-28 17:05:43.374 [info] Synced file src/utils/nodes.ts modelVersion=10 in 43.7629109993577ms
+2025-07-28 17:05:54.832 [info] Synced file src/components/ExecutionPanel.tsx modelVersion=10 in 47.66302799992263ms
+2025-07-28 17:06:03.417 [info] Synced file src/components/ExecutionPanel.tsx modelVersion=12 in 56.46741599962115ms
+2025-07-28 17:06:10.467 [info] Synced file src/components/ExecutionPanel.tsx modelVersion=14 in 50.712895000353456ms
+2025-07-28 17:06:18.734 [info] Synced file src/components/ExecutionPanel.tsx modelVersion=16 in 42.936401998624206ms
+2025-07-28 17:06:27.109 [info] Synced file src/components/ExecutionPanel.tsx modelVersion=18 in 41.4845170006156ms
+2025-07-28 17:19:06.318 [info] Uploaded file src/components/NodePalette.tsx modelVersion=2 in 413.1962620001286ms
+2025-07-28 17:19:06.319 [info] Uploaded file src/components/NodePalette.tsx modelVersion=2 in 501.8832629993558ms
+2025-07-28 17:19:06.320 [info] Uploaded file src/components/NodePalette.tsx modelVersion=2 in 505.9751890003681ms
+2025-07-28 17:19:06.341 [info] Uploaded file src/components/NodePalette.tsx modelVersion=2 in 428.9699700009078ms
+2025-07-28 17:19:14.035 [info] Uploaded file src/components/nodes/ApiNode.tsx modelVersion=2 in 45.46085499972105ms
+2025-07-28 17:19:14.039 [info] Uploaded file src/components/nodes/ApiNode.tsx modelVersion=2 in 47.31776800006628ms
+2025-07-28 17:19:14.059 [info] Uploaded file src/components/nodes/ApiNode.tsx modelVersion=2 in 46.63774700090289ms
+2025-07-28 17:19:14.061 [info] Uploaded file src/components/nodes/ApiNode.tsx modelVersion=2 in 47.34053200110793ms
+2025-07-28 17:19:20.587 [info] Synced file src/components/nodes/ApiNode.tsx modelVersion=4 in 44.08990800008178ms
+2025-07-28 17:19:30.049 [info] Synced file src/components/nodes/ApiNode.tsx modelVersion=6 in 43.20446299947798ms
+2025-07-28 17:22:08.311 [info] Uploaded file src/utils/interpolation.ts modelVersion=2 in 243.847723999992ms
+2025-07-28 17:22:08.313 [info] Uploaded file src/utils/interpolation.ts modelVersion=2 in 169.74693999998271ms
+2025-07-28 17:22:08.315 [info] Uploaded file src/utils/interpolation.ts modelVersion=2 in 99.1734190005809ms
+2025-07-28 17:22:08.339 [info] Uploaded file src/utils/interpolation.ts modelVersion=2 in 155.6663189996034ms
+2025-07-28 17:22:16.430 [info] Uploaded file src/utils/nodes.ts modelVersion=11 in 45.50962700136006ms
+2025-07-28 17:22:16.431 [info] Uploaded file src/utils/nodes.ts modelVersion=11 in 44.43221100047231ms
+2025-07-28 17:22:16.789 [info] Synced file src/utils/nodes.ts modelVersion=12 in 48.20670999959111ms
+2025-07-28 17:22:20.890 [info] Synced file src/utils/nodes.ts modelVersion=14 in 44.809777000918984ms
+2025-07-28 17:22:29.905 [info] Synced file src/utils/nodes.ts modelVersion=16 in 51.403784001246095ms
+2025-07-28 17:22:33.266 [info] Synced file src/utils/nodes.ts modelVersion=18 in 49.47210399992764ms
+2025-07-28 17:24:24.571 [info] Synced file src/utils/nodes.ts modelVersion=20 in 447.0726290009916ms
+2025-07-28 19:07:11.487 [error] Failed to check if file sync is enabled for user {}
+2025-07-28 19:07:11.487 [error] Failed to fetch fsConfig File sync is disabled
+2025-07-28 19:07:11.487 [error] Failed to fetch fsConfig File sync is disabled
+2025-07-28 19:07:11.697 [info] [registerEventListeners] Registering event listeners
+2025-07-28 19:07:13.076 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-07-28 19:07:13.421 [info] Fetched fsConfig in 343.81738900000073ms
+2025-07-28 19:07:13.421 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-07-28 19:07:13.811 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-07-28 19:07:14.228 [info] Fetched fsConfig in 416.99285000000054ms
+2025-07-28 19:07:14.229 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-07-28 19:07:14.229 [info] File sync enabled status: true
+2025-07-28 19:07:14.233 [info] Starting sync of visible tabs
+2025-07-28 19:07:14.234 [info] Synced all visible tabs in 5.164302999999563ms
+2025-07-28 19:07:14.572 [info] Starting sync of visible tabs
+2025-07-28 19:07:14.572 [info] Synced all visible tabs in 0.3311389999998937ms
+2025-07-28 19:07:14.815 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-07-28 19:07:15.040 [info] Fetched fsConfig in 225.60273599999982ms
+2025-07-28 19:07:15.041 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-07-28 19:11:52.909 [info] Handled visible editors change in 2.1488590000080876ms
+2025-07-28 19:12:48.414 [info] Uploaded file mesh_encoder.py modelVersion=4 in 404.4081839999999ms
+2025-07-28 19:12:48.432 [info] Uploaded file mesh_encoder.py modelVersion=2 in 494.2716380000347ms
+2025-07-28 19:12:48.434 [info] Uploaded file mesh_encoder.py modelVersion=2 in 427.826047999959ms
+2025-07-28 19:12:48.435 [info] Uploaded file mesh_encoder.py modelVersion=4 in 424.26552499999525ms
+2025-07-28 19:12:52.055 [info] Handled visible editors change in 1.4314749999903142ms
+2025-07-28 19:13:36.166 [info] Uploaded file error_correction.py modelVersion=2 in 45.39559199998621ms
+2025-07-28 19:13:36.169 [info] Uploaded file error_correction.py modelVersion=2 in 39.513212999969255ms
+2025-07-28 19:13:36.188 [info] Uploaded file error_correction.py modelVersion=4 in 37.13955099997111ms
+2025-07-28 19:13:36.191 [info] Uploaded file error_correction.py modelVersion=4 in 38.865313999995124ms
+2025-07-28 19:14:31.116 [info] Uploaded file transport_layers.py modelVersion=2 in 38.344154999998864ms
+2025-07-28 19:14:31.142 [info] Uploaded file transport_layers.py modelVersion=4 in 36.84660200000508ms
+2025-07-28 19:14:31.149 [info] Uploaded file transport_layers.py modelVersion=4 in 40.24637000000803ms
+2025-07-28 19:14:31.161 [info] Uploaded file transport_layers.py modelVersion=4 in 50.09969100001035ms
+2025-07-28 19:15:30.458 [info] Uploaded file stego_qr.py modelVersion=2 in 43.85400499997195ms
+2025-07-28 19:15:30.459 [info] Uploaded file stego_qr.py modelVersion=2 in 37.616325000009965ms
+2025-07-28 19:15:30.488 [info] Uploaded file stego_qr.py modelVersion=4 in 38.119046000007074ms
+2025-07-28 19:15:30.492 [info] Uploaded file stego_qr.py modelVersion=4 in 40.74984000000404ms
+2025-07-28 19:16:34.249 [info] Uploaded file utils.py modelVersion=2 in 217.46984499995597ms
+2025-07-28 19:16:34.251 [info] Uploaded file utils.py modelVersion=4 in 111.38283700007014ms
+2025-07-28 19:16:34.252 [info] Uploaded file utils.py modelVersion=2 in 149.74180399999022ms
+2025-07-28 19:16:34.254 [info] Uploaded file utils.py modelVersion=4 in 116.50807599991094ms
+2025-07-28 19:17:00.254 [info] Uploaded file examples/basic_usage.py modelVersion=2 in 37.856047000037506ms
+2025-07-28 19:17:00.256 [info] Uploaded file examples/basic_usage.py modelVersion=2 in 43.1322649999056ms
+2025-07-28 19:17:00.288 [info] Uploaded file examples/basic_usage.py modelVersion=4 in 39.58171099994797ms
+2025-07-28 19:17:00.296 [info] Uploaded file examples/basic_usage.py modelVersion=4 in 45.90918399998918ms
+2025-07-28 19:18:12.147 [info] Uploaded file tests/test_stego_qr.py modelVersion=4 in 323.2707010000013ms
+2025-07-28 19:18:12.150 [info] Uploaded file tests/test_stego_qr.py modelVersion=4 in 327.99194799992256ms
+2025-07-28 19:18:12.156 [info] Uploaded file tests/test_stego_qr.py modelVersion=2 in 356.5455780000193ms
+2025-07-28 19:18:12.160 [info] Uploaded file tests/test_stego_qr.py modelVersion=2 in 426.0703259999864ms
+2025-07-28 19:18:12.898 [warning] Failed to sync changes for tests/test_stego_qr.py, version=4, retrying (attempt 1) [invalid_argument] Version mismatch: VersionMismatch: Expects current file version 2 to be one less than the new update version 4
+2025-07-28 19:18:12.958 [warning] Failed to sync changes for tests/test_stego_qr.py, version=4, retrying (attempt 2) [invalid_argument] Version mismatch: VersionMismatch: Expects current file version 2 to be one less than the new update version 4
+2025-07-28 19:18:13.040 [warning] Failed to sync changes for tests/test_stego_qr.py, version=4, retrying (attempt 3) [invalid_argument] Version mismatch: VersionMismatch: Expects current file version 2 to be one less than the new update version 4
+2025-07-28 19:18:13.041 [error] Failed to sync changes for tests/test_stego_qr.py, version=4, attempting full file sync [invalid_argument] Version mismatch: VersionMismatch: Expects current file version 2 to be one less than the new update version 4
+2025-07-28 19:18:13.081 [info] Uploaded file tests/test_stego_qr.py modelVersion=4 in 40.24096299998928ms
+2025-07-28 19:18:54.096 [info] Uploaded file examples/transport_integration.py modelVersion=2 in 40.34609400003683ms
+2025-07-28 19:18:54.097 [info] Uploaded file examples/transport_integration.py modelVersion=2 in 38.081375999958254ms
+2025-07-28 19:18:54.393 [info] Synced file examples/transport_integration.py modelVersion=4 in 41.898311999975704ms
+2025-07-28 19:20:22.586 [info] Uploaded file test_core_functionality.py modelVersion=2 in 226.72170300001744ms
+2025-07-28 19:20:22.587 [info] Uploaded file test_core_functionality.py modelVersion=4 in 125.19953500002157ms
+2025-07-28 19:20:22.588 [info] Uploaded file test_core_functionality.py modelVersion=4 in 128.099324000068ms
+2025-07-28 19:20:22.590 [info] Uploaded file test_core_functionality.py modelVersion=2 in 158.8144130000146ms
+2025-07-28 19:20:23.540 [warning] Failed to sync changes for test_core_functionality.py, version=4, retrying (attempt 1) [invalid_argument] Version mismatch: VersionMismatch: Expects current file version 2 to be one less than the new update version 4
+2025-07-28 19:20:23.601 [warning] Failed to sync changes for test_core_functionality.py, version=4, retrying (attempt 2) [invalid_argument] Version mismatch: VersionMismatch: Expects current file version 2 to be one less than the new update version 4
+2025-07-28 19:20:23.684 [warning] Failed to sync changes for test_core_functionality.py, version=4, retrying (attempt 3) [invalid_argument] Version mismatch: VersionMismatch: Expects current file version 2 to be one less than the new update version 4
+2025-07-28 19:20:23.685 [error] Failed to sync changes for test_core_functionality.py, version=4, attempting full file sync [invalid_argument] Version mismatch: VersionMismatch: Expects current file version 2 to be one less than the new update version 4
+2025-07-28 19:20:23.731 [info] Uploaded file test_core_functionality.py modelVersion=4 in 46.27706400002353ms
+2025-07-28 19:21:09.474 [info] Synced file test_core_functionality.py modelVersion=6 in 45.89559700002428ms
+2025-07-28 19:21:10.858 [info] Synced file test_core_functionality.py modelVersion=12 in 41.25061900005676ms
+2025-07-28 19:21:27.130 [info] Uploaded file mesh_encoder.py modelVersion=2 in 41.385113000054844ms
+2025-07-28 19:21:27.134 [info] Uploaded file mesh_encoder.py modelVersion=2 in 42.26381899998523ms
+2025-07-28 19:21:37.470 [info] Synced file mesh_encoder.py modelVersion=4 in 38.06147199997213ms
+2025-07-28 19:23:09.386 [info] Uploaded file demo.py modelVersion=4 in 167.67279699991923ms
+2025-07-28 19:23:09.387 [info] Uploaded file demo.py modelVersion=2 in 249.67639899998903ms
+2025-07-28 19:23:09.388 [info] Uploaded file demo.py modelVersion=4 in 162.97392799996305ms
+2025-07-28 19:23:09.398 [info] Uploaded file demo.py modelVersion=4 in 183.3858430000255ms
+2025-07-28 19:23:40.169 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-07-28 19:23:40.398 [info] Fetched fsConfig in 227.69272100005765ms
+2025-07-28 19:23:40.398 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-07-28 19:23:40.398 [info] File sync enabled status: true
+2025-07-28 19:23:40.398 [info] Starting sync of visible tabs
+2025-07-28 19:23:40.398 [info] Synced all visible tabs in 0.1414309999672696ms
+2025-07-28 19:24:04.325 [info] Uploaded file demo.py modelVersion=1 in 254.19769399997313ms
+2025-07-28 19:24:04.326 [info] Handled visible editors change in 396.21052700001746ms
+2025-07-28 19:24:34.888 [info] Handled visible editors change in 1.9357620000373572ms
+2025-07-28 19:24:35.011 [info] Handled visible editors change in 2.38706199999433ms
+2025-07-28 19:25:01.365 [info] Handled visible editors change in 1.5591149998363107ms
+2025-07-28 19:25:01.455 [info] Handled visible editors change in 1.9896710000466555ms
+2025-07-28 19:25:02.860 [info] Handled visible editors change in 1.390616999939084ms
+2025-07-28 19:25:03.098 [info] Uploaded file mesh_encoder.py modelVersion=1 in 48.07704000012018ms
+2025-07-28 19:25:03.099 [info] Handled visible editors change in 151.62128299986944ms
+2025-07-28 19:25:04.152 [info] Handled visible editors change in 1.3987129998859018ms
+2025-07-28 19:25:04.380 [info] Uploaded file stego_qr.py modelVersion=1 in 47.30086799990386ms
+2025-07-28 19:25:04.380 [info] Handled visible editors change in 135.42225599987432ms
+2025-07-28 19:28:13.737 [info] Handled visible editors change in 1.6710580000653863ms
+2025-07-28 19:28:13.870 [info] Handled visible editors change in 2.1259810000192374ms
+2025-07-28 19:28:33.349 [info] Handled visible editors change in 1.5354630001820624ms
+2025-07-28 19:28:33.407 [info] Handled visible editors change in 1.7782630000729114ms
+2025-07-28 19:28:36.545 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-07-28 19:28:36.773 [info] Fetched fsConfig in 227.71993499994278ms
+2025-07-28 19:28:36.773 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-07-28 19:28:36.774 [info] File sync enabled status: true
+2025-07-28 19:28:36.774 [info] Starting sync of visible tabs
+2025-07-28 19:28:36.774 [info] Synced all visible tabs in 1.2653060001321137ms
+2025-07-28 19:29:01.567 [info] Uploaded file main.py modelVersion=2 in 38.74767399998382ms
+2025-07-28 19:29:01.593 [info] Uploaded file main.py modelVersion=2 in 68.04230799991637ms
+2025-07-28 19:29:01.676 [info] Handled visible editors change in 1.3777059998828918ms
+2025-07-28 19:29:01.787 [info] Handled visible editors change in 1.8401700002141297ms
+2025-07-28 19:30:07.607 [info] Uploaded file error_correction_simple.py modelVersion=4 in 354.8359380001202ms
+2025-07-28 19:30:07.611 [info] Uploaded file error_correction_simple.py modelVersion=2 in 429.7965420000255ms
+2025-07-28 19:30:07.612 [info] Uploaded file error_correction_simple.py modelVersion=4 in 360.24230900011025ms
+2025-07-28 19:30:07.615 [info] Uploaded file error_correction_simple.py modelVersion=4 in 364.7869579999242ms
+2025-07-28 19:30:09.096 [info] Handled visible editors change in 1.2890510000288486ms
+2025-07-28 19:30:09.131 [info] Handled visible editors change in 1.568466000026092ms
+2025-07-28 19:30:58.465 [info] Uploaded file stego_qr_simple.py modelVersion=2 in 38.74852399993688ms
+2025-07-28 19:30:58.466 [info] Uploaded file stego_qr_simple.py modelVersion=2 in 37.71709300018847ms
+2025-07-28 19:30:58.761 [info] Synced file stego_qr_simple.py modelVersion=4 in 40.58655299991369ms
+2025-07-28 19:31:00.124 [info] Handled visible editors change in 1.5726299998350441ms
+2025-07-28 19:31:00.152 [info] Handled visible editors change in 1.6898610000498593ms
+2025-07-28 19:31:31.936 [info] Uploaded file test_simple.py modelVersion=2 in 37.62351800012402ms
+2025-07-28 19:31:31.938 [info] Uploaded file test_simple.py modelVersion=2 in 41.18344000005163ms
+2025-07-28 19:31:31.964 [info] Uploaded file test_simple.py modelVersion=4 in 42.355555000016466ms
+2025-07-28 19:31:31.966 [info] Uploaded file test_simple.py modelVersion=4 in 42.92395700002089ms
+2025-07-28 19:31:34.131 [info] Handled visible editors change in 1.5795429998543113ms
+2025-07-28 19:31:34.157 [info] Handled visible editors change in 1.6471309999469668ms
+2025-07-28 19:31:41.178 [info] Handled visible editors change in 1.3475589998997748ms
+2025-07-28 19:31:41.205 [info] Handled visible editors change in 1.6059979998972267ms
+2025-07-28 19:31:54.629 [info] Synced file main.py modelVersion=3 in 37.88877099985257ms
+2025-07-28 19:31:55.188 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-07-28 19:31:55.428 [info] Fetched fsConfig in 239.01844600006007ms
+2025-07-28 19:31:55.428 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-07-28 19:31:55.428 [info] File sync enabled status: true
+2025-07-28 19:31:55.428 [info] Starting sync of visible tabs
+2025-07-28 19:31:55.428 [info] Synced all visible tabs in 0.3001769999973476ms
+2025-07-28 19:32:05.880 [info] Synced file main.py modelVersion=4 in 36.72733000013977ms
+2025-07-28 19:32:12.645 [info] Uploaded file mesh_encoder.py modelVersion=2 in 41.2573750000447ms
+2025-07-28 19:32:12.651 [info] Uploaded file mesh_encoder.py modelVersion=2 in 40.44510499993339ms
+2025-07-28 19:32:12.678 [info] Uploaded file mesh_encoder.py modelVersion=2 in 43.70546800014563ms
+2025-07-28 19:32:12.679 [info] Uploaded file mesh_encoder.py modelVersion=2 in 46.7157049998641ms
+2025-07-28 19:32:20.180 [info] Handled visible editors change in 1.4280910000670701ms
+2025-07-28 19:32:20.206 [info] Handled visible editors change in 2.04722600011155ms
+2025-07-28 19:32:20.937 [info] Synced file error_correction_simple.py modelVersion=5 in 36.54225999978371ms
+2025-07-28 19:32:22.608 [info] Handled visible editors change in 1.3122400001157075ms
+2025-07-28 19:32:22.631 [info] Handled visible editors change in 1.750256999861449ms
+2025-07-28 19:32:29.065 [info] Synced file stego_qr_simple.py modelVersion=5 in 37.23408200009726ms
+2025-07-28 19:32:36.607 [info] Synced file main.py modelVersion=5 in 54.857008000137284ms
+2025-07-28 19:32:37.113 [info] Synced file main.py modelVersion=6 in 37.83917000005022ms
+2025-07-28 19:32:39.349 [info] Synced file test_simple.py modelVersion=5 in 37.671951999887824ms
+2025-07-28 19:32:40.023 [info] Handled visible editors change in 0.9433079999871552ms
+2025-07-28 19:32:40.054 [info] Handled visible editors change in 0.8688699998892844ms
+2025-07-28 19:32:43.716 [info] Handled visible editors change in 1.449116999981925ms
+2025-07-28 19:32:43.741 [info] Handled visible editors change in 1.6821459999773651ms
+2025-07-28 19:32:46.050 [info] Handled visible editors change in 1.477974999928847ms
+2025-07-28 19:32:46.072 [info] Handled visible editors change in 1.649684000061825ms
+2025-07-28 19:32:47.074 [info] Synced file test_simple.py modelVersion=7 in 87.43726100004278ms
+2025-07-28 19:32:47.872 [info] Handled visible editors change in 1.6324899999890476ms
+2025-07-28 19:32:47.904 [info] Handled visible editors change in 1.8480120000895113ms
+2025-07-28 19:32:52.436 [info] Handled visible editors change in 1.8044900000095367ms
+2025-07-28 19:32:52.469 [info] Handled visible editors change in 2.1884040001314133ms
+2025-07-28 19:32:55.023 [info] Synced file test_simple.py modelVersion=8 in 36.42631400004029ms
+2025-07-28 19:32:55.423 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-07-28 19:32:55.659 [info] Fetched fsConfig in 236.0986349999439ms
+2025-07-28 19:32:55.660 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-07-28 19:32:55.660 [info] File sync enabled status: true
+2025-07-28 19:32:55.660 [info] Starting sync of visible tabs
+2025-07-28 19:32:55.660 [info] Synced all visible tabs in 0.13035800005309284ms
+2025-07-28 19:33:18.725 [info] Handled visible editors change in 1.320930000161752ms
+2025-07-28 19:33:18.951 [info] Uploaded file utils.py modelVersion=1 in 50.72413899982348ms
+2025-07-28 19:33:18.951 [info] Handled visible editors change in 147.26043100003153ms
+2025-07-28 19:33:19.397 [info] Handled visible editors change in 1.1105400000233203ms
+2025-07-28 19:33:19.419 [info] Handled visible editors change in 1.4147969998884946ms
+2025-07-28 19:33:25.302 [info] Handled visible editors change in 1.1390869999304414ms
+2025-07-28 19:33:25.498 [info] Uploaded file stego_qr.py modelVersion=1 in 42.380356000037864ms
+2025-07-28 19:33:25.498 [info] Handled visible editors change in 176.21106100012548ms
+2025-07-28 19:33:40.939 [info] Uploaded file simple_demo.py modelVersion=2 in 36.56409800006077ms
+2025-07-28 19:33:40.944 [info] Uploaded file simple_demo.py modelVersion=2 in 44.00370500003919ms
+2025-07-28 19:33:40.978 [info] Uploaded file simple_demo.py modelVersion=4 in 41.563871999969706ms
+2025-07-28 19:33:41.231 [info] Synced file simple_demo.py modelVersion=4 in 41.174423000076786ms
+2025-07-28 19:33:47.568 [info] Handled visible editors change in 1.2414470000658184ms
+2025-07-28 19:33:47.793 [info] Uploaded file simple_demo.py modelVersion=1 in 40.91831499990076ms
+2025-07-28 19:33:47.793 [info] Handled visible editors change in 128.52854500012472ms
+2025-07-28 19:36:09.698 [info] Handled visible editors change in 1.5610630000010133ms
+2025-07-28 19:36:10.340 [info] Uploaded file main.py modelVersion=6 in 472.10834100004286ms
+2025-07-28 19:36:10.340 [info] Handled visible editors change in 603.1816369998269ms
+2025-07-28 19:36:12.025 [info] Synced file main.py modelVersion=7 in 42.549669000087306ms
+2025-07-28 19:36:12.592 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-07-28 19:36:12.769 [info] Fetched fsConfig in 177.0656729999464ms
+2025-07-28 19:36:12.769 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-07-28 19:36:12.770 [info] File sync enabled status: true
+2025-07-28 19:36:12.770 [info] Starting sync of visible tabs
+2025-07-28 19:36:12.770 [info] Synced all visible tabs in 0.25838200002908707ms
+2025-07-28 19:36:20.477 [info] Handled visible editors change in 1.2683400001842529ms

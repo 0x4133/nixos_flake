@@ -1,3 +1,24 @@
-2025/07/27-22:07:35.404 a5a Reusing MANIFEST /home/aaron/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/07/27-22:07:35.404 a5a Recovering log #3
-2025/07/27-22:07:35.415 a5a Reusing old log /home/aaron/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log 
+2025/07/28-13:10:58.055 b40 Reusing MANIFEST /home/aaron/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/28-13:10:58.055 b40 Recovering log #3
+2025/07/28-13:10:58.072 b40 Reusing old log /home/aaron/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log 
+2025/07/28-13:21:53.724 b3f Level-0 table #5: started
+2025/07/28-13:21:53.773 b3f Level-0 table #5: 1682482 bytes OK
+2025/07/28-13:21:53.777 b3f Delete type=0 #3
+2025/07/28-20:26:44.366 b3f Level-0 table #7: started
+2025/07/28-20:26:44.413 b3f Level-0 table #7: 1550059 bytes OK
+2025/07/28-20:26:44.418 b3f Delete type=0 #4
+2025/07/28-20:42:19.038 b3f Compacting 1@1 + 1@2 files
+2025/07/28-20:42:19.100 b3f Generated table #8@1: 518 keys, 68371 bytes
+2025/07/28-20:42:19.100 b3f Compacted 1@1 + 1@2 files => 68371 bytes
+2025/07/28-20:42:19.102 b3f compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/07/28-20:42:19.103 b3f Delete type=2 #5
+2025/07/28-20:42:19.103 b3f Delete type=2 #7
+2025/07/29-05:52:04.713 b3f Level-0 table #10: started
+2025/07/29-05:52:04.748 b3f Level-0 table #10: 1673703 bytes OK
+2025/07/29-05:52:04.754 b3f Delete type=0 #6
+2025/07/29-06:27:23.190 b3f Compacting 1@1 + 1@2 files
+2025/07/29-06:27:23.228 b3f Generated table #11@1: 748 keys, 54471 bytes
+2025/07/29-06:27:23.228 b3f Compacted 1@1 + 1@2 files => 54471 bytes
+2025/07/29-06:27:23.230 b3f compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/07/29-06:27:23.230 b3f Delete type=2 #10
+2025/07/29-06:27:23.231 b3f Delete type=2 #8

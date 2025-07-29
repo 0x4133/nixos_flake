@@ -1,6 +1,21 @@
-2025/07/27-22:29:55.061 cb9 Reusing MANIFEST /home/aaron/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
-2025/07/27-22:29:55.088 cb9 Recovering log #19
-2025/07/27-22:29:55.095 cb9 Reusing old log /home/aaron/.config/google-chrome/Default/Sync Data/LevelDB/000019.log 
-2025/07/28-12:04:58.385 cb9 Level-0 table #23: started
-2025/07/28-12:04:58.413 cb9 Level-0 table #23: 117405 bytes OK
-2025/07/28-12:04:58.416 cb9 Delete type=0 #19
+2025/07/28-12:16:22.923 b3e Reusing MANIFEST /home/aaron/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2025/07/28-12:16:22.966 b3e Recovering log #22
+2025/07/28-12:16:22.973 b3e Reusing old log /home/aaron/.config/google-chrome/Default/Sync Data/LevelDB/000022.log 
+2025/07/28-17:02:27.801 b4d Level-0 table #26: started
+2025/07/28-17:02:27.806 b4d Level-0 table #26: 105407 bytes OK
+2025/07/28-17:02:27.809 b4d Delete type=0 #22
+2025/07/28-19:43:41.941 b3f Level-0 table #28: started
+2025/07/28-19:43:41.995 b3f Level-0 table #28: 117491 bytes OK
+2025/07/28-19:43:41.998 b3f Delete type=0 #25
+2025/07/28-19:43:41.999 b3f Compacting 4@0 + 1@1 files
+2025/07/28-19:43:42.011 b3f Generated table #29@0: 61 keys, 17896 bytes
+2025/07/28-19:43:42.011 b3f Compacted 4@0 + 1@1 files => 17896 bytes
+2025/07/28-19:43:42.013 b3f compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/07/28-19:43:42.014 b3f Delete type=2 #23
+2025/07/28-19:43:42.014 b3f Delete type=2 #20
+2025/07/28-19:43:42.014 b3f Delete type=2 #28
+2025/07/28-19:43:42.014 b3f Delete type=2 #18
+2025/07/28-19:43:42.014 b3f Delete type=2 #26
+2025/07/29-10:00:23.289 b40 Level-0 table #31: started
+2025/07/29-10:00:23.298 b40 Level-0 table #31: 131712 bytes OK
+2025/07/29-10:00:23.301 b40 Delete type=0 #27

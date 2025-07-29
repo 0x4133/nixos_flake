@@ -1,18 +1,6 @@
-2025/07/27-21:22:25.267 a5b Reusing MANIFEST /home/aaron/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
-2025/07/27-21:22:25.307 a5b Recovering log #13
-2025/07/27-21:22:25.314 a5b Reusing old log /home/aaron/.config/google-chrome/Default/Sync Data/LevelDB/000013.log 
-2025/07/27-21:23:40.166 a5b Level-0 table #17: started
-2025/07/27-21:23:40.173 a5b Level-0 table #17: 102523 bytes OK
-2025/07/27-21:23:40.177 a5b Delete type=0 #13
-2025/07/27-21:23:40.177 a5b Compacting 4@0 + 1@1 files
-2025/07/27-21:23:40.185 a5b Generated table #18@0: 48 keys, 6722 bytes
-2025/07/27-21:23:40.185 a5b Compacted 4@0 + 1@1 files => 6722 bytes
-2025/07/27-21:23:40.187 a5b compacted to: files[ 0 1 1 0 0 0 0 ]
-2025/07/27-21:23:40.188 a5b Delete type=2 #9
-2025/07/27-21:23:40.188 a5b Delete type=2 #11
-2025/07/27-21:23:40.188 a5b Delete type=2 #14
-2025/07/27-21:23:40.188 a5b Delete type=2 #7
-2025/07/27-21:23:40.188 a5b Delete type=2 #17
-2025/07/27-22:09:05.069 a5b Level-0 table #20: started
-2025/07/27-22:09:05.111 a5b Level-0 table #20: 129320 bytes OK
-2025/07/27-22:09:05.114 a5b Delete type=0 #16
+2025/07/27-22:29:55.061 cb9 Reusing MANIFEST /home/aaron/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2025/07/27-22:29:55.088 cb9 Recovering log #19
+2025/07/27-22:29:55.095 cb9 Reusing old log /home/aaron/.config/google-chrome/Default/Sync Data/LevelDB/000019.log 
+2025/07/28-12:04:58.385 cb9 Level-0 table #23: started
+2025/07/28-12:04:58.413 cb9 Level-0 table #23: 117405 bytes OK
+2025/07/28-12:04:58.416 cb9 Delete type=0 #19
