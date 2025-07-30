@@ -220,7 +220,10 @@ environment.systemPackages = with pkgs; [
   # If you want the unpatched dmenu as well, you would list it separately.
   # dmenu 
 ];
-
+services.udev.extraRules = ''
+  # bladeRF udev rule
+  SUBSYSTEM=="usb", ATTRS{idVendor}=="1d50", ATTRS{idProduct}=="6066", MODE="0660", GROUP="plugdev"
+'';
   # Some programs need SUID wrappers, can be configured further or are
   # started in user sessions.
   # programs.mtr.enable = true;
