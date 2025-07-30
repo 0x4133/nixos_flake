@@ -154,6 +154,7 @@
       python3
       system76-keyboard-configurator 
       wl-clipboard
+      gruppled-white-cursors
     ];
   };
 
