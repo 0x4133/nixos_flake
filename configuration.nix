@@ -191,7 +191,7 @@
 
 
 
-
+environment.variables.XCURSOR_THEME = "Adwaita";
   # List packages installed in system profile. To search, run:
   # $ nix search wget
 environment.systemPackages = with pkgs; [
@@ -203,7 +203,10 @@ environment.systemPackages = with pkgs; [
       /home/aaron/flakes/scripts/dmenu-center-20250407-b1e217b.diff
     ];
   }))
-  hyprpaper # hyprpaper is added as a separate package after the dmenu override
+  hyprpaper
+  xorg.xcursor-themes
+
+   # hyprpaper is added as a separate package after the dmenu override
   # If you want the unpatched dmenu as well, you would list it separately.
   # dmenu 
 ];
