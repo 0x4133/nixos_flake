@@ -163,7 +163,7 @@
      
       gnuradioPackages.osmosdr
       hackrf
-      bladerf
+      libbladeRF
     
     ];
   };
