@@ -160,7 +160,7 @@
       gnuradio
       gnuradioPackages.lora_sdr
       gnuradioPackages.bladeRF
-      gnuradioPackages.hackrf
+     
       gnuradioPackages.osmosdr
       hackrf
       bladerf
