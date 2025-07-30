@@ -156,6 +156,7 @@
       wl-clipboard
       gruppled-white-cursors
       claude-code
+      zbar
     ];
   };
 
