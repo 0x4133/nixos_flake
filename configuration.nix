@@ -157,7 +157,7 @@
       gruppled-white-cursors
       claude-code
       zbar
-      gnuradio-wrapped
+      gnuradio
     
     ];
   };
