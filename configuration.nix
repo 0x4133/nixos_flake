@@ -222,7 +222,7 @@ environment.systemPackages = with pkgs; [
 ];
 services.udev.extraRules = ''
   # bladeRF udev rule
-  SUBSYSTEM=="usb", ATTRS{idVendor}=="1d50", ATTRS{idProduct}=="6066", MODE="0660", GROUP="plugdev"
+  SUBSYSTEM=="usb", ATTRS{idVendor}=="1d50", ATTRS{idProduct}=="6066", MODE="0660", GROUP="dialout"
 '';
   # Some programs need SUID wrappers, can be configured further or are
   # started in user sessions.
