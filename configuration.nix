@@ -158,7 +158,7 @@
       claude-code
       zbar
     (gnuradio3_8.override {
-      extraPackages = with gnuradio3_8Packages; [
+      extraPackages = with gnuradio3_10Packages; [
         osmosdr
         limesdr
       ];
