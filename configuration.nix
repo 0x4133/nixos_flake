@@ -157,7 +157,7 @@
       gruppled-white-cursors
       claude-code
       zbar
-    (gnuradio3_8.override {
+    (gnuradio3_10.override {
       extraPackages = with gnuradio3_10Packages; [
         osmosdr
         limesdr
