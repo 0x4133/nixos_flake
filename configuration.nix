@@ -158,7 +158,7 @@
       claude-code
       zbar
       gnuradio-wrapped
-    })
+    
     ];
   };
 
