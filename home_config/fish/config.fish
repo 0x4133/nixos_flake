@@ -80,7 +80,7 @@ function push_configs
     mkdir -p $DST
 
     echo "⏳ Syncing files <90 MB from $SRC → $DST…"
-    rsync -av --max-size='90m' $SRC/ $DST/
+    rsync -av --max-size='90m' --exclude='google-chrome' $SRC/ $DST/
 
     echo "🗑 Deleting any >90 MB files from $DST…"
     find $DST -type f -size +90M -delete
