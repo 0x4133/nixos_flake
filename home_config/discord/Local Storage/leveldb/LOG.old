@@ -1,0 +1,12 @@
+2025/07/30-07:28:05.860 17bc Reusing MANIFEST /home/aaron/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2025/07/30-07:28:05.892 17bc Recovering log #15
+2025/07/30-07:28:05.892 17bc Reusing old log /home/aaron/.config/discord/Local Storage/leveldb/000015.log 
+2025/07/30-07:33:15.608 17bd Level-0 table #20: started
+2025/07/30-07:33:15.716 17bd Level-0 table #20: 1578822 bytes OK
+2025/07/30-07:33:15.720 17bd Delete type=0 #15
+2025/07/30-10:08:22.104 17bd Level-0 table #22: started
+2025/07/30-10:08:22.145 17bd Level-0 table #22: 49051 bytes OK
+2025/07/30-10:08:22.147 17bd Delete type=0 #19
+2025/07/30-10:41:11.635 17bc Level-0 table #24: started
+2025/07/30-10:41:11.677 17bc Level-0 table #24: 37672 bytes OK
+2025/07/30-10:41:11.679 17bc Delete type=0 #21

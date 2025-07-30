@@ -1,21 +1,3 @@
-2025/07/28-12:16:23.667 b4f Reusing MANIFEST /home/aaron/.config/google-chrome/Default/Extension State/MANIFEST-000001
-2025/07/28-12:16:23.668 b4f Recovering log #12
-2025/07/28-12:16:23.683 b4f Reusing old log /home/aaron/.config/google-chrome/Default/Extension State/000012.log 
-2025/07/28-17:39:54.131 b3e Level-0 table #16: started
-2025/07/28-17:39:54.154 b3e Level-0 table #16: 495108 bytes OK
-2025/07/28-17:39:54.160 b3e Delete type=0 #12
-2025/07/29-02:13:54.780 b3e Level-0 table #18: started
-2025/07/29-02:13:54.801 b3e Level-0 table #18: 489595 bytes OK
-2025/07/29-02:13:54.807 b3e Delete type=0 #15
-2025/07/29-02:13:54.809 b3e Compacting 4@0 + 1@1 files
-2025/07/29-02:13:54.829 b3e Generated table #19@0: 2 keys, 1097 bytes
-2025/07/29-02:13:54.830 b3e Compacted 4@0 + 1@1 files => 1097 bytes
-2025/07/29-02:13:54.831 b3e compacted to: files[ 0 1 1 0 0 0 0 ]
-2025/07/29-02:13:54.832 b3e Delete type=2 #11
-2025/07/29-02:13:54.832 b3e Delete type=2 #18
-2025/07/29-02:13:54.832 b3e Delete type=2 #16
-2025/07/29-02:13:54.832 b3e Delete type=2 #8
-2025/07/29-02:13:54.832 b3e Delete type=2 #13
-2025/07/29-11:03:25.460 b3e Level-0 table #21: started
-2025/07/29-11:03:25.483 b3e Level-0 table #21: 489069 bytes OK
-2025/07/29-11:03:25.489 b3e Delete type=0 #17
+2025/07/30-13:07:38.987 ae6 Reusing MANIFEST /home/aaron/.config/google-chrome/Default/Extension State/MANIFEST-000001
+2025/07/30-13:07:38.991 ae6 Recovering log #26
+2025/07/30-13:07:39.000 ae6 Reusing old log /home/aaron/.config/google-chrome/Default/Extension State/000026.log 

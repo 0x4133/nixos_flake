@@ -1,12 +1,12 @@
-autologin.blob="5E6mBKSVkAgMd9FmHeqqhx8cWWME8hHtfYAO66gE5qiwZVCAa350nXE1UVIeb2w3td+729QEXxfiV8OPqxV4Mx11jMX8B7iQvgTyC54ejLKaE9oY7egQYIl99St9u2FnSuM9TuSekwgYL1joDrnzaP26+A/a8Y56wU9OO1lxe0dKt2ChcZsWxnxFdncheJ8Sd5VnhYvMA1SHbAFZJTb/9v/ItSj9Oo0npQoe9GlVOeu1PFeDhencAEXyAvVE3ACi"
-autologin.canonical_username="1241288682"
+autologin.username="1241288682"
 autologin.saved_credentials="{\"1241288682\":[\"1241288682\",\"5E6mBKSVkAgMd9FmHeqqhx8cWWME8hHtfYAO66gE5qiwZVCAa350nXE1UVIeb2w3td+729QEXxfiV8OPqxV4Mx11jMX8B7iQvgTyC54ejLKaE9oY7egQYIl99St9u2FnSuM9TuSekwgYL1joDrnzaP26+A/a8Y56wU9OO1lxe0dKt2ChcZsWxnxFdncheJ8Sd5VnhYvMA1SHbAFZJTb/9v/ItSj9Oo0npQoe9GlVOeu1PFeDhencAEXyAvVE3ACi\"]}"
+autologin.canonical_username="1241288682"
 app.window.state.saved=true
 app.window.position.width=811
 app.rollback-to-sc=true
+autologin.blob="5E6mBKSVkAgMd9FmHeqqhx8cWWME8hHtfYAO66gE5qiwZVCAa350nXE1UVIeb2w3td+729QEXxfiV8OPqxV4Mx11jMX8B7iQvgTyC54ejLKaE9oY7egQYIl99St9u2FnSuM9TuSekwgYL1joDrnzaP26+A/a8Y56wU9OO1lxe0dKt2ChcZsWxnxFdncheJ8Sd5VnhYvMA1SHbAFZJTb/9v/ItSj9Oo0npQoe9GlVOeu1PFeDhencAEXyAvVE3ACi"
 es.send-on-startup=true
 core.clock_delta=0
-autologin.username="1241288682"
 app.window.position.saved=true
 app.window.position.height=894
 app.window.position.y=3
