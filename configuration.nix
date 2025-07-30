@@ -157,14 +157,7 @@
       gruppled-white-cursors
       claude-code
       zbar
-    (gnuradio3_10.override {
-      extraPackages = with gnuradio3_10Packages; [
-        osmosdr
-        limesdr
-      ];
-      extraPythonPackages = with gnuradio3_8.python.pkgs; [
-        numpy
-      ];
+      gnuradio-wrapped
     })
     ];
   };
