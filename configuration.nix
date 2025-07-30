@@ -155,6 +155,7 @@
       system76-keyboard-configurator 
       wl-clipboard
       gruppled-white-cursors
+      claude-code
     ];
   };
 
