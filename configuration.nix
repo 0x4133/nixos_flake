@@ -170,6 +170,7 @@
       gnuradioPackages.osmosdr
       hackrf
       libbladeRF
+      gephi
     
     ];
   };
