@@ -160,6 +160,7 @@
       gnuradio
       gnuradioPackages.lora_sdr
       gnuradioPackages.bladeRF
+      quartus-prime-lite
      
       gnuradioPackages.osmosdr
       hackrf
