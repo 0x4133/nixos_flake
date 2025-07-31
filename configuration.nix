@@ -171,6 +171,7 @@
       hackrf
       libbladeRF
       gephi
+      nmap
     
     ];
   };
