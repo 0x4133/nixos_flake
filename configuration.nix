@@ -8,6 +8,7 @@
     hardware.graphics = {
       enable = true;
     };
+    virtualization.docker.enable = true;
   # Load nvidia driver for Xorg and Wayland
   services.xserver.videoDrivers = ["nvidia"];
   hardware.nvidia = {
@@ -170,7 +171,7 @@
   };
 
 
-virtualization.docker.enable = true;
+
 
  programs.appimage = {
    enable = true;
