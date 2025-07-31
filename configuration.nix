@@ -166,7 +166,7 @@
       gnuradioPackages.bladeRF
       quartus-prime-lite
       cmake
-     
+      minicom
       gnuradioPackages.osmosdr
       hackrf
       libbladeRF
