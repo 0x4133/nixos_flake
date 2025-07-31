@@ -117,7 +117,7 @@
   users.users.aaron = {
     isNormalUser = true;
     description = "aaron";
-    extraGroups = [ "networkmanager" "wheel" "plugdev" "dialout" ];
+    extraGroups = [ "networkmanager" "wheel" "plugdev" "dialout" "docker"];
     packages = with pkgs; [
     #  thunderbird
       # hyprland
