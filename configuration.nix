@@ -172,7 +172,8 @@
       libbladeRF
       gephi
       nmap
-      conda 
+      conda
+      gnumake 
     ];
   };
 
