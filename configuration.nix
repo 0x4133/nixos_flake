@@ -177,6 +177,7 @@
     ];
   };
 
+virtualisation.incus.ui.enable = true;
 virtualisation.incus.enable = true;
 networking.nftables.enable = true;
 
