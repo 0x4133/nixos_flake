@@ -121,7 +121,7 @@
   users.users.aaron = {
     isNormalUser = true;
     description = "aaron";
-    extraGroups = [ "networkmanager" "wheel" "plugdev" "dialout" "docker"];
+    extraGroups = [ "networkmanager" "wheel" "plugdev" "dialout" "docker" "incus-admin"];
     packages = with pkgs; [
     #  thunderbird
       # hyprland
@@ -177,7 +177,8 @@
     ];
   };
 
-
+virtualisation.incus.enable = true;
+networking.nftables.enable = true;
 
 
  programs.appimage = {
