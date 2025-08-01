@@ -172,7 +172,7 @@
       libbladeRF
       gephi
       nmap
-    
+      conda 
     ];
   };
 
