@@ -1,0 +1,104 @@
+2025-08-08 14:22:02.955 [error] Failed to check if file sync is enabled for user {}
+2025-08-08 14:22:02.955 [error] Failed to fetch fsConfig File sync is disabled
+2025-08-08 14:22:02.955 [error] Failed to fetch fsConfig File sync is disabled
+2025-08-08 14:22:02.955 [info] [registerEventListeners] Registering event listeners
+2025-08-08 14:22:04.593 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-08-08 14:22:04.825 [info] Fetched fsConfig in 230.5583799999995ms
+2025-08-08 14:22:04.825 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-08-08 14:22:04.962 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-08-08 14:22:05.402 [info] Fetched fsConfig in 440.2602630000001ms
+2025-08-08 14:22:05.403 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-08-08 14:22:05.405 [info] File sync enabled status: true
+2025-08-08 14:22:05.405 [info] Starting sync of visible tabs
+2025-08-08 14:22:05.457 [info] Uploaded file simple_demo.py modelVersion=1 in 47.88576400000056ms
+2025-08-08 14:22:05.458 [info] Synced all visible tabs in 55.62488100000064ms
+2025-08-08 14:22:05.738 [info] Starting sync of visible tabs
+2025-08-08 14:22:05.779 [info] Uploaded file simple_demo.py modelVersion=1 in 39.51689400000032ms
+2025-08-08 14:22:05.779 [info] Synced all visible tabs in 42.37852699999985ms
+2025-08-08 14:22:05.990 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-08-08 14:22:06.227 [info] Fetched fsConfig in 237.00219500000003ms
+2025-08-08 14:22:06.227 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-08-08 14:23:35.165 [error] Failed to check if file sync is enabled for user {}
+2025-08-08 14:23:35.165 [error] Failed to fetch fsConfig File sync is disabled
+2025-08-08 14:23:35.165 [error] Failed to fetch fsConfig File sync is disabled
+2025-08-08 14:23:35.364 [info] [registerEventListeners] Registering event listeners
+2025-08-08 14:23:36.764 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-08-08 14:23:37.010 [info] Fetched fsConfig in 244.44802299999992ms
+2025-08-08 14:23:37.010 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-08-08 14:23:37.263 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-08-08 14:23:37.698 [info] Fetched fsConfig in 434.8838400000004ms
+2025-08-08 14:23:37.698 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-08-08 14:23:37.699 [info] File sync enabled status: true
+2025-08-08 14:23:37.699 [info] Starting sync of visible tabs
+2025-08-08 14:23:37.699 [info] Synced all visible tabs in 0.09898499999962951ms
+2025-08-08 14:23:38.025 [info] Starting sync of visible tabs
+2025-08-08 14:23:38.025 [info] Synced all visible tabs in 0.25984599999992497ms
+2025-08-08 14:23:38.283 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-08-08 14:23:38.517 [info] Fetched fsConfig in 234.5031769999996ms
+2025-08-08 14:23:38.518 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-08-08 14:23:52.925 [info] Uploaded file ai-detector.js modelVersion=1 in 323.6857430000018ms
+2025-08-08 14:23:52.925 [info] Handled visible editors change in 648.8556529999987ms
+2025-08-08 14:23:53.963 [info] Handled visible editors change in 0.9411339999969641ms
+2025-08-08 14:23:54.233 [info] Uploaded file background.js modelVersion=1 in 47.332368999999744ms
+2025-08-08 14:23:54.233 [info] Handled visible editors change in 218.1578550000013ms
+2025-08-08 14:23:55.595 [info] Handled visible editors change in 0.9354650000022957ms
+2025-08-08 14:23:55.874 [info] Uploaded file check-extension.js modelVersion=1 in 43.067073999998684ms
+2025-08-08 14:23:55.875 [info] Handled visible editors change in 225.7335239999993ms
+2025-08-08 14:23:57.760 [info] Handled visible editors change in 0.7805350000016915ms
+2025-08-08 14:23:58.025 [info] Uploaded file content.js modelVersion=1 in 64.62621800000124ms
+2025-08-08 14:23:58.026 [info] Handled visible editors change in 202.68249500000093ms
+2025-08-08 14:24:01.935 [info] Handled visible editors change in 1.1271910000032221ms
+2025-08-08 14:24:02.196 [info] Uploaded file debug.js modelVersion=1 in 59.646873000001506ms
+2025-08-08 14:24:02.196 [info] Handled visible editors change in 203.41817199999787ms
+2025-08-08 14:24:02.687 [info] Handled visible editors change in 0.7444060000016179ms
+2025-08-08 14:24:03.069 [info] Uploaded file manifest.json modelVersion=1 in 74.99120699999912ms
+2025-08-08 14:24:03.070 [info] Handled visible editors change in 332.35606299999927ms
+2025-08-08 14:24:03.289 [info] Handled visible editors change in 0.6140229999982694ms
+2025-08-08 14:24:03.507 [info] Uploaded file pii-detector.js modelVersion=1 in 48.557307000002766ms
+2025-08-08 14:24:03.507 [info] Handled visible editors change in 169.67065999999977ms
+2025-08-08 14:24:13.249 [info] Handled visible editors change in 1.01593000000139ms
+2025-08-08 14:24:13.459 [info] Uploaded file siem-reporter.js modelVersion=1 in 43.97626799999853ms
+2025-08-08 14:24:13.460 [info] Handled visible editors change in 151.93852600000537ms
+2025-08-08 14:24:21.558 [info] Handled visible editors change in 0.9571490000016638ms
+2025-08-08 14:24:21.623 [info] Handled visible editors change in 3.728167000001122ms
+2025-08-08 14:26:03.096 [info] Handled visible editors change in 1.0353619999950752ms
+2025-08-08 14:26:03.639 [info] Uploaded file popup.html modelVersion=1 in 290.2702069999941ms
+2025-08-08 14:26:03.639 [info] Handled visible editors change in 480.27680799999507ms
+2025-08-08 14:26:04.175 [info] Handled visible editors change in 1.066655999980867ms
+2025-08-08 14:26:04.235 [info] Handled visible editors change in 2.1907200000132434ms
+2025-08-08 14:26:05.052 [info] Handled visible editors change in 0.8468329999886919ms
+2025-08-08 14:26:05.094 [info] Handled visible editors change in 3.0188930000003893ms
+2025-08-08 14:26:07.171 [info] Handled visible editors change in 1.1677619999973103ms
+2025-08-08 14:26:07.227 [info] Handled visible editors change in 2.2054840000055265ms
+2025-08-08 14:26:07.764 [info] Handled visible editors change in 0.9519239999935962ms
+2025-08-08 14:26:07.963 [info] Uploaded file simple-test.js modelVersion=1 in 46.06578000000445ms
+2025-08-08 14:26:07.963 [info] Handled visible editors change in 155.86701899999753ms
+2025-08-08 14:26:08.510 [info] Handled visible editors change in 1.0157300000137184ms
+2025-08-08 14:26:08.561 [info] Handled visible editors change in 3.074426000006497ms
+2025-08-08 14:26:41.363 [info] Handled visible editors change in 1.0966320000006817ms
+2025-08-08 14:26:41.425 [info] Handled visible editors change in 4.053773999999976ms
+2025-08-08 14:26:58.743 [info] Handled visible editors change in 1.4042400000034831ms
+2025-08-08 14:26:58.826 [info] Handled visible editors change in 4.155739999987418ms
+2025-08-08 14:27:14.798 [info] Synced file siem-reporter.js modelVersion=2 in 523.241227999999ms
+2025-08-08 14:27:14.886 [info] Synced file siem-reporter.js modelVersion=3 in 296.38269800000126ms
+2025-08-08 14:27:15.271 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-08-08 14:27:15.502 [info] Fetched fsConfig in 230.99899799999548ms
+2025-08-08 14:27:15.502 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-08-08 14:27:15.502 [info] File sync enabled status: true
+2025-08-08 14:27:15.502 [info] Starting sync of visible tabs
+2025-08-08 14:27:15.502 [info] Synced all visible tabs in 0.40632899999036454ms
+2025-08-08 14:27:15.982 [info] Synced file siem-reporter.js modelVersion=4 in 37.91436499997508ms
+2025-08-08 14:27:18.086 [info] Synced file siem-reporter.js modelVersion=7 in 37.60806400000001ms
+2025-08-08 14:27:18.860 [info] Synced file siem-reporter.js modelVersion=8 in 41.91104199999245ms
+2025-08-08 14:27:19.218 [info] Synced file siem-reporter.js modelVersion=9 in 39.53549999999814ms
+2025-08-08 14:27:19.980 [info] Synced file siem-reporter.js modelVersion=12 in 49.921397000027355ms
+2025-08-08 14:27:20.234 [info] Synced file siem-reporter.js modelVersion=13 in 39.848884000006365ms
+2025-08-08 14:27:20.509 [info] Synced file siem-reporter.js modelVersion=14 in 46.12386900000274ms
+2025-08-08 14:27:22.264 [info] Synced file siem-reporter.js modelVersion=15 in 38.80351200001314ms
+2025-08-08 14:27:23.324 [info] Synced file siem-reporter.js modelVersion=19 in 44.04431100000511ms
+2025-08-08 14:29:07.148 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-08-08 14:29:07.412 [info] Fetched fsConfig in 263.20954800001346ms
+2025-08-08 14:29:07.412 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-08-08 14:29:07.412 [info] File sync enabled status: true
+2025-08-08 14:29:07.412 [info] Starting sync of visible tabs
+2025-08-08 14:29:07.412 [info] Synced all visible tabs in 0.24198300001444295ms

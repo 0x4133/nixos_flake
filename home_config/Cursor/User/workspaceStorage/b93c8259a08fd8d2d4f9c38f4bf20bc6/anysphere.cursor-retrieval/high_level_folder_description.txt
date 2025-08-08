@@ -1,0 +1,1 @@
+{"timestamp":1754169816409,"paths":["./check-extension.js","./popup.js","./background.js","./popup.html","./ai-detector.js","./test-data.txt","./manifest.json","./simple-test.js","./content.js","./pii-detector.js","./debug.js","./README.md","./siem-reporter.js","./.claude/settings.local.json","./icons/README.md"]}

@@ -1,0 +1,5 @@
+2025-08-08 14:22:01.226 [warning] Dir "/home/aaron/projects/stego_ai/.pixi/envs" is not watchable (directory does not exist)
+2025-08-08 14:22:01.226 [info] Python interpreter path: ./venv/bin/python
+2025-08-08 14:22:01.226 [info] > pyenv which python
+2025-08-08 14:22:01.226 [info] cwd: .
+2025-08-08 14:22:01.248 [info] Editor support is inactive since language server is set to None.

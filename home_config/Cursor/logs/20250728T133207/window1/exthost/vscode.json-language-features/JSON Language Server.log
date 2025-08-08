@@ -1,0 +1,27 @@
+2025-07-28 13:48:45.072 [info] read schema from vscode: vscode://schemas/vscode-extensions
+2025-07-28 13:48:45.167 [info] read schema from vscode: vscode://schemas/toolsParameters
+2025-07-28 13:48:45.168 [info] read schema from vscode: vscode://schemas/settings/configurationDefaults
+2025-07-28 13:48:45.345 [info] read schema from vscode: vscode://schemas/settings/resourceLanguage
+2025-07-28 13:48:45.362 [info] read schema from vscode: vscode://schemas/token-styling
+2025-07-28 13:48:45.362 [info] read schema from vscode: vscode://schemas/textmate-colors
+2025-07-28 13:48:45.363 [info] read schema from vscode: vscode://schemas/workbench-colors
+2025-07-28 13:53:10.072 [info] schema change detected vscode://schemas/settings/configurationDefaults
+2025-07-28 13:53:14.819 [info] read schema from vscode: vscode://schemas/vscode-extensions
+2025-07-28 13:53:14.884 [info] read schema from vscode: vscode://schemas/settings/configurationDefaults
+2025-07-28 13:53:15.298 [info] cancelled
+2025-07-28 14:00:27.344 [info] schema change detected vscode://schemas/settings/configurationDefaults
+2025-07-28 14:00:29.418 [info] schema change detected vscode://schemas/settings/configurationDefaults
+2025-07-28 14:00:31.467 [info] read schema from vscode: vscode://schemas/vscode-extensions
+2025-07-28 14:00:31.522 [info] read schema from vscode: vscode://schemas/toolsParameters
+2025-07-28 14:00:31.523 [info] read schema from vscode: vscode://schemas/settings/configurationDefaults
+2025-07-28 14:00:31.643 [info] read schema from vscode: vscode://schemas/settings/resourceLanguage
+2025-07-28 14:00:31.676 [info] read schema from vscode: vscode://schemas/token-styling
+2025-07-28 14:00:31.677 [info] read schema from vscode: vscode://schemas/textmate-colors
+2025-07-28 14:00:31.677 [info] read schema from vscode: vscode://schemas/workbench-colors
+2025-07-28 14:00:31.805 [info] cancelled
+2025-07-28 14:32:49.238 [info] cancelled
+2025-07-28 14:38:02.446 [info] cancelled
+2025-07-28 14:38:40.182 [info] cancelled
+2025-07-28 14:46:02.530 [info] cancelled
+2025-07-28 16:15:37.229 [info] cancelled
+2025-07-28 16:19:13.113 [info] cancelled

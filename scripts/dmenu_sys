@@ -1,0 +1,30 @@
+#!/usr/bin/env bash
+
+# Dracula theme colors
+BG='#282a36'         # Background
+FG_GREEN='#50fa7b'   # Text
+SEL_BG='#44475a'     # Selection background
+
+# Common dmenu options
+DMENU_OPTS=(
+  -i        # case‑insensitive
+  -c        # centered
+  -nb "$BG" # normal background
+  -nf "$FG_GREEN" # normal foreground (green)
+  -sb "$SEL_BG"   # selected background
+  -sf "$FG_GREEN" # selected foreground (still green)
+)
+
+choice=$(printf "kill\nzzz\nreboot\nshutdown" | dmenu -l 4 "${DMENU_OPTS[@]}")
+case "$choice" in
+  kill)
+    ps -u "$USER" -o pid,comm,%cpu,%mem \
+      | dmenu -l 10 -p Kill: "${DMENU_OPTS[@]}" \
+      | awk '{print $1}' \
+      | xargs -r kill
+    ;;
+  zzz)       slock systemctl suspend -i ;;
+  reboot)    systemctl reboot -i         ;;
+  shutdown)  shutdown now               ;;
+  *)         exit 1                     ;;
+esac

@@ -1,0 +1,25 @@
+{
+	"windowstate": {
+		"isFullScreen": false,
+		"isMaximized": false,
+		"width": 562,
+		"height": 986,
+		"x": 940,
+		"y": 3,
+		"frame": true,
+		"screenLayout": "0:0:1920:1080-1920:0:1600:900",
+		"backgroundColor": "rgb(255, 255, 255)"
+	},
+	"workspaces": [
+		{
+			"x": 1153,
+			"y": 3,
+			"width": 764,
+			"height": 443,
+			"isMaximized": false,
+			"isFullScreen": false,
+			"file": "/home/aaron/projects/esp32_ble/master",
+			"time": 1754617104701
+		}
+	]
+}

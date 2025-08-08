@@ -1,0 +1,15 @@
+background.js
+siem-reporter.js
+pii-detector.js
+content.js
+test-data.txt
+.claude/settings.local.json
+manifest.json
+popup.html
+icons/README.md
+popup.js
+ai-detector.js
+check-extension.js
+simple-test.js
+README.md
+debug.js

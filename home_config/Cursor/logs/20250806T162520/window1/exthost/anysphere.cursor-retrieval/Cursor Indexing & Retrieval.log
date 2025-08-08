@@ -1,0 +1,58 @@
+2025-08-06 16:25:28.204 [error] Git command failed: git config --get remote.origin.url Command failed: git config --get remote.origin.url
+
+2025-08-06 16:25:28.204 [error] Error getting repo info: Command failed: git config --get remote.origin.url
+
+2025-08-06 16:25:28.204 [error] Error: Command failed: git config --get remote.origin.url
+
+	at genericNodeError (node:internal/errors:984:15)
+	at wrappedFn (node:internal/errors:538:14)
+	at ChildProcess.exithandler (node:child_process:422:12)
+	at ChildProcess.emit (node:events:524:28)
+	at maybeClose (node:internal/child_process:1104:16)
+	at Socket.<anonymous> (node:internal/child_process:456:11)
+	at Socket.emit (node:events:524:28)
+	at Pipe.<anonymous> (node:net:343:12)
+2025-08-06 16:25:28.204 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2025-08-06 16:25:28.204 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2025-08-06 16:25:28.204 [error] Git command failed: git rev-parse --show-toplevel Command failed: git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-08-06 16:25:28.204 [info] Using existing keys for an index
+2025-08-06 16:25:28.204 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2025-08-06 16:25:28.204 [info] Using existing keys for an index
+2025-08-06 16:25:28.204 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2025-08-06 16:25:28.204 [info] Using existing keys for an index
+2025-08-06 16:25:28.204 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2025-08-06 16:25:28.204 [info] Setting global status from status tracker: synced
+2025-08-06 16:25:28.204 [info] Doing a startup handshake.
+2025-08-06 16:25:28.204 [warning] Failed to get symbolic ref: Failed to execute git
+2025-08-06 16:25:28.204 [warning] Failed to read .git/HEAD: A system error occurred (ENOENT: no such file or directory, open '/home/aaron/projects/stego_ai/.git/HEAD')
+2025-08-06 16:25:28.240 [error] Git command failed: git rev-parse --show-toplevel Command failed: git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-08-06 16:25:28.415 [warning] Failed to get branches from remote: Failed to execute git
+2025-08-06 16:25:28.437 [warning] Failed to get default branch from git config: Failed to execute git
+2025-08-06 16:25:28.460 [info] Finished computing merkle tree in 24.32437800000025 ms.
+2025-08-06 16:25:28.461 [info] Doing the initial handshake with hash: 1dda5f361c2380472a8c85586ddc10f65376be0edb1e9d902bfa339ff87737eb
+2025-08-06 16:25:28.469 [info] Computed simhash vector of length: 256
+2025-08-06 16:25:28.469 [info] Path key hash: a9784bd5e552201b9ae313b1aa9411dcaae773075381883685ab07c8d1bf5797
+2025-08-06 16:25:28.469 [info] Handshake start
+2025-08-06 16:25:28.792 [info] Handshake timing: 326.39002999999957, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"05713d78-71b8-432c-98cc-7a60223c9291","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-08-06 16:25:28.792 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"05713d78-71b8-432c-98cc-7a60223c9291","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-08-06 16:25:28.793 [info] Starting fast remote sync.
+2025-08-06 16:25:28.794 [info] Total num embeddable files: 23
+2025-08-06 16:25:28.796 [info] Root hash: 1dda5f361c2380472a8c85586ddc10f65376be0edb1e9d902bfa339ff87737eb
+2025-08-06 16:25:28.799 [info] Finishing sync (hasUpdates: false, isErr: false)
+2025-08-06 16:25:28.890 [info] Finished indexing repository.
+2025-08-06 16:25:28.890 [info] Indexing job successfully done or aborted.
+2025-08-06 16:26:24.207 [error] Error getting git status: Failed to execute git
+2025-08-06 16:26:26.163 [error] Error getting git status: Failed to execute git
+2025-08-06 16:26:27.894 [error] Error getting git status: Failed to execute git
+2025-08-06 16:26:29.607 [error] Error getting git status: Failed to execute git
+2025-08-06 16:26:31.445 [error] Error getting git status: Failed to execute git
+2025-08-06 16:26:32.603 [error] Error getting git status: Failed to execute git
+2025-08-06 16:26:34.307 [error] Error getting git status: Failed to execute git
+2025-08-06 16:26:35.906 [error] Error getting git status: Failed to execute git
+2025-08-06 16:26:38.522 [error] Error getting git status: Failed to execute git
+2025-08-06 16:27:17.909 [info] multiCodebaseIndexingJob dispose
+2025-08-06 16:27:17.909 [info] Aborting indexing job.

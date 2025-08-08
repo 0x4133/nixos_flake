@@ -1,0 +1,7 @@
+# Ignore patterns for files under home_config/
+# Add one pattern per line. Examples:
+# cache/
+# **/*.log
+# **/*secret*
+**/discord*
+**/clipse

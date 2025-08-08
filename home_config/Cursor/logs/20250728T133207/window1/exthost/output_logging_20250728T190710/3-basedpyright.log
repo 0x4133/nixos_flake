@@ -1,0 +1,50 @@
+[Info  - 7:13:03 PM] basedpyright language server 1.29.4 starting
+[Info  - 7:13:03 PM] Server root directory: file:///home/aaron/.cursor/extensions/anysphere.cursorpyright-1.0.7/dist
+[Info  - 7:13:03 PM] Starting service instance "stego_ai"
+Received pythonPath from Python extension: python
+[Info  - 7:13:03 PM] No include entries specified; assuming /home/aaron/projects/stego_ai
+[Info  - 7:13:03 PM] Auto-excluding **/node_modules
+[Info  - 7:13:03 PM] Auto-excluding **/__pycache__
+[Info  - 7:13:03 PM] Auto-excluding **/.*
+[Info  - 7:13:03 PM] Unable to get Python version from interpreter
+[Info  - 7:13:03 PM] Found 1 source file
+[Info  - 7:13:03 PM] BG: Background analysis(1) root directory: file:///home/aaron/.cursor/extensions/anysphere.cursorpyright-1.0.7/dist
+[Info  - 7:13:03 PM] BG: Background analysis(1) started
+[Info  - 7:13:35 PM] Found 2 source files
+[Info  - 7:14:30 PM] Found 3 source files
+[Info  - 7:15:29 PM] Found 4 source files
+[Info  - 7:16:33 PM] Found 5 source files
+[Info  - 7:16:59 PM] Found 6 source files
+[Info  - 7:18:11 PM] Found 7 source files
+[Info  - 7:18:53 PM] Found 8 source files
+[Info  - 7:20:21 PM] Found 9 source files
+[Info  - 7:23:08 PM] Found 10 source files
+Received pythonPath from Python extension: /etc/profiles/per-user/aaron/bin/python
+[Info  - 7:24:15 PM] Setting pythonPath for service "stego_ai": "/etc/profiles/per-user/aaron/bin/python"
+[Info  - 7:24:15 PM] No include entries specified; assuming /home/aaron/projects/stego_ai
+[Info  - 7:24:15 PM] Auto-excluding **/node_modules
+[Info  - 7:24:15 PM] Auto-excluding **/__pycache__
+[Info  - 7:24:15 PM] Auto-excluding **/.*
+[Info  - 7:24:15 PM] Assuming Python version 3.13.5.final.0
+[Info  - 7:24:15 PM] Found 10 source files
+Received pythonPath from Python extension: /home/aaron/projects/stego_ai/venv/bin/python
+[Info  - 7:25:39 PM] Setting pythonPath for service "stego_ai": "/home/aaron/projects/stego_ai/venv/bin/python"
+[Info  - 7:25:39 PM] No include entries specified; assuming /home/aaron/projects/stego_ai
+[Info  - 7:25:39 PM] Auto-excluding **/node_modules
+[Info  - 7:25:39 PM] Auto-excluding **/__pycache__
+[Info  - 7:25:39 PM] Auto-excluding **/.*
+[Info  - 7:25:39 PM] Assuming Python version 3.13.5.final.0
+[Info  - 7:25:39 PM] Auto-excluding /home/aaron/projects/stego_ai/venv
+[Info  - 7:25:39 PM] Found 10 source files
+[Info  - 7:27:27 PM] Auto-excluding /home/aaron/projects/stego_ai/venv
+[Info  - 7:27:27 PM] Found 10 source files
+[Info  - 7:29:01 PM] Auto-excluding /home/aaron/projects/stego_ai/venv
+[Info  - 7:29:01 PM] Found 11 source files
+[Info  - 7:30:06 PM] Auto-excluding /home/aaron/projects/stego_ai/venv
+[Info  - 7:30:06 PM] Found 12 source files
+[Info  - 7:30:57 PM] Auto-excluding /home/aaron/projects/stego_ai/venv
+[Info  - 7:30:57 PM] Found 13 source files
+[Info  - 7:31:31 PM] Auto-excluding /home/aaron/projects/stego_ai/venv
+[Info  - 7:31:31 PM] Found 14 source files
+[Info  - 7:33:40 PM] Auto-excluding /home/aaron/projects/stego_ai/venv
+[Info  - 7:33:40 PM] Found 15 source files

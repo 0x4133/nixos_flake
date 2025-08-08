@@ -1,0 +1,14 @@
+[Info  - 8:28:04 AM] basedpyright language server 1.29.4 starting
+[Info  - 8:28:04 AM] Server root directory: file:///home/aaron/.cursor/extensions/anysphere.cursorpyright-1.0.7/dist
+[Info  - 8:28:04 AM] Starting service instance "stego_ai"
+Received pythonPath from Python extension: /home/aaron/projects/stego_ai/venv/bin/python
+[Info  - 8:28:04 AM] Setting pythonPath for service "stego_ai": "/home/aaron/projects/stego_ai/venv/bin/python"
+[Info  - 8:28:04 AM] No include entries specified; assuming /home/aaron/projects/stego_ai
+[Info  - 8:28:04 AM] Auto-excluding **/node_modules
+[Info  - 8:28:04 AM] Auto-excluding **/__pycache__
+[Info  - 8:28:04 AM] Auto-excluding **/.*
+[Info  - 8:28:04 AM] Assuming Python version 3.13.5.final.0
+[Info  - 8:28:04 AM] Auto-excluding /home/aaron/projects/stego_ai/venv
+[Info  - 8:28:04 AM] Found 16 source files
+[Info  - 8:28:05 AM] BG: Background analysis(1) root directory: file:///home/aaron/.cursor/extensions/anysphere.cursorpyright-1.0.7/dist
+[Info  - 8:28:05 AM] BG: Background analysis(1) started

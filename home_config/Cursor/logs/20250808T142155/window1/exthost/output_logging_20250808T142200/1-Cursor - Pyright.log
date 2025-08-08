@@ -1,0 +1,9 @@
+[Info  - 21:22:01.13] [pylance import] Already imported settings globally
+[Info  - 21:22:01.13] [pylance import] No remote authority found, skipping remote settings migration
+[Info  - 21:22:01.13] [pylance import] Already imported settings for workspace stego_ai
+[Info  - 21:22:01.13] [pylance import] Already imported settings for workspace folder /home/aaron/projects/stego_ai
+[Info  - 21:22:01.30] failed to find pyright executable, falling back to bundled:
+/home/aaron/projects/stego_ai/venv/bin/basedpyright-langserver
+[Info  - 21:22:01.30] using bundled pyright
+[Info  - 21:22:01.30] running node with args: --max-old-space-size=16384
+[Info  - 21:22:01.30] using default node executable

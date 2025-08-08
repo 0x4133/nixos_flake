@@ -1,0 +1,132 @@
+2025-08-08 14:22:02.954 [info] CURSOR LOG: Finished creating provider!
+2025-08-08 14:23:35.165 [info] CURSOR LOG: Finished creating provider!
+2025-08-08 14:27:14.433 [info] CURSOR LOG: requestId 6010269e-903e-48f3-9fb6-54bc91ff8fbd  
+2025-08-08 14:27:15.061 [info] CURSOR LOG: Done streaming cpp with id 6010269e-903e-48f3-9fb6-54bc91ff8fbd
+2025-08-08 14:27:15.061 [info] CPP RT LOG: Time taken for streaming cpp 669.567138671875 with request 6010269e-903e-48f3-9fb6-54bc91ff8fbd
+2025-08-08 14:27:15.062 [info] CPP Request Log with id 6010269e-903e-48f3-9fb6-54bc91ff8fbd
+2025-08-08 14:27:15.062 [info] =======>Model output 
+@@ siem-reporter.js:3
+-|      endpoint: config.endpoint || 'https://y/vents',
++|      endpoint: config.endpoint || 'https://events.ai-pii-protection.com/api/events',
+2025-08-08 14:27:15.062 [info] =======>Debug stream time 220.2080399999395
+2025-08-08 14:27:15.062 [info] =======>Debug ttft time 219.90299499966204
+2025-08-08 14:27:15.063 [info] Average of latest 20 ttft time 219.90299499966204
+2025-08-08 14:27:15.063 [info] Average of latest 20 stream time 220.2080399999395
+2025-08-08 14:27:15.063 [info] Average of latest 20 total time NaN
+2025-08-08 14:27:15.063 [info] Average of latest 20 client time 669.567138671875
+2025-08-08 14:27:15.063 [info] Average of latest 20 discrepencies NaN
+2025-08-08 14:27:15.063 [info] CPP RT LOG: All stats {"streamingtime":669.567138671875,"actualTtftFromStart":540.028564453125,"timeTillServerRequest":92.458984375,"requestToTtft":447.569580078125,"totalTime":759.964599609375}
+2025-08-08 14:27:17.520 [info] CURSOR LOG: requestId 0f9343a9-a1ac-475b-bcf4-f086b8231b49  
+2025-08-08 14:27:17.677 [info] CURSOR LOG: requestId ab46c8d3-1369-4b4f-b5a3-fd4de5ffc933  
+2025-08-08 14:27:17.783 [info] CURSOR LOG: Done streaming cpp with id 0f9343a9-a1ac-475b-bcf4-f086b8231b49
+2025-08-08 14:27:17.783 [info] CPP RT LOG: Time taken for streaming cpp 265.478759765625 with request 0f9343a9-a1ac-475b-bcf4-f086b8231b49
+2025-08-08 14:27:17.784 [info] CPP Request Log with id 0f9343a9-a1ac-475b-bcf4-f086b8231b49
+2025-08-08 14:27:17.784 [info] =======>Model output 
+@@ siem-reporter.js:3
+-|      endpoint: config.endpoint || 'https:///events',
++|      endpoint: config.endpoint || 'https://siem.ai-pii-protection.com/events',
+2025-08-08 14:27:17.784 [info] =======>Debug stream time 181.86394600011408
+2025-08-08 14:27:17.784 [info] =======>Debug ttft time 181.6153530003503
+2025-08-08 14:27:17.785 [info] Average of latest 20 ttft time 200.75917400000617
+2025-08-08 14:27:17.785 [info] Average of latest 20 stream time 201.0359930000268
+2025-08-08 14:27:17.785 [info] Average of latest 20 total time NaN
+2025-08-08 14:27:17.785 [info] Average of latest 20 client time 467.52294921875
+2025-08-08 14:27:17.785 [info] Average of latest 20 discrepencies NaN
+2025-08-08 14:27:17.785 [info] CPP RT LOG: All stats {"streamingtime":265.478759765625,"actualTtftFromStart":144.43310546875,"timeTillServerRequest":76.568603515625,"requestToTtft":67.864501953125,"totalTime":341.96435546875}
+2025-08-08 14:27:17.857 [info] CURSOR LOG: requestId 6f42d31f-3600-4fb4-ab30-7dbcdc679a62  
+2025-08-08 14:27:17.899 [info] CURSOR LOG: Done streaming cpp with id ab46c8d3-1369-4b4f-b5a3-fd4de5ffc933
+2025-08-08 14:27:17.899 [info] CPP RT LOG: Time taken for streaming cpp 224.64013671875 with request ab46c8d3-1369-4b4f-b5a3-fd4de5ffc933
+2025-08-08 14:27:17.899 [info] CPP Request Log with id ab46c8d3-1369-4b4f-b5a3-fd4de5ffc933
+2025-08-08 14:27:17.899 [info] =======>Model output 
+@@ siem-reporter.js:3
+-|      endpoint: config.endpoint || 'https://1/events',
++|      endpoint: config.endpoint || 'https://192.168.1.100/events',
+2025-08-08 14:27:17.899 [info] =======>Debug stream time 160.50869000004604
+2025-08-08 14:27:17.899 [info] =======>Debug ttft time 160.289092999883
+2025-08-08 14:27:17.900 [info] Average of latest 20 ttft time 187.2691469999651
+2025-08-08 14:27:17.900 [info] Average of latest 20 stream time 187.5268920000332
+2025-08-08 14:27:17.900 [info] Average of latest 20 total time NaN
+2025-08-08 14:27:17.900 [info] Average of latest 20 client time 386.56201171875
+2025-08-08 14:27:17.900 [info] Average of latest 20 discrepencies NaN
+2025-08-08 14:27:17.900 [info] CPP RT LOG: All stats {"streamingtime":224.64013671875,"actualTtftFromStart":121.0810546875,"timeTillServerRequest":52.98828125,"requestToTtft":68.0927734375,"totalTime":277.533203125}
+2025-08-08 14:27:18.085 [info] CURSOR LOG: Done streaming cpp with id 6f42d31f-3600-4fb4-ab30-7dbcdc679a62
+2025-08-08 14:27:18.085 [info] CPP RT LOG: Time taken for streaming cpp 230.615234375 with request 6f42d31f-3600-4fb4-ab30-7dbcdc679a62
+2025-08-08 14:27:18.085 [info] CPP Request Log with id 6f42d31f-3600-4fb4-ab30-7dbcdc679a62
+2025-08-08 14:27:18.085 [info] =======>Model output 
+@@ siem-reporter.js:3
+-|      endpoint: config.endpoint || 'https://12/events',
++|      endpoint: config.endpoint || 'https://127.0.0.1:8000/events',
+2025-08-08 14:27:18.085 [info] =======>Debug stream time 172.16727899992839
+2025-08-08 14:27:18.085 [info] =======>Debug ttft time 171.93030499992892
+2025-08-08 14:27:18.087 [info] Average of latest 20 ttft time 183.43443649995606
+2025-08-08 14:27:18.087 [info] Average of latest 20 stream time 183.686988750007
+2025-08-08 14:27:18.088 [info] Average of latest 20 total time NaN
+2025-08-08 14:27:18.088 [info] Average of latest 20 client time 347.5753173828125
+2025-08-08 14:27:18.088 [info] Average of latest 20 discrepencies NaN
+2025-08-08 14:27:18.088 [info] CPP RT LOG: All stats {"streamingtime":230.615234375,"actualTtftFromStart":139.55615234375,"timeTillServerRequest":81.151611328125,"requestToTtft":58.404541015625,"totalTime":311.635498046875}
+2025-08-08 14:27:22.988 [info] CURSOR LOG: requestId 90bf7fb0-98f8-45ba-9976-d73fa6903021  
+2025-08-08 14:27:23.066 [info] CURSOR LOG: requestId 7960e314-4c7e-459f-8912-214457662eb3  
+2025-08-08 14:27:23.209 [info] CURSOR LOG: Done streaming cpp with id 90bf7fb0-98f8-45ba-9976-d73fa6903021
+2025-08-08 14:27:23.209 [info] CPP RT LOG: Time taken for streaming cpp 223.038330078125 with request 90bf7fb0-98f8-45ba-9976-d73fa6903021
+2025-08-08 14:27:23.209 [info] CPP Request Log with id 90bf7fb0-98f8-45ba-9976-d73fa6903021
+2025-08-08 14:27:23.210 [info] =======>Model output 
+@@ siem-reporter.js:3
+-|      endpoint: config.endpoint || 'https://127.0.0.1:808/events',
++|      endpoint: config.endpoint || 'http://127.0.0.1:8080/events',
+2025-08-08 14:27:23.210 [info] =======>Debug stream time 155.13360799988732
+2025-08-08 14:27:23.210 [info] =======>Debug ttft time 154.9085329999216
+2025-08-08 14:27:23.210 [info] Average of latest 20 ttft time 177.72925579994916
+2025-08-08 14:27:23.210 [info] Average of latest 20 stream time 177.97631259998306
+2025-08-08 14:27:23.210 [info] Average of latest 20 total time NaN
+2025-08-08 14:27:23.210 [info] Average of latest 20 client time 322.667919921875
+2025-08-08 14:27:23.211 [info] Average of latest 20 discrepencies NaN
+2025-08-08 14:27:23.211 [info] CPP RT LOG: All stats {"streamingtime":223.038330078125,"actualTtftFromStart":133.303955078125,"timeTillServerRequest":67.672607421875,"requestToTtft":65.63134765625,"totalTime":290.6396484375}
+2025-08-08 14:27:23.244 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-08-08 14:27:25.213 [info] CURSOR LOG: requestId 0dc3e6fb-f697-4f39-89a3-b9bedca6d5ff  
+2025-08-08 14:27:25.460 [info] CURSOR LOG: Done streaming cpp with id 0dc3e6fb-f697-4f39-89a3-b9bedca6d5ff
+2025-08-08 14:27:25.460 [info] CPP RT LOG: Time taken for streaming cpp 249.37890625 with request 0dc3e6fb-f697-4f39-89a3-b9bedca6d5ff
+2025-08-08 14:27:25.461 [info] CPP Request Log with id 0dc3e6fb-f697-4f39-89a3-b9bedca6d5ff
+2025-08-08 14:27:25.461 [info] =======>Model output 
+@@ siem-reporter.js:3
+-|      endpoint: config.endpoint || 'https://127.0.0.1:8080/events',
++|      endpoint: config.endpoint || 'http://127.0.0.1:8080/events',
+2025-08-08 14:27:25.461 [info] =======>Debug stream time 187.99551699962467
+2025-08-08 14:27:25.461 [info] =======>Debug ttft time 187.78466999996454
+2025-08-08 14:27:25.461 [info] Average of latest 20 ttft time 179.4051581666184
+2025-08-08 14:27:25.461 [info] Average of latest 20 stream time 179.64617999992333
+2025-08-08 14:27:25.461 [info] Average of latest 20 total time NaN
+2025-08-08 14:27:25.462 [info] Average of latest 20 client time 310.4530843098958
+2025-08-08 14:27:25.462 [info] Average of latest 20 discrepencies NaN
+2025-08-08 14:27:25.462 [info] CPP RT LOG: All stats {"streamingtime":249.37890625,"actualTtftFromStart":130.714599609375,"timeTillServerRequest":67.08203125,"requestToTtft":63.632568359375,"totalTime":316.402587890625}
+2025-08-08 14:27:27.407 [info] CURSOR LOG: requestId 4b71c6b7-39f0-47be-ab99-886d8963257e  
+2025-08-08 14:27:27.799 [info] CURSOR LOG: Done streaming cpp with id 4b71c6b7-39f0-47be-ab99-886d8963257e
+2025-08-08 14:27:27.799 [info] CPP RT LOG: Time taken for streaming cpp 394.61083984375 with request 4b71c6b7-39f0-47be-ab99-886d8963257e
+2025-08-08 14:27:27.799 [info] CPP Request Log with id 4b71c6b7-39f0-47be-ab99-886d8963257e
+2025-08-08 14:27:27.799 [info] =======>Model output 
+@@ siem-reporter.js:3
+-|      endpoint: config.endpoint || 'https://127.0.0.1:8080/events',
++|      endpoint: config.endpoint || 'http://127.0.0.1:8080/events',
+2025-08-08 14:27:27.799 [info] =======>Debug stream time 231.2837849999778
+2025-08-08 14:27:27.799 [info] =======>Debug ttft time 231.04569300008006
+2025-08-08 14:27:27.800 [info] Average of latest 20 ttft time 186.78237742854148
+2025-08-08 14:27:27.800 [info] Average of latest 20 stream time 187.02298071421683
+2025-08-08 14:27:27.800 [info] Average of latest 20 total time NaN
+2025-08-08 14:27:27.800 [info] Average of latest 20 client time 322.47562081473217
+2025-08-08 14:27:27.800 [info] Average of latest 20 discrepencies NaN
+2025-08-08 14:27:27.800 [info] CPP RT LOG: All stats {"streamingtime":394.61083984375,"actualTtftFromStart":220.485107421875,"timeTillServerRequest":55.255859375,"requestToTtft":165.229248046875,"totalTime":449.770751953125}
+2025-08-08 14:27:31.883 [info] CURSOR LOG: requestId 7b5fd8f5-b062-4c9f-aa73-2d11814633d9  
+2025-08-08 14:27:32.140 [info] CURSOR LOG: Done streaming cpp with id 7b5fd8f5-b062-4c9f-aa73-2d11814633d9
+2025-08-08 14:27:32.140 [info] CPP RT LOG: Time taken for streaming cpp 260.975341796875 with request 7b5fd8f5-b062-4c9f-aa73-2d11814633d9
+2025-08-08 14:27:32.141 [info] CPP Request Log with id 7b5fd8f5-b062-4c9f-aa73-2d11814633d9
+2025-08-08 14:27:32.141 [info] =======>Model output 
+@@ siem-reporter.js:3
+-|      endpoint: config.endpoint || 'https://127.0.0.1:8080/events',
++|      endpoint: config.endpoint || 'http://127.0.0.1:8080/events',
+2025-08-08 14:27:32.141 [info] =======>Debug stream time 184.50396799994633
+2025-08-08 14:27:32.141 [info] =======>Debug ttft time 184.27420299965888
+2025-08-08 14:27:32.141 [info] Average of latest 20 ttft time 186.46885562493117
+2025-08-08 14:27:32.141 [info] Average of latest 20 stream time 186.70810412493302
+2025-08-08 14:27:32.141 [info] Average of latest 20 total time NaN
+2025-08-08 14:27:32.141 [info] Average of latest 20 client time 314.7880859375
+2025-08-08 14:27:32.141 [info] Average of latest 20 discrepencies NaN
+2025-08-08 14:27:32.141 [info] CPP RT LOG: All stats {"streamingtime":260.975341796875,"actualTtftFromStart":131.4072265625,"timeTillServerRequest":60.7705078125,"requestToTtft":70.63671875,"totalTime":321.61328125}
