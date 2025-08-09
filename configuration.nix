@@ -187,6 +187,7 @@
         niviewer
         libusb1
         lsusb
+        imagemagick
         
     ];
   };
