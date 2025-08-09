@@ -186,6 +186,7 @@
         git-credential-manager
         niviewer
         libusb1
+        lsusb
         
     ];
   };
