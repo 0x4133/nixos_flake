@@ -184,6 +184,8 @@
         transmission
         obsidian
         git-credential-manager
+        openni2
+        libusb1
     ];
   };
 networking.firewall.trustedInterfaces = [ "incusbr0" ];
