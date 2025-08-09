@@ -186,7 +186,7 @@
         git-credential-manager
         
         libusb1
-        lsusb
+        
         imagemagick
         
     ];
