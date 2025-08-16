@@ -206,7 +206,7 @@
         git-credential-manager
         
         libusb1
-        
+        yt-dlp
         imagemagick
         
     ];
