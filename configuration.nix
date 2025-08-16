@@ -209,6 +209,7 @@
         yt-dlp
         imagemagick
         usbutils
+        gqrx
     ];
   };
 networking.firewall.trustedInterfaces = [ "incusbr0" ];
