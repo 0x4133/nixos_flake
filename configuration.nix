@@ -116,6 +116,8 @@
 
   # Enable touchpad support (enabled default in most desktopManager).
   # services.xserver.libinput.enable = true;
+services.udev.packages = [ pkgs.hackrf ];
+
 
 
    programs.obs-studio = {
@@ -210,6 +212,7 @@
         imagemagick
         usbutils
         gqrx
+        hackrf
     ];
   };
 networking.firewall.trustedInterfaces = [ "incusbr0" ];
