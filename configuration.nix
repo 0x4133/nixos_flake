@@ -208,7 +208,7 @@
         libusb1
         yt-dlp
         imagemagick
-        lsusb
+        usbutils
     ];
   };
 networking.firewall.trustedInterfaces = [ "incusbr0" ];
