@@ -214,6 +214,7 @@ services.udev.packages = [ pkgs.hackrf ];
         usbutils
         gqrx
         hackrf
+        sdrangel
     ];
   };
 networking.firewall.trustedInterfaces = [ "incusbr0" ];
