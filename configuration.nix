@@ -117,6 +117,7 @@
   # Enable touchpad support (enabled default in most desktopManager).
   # services.xserver.libinput.enable = true;
 services.udev.packages = [ pkgs.hackrf ];
+  users.groups.plugdev = { };
 
 
 
