@@ -204,7 +204,7 @@
         transmission
         obsidian
         git-credential-manager
-        
+        lmms
         libusb1
         yt-dlp
         imagemagick
