@@ -208,7 +208,7 @@
         libusb1
         yt-dlp
         imagemagick
-        ableton
+        
     ];
   };
 networking.firewall.trustedInterfaces = [ "incusbr0" ];
