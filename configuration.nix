@@ -215,7 +215,7 @@ services.udev.packages = [ pkgs.hackrf ];
         gqrx
         hackrf
         sdrangel
-        vmware
+        
     ];
   };
 networking.firewall.trustedInterfaces = [ "incusbr0" ];
