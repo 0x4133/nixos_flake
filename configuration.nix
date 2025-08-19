@@ -216,6 +216,7 @@ services.udev.packages = [ pkgs.hackrf ];
         hackrf
         sdrangel
         qgis
+        ubertooth
     ];
   };
 networking.firewall.trustedInterfaces = [ "incusbr0" ];
