@@ -224,6 +224,7 @@ services.udev.packages = [ pkgs.hackrf ];
     ];
   };
 networking.firewall.trustedInterfaces = [ "incusbr0" ];
+networking.firewall.allowedTCPPorts = [ 7474 7687 ];
 networking.firewall.enable = false;
 virtualisation.incus.ui.enable = true;
 virtualisation.incus.enable = true;
