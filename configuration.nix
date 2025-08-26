@@ -220,7 +220,7 @@ services.udev.packages = [ pkgs.hackrf ];
         timg
         bloodhound
         neo4j
-        bolt
+        openjdk17 
     ];
   };
 networking.firewall.trustedInterfaces = [ "incusbr0" ];
@@ -230,10 +230,14 @@ virtualisation.incus.enable = true;
 networking.nftables.enable = true;
 
 services.neo4j = {
-  enable = true;
-  dataDir = "/var/lib/neo4j";
-};
-
+    enable = true;
+    bolt.enable = true;
+    https.enable = true;
+    http.enable = true;
+    # Optional: customize data directory
+    # directories.home = "/var/lib/neo4j";
+  };
+  
  programs.appimage = {
    enable = true;
    binfmt = true;
