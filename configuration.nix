@@ -222,6 +222,7 @@ services.udev.packages = [ pkgs.hackrf ];
         neo4j
         openjdk17 
         maltego
+        pavucontrol
     ];
   };
 networking.firewall.trustedInterfaces = [ "incusbr0" ];
