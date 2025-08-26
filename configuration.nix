@@ -229,6 +229,10 @@ virtualisation.incus.ui.enable = true;
 virtualisation.incus.enable = true;
 networking.nftables.enable = true;
 
+services.neo4j = {
+  enable = true;
+  dataDir = "/var/lib/neo4j";
+};
 
  programs.appimage = {
    enable = true;
