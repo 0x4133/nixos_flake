@@ -218,6 +218,7 @@ services.udev.packages = [ pkgs.hackrf ];
         qgis
         ubertooth
         timg
+        bloodhound
     ];
   };
 networking.firewall.trustedInterfaces = [ "incusbr0" ];
