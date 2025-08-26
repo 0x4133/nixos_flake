@@ -220,6 +220,7 @@ services.udev.packages = [ pkgs.hackrf ];
         timg
         bloodhound
         neo4j
+        bolt
     ];
   };
 networking.firewall.trustedInterfaces = [ "incusbr0" ];
