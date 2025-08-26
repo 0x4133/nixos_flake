@@ -219,6 +219,7 @@ services.udev.packages = [ pkgs.hackrf ];
         ubertooth
         timg
         bloodhound
+        neo4j
     ];
   };
 networking.firewall.trustedInterfaces = [ "incusbr0" ];
