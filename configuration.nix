@@ -221,6 +221,7 @@ services.udev.packages = [ pkgs.hackrf ];
         bloodhound
         neo4j
         openjdk17 
+        maltego
     ];
   };
 networking.firewall.trustedInterfaces = [ "incusbr0" ];
