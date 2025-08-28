@@ -223,6 +223,7 @@ services.udev.packages = [ pkgs.hackrf ];
         openjdk17 
         maltego
         pavucontrol
+        kismet
     ];
   };
 networking.firewall.trustedInterfaces = [ "incusbr0" ];
