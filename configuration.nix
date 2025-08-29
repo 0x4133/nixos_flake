@@ -149,6 +149,7 @@ services.udev.packages = [ pkgs.hackrf ];
     #  thunderbird
       # hyprland
        tesseract
+       tesseract-langdata-rus
        clipse
        slurp
        grim
