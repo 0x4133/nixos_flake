@@ -225,6 +225,7 @@ services.udev.packages = [ pkgs.hackrf ];
         maltego
         pavucontrol
         kismet
+        wireshark
     ];
   };
 networking.firewall.trustedInterfaces = [ "incusbr0" ];
