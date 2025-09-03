@@ -226,7 +226,10 @@ services.udev.packages = [ pkgs.hackrf ];
         pavucontrol
         kismet
         wireshark
-        
+        ffmpeg
+        v4l-utils
+        SDL2
+        pkg-config
         cabextract 
         unzip 
         p7zip
