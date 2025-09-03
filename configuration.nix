@@ -236,6 +236,14 @@ services.udev.packages = [ pkgs.hackrf ];
         wineWowPackages.waylandFull
         winetricks
         gcc
+        libGL
+        
+        xorg.libX11
+        xorg.libXcursor
+        xorg.libXrandr
+        xorg.libXinerama
+        xorg.libXi
+          libXxf86vm
   
         
     ];
