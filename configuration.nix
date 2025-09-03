@@ -243,7 +243,7 @@ services.udev.packages = [ pkgs.hackrf ];
         xorg.libXrandr
         xorg.libXinerama
         xorg.libXi
-          libXxf86vm
+        xorg. libXxf86vm
   
         
     ];
