@@ -237,7 +237,7 @@ services.udev.packages = [ pkgs.hackrf ];
         winetricks
         gcc
         libGL
-        
+        gl
         xorg.libX11
         xorg.libXcursor
         xorg.libXrandr
