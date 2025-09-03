@@ -235,6 +235,8 @@ services.udev.packages = [ pkgs.hackrf ];
         p7zip
         wineWowPackages.waylandFull
         winetricks
+        gcc
+  
         
     ];
   };
