@@ -226,6 +226,7 @@ services.udev.packages = [ pkgs.hackrf ];
         pavucontrol
         kismet
         wireshark
+        wineWowPackages.waylandFull
     ];
   };
 networking.firewall.trustedInterfaces = [ "incusbr0" ];
