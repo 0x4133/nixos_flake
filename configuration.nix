@@ -232,7 +232,7 @@ services.udev.packages = [ pkgs.hackrf ];
         p7zip
         wineWowPackages.waylandFull
         winetricks
-        libfreenect
+        
     ];
   };
 networking.firewall.trustedInterfaces = [ "incusbr0" ];
