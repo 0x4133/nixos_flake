@@ -226,7 +226,7 @@ services.udev.packages = [ pkgs.hackrf ];
         pavucontrol
         kismet
         wireshark
-        wineWowPackages.stable
+        
         cabextract 
         unzip 
         p7zip
