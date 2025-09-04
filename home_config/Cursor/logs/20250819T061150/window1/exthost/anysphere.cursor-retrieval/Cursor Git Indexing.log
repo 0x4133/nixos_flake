@@ -1,0 +1,314 @@
+2025-08-19 06:11:57.875 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2025-08-19 06:11:57.875 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2025-08-19 06:11:58.212 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 06:12:18.809 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2025-08-19 06:12:18.809 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2025-08-19 06:12:19.084 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 06:17:15.418 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 06:17:15.418 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 06:17:19.084 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 06:22:15.415 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 06:22:15.416 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 06:22:19.083 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 06:27:15.416 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 06:27:15.416 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 06:27:19.084 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 06:32:15.417 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 06:32:15.417 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 06:32:19.084 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 06:37:15.417 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 06:37:15.417 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 06:37:19.084 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 06:42:15.417 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 06:42:15.417 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 06:42:19.084 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 06:47:15.416 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 06:47:15.416 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 06:47:19.084 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 06:52:15.416 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 06:52:15.416 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 06:52:19.084 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 06:57:15.418 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 06:57:15.418 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 06:57:19.085 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 07:02:15.416 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 07:02:15.416 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 07:02:19.086 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 07:07:15.416 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 07:07:15.416 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 07:07:19.087 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 07:12:15.416 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 07:12:15.416 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 07:12:19.086 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 07:17:15.416 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 07:17:15.416 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 07:17:19.088 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 07:22:15.416 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 07:22:15.416 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 07:22:19.089 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 07:27:15.416 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 07:27:15.416 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 07:27:19.089 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 07:32:15.416 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 07:32:15.416 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 07:32:19.091 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 07:37:15.416 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 07:37:15.416 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 07:37:19.091 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 07:42:15.416 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 07:42:15.416 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 07:42:19.092 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 07:47:15.416 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 07:47:15.416 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 07:47:19.093 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 07:52:15.416 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 07:52:15.416 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 07:52:19.093 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 07:57:15.415 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 07:57:15.415 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 07:57:19.093 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 08:02:15.416 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 08:02:15.416 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 08:02:19.094 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 08:07:15.416 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 08:07:15.416 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 08:07:19.094 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 08:12:15.416 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 08:12:15.416 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 08:12:19.094 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 08:17:15.415 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 08:17:15.415 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 08:17:19.094 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 08:22:15.416 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 08:22:15.416 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 08:22:19.095 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 08:27:15.416 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 08:27:15.416 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 08:27:19.095 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 08:32:15.416 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 08:32:15.416 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 08:32:19.095 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 08:37:15.415 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 08:37:15.415 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 08:37:19.095 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 08:42:15.416 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 08:42:15.416 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 08:42:19.096 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 08:47:15.416 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 08:47:15.416 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 08:47:19.096 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 08:52:15.416 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 08:52:15.416 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 08:52:19.097 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 08:57:15.415 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 08:57:15.416 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 08:57:19.097 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 09:02:15.415 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 09:02:15.415 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 09:02:19.097 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 09:07:15.415 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 09:07:15.415 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 09:07:19.097 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 09:12:15.415 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 09:12:15.416 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 09:12:19.097 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 09:17:15.416 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 09:17:15.416 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 09:17:19.097 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 09:22:15.416 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 09:22:15.416 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 09:22:19.097 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 09:27:15.416 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 09:27:15.416 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 09:27:19.097 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 09:32:15.415 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 09:32:15.415 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 09:32:19.097 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 09:37:15.416 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 09:37:15.416 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 09:37:19.097 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 09:42:15.416 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 09:42:15.416 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 09:42:19.097 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 09:47:15.416 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 09:47:15.416 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 09:47:19.097 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 09:52:15.415 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 09:52:15.415 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 09:52:19.097 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 09:57:15.416 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 09:57:15.416 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 09:57:19.098 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 10:02:15.415 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 10:02:15.416 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 10:02:19.099 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 10:07:15.415 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 10:07:15.415 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 10:07:19.100 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 10:12:15.416 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 10:12:15.416 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 10:12:19.101 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 10:17:15.415 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 10:17:15.416 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 10:17:19.102 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 10:22:15.416 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 10:22:15.416 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 10:22:19.103 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 10:27:15.415 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 10:27:15.416 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 10:27:19.103 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 10:32:15.415 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 10:32:15.415 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 10:32:19.103 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 10:37:15.415 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 10:37:15.415 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 10:37:19.105 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 10:42:15.415 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 10:42:15.415 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 10:42:19.106 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 10:47:15.415 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 10:47:15.416 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 10:47:19.107 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 10:52:15.415 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 10:52:15.415 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 10:52:19.107 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 10:57:15.415 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 10:57:15.416 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 10:57:19.108 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 11:02:15.415 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 11:02:15.416 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 11:02:19.108 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 11:07:15.415 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 11:07:15.415 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 11:07:19.109 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 11:12:15.416 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 11:12:15.416 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 11:12:19.109 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 11:17:15.415 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 11:17:15.415 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 11:17:19.111 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 11:22:15.415 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 11:22:15.415 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 11:22:19.111 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 11:27:15.415 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 11:27:15.415 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 11:27:19.112 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 11:32:15.415 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 11:32:15.416 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 11:32:19.112 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 11:37:15.415 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 11:37:15.416 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 11:37:19.112 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 11:42:15.415 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 11:42:15.415 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 11:42:19.114 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 11:47:15.416 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 11:47:15.416 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 11:47:19.114 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 11:52:15.415 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 11:52:15.416 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 11:52:19.115 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 11:57:15.416 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 11:57:15.416 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 11:57:19.116 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 12:02:15.416 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 12:02:15.416 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 12:02:19.116 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 12:07:15.415 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 12:07:15.415 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 12:07:19.117 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 12:12:15.415 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 12:12:15.415 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 12:12:19.117 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 12:17:15.416 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 12:17:15.416 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 12:17:19.118 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 12:22:15.416 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 12:22:15.416 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 12:22:19.120 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 12:27:15.415 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 12:27:15.416 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 12:27:19.120 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 12:32:15.415 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 12:32:15.416 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 12:32:19.120 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 12:37:15.415 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 12:37:15.415 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 12:37:19.121 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 12:42:15.415 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 12:42:15.415 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 12:42:19.121 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 12:47:15.416 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 12:47:15.416 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 12:47:19.121 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 12:52:15.415 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 12:52:15.416 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 12:52:19.122 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 12:57:15.415 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 12:57:15.415 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 12:57:19.122 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 13:02:15.415 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 13:02:15.416 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 13:02:19.123 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 13:07:15.415 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 13:07:15.416 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 13:07:19.123 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 13:12:15.416 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 13:12:15.416 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 13:12:19.123 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 13:17:15.416 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 13:17:15.416 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 13:17:19.124 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 13:22:15.415 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 13:22:15.416 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 13:22:19.125 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 13:27:15.415 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 13:27:15.415 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 13:27:19.126 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 13:32:15.415 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 13:32:15.416 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 13:32:19.126 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 13:37:15.415 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 13:37:15.416 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 13:37:19.127 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 13:42:15.415 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 13:42:15.415 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 13:42:19.127 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 13:47:15.415 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 13:47:15.415 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 13:47:19.127 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 13:52:15.416 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 13:52:15.416 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 13:52:19.127 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 13:57:15.416 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 13:57:15.416 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 13:57:19.129 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 14:02:15.416 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 14:02:15.416 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 14:02:19.130 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 14:07:15.416 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 14:07:15.416 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 14:07:19.131 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 14:12:15.416 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 14:12:15.416 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 14:12:19.131 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 14:17:15.416 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 14:17:15.416 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 14:17:19.132 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 14:22:15.415 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 14:22:15.415 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 14:22:19.133 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 14:27:15.415 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 14:27:15.416 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 14:27:19.133 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 14:32:15.415 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 14:32:15.415 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 14:32:19.134 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 14:37:15.415 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 14:37:15.415 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 14:37:19.135 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 14:42:15.415 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 14:42:15.415 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 14:42:19.135 [info] Skipping git indexing update because user is in privacy mode
+2025-08-19 14:47:15.415 [info] Privacy mode enabled - aborting git indexing
+2025-08-19 14:47:15.415 [info] Skipping git indexing update because user is in privacy mode

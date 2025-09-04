@@ -1,3 +1,6 @@
-2025/08/07-19:08:59.741 a760 Reusing MANIFEST /home/aaron/.config/arduino-ide/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
-2025/08/07-19:08:59.741 a760 Recovering log #3
-2025/08/07-19:08:59.742 a760 Reusing old log /home/aaron/.config/arduino-ide/IndexedDB/file__0.indexeddb.leveldb/000003.log 
+2025/09/01-18:33:17.889 8659 Reusing MANIFEST /home/aaron/.config/arduino-ide/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2025/09/01-18:33:17.889 8659 Recovering log #3
+2025/09/01-18:33:17.905 8659 Reusing old log /home/aaron/.config/arduino-ide/IndexedDB/file__0.indexeddb.leveldb/000003.log 
+2025/09/01-18:38:21.270 8659 Level-0 table #5: started
+2025/09/01-18:38:21.322 8659 Level-0 table #5: 1458972 bytes OK
+2025/09/01-18:38:21.328 8659 Delete type=0 #3

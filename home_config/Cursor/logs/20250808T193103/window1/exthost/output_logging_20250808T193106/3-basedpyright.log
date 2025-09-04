@@ -1,0 +1,13 @@
+[Info  - 7:31:43 PM] basedpyright language server 1.29.4 starting
+[Info  - 7:31:43 PM] Server root directory: file:///home/aaron/.cursor/extensions/anysphere.cursorpyright-1.0.8/dist
+[Info  - 7:31:43 PM] Starting service instance "radio_thing"
+Received pythonPath from Python extension: /etc/profiles/per-user/aaron/bin/python
+[Info  - 7:31:43 PM] Setting pythonPath for service "radio_thing": "/etc/profiles/per-user/aaron/bin/python"
+[Info  - 7:31:43 PM] No include entries specified; assuming /home/aaron/projects/radio_thing
+[Info  - 7:31:43 PM] Auto-excluding **/node_modules
+[Info  - 7:31:43 PM] Auto-excluding **/__pycache__
+[Info  - 7:31:43 PM] Auto-excluding **/.*
+[Info  - 7:31:43 PM] Assuming Python version 3.13.5.final.0
+[Info  - 7:31:43 PM] Found 1 source file
+[Info  - 7:31:44 PM] BG: Background analysis(1) root directory: file:///home/aaron/.cursor/extensions/anysphere.cursorpyright-1.0.8/dist
+[Info  - 7:31:44 PM] BG: Background analysis(1) started

@@ -1,0 +1,6 @@
+2025-08-18 17:39:36.623 [info] Getting Manifest... golang.go
+2025-08-18 17:39:37.383 [info] Installing extension: golang.go {"isMachineScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/aaron/.cursor/extensions/extensions.json","path":"/home/aaron/.cursor/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.2.2","date":"2025-07-07T06:13:23.028Z","vscodeVersion":"1.99.3"}}
+2025-08-18 17:39:37.462 [info] Started downloading extension: golang.go 0.48.0 file:///home/aaron/.config/Cursor/CachedExtensionVSIXs/golang.go-0.48.0-universal
+2025-08-18 17:39:38.315 [info] Extracted extension to file:///home/aaron/.cursor/extensions/golang.go-0.48.0-universal: golang.go
+2025-08-18 17:39:38.363 [info] Renamed to /home/aaron/.cursor/extensions/golang.go-0.48.0-universal
+2025-08-18 17:39:38.431 [info] Extension installed successfully: golang.go vscode-userdata:/home/aaron/.cursor/extensions/extensions.json

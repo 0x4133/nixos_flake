@@ -1,0 +1,30 @@
+2025-08-19 06:12:22.221 [warning] Dir "/home/aaron/projects/lidar2/.pixi/envs" is not watchable (directory does not exist)
+2025-08-19 06:12:22.221 [info] Starting Environment refresh
+2025-08-19 06:12:22.221 [info] Starting Environment refresh
+2025-08-19 06:12:22.221 [info] > hatch env show --json
+2025-08-19 06:12:22.221 [info] cwd: .
+2025-08-19 06:12:22.242 [info] Environments refresh finished (event): 205 milliseconds
+2025-08-19 06:12:22.242 [info] Environments refresh finished (event): 204 milliseconds
+2025-08-19 06:12:22.242 [info] Environments refresh paths discovered: 205 milliseconds
+2025-08-19 06:12:22.242 [info] Environments refresh paths discovered: 204 milliseconds
+2025-08-19 06:12:22.244 [info] Environment refresh took 208 milliseconds
+2025-08-19 06:12:22.245 [info] Environment refresh took 207 milliseconds
+2025-08-19 06:12:22.258 [info] > pyenv which python
+2025-08-19 06:12:22.258 [info] cwd: .
+2025-08-19 06:12:22.277 [info] Editor support is inactive since language server is set to None.
+2025-08-19 06:12:22.277 [info] Python interpreter path: /etc/profiles/per-user/aaron/bin/python
+2025-08-19 06:12:22.302 [info] > /etc/profiles/per-user/aaron/bin/python -I ~/.cursor/extensions/ms-python.python-2025.6.1-linux-x64/python_files/get_output_via_markers.py ~/.cursor/extensions/ms-python.python-2025.6.1-linux-x64/python_files/interpreterInfo.py
+2025-08-19 06:12:24.040 [info] Discover tests for workspace name: lidar2 - uri: /home/aaron/projects/lidar2/main.py
+2025-08-19 06:14:28.260 [info] CreateEnv Trigger - Skipping for /home/aaron/projects/lidar2/main.py
+2025-08-19 06:14:28.544 [info] Discover tests for workspace name: lidar2 - uri: /home/aaron/projects/lidar2/main.py
+2025-08-19 06:14:28.916 [info] Send text to terminal: /etc/profiles/per-user/aaron/bin/python /home/aaron/projects/lidar2/main.py
+2025-08-19 06:14:40.654 [info] > ./venv/bin/python -I ~/.cursor/extensions/ms-python.python-2025.6.1-linux-x64/python_files/get_output_via_markers.py ~/.cursor/extensions/ms-python.python-2025.6.1-linux-x64/python_files/interpreterInfo.py
+2025-08-19 06:14:40.654 [info] Environments refresh paths discovered: 34 milliseconds
+2025-08-19 06:14:40.707 [info] Environments refresh finished (event): 87 milliseconds
+2025-08-19 06:14:44.140 [info] Editor support is inactive since language server is set to None.
+2025-08-19 06:14:44.143 [info] Active interpreter [/home/aaron/projects/lidar2]:  /home/aaron/projects/lidar2/venv/bin/python
+2025-08-19 06:14:44.148 [info] Discover tests for workspace name: lidar2 - uri: /home/aaron/projects/lidar2
+2025-08-19 06:14:44.148 [info] Python interpreter path: ./venv/bin/python
+2025-08-19 06:15:35.296 [info] Send text to terminal: /home/aaron/projects/lidar2/venv/bin/python /home/aaron/projects/lidar2/main.py
+2025-08-19 06:15:45.032 [info] Send text to terminal: /home/aaron/projects/lidar2/venv/bin/python /home/aaron/projects/lidar2/main.py
+2025-08-19 06:38:52.958 [info] Send text to terminal: source /home/aaron/projects/lidar2/venv/bin/activate

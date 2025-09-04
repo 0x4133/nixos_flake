@@ -1,0 +1,195 @@
+20:07:52.986: Platform: Wayland
+20:07:52.986: CPU Name: Intel(R) Xeon(R) CPU E5-2687W v4 @ 3.00GHz
+20:07:52.986: CPU Speed: 1197.550MHz
+20:07:52.987: CPU Name: Intel(R) Xeon(R) CPU E5-2687W v4 @ 3.00GHz
+20:07:52.987: CPU Speed: 2200.000MHz
+20:07:52.987: CPU Name: Intel(R) Xeon(R) CPU E5-2687W v4 @ 3.00GHz
+20:07:52.987: CPU Speed: 1200.000MHz
+20:07:52.987: CPU Name: Intel(R) Xeon(R) CPU E5-2687W v4 @ 3.00GHz
+20:07:52.987: CPU Speed: 1200.000MHz
+20:07:52.988: Physical Cores: 24, Logical Cores: 48
+20:07:52.988: Physical Memory: 64301MB Total, 59651MB Free
+20:07:52.988: Kernel Version: Linux 6.12.40
+20:07:52.988: Distribution: NixOS "25.11"
+20:07:52.988: Desktop Environment: Hyprland (hyprland)
+20:07:52.988: Session Type: wayland
+20:07:52.990: Current Date/Time: 2025-08-21, 08:07:52 PM
+20:07:52.990: Browser Hardware Acceleration: true
+20:07:52.990: Qt Version: 6.9.1 (runtime), 6.9.1 (compiled)
+20:07:52.990: Portable mode: false
+20:07:53.036: OBS 31.1.1 (linux)
+20:07:53.036: ---------------------------------
+20:07:53.037: ---------------------------------
+20:07:53.037: audio settings reset:
+20:07:53.037: 	samples per sec: 48000
+20:07:53.037: 	speakers:        2
+20:07:53.037: 	max buffering:   960 milliseconds
+20:07:53.037: 	buffering type:  dynamically increasing
+20:07:53.039: ---------------------------------
+20:07:53.039: Initializing OpenGL...
+20:07:53.039: Using EGL/Wayland
+20:07:53.105: Initialized EGL 1.5
+20:07:53.127: Loading up OpenGL on adapter NVIDIA Corporation NVIDIA GeForce GTX 960/PCIe/SSE2
+20:07:53.127: OpenGL loaded successfully, version 3.3.0 NVIDIA 570.172.08, shading language 3.30 NVIDIA via Cg compiler
+20:07:53.159: ---------------------------------
+20:07:53.159: video settings reset:
+20:07:53.159: 	base resolution:   1920x1080
+20:07:53.159: 	output resolution: 1280x720
+20:07:53.159: 	downscale filter:  Bicubic
+20:07:53.159: 	fps:               30/1
+20:07:53.159: 	format:            NV12
+20:07:53.159: 	YUV mode:          Rec. 709/Partial
+20:07:53.160: NV12 texture support enabled
+20:07:53.160: P010 texture support not available
+20:07:53.160: Audio monitoring device:
+20:07:53.160: 	name: Default
+20:07:53.160: 	id: default
+20:07:53.172: ---------------------------------
+20:07:53.182: Failed to load 'en-US' text for module: 'decklink-captions.so'
+20:07:53.189: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+20:07:53.195: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+20:07:53.195: Failed to initialize module 'decklink.so'
+20:07:53.461: [pipewire] Available capture sources:
+20:07:53.461: [pipewire]     - Monitor source
+20:07:53.461: [pipewire]     - Window source
+20:07:53.486: v4l2loopback not installed, virtual camera not registered
+20:07:53.496: [obs-browser]: Version 2.25.3
+20:07:53.496: [obs-browser]: CEF Version 138.0.7204.97 (runtime), 138.0.17+gac9b751+chromium-138.0.7204.97 (compiled)
+20:07:53.496: [obs-browser]: Blacklisted driver detected, disabling browser source hardware acceleration.
+20:07:53.663: VAAPI: API version 1.22
+20:07:53.685: FFmpeg VAAPI H264 encoding supported
+20:07:53.828: FFmpeg VAAPI AV1 encoding supported
+20:07:53.972: FFmpeg VAAPI HEVC encoding supported
+20:07:54.429: [obs-nvenc] NVENC version: 12.1 (compiled) / 13.0 (driver), CUDA driver version: 12.80, AV1 supported: false
+20:07:54.990: [obs-websocket] [obs_module_load] you can haz websockets (Version: 5.6.2 | RPC Version: 1)
+20:07:54.990: [obs-websocket] [obs_module_load] Qt version (compile-time): 6.9.1 | Qt version (run-time): 6.9.1
+20:07:54.990: [obs-websocket] [obs_module_load] Linked ASIO Version: 102400
+20:07:54.990: DEPRECATION: obs_frontend_get_global_config is deprecated. Read from global or user configuration explicitly instead.
+20:07:54.998: [obs-websocket] [obs_module_load] Module loaded.
+20:07:55.039: [vlc-video]: VLC 3.0.21 Vetinari found, VLC video source enabled
+20:07:55.067: [linux-vkcapture] plugin loaded successfully (version 1.5.2)
+20:07:55.158: [obs-backgroundremoval] Plugin loaded successfully (version 1.1.13)
+20:07:55.159: [obs-backgroundremoval] Failed to open config file /home/aaron/.config/obs-studio/plugin_config/obs-backgroundremoval/config.ini
+20:07:55.159: [obs-backgroundremoval] Failed to open config file /home/aaron/.config/obs-studio/plugin_config/obs-backgroundremoval/config.ini
+20:07:55.453: [obs-backgroundremoval] Latest release is 
+20:07:55.494: [obs-gstreamer] build: 0.4.1, gst-runtime: 1.26.0
+20:07:55.509: ---------------------------------
+20:07:55.510:   Loaded Modules:
+20:07:55.510:     obs-gstreamer.so
+20:07:55.510:     obs-backgroundremoval.so
+20:07:55.510:     linux-vkcapture.so
+20:07:55.510:     linux-pipewire-audio.so
+20:07:55.510:     libwlrobs.so
+20:07:55.510:     vlc-video.so
+20:07:55.510:     text-freetype2.so
+20:07:55.510:     rtmp-services.so
+20:07:55.510:     obs-x264.so
+20:07:55.510:     obs-websocket.so
+20:07:55.510:     obs-webrtc.so
+20:07:55.510:     obs-vst.so
+20:07:55.510:     obs-transitions.so
+20:07:55.510:     obs-qsv11.so
+20:07:55.510:     obs-outputs.so
+20:07:55.510:     obs-nvenc.so
+20:07:55.510:     obs-libfdk.so
+20:07:55.510:     obs-filters.so
+20:07:55.510:     obs-ffmpeg.so
+20:07:55.510:     obs-browser.so
+20:07:55.510:     linux-v4l2.so
+20:07:55.510:     linux-pulseaudio.so
+20:07:55.510:     linux-pipewire.so
+20:07:55.510:     linux-jack.so
+20:07:55.510:     linux-capture.so
+20:07:55.510:     linux-alsa.so
+20:07:55.510:     image-source.so
+20:07:55.510:     frontend-tools.so
+20:07:55.510:     decklink-output-ui.so
+20:07:55.510:     decklink-captions.so
+20:07:55.510: ---------------------------------
+20:07:55.511: ---------------------------------
+20:07:55.511: Available Encoders:
+20:07:55.511:   Video Encoders:
+20:07:55.511: 	- ffmpeg_svt_av1 (SVT-AV1)
+20:07:55.511: 	- ffmpeg_aom_av1 (AOM AV1)
+20:07:55.511: 	- ffmpeg_vaapi_tex (FFmpeg VAAPI H.264)
+20:07:55.511: 	- av1_ffmpeg_vaapi_tex (FFmpeg VAAPI AV1)
+20:07:55.511: 	- hevc_ffmpeg_vaapi_tex (FFmpeg VAAPI HEVC)
+20:07:55.511: 	- obs_nvenc_h264_tex (NVIDIA NVENC H.264)
+20:07:55.511: 	- obs_nvenc_hevc_tex (NVIDIA NVENC HEVC)
+20:07:55.511: 	- obs_x264 (x264)
+20:07:55.511:   Audio Encoders:
+20:07:55.511: 	- ffmpeg_aac (FFmpeg AAC)
+20:07:55.511: 	- ffmpeg_opus (FFmpeg Opus)
+20:07:55.511: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16-bit))
+20:07:55.511: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24-bit))
+20:07:55.511: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32-bit float))
+20:07:55.511: 	- ffmpeg_alac (FFmpeg ALAC (24-bit))
+20:07:55.511: 	- ffmpeg_flac (FFmpeg FLAC (16-bit))
+20:07:55.511: 	- libfdk_aac (libfdk AAC)
+20:07:55.511: ==== Startup complete ===============================================
+20:07:55.580: All scene data cleared
+20:07:55.580: ------------------------------------------------
+20:07:55.591: pulse-input: Server name: 'PulseAudio (on PipeWire 1.4.6) 15.0.0'
+20:07:55.592: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+20:07:55.592: pulse-input: Started recording from 'alsa_output.pci-0000_00_1b.0.analog-stereo.monitor' (default)
+20:07:55.592: [Loaded global audio device]: 'Desktop Audio'
+20:07:55.594: pulse-input: Server name: 'PulseAudio (on PipeWire 1.4.6) 15.0.0'
+20:07:55.594: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+20:07:55.594: pulse-input: Started recording from 'alsa_output.pci-0000_00_1b.0.analog-stereo.monitor' (default)
+20:07:55.595: [Loaded global audio device]: 'Mic/Aux'
+20:07:55.595: v4l2-input: Start capture from /dev/video0
+20:07:55.597: v4l2-input: Input: 0
+20:07:55.597: v4l2-input: Resolution: 640x480
+20:07:55.597: v4l2-input: Pixelformat: UYVY
+20:07:55.597: v4l2-input: Linesize: 1280 Bytes
+20:07:55.597: v4l2-input: Framerate: 60.00 fps
+20:07:55.598: v4l2-input: /dev/video0: select timeout set to 83333 (5x frame periods)
+20:07:55.601: Switched to scene 'Scene'
+20:07:55.601: ------------------------------------------------
+20:07:55.601: Loaded scenes:
+20:07:55.601: - scene 'Scene':
+20:07:55.601:     - source: 'Video Capture Device (V4L2)' (v4l2_input)
+20:07:55.601: ------------------------------------------------
+20:07:55.909: v4l2-input: /dev/video0: select timed out
+20:07:55.909: v4l2-input: /dev/video0: failed to log status
+20:07:56.174: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Desktop Audio)
+20:07:56.174: 
+20:07:56.494: adding 64 milliseconds of audio buffering, total audio buffering is now 85 milliseconds (source: Mic/Aux)
+20:07:56.494: 
+20:08:19.120: Attempted to add Scene without specifying a canvas! Using default canvas instead.
+20:08:19.125: Switched to Preview/Program mode
+20:08:19.125: ------------------------------------------------
+20:09:19.280: Settings changed (outputs)
+20:09:19.280: ------------------------------------------------
+20:09:24.335: [obs-nvenc: 'simple_video_stream'] settings:
+20:09:24.335: 	codec:        H264
+20:09:24.335: 	rate_control: CBR
+20:09:24.335: 	bitrate:      2500
+20:09:24.335: 	keyint:       250
+20:09:24.335: 	preset:       p5
+20:09:24.335: 	tuning:       hq
+20:09:24.335: 	multipass:    qres
+20:09:24.335: 	profile:      high
+20:09:24.335: 	width:        1280
+20:09:24.335: 	height:       720
+20:09:24.335: 	b-frames:     2
+20:09:24.335: 	b-ref-mode:   0
+20:09:24.335: 	lookahead:    true (8 frames)
+20:09:24.335: 	aq:           true
+20:09:24.335: 
+20:09:24.387: libfdk_aac encoder created
+20:09:24.387: libfdk_aac bitrate: 160, channels: 2
+20:09:24.390: ==== Recording Start ===============================================
+20:09:24.390: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/aaron/projects/kinect/2025-08-21 20-09-23.mkv'...
+20:09:30.905: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/aaron/projects/kinect/2025-08-21 20-09-23.mkv' stopped
+20:09:30.905: Output 'simple_file_output': stopping
+20:09:30.905: Output 'simple_file_output': Total frames output: 179
+20:09:30.905: Output 'simple_file_output': Total drawn frames: 194 (196 attempted)
+20:09:30.905: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 2 (1.0%)
+20:09:30.906: Video stopped, number of skipped frames due to encoding lag: 1/194 (0.5%)
+20:09:30.907: ==== Recording Stop ================================================
+20:09:31.000: libfdk_aac encoder destroyed
+20:12:03.909: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Try to disable surface 0x30d6be80 with focusing surface 0x3163ce30
+20:12:06.568: alsa-input: PCM 'default' rate set to 44100
+20:12:06.568: alsa-input: PCM 'default' channels set to 2
+20:12:06.652: User added source 'Audio Capture Device (ALSA)' (alsa_input_capture) to scene 'Scene'

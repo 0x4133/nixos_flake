@@ -1,0 +1,303 @@
+2025-08-18 15:17:42.855 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.datawrangler' wants API proposal 'debugFocus' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-18 15:17:42.856 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-copilot-data-analysis' wants API proposal 'chatVariableResolver' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-18 15:17:42.857 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-18 15:17:42.857 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-python-envs' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-18 15:17:42.858 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'chatReadonlyPromptReference' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-18 15:17:42.858 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-azuretools.vscode-azure-github-copilot' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-18 15:17:42.859 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'vscjava.vscode-java-pack' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-18 15:17:42.859 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'chatParticipant' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-18 15:17:42.860 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'languageModels' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-18 15:17:42.913 [warning] Missing property "modes" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-08-18 15:17:42.914 [warning] Missing property "modes2" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-08-18 15:17:42.914 [warning] Missing property "modes3" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-08-18 15:17:42.915 [warning] Missing property "explicitEnableOrDisable" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-08-18 15:17:42.916 [warning] Missing property "lastBackgroundBugbotAt" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-08-18 15:17:42.916 [warning] Missing property "repositoryIndexingError" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-08-18 15:17:42.917 [warning] Missing property "repositoryIndexingStatus" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-08-18 15:17:42.917 [warning] Missing property "repositoryLastSyncedTime" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-08-18 15:17:42.918 [warning] Missing property "repositoryIndexingJobs" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-08-18 15:17:42.918 [warning] Missing property "mainLocalRepositoryProgress" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-08-18 15:17:43.045 [warning] Creation of workbench contribution 'workbench.contrib.treeSitterTokenizationInstantiator' took 56ms.
+2025-08-18 15:17:43.723 [info] Started local extension host with pid 16890.
+2025-08-18 15:17:44.285 [warning] [ms-python.python]: Cannot register 'python.venvPath'. This property is already registered.
+2025-08-18 15:17:45.131 [warning] No search provider registered for scheme: file, waiting
+2025-08-18 15:17:47.301 [info] [perf] Render performance baseline is 33ms
+2025-08-18 15:18:11.671 [info] [Extensions]: Checking for updates. Reason: Product update
+2025-08-18 16:43:01.247 [error] [Extension Host] Error: Start of the range is outside the file.
+	at o (/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:245534)
+	at t.changeModel (/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:246718)
+	at t.formatDiffHistory (/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:272183)
+	at async Promise.allSettled (index 0)
+	at async ive.$getEverythingAllLocalProviderRunCommand (file:///nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:1386633)
+2025-08-18 16:44:04.186 [error] Invoking deltaDecorations recursively could lead to leaking decorations.: Error: Invoking deltaDecorations recursively could lead to leaking decorations.
+    at jA.deltaDecorations (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:4111)
+    at kZs.clearDecorationsFast (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7034:13433)
+    at kZs.clearSuggestions (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7034:13509)
+    at kZs.rejectAndResetAllCppSuggestions (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7034:12159)
+    at Bwt.value (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7017:25677)
+    at ve.B (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:48:2398)
+    at ve.C (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:48:2468)
+    at ve.fire (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:48:2532)
+    at Bwt.value (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:294:15861)
+    at ve.B (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:48:2398)
+    at ve.fire (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:48:2617)
+    at dfo.r (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:30293)
+    at dfo.emitOutgoingEvent (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:30047)
+    at Bwt.value (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:59557)
+    at ve.B (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:48:2398)
+    at ve.fire (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:48:2617)
+    at Vdo.y (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:16116)
+    at Vdo.endDeferredEmit (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:15586)
+    at jA.deltaDecorations (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:4256)
+    at Fln.X (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:4697:6614)
+    at Fln.removeAllInEditorNotModel (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:4701:3809)
+    at Fln.update (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:4701:3081)
+    at Gve.update (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:4703:3080)
+    at Bwt.value (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:4703:717)
+    at ve.B (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:48:2398)
+    at ve.C (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:48:2468)
+    at ve.fire (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:48:2686)
+    at Bwt.value (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:294:15608)
+    at ve.B (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:48:2398)
+    at ve.fire (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:48:2617)
+    at dfo.r (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:30293)
+    at dfo.endEmitViewEvents (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:30796)
+    at vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:292:4024
+    at Object.batchChanges (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:294:14762)
+    at Yfo.U (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:292:3938)
+    at Yfo.setCursorStates (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:292:1929)
+    at a.runCoreEditorCommand (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:91:18825)
+    at a.runEditorCommand (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:91:11487)
+    at vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:54:10718
+    at vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:54:10627
+    at Ynr.invokeFunction (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:5592:676)
+    at A0.invokeWithinContext (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:292:12623)
+    at xtr.runEditorCommand (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:54:10552)
+    at a.runCommand (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:54:10665)
+    at handler (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:54:9230)
+    at Ynr.invokeFunction (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:5592:676)
+    at vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:5297:1538
+    at j9 (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:51:36764)
+    at s$s.n (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:5297:1431)
+    at s$s.executeCommand (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:5297:1146)
+    at L$t.N (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:5280:17638)
+    at L$t.L (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:5280:15320)
+    at vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:5281:2504 Invoking deltaDecorations recursively could lead to leaking decorations.
+2025-08-18 16:44:07.216 [error] Invoking deltaDecorations recursively could lead to leaking decorations.: Error: Invoking deltaDecorations recursively could lead to leaking decorations.
+    at jA.deltaDecorations (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:4111)
+    at kZs.clearDecorationsFast (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7034:13433)
+    at kZs.clearSuggestions (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7034:13509)
+    at kZs.rejectAndResetAllCppSuggestions (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7034:12159)
+    at Bwt.value (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7017:25677)
+    at ve.B (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:48:2398)
+    at ve.C (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:48:2468)
+    at ve.fire (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:48:2532)
+    at Bwt.value (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:294:15861)
+    at ve.B (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:48:2398)
+    at ve.fire (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:48:2617)
+    at dfo.r (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:30293)
+    at dfo.emitOutgoingEvent (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:30047)
+    at Bwt.value (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:59557)
+    at ve.B (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:48:2398)
+    at ve.fire (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:48:2617)
+    at Vdo.y (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:16116)
+    at Vdo.endDeferredEmit (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:15586)
+    at jA.deltaDecorations (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:4256)
+    at Fln.X (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:4697:6614)
+    at Fln.removeAllInEditorNotModel (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:4701:3809)
+    at Fln.update (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:4701:3081)
+    at Gve.update (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:4703:3080)
+    at Bwt.value (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:4703:717)
+    at ve.B (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:48:2398)
+    at ve.C (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:48:2468)
+    at ve.fire (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:48:2686)
+    at Bwt.value (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:294:15608)
+    at ve.B (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:48:2398)
+    at ve.fire (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:48:2617)
+    at dfo.r (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:30293)
+    at dfo.endEmitViewEvents (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:30796)
+    at vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:292:4024
+    at Object.batchChanges (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:294:14762)
+    at Yfo.U (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:292:3938)
+    at Yfo.setCursorStates (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:292:1929)
+    at a.runCoreEditorCommand (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:91:18825)
+    at a.runEditorCommand (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:91:11487)
+    at vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:54:10718
+    at vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:54:10627
+    at Ynr.invokeFunction (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:5592:676)
+    at A0.invokeWithinContext (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:292:12623)
+    at xtr.runEditorCommand (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:54:10552)
+    at a.runCommand (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:54:10665)
+    at handler (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:54:9230)
+    at Ynr.invokeFunction (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:5592:676)
+    at vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:5297:1538
+    at j9 (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:51:36764)
+    at s$s.n (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:5297:1431)
+    at s$s.executeCommand (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:5297:1146)
+    at L$t.N (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:5280:17638)
+    at L$t.L (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:5280:15320)
+    at vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:5281:2504 Invoking deltaDecorations recursively could lead to leaking decorations.
+2025-08-18 16:44:43.128 [error] Invoking deltaDecorations recursively could lead to leaking decorations.: Error: Invoking deltaDecorations recursively could lead to leaking decorations.
+    at jA.deltaDecorations (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:4111)
+    at kZs.clearDecorationsFast (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7034:13433)
+    at kZs.clearSuggestions (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7034:13509)
+    at kZs.rejectAndResetAllCppSuggestions (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7034:12159)
+    at Bwt.value (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7017:25677)
+    at ve.B (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:48:2398)
+    at ve.C (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:48:2468)
+    at ve.fire (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:48:2532)
+    at Bwt.value (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:294:15861)
+    at ve.B (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:48:2398)
+    at ve.fire (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:48:2617)
+    at dfo.r (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:30293)
+    at dfo.emitOutgoingEvent (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:30047)
+    at Bwt.value (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:291:59557)
+    at ve.B (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:48:2398)
+    at ve.fire (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:48:2617)
+    at Vdo.y (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:16116)
+    at Vdo.endDeferredEmit (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:15586)
+    at jA.deltaDecorations (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:4256)
+    at Fln.X (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:4697:6614)
+    at Fln.removeAllInEditorNotModel (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:4701:3809)
+    at Fln.update (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:4701:3081)
+    at Gve.update (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:4703:3080)
+    at Bwt.value (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:4703:717)
+    at ve.B (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:48:2398)
+    at ve.C (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:48:2468)
+    at ve.fire (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:48:2686)
+    at Bwt.value (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:294:15608)
+    at ve.B (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:48:2398)
+    at ve.fire (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:48:2617)
+    at dfo.r (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:30293)
+    at dfo.endEmitViewEvents (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:290:30796)
+    at vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:292:4024
+    at Object.batchChanges (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:294:14762)
+    at Yfo.U (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:292:3938)
+    at Yfo.setCursorStates (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:292:1929)
+    at e.runCoreEditorCommand (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:91:15064)
+    at Noo.moveTo (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:98:6841)
+    at Noo.dispatchMouse (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:98:6697)
+    at Coo.F (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:95:52425)
+    at Coo.start (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:95:50769)
+    at Roo.F (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:95:49154)
+    at vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:95:46754
+    at HTMLDivElement.<anonymous> (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:92:27312) Invoking deltaDecorations recursively could lead to leaking decorations.
+2025-08-18 17:18:44.189 [error] Cannot read properties of undefined (reading 'dimensions'): TypeError: Cannot read properties of undefined (reading 'dimensions')
+    at get dimensions (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:107439)
+    at u.scrollLines (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:50958)
+    at x.scrollLines (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:27874)
+    at x.scrollToBottom (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:28146)
+    at u.scrollToBottom (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:484988)
+    at lDe.scrollToBottom (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:4597:14671)
+    at zne.sendText (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:4617:9753) Cannot read properties of undefined (reading 'dimensions')
+2025-08-18 17:21:07.143 [error] [Extension Host] Error: Start of the range is outside the file.
+	at o (/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:245534)
+	at t.changeModel (/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:246718)
+	at t.formatDiffHistory (/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:272183)
+	at async Promise.allSettled (index 0)
+	at async ive.$getEverythingAllLocalProviderRunCommand (file:///nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:1386633)
+2025-08-18 17:32:11.129 [warning] [backup tracker] suspended, ignoring dirty change event file:///home/aaron/projects/radio_thing/hls_lfcd2.py 
+2025-08-18 17:32:13.710 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.datawrangler' wants API proposal 'debugFocus' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-18 17:32:13.711 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-copilot-data-analysis' wants API proposal 'chatVariableResolver' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-18 17:32:13.711 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-18 17:32:13.711 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-python-envs' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-18 17:32:13.711 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'chatReadonlyPromptReference' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-18 17:32:13.712 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-azuretools.vscode-azure-github-copilot' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-18 17:32:13.712 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'vscjava.vscode-java-pack' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-18 17:32:13.712 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'chatParticipant' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-18 17:32:13.713 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'languageModels' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-18 17:32:13.750 [warning] Missing property "modes" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-08-18 17:32:13.751 [warning] Missing property "modes2" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-08-18 17:32:13.751 [warning] Missing property "modes3" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-08-18 17:32:13.751 [warning] Missing property "explicitEnableOrDisable" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-08-18 17:32:13.752 [warning] Missing property "lastBackgroundBugbotAt" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-08-18 17:32:13.752 [warning] Missing property "repositoryIndexingError" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-08-18 17:32:13.752 [warning] Missing property "repositoryIndexingStatus" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-08-18 17:32:13.752 [warning] Missing property "repositoryLastSyncedTime" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-08-18 17:32:13.753 [warning] Missing property "repositoryIndexingJobs" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-08-18 17:32:13.753 [warning] Missing property "mainLocalRepositoryProgress" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-08-18 17:32:13.758 [warning] Missing property "shouldHideWarning" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-08-18 17:32:13.759 [warning] Missing property "persistentChatMetadata" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-08-18 17:32:13.759 [warning] Missing property "aiPanePosition" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-08-18 17:32:13.759 [warning] Missing property "shouldRerankByDefault" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-08-18 17:32:13.760 [warning] Missing property "indexingData" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-08-18 17:32:13.760 [warning] Missing property "composerState" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-08-18 17:32:13.760 [warning] Missing property "isCursorPredictionOutOfRangeIndicatorMinimized2" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-08-18 17:32:13.761 [warning] Missing property "needsComposerInitialOpening" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-08-18 17:32:13.761 [warning] Missing property "approvedProjectMcpServers" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-08-18 17:32:13.761 [warning] Missing property "disabledMcpServers" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-08-18 17:32:13.761 [warning] Missing property "eligibleForSnippetLearning" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-08-18 17:32:13.762 [warning] Missing property "solidJSLeakRecords" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-08-18 17:32:14.198 [info] Started local extension host with pid 31966.
+2025-08-18 17:32:14.719 [warning] [ms-python.python]: Cannot register 'python.venvPath'. This property is already registered.
+2025-08-18 17:32:17.770 [info] [perf] Render performance baseline is 32ms
+2025-08-18 17:40:47.038 [error] no package data for file:///home/aaron/projects/lidar/main.go: Error: no package data for file:///home/aaron/projects/lidar/main.go
+	at handleResponse (/home/aaron/.cursor/extensions/golang.go-0.48.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/aaron/.cursor/extensions/golang.go-0.48.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/aaron/.cursor/extensions/golang.go-0.48.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/aaron/.cursor/extensions/golang.go-0.48.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:483:21) no package data for file:///home/aaron/projects/lidar/main.go
+2025-08-18 17:49:06.371 [error] Error: 550:79: expected ';', found Raw (and 3 more errors)
+	at handleResponse (/home/aaron/.cursor/extensions/golang.go-0.48.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/aaron/.cursor/extensions/golang.go-0.48.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/aaron/.cursor/extensions/golang.go-0.48.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/aaron/.cursor/extensions/golang.go-0.48.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2025-08-18 17:56:53.278 [error] [200] potential listener LEAK detected, having 175 listeners already. MOST frequent listener (1):: Error
+    at cfl.create (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:46:11685)
+    at _Xs.q (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:48:1382)
+    at new M0t (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:91:136680)
+    at AS.Lb (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:292:12331)
+    at new A0 (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:292:10702)
+    at new AS (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:489:241802)
+    at Ynr.o (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:5592:1593)
+    at Ynr.createInstance (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:5592:1089)
+    at Object.fn (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:4612:748)
+    at Hho (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:277:1030)
+    at X$e (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:277:784)
+    at $1t (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:277:2588)
+    at iAc (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:277:4026)
+    at vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:277:3449
+    at CW (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:277:2766)
+    at eAc (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:277:3442)
+    at CW (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:277:2777)
+    at xM (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:275:22274)
+    at tus.r [as setData] (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:277:17382)
+    at setData (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:491:21660)
+    at vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:1348:44641
+    at vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:5417:490
+    at vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:1348:44631
+    at gd.updateComposerDataSetStore (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:1348:33791)
+    at vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:51:37011
+    at j9 (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:51:36764)
+    at n.value (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:51:37000)
+    at gd.updateComposerBubbleSetStore (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:1348:44598)
+    at vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:51:37011
+    at j9 (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:51:36764)
+    at n.value (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:51:37000)
+    at cFs.setBubbleData (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:5417:439)
+    at cFs.getOrCreateBubbleId (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:5417:3844)
+    at cFs.handleInitialToolCall (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:5417:4717)
+    at lsn.toolWrappedStream (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:4214:19375)
+    at async Cet (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:1376:15012)
+    at async PC.handleStreamComposer (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:1425:2574)
+    at async vin.streamResponse (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:1376:25326)
+    at async cFs.<anonymous> (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:5417:852)
+    at async sFs.<anonymous> (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:5373:2290)
+    at async hFs.<anonymous> (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:5435:3165)
+    at async Nne.processCodeBlocks (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:1479:3232)
+    at async vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:2565:21811
+    at async lJ.submitChatMaybeAbortCurrent (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:2565:18150)
+    at async si (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:4516:24730) [200] potential listener LEAK detected, having 175 listeners already. MOST frequent listener (1):
+2025-08-18 18:00:42.875 [error] Error: 439:26: expected ';', found Creating (and 9 more errors)
+	at handleResponse (/home/aaron/.cursor/extensions/golang.go-0.48.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/aaron/.cursor/extensions/golang.go-0.48.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/aaron/.cursor/extensions/golang.go-0.48.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/aaron/.cursor/extensions/golang.go-0.48.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2025-08-18 18:00:46.535 [error] Error: 472:26: expected ';', found Point (and 8 more errors)
+	at handleResponse (/home/aaron/.cursor/extensions/golang.go-0.48.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/aaron/.cursor/extensions/golang.go-0.48.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/aaron/.cursor/extensions/golang.go-0.48.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/aaron/.cursor/extensions/golang.go-0.48.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:483:21)

@@ -1,0 +1,13 @@
+2025-08-08 19:30:34.325 [info] Added views:outline in workbench.view.explorer
+2025-08-08 19:30:34.325 [info] Added views:workbench.view.search in workbench.view.search
+2025-08-08 19:30:34.325 [info] Added views:workbench.scm in workbench.view.scm
+2025-08-08 19:30:34.325 [info] Added views:workbench.panel.markers.view in workbench.panel.markers
+2025-08-08 19:30:34.325 [info] Added views:workbench.panel.output in workbench.panel.output
+2025-08-08 19:30:34.325 [info] Added views:terminal in terminal
+2025-08-08 19:30:34.325 [info] Added views:timeline in workbench.view.explorer
+2025-08-08 19:30:34.325 [info] Added views:workbench.panel.aichat.view.9c69764a-dcbb-4681-b782-fb397f3bdc58 in workbench.panel.aichat.cfa2c732-eb9f-4060-a5bb-470538c94289
+2025-08-08 19:30:34.325 [info] Added views:workbench.explorer.fileView in workbench.view.explorer
+2025-08-08 19:30:34.575 [info] Added views:workbench.debug.welcome in workbench.view.debug
+2025-08-08 19:30:35.092 [info] Added views:vscode-containers.views.containers,vscode-containers.views.images,vscode-containers.views.registries,vscode-containers.views.networks,vscode-containers.views.volumes,vscode-containers.views.dockerContexts,vscode-containers.views.help in workbench.view.extension.containersView
+2025-08-08 19:30:36.088 [info] Added views:workbench.panel.repl.view in workbench.panel.repl
+2025-08-08 19:30:36.245 [info] Added views:~remote.forwardedPorts in ~remote.forwardedPortsContainer

@@ -1,0 +1,87 @@
+2025-08-18 15:17:45.301 [info] Extension host with pid 16890 started
+2025-08-18 15:17:45.302 [info] Skipping acquiring lock for /home/aaron/.config/Cursor/User/workspaceStorage/123ae52878b5d78ba4519d1f1fa580e8.
+2025-08-18 15:17:45.423 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-08-18 15:17:45.458 [info] ExtensionService#_doActivateExtension anysphere.cursorpyright, startup: false, activationEvent: 'onLanguage:python'
+2025-08-18 15:17:45.524 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2025-08-18 15:17:46.303 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2025-08-18 15:17:46.428 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-08-18 15:17:46.558 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-08-18 15:17:46.634 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-08-18 15:17:46.688 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-08-18 15:17:46.811 [info] Eager extensions activated
+2025-08-18 15:17:46.915 [info] ExtensionService#_doActivateExtension anysphere.cursor-always-local, startup: false, activationEvent: 'onStartupFinished'
+2025-08-18 15:17:47.253 [info] ExtensionService#_doActivateExtension anysphere.cursor-deeplink, startup: false, activationEvent: 'onStartupFinished'
+2025-08-18 15:17:47.320 [info] ExtensionService#_doActivateExtension anysphere.cursor-retrieval, startup: false, activationEvent: 'onStartupFinished'
+2025-08-18 15:17:47.738 [info] ExtensionService#_doActivateExtension anysphere.cursor-shadow-workspace, startup: false, activationEvent: 'onStartupFinished'
+2025-08-18 15:17:47.826 [info] ExtensionService#_doActivateExtension anysphere.cursor-tokenize, startup: false, activationEvent: 'onStartupFinished'
+2025-08-18 15:17:48.028 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-08-18 15:17:48.034 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-08-18 15:19:16.851 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2025-08-18 17:32:11.222 [info] Extension host terminating: renderer closed the MessagePort
+2025-08-18 17:32:11.273 [error] Error: Channel has been closed
+	at r (file:///nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:2439)
+	at Object.appendLine (file:///nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:2578)
+	at c (/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:1816886)
+	at t.deactivate (/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:1818542)
+	at /nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:321199
+	at t.deactivate (/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:321258)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+	at async Promise.all (index 0)
+	at async pTe.$ (file:///nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:138:10212)
+2025-08-18 17:32:11.274 [info] Extension host with pid 16890 exiting with code 0
+2025-08-18 17:32:15.787 [info] Extension host with pid 31966 started
+2025-08-18 17:32:15.787 [info] Skipping acquiring lock for /home/aaron/.config/Cursor/User/workspaceStorage/5ea89e73263c370febe9a15e97e23ad1.
+2025-08-18 17:32:15.810 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-08-18 17:32:15.866 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-08-18 17:32:15.925 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-08-18 17:32:16.057 [info] Eager extensions activated
+2025-08-18 17:32:16.094 [info] ExtensionService#_doActivateExtension anysphere.cursor-always-local, startup: false, activationEvent: 'onStartupFinished'
+2025-08-18 17:32:16.326 [info] ExtensionService#_doActivateExtension anysphere.cursor-deeplink, startup: false, activationEvent: 'onStartupFinished'
+2025-08-18 17:32:16.383 [info] ExtensionService#_doActivateExtension anysphere.cursor-retrieval, startup: false, activationEvent: 'onStartupFinished'
+2025-08-18 17:32:16.624 [info] ExtensionService#_doActivateExtension anysphere.cursor-shadow-workspace, startup: false, activationEvent: 'onStartupFinished'
+2025-08-18 17:32:16.710 [info] ExtensionService#_doActivateExtension anysphere.cursor-tokenize, startup: false, activationEvent: 'onStartupFinished'
+2025-08-18 17:32:16.903 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-08-18 17:32:16.910 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-08-18 17:32:39.848 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-08-18 17:36:38.745 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-08-18 17:39:25.991 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2025-08-18 17:39:26.042 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2025-08-18 17:39:38.648 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2025-08-18 17:39:38.766 [info] ExtensionService#_doActivateExtension golang.go, startup: false, activationEvent: 'onLanguage:go'
+2025-08-18 17:40:47.026 [error] [golang.go] provider FAILED
+2025-08-18 17:40:47.033 [error] Error: no package data for file:///home/aaron/projects/lidar/main.go
+	at handleResponse (/home/aaron/.cursor/extensions/golang.go-0.48.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/aaron/.cursor/extensions/golang.go-0.48.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/aaron/.cursor/extensions/golang.go-0.48.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/aaron/.cursor/extensions/golang.go-0.48.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2025-08-18 17:41:33.072 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2025-08-18 17:43:21.501 [info] ExtensionService#_doActivateExtension vscode.simple-browser, startup: false, activationEvent: 'onOpenExternalUri:http'
+2025-08-18 17:49:06.339 [error] [golang.go] provider FAILED
+2025-08-18 17:49:06.339 [error] Error: 550:79: expected ';', found Raw (and 3 more errors)
+	at handleResponse (/home/aaron/.cursor/extensions/golang.go-0.48.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/aaron/.cursor/extensions/golang.go-0.48.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/aaron/.cursor/extensions/golang.go-0.48.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/aaron/.cursor/extensions/golang.go-0.48.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2025-08-18 17:53:47.055 [error] [golang.go] provider FAILED
+2025-08-18 17:53:47.055 [error] Error: getting file for InlayHint: context canceled
+	at handleResponse (/home/aaron/.cursor/extensions/golang.go-0.48.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/aaron/.cursor/extensions/golang.go-0.48.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/aaron/.cursor/extensions/golang.go-0.48.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/aaron/.cursor/extensions/golang.go-0.48.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2025-08-18 18:00:42.825 [error] [golang.go] provider FAILED
+2025-08-18 18:00:42.825 [error] Error: 439:26: expected ';', found Creating (and 9 more errors)
+	at handleResponse (/home/aaron/.cursor/extensions/golang.go-0.48.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/aaron/.cursor/extensions/golang.go-0.48.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/aaron/.cursor/extensions/golang.go-0.48.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/aaron/.cursor/extensions/golang.go-0.48.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2025-08-18 18:00:46.517 [error] [golang.go] provider FAILED
+2025-08-18 18:00:46.518 [error] Error: 472:26: expected ';', found Point (and 8 more errors)
+	at handleResponse (/home/aaron/.cursor/extensions/golang.go-0.48.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/aaron/.cursor/extensions/golang.go-0.48.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/aaron/.cursor/extensions/golang.go-0.48.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/aaron/.cursor/extensions/golang.go-0.48.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:483:21)

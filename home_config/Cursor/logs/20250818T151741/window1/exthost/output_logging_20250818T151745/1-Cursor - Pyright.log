@@ -1,0 +1,9 @@
+[Info  - 22:17:46.171] [pylance import] Already imported settings globally
+[Info  - 22:17:46.171] [pylance import] No remote authority found, skipping remote settings migration
+[Info  - 22:17:46.171] [pylance import] Already imported settings for workspace radio_thing
+[Info  - 22:17:46.172] [pylance import] Already imported settings for workspace folder /home/aaron/projects/radio_thing
+[Info  - 22:17:46.194] failed to find pyright executable, falling back to bundled:
+/etc/profiles/per-user/aaron/bin/basedpyright-langserver
+[Info  - 22:17:46.194] using bundled pyright
+[Info  - 22:17:46.194] running node with args: --max-old-space-size=16384
+[Info  - 22:17:46.194] using default node executable

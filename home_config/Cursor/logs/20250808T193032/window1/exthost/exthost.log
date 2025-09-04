@@ -1,0 +1,9 @@
+2025-08-08 19:30:36.077 [info] Extension host with pid 34854 started
+2025-08-08 19:30:36.077 [info] Skipping acquiring lock for /home/aaron/.config/Cursor/User/workspaceStorage/b93c8259a08fd8d2d4f9c38f4bf20bc6.
+2025-08-08 19:30:36.086 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-08-08 19:30:36.110 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2025-08-08 19:30:36.336 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-08-08 19:30:36.430 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-08-08 19:30:36.517 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-08-08 19:30:36.692 [info] Eager extensions activated
+2025-08-08 19:30:36.728 [info] ExtensionService#_doActivateExtension anysphere.cursor-always-local, startup: false, activationEvent: 'onStartupFinished'

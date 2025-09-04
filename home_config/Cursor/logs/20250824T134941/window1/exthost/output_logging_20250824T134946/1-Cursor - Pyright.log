@@ -1,0 +1,9 @@
+[Info  - 20:49:46.924] [pylance import] Already imported settings globally
+[Info  - 20:49:46.924] [pylance import] No remote authority found, skipping remote settings migration
+[Info  - 20:49:46.924] [pylance import] Already imported settings for workspace lidar2
+[Info  - 20:49:46.924] [pylance import] Already imported settings for workspace folder /home/aaron/projects/lidar2
+[Info  - 20:49:46.967] failed to find pyright executable, falling back to bundled:
+/home/aaron/projects/lidar2/venv/bin/basedpyright-langserver
+[Info  - 20:49:46.967] using bundled pyright
+[Info  - 20:49:46.967] running node with args: --max-old-space-size=16384
+[Info  - 20:49:46.967] using default node executable

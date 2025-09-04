@@ -1,0 +1,89 @@
+2025-08-18 15:17:45.957 [warning] Dir "/home/aaron/projects/radio_thing/.pixi/envs" is not watchable (directory does not exist)
+2025-08-18 15:17:46.252 [info] > /etc/profiles/per-user/aaron/bin/python -I ~/.cursor/extensions/ms-python.python-2025.6.1-linux-x64/python_files/get_output_via_markers.py ~/.cursor/extensions/ms-python.python-2025.6.1-linux-x64/python_files/interpreterInfo.py
+2025-08-18 15:17:46.302 [info] > pyenv which python
+2025-08-18 15:17:46.302 [info] cwd: .
+2025-08-18 15:17:46.419 [info] Python interpreter path: /etc/profiles/per-user/aaron/bin/python
+2025-08-18 15:17:46.611 [info] Editor support is inactive since language server is set to None.
+2025-08-18 15:18:12.294 [info] Discover tests for workspace name: radio_thing - uri: /home/aaron/projects/radio_thing/main.py
+2025-08-18 15:18:58.927 [info] Discover tests for workspace name: radio_thing - uri: /home/aaron/projects/radio_thing/hls_lfcd2.py
+2025-08-18 15:19:38.165 [info] CreateEnv Trigger - Skipping for /home/aaron/projects/radio_thing/main.py
+2025-08-18 15:19:38.438 [info] Discover tests for workspace name: radio_thing - uri: /home/aaron/projects/radio_thing/main.py
+2025-08-18 15:19:38.740 [info] Send text to terminal: /etc/profiles/per-user/aaron/bin/python /home/aaron/projects/radio_thing/main.py
+2025-08-18 15:19:52.149 [info] > hatch env show --json
+2025-08-18 15:19:52.149 [info] cwd: .
+2025-08-18 15:19:52.182 [info] > ./venv/bin/python -I ~/.cursor/extensions/ms-python.python-2025.6.1-linux-x64/python_files/get_output_via_markers.py ~/.cursor/extensions/ms-python.python-2025.6.1-linux-x64/python_files/interpreterInfo.py
+2025-08-18 15:19:52.182 [info] Environments refresh paths discovered: 56 milliseconds
+2025-08-18 15:19:52.230 [info] Environments refresh finished (event): 104 milliseconds
+2025-08-18 15:19:55.804 [info] Editor support is inactive since language server is set to None.
+2025-08-18 15:19:55.807 [info] Active interpreter [/home/aaron/projects/radio_thing]:  /home/aaron/projects/radio_thing/venv/bin/python
+2025-08-18 15:19:55.810 [info] Discover tests for workspace name: radio_thing - uri: /home/aaron/projects/radio_thing
+2025-08-18 15:19:55.810 [info] Python interpreter path: ./venv/bin/python
+2025-08-18 15:20:30.620 [info] Send text to terminal: /home/aaron/projects/radio_thing/venv/bin/python /home/aaron/projects/radio_thing/main.py
+2025-08-18 15:20:42.807 [info] Send text to terminal: /home/aaron/projects/radio_thing/venv/bin/python /home/aaron/projects/radio_thing/main.py
+2025-08-18 15:21:14.181 [info] Send text to terminal: /home/aaron/projects/radio_thing/venv/bin/python /home/aaron/projects/radio_thing/hls_lfcd2.py
+2025-08-18 15:21:14.430 [info] Discover tests for workspace name: radio_thing - uri: /home/aaron/projects/radio_thing/hls_lfcd2.py
+2025-08-18 15:21:23.963 [info] Send text to terminal: /home/aaron/projects/radio_thing/venv/bin/python /home/aaron/projects/radio_thing/hls_lfcd2.py
+2025-08-18 15:21:24.212 [info] Discover tests for workspace name: radio_thing - uri: /home/aaron/projects/radio_thing/hls_lfcd2.py
+2025-08-18 15:21:49.339 [info] Discover tests for workspace name: radio_thing - uri: /home/aaron/projects/radio_thing/hls_lfcd2.py
+2025-08-18 15:21:51.079 [info] Send text to terminal: /home/aaron/projects/radio_thing/venv/bin/python /home/aaron/projects/radio_thing/hls_lfcd2.py
+2025-08-18 15:21:53.998 [info] Send text to terminal: /home/aaron/projects/radio_thing/venv/bin/python /home/aaron/projects/radio_thing/main.py
+2025-08-18 15:22:51.825 [info] Send text to terminal: /home/aaron/projects/radio_thing/venv/bin/python /home/aaron/projects/radio_thing/main.py
+2025-08-18 15:23:03.142 [info] Send text to terminal: /home/aaron/projects/radio_thing/venv/bin/python /home/aaron/projects/radio_thing/main.py
+2025-08-18 15:23:03.391 [info] Discover tests for workspace name: radio_thing - uri: /home/aaron/projects/radio_thing/main.py
+2025-08-18 15:23:41.143 [info] Discover tests for workspace name: radio_thing - uri: /home/aaron/projects/radio_thing/hls_lfcd2.py
+2025-08-18 15:23:44.605 [info] Send text to terminal: /home/aaron/projects/radio_thing/venv/bin/python /home/aaron/projects/radio_thing/main.py
+2025-08-18 15:24:47.178 [info] Discover tests for workspace name: radio_thing - uri: /home/aaron/projects/radio_thing/main.py
+2025-08-18 15:24:53.895 [info] Discover tests for workspace name: radio_thing - uri: /home/aaron/projects/radio_thing/hls_lfcd2.py
+2025-08-18 15:25:01.567 [info] Discover tests for workspace name: radio_thing - uri: /home/aaron/projects/radio_thing/main.py
+2025-08-18 16:40:46.643 [info] Send text to terminal: /home/aaron/projects/radio_thing/venv/bin/python /home/aaron/projects/radio_thing/main.py
+2025-08-18 16:42:47.053 [info] Send text to terminal: /home/aaron/projects/radio_thing/venv/bin/python /home/aaron/projects/radio_thing/hls_lfcd2.py
+2025-08-18 16:43:16.683 [info] Send text to terminal: /home/aaron/projects/radio_thing/venv/bin/python /home/aaron/projects/radio_thing/hls_lfcd2.py
+2025-08-18 16:43:16.932 [info] Discover tests for workspace name: radio_thing - uri: /home/aaron/projects/radio_thing/hls_lfcd2.py
+2025-08-18 16:44:30.126 [info] Send text to terminal: /home/aaron/projects/radio_thing/venv/bin/python /home/aaron/projects/radio_thing/main.py
+2025-08-18 16:44:30.375 [info] Discover tests for workspace name: radio_thing - uri: /home/aaron/projects/radio_thing/main.py
+2025-08-18 16:45:03.255 [info] Send text to terminal: /home/aaron/projects/radio_thing/venv/bin/python /home/aaron/projects/radio_thing/main.py
+2025-08-18 16:45:03.504 [info] Discover tests for workspace name: radio_thing - uri: /home/aaron/projects/radio_thing/main.py
+2025-08-18 16:45:54.064 [info] Send text to terminal: /home/aaron/projects/radio_thing/venv/bin/python /home/aaron/projects/radio_thing/main.py
+2025-08-18 16:45:54.314 [info] Discover tests for workspace name: radio_thing - uri: /home/aaron/projects/radio_thing/main.py
+2025-08-18 16:46:13.430 [info] Send text to terminal: /home/aaron/projects/radio_thing/venv/bin/python /home/aaron/projects/radio_thing/main.py
+2025-08-18 16:50:09.854 [info] Send text to terminal: /home/aaron/projects/radio_thing/venv/bin/python /home/aaron/projects/radio_thing/main.py
+2025-08-18 16:53:58.204 [info] Send text to terminal: /home/aaron/projects/radio_thing/venv/bin/python /home/aaron/projects/radio_thing/main.py
+2025-08-18 16:53:58.454 [info] Discover tests for workspace name: radio_thing - uri: /home/aaron/projects/radio_thing/main.py
+2025-08-18 16:54:24.259 [info] Send text to terminal: /home/aaron/projects/radio_thing/venv/bin/python /home/aaron/projects/radio_thing/main.py
+2025-08-18 16:54:29.847 [info] Send text to terminal: /home/aaron/projects/radio_thing/venv/bin/python /home/aaron/projects/radio_thing/main.py
+2025-08-18 16:54:36.259 [info] Send text to terminal: /home/aaron/projects/radio_thing/venv/bin/python /home/aaron/projects/radio_thing/main.py
+2025-08-18 16:55:15.563 [info] Send text to terminal: /home/aaron/projects/radio_thing/venv/bin/python /home/aaron/projects/radio_thing/main.py
+2025-08-18 16:56:37.347 [info] Discover tests for workspace name: radio_thing - uri: /home/aaron/projects/radio_thing/main.py
+2025-08-18 16:57:09.820 [info] Send text to terminal: /home/aaron/projects/radio_thing/venv/bin/python /home/aaron/projects/radio_thing/main.py
+2025-08-18 16:59:00.625 [info] Discover tests for workspace name: radio_thing - uri: /home/aaron/projects/radio_thing/main.py
+2025-08-18 17:00:37.148 [info] Send text to terminal: /home/aaron/projects/radio_thing/venv/bin/python /home/aaron/projects/radio_thing/main.py
+2025-08-18 17:00:37.399 [info] Discover tests for workspace name: radio_thing - uri: /home/aaron/projects/radio_thing/main.py
+2025-08-18 17:00:41.998 [info] Send text to terminal: /home/aaron/projects/radio_thing/venv/bin/python /home/aaron/projects/radio_thing/main.py
+2025-08-18 17:01:02.627 [info] Send text to terminal: /home/aaron/projects/radio_thing/venv/bin/python /home/aaron/projects/radio_thing/main.py
+2025-08-18 17:01:04.955 [info] Discover tests for workspace name: radio_thing - uri: /home/aaron/projects/radio_thing/main.py
+2025-08-18 17:01:29.109 [info] Send text to terminal: /home/aaron/projects/radio_thing/venv/bin/python /home/aaron/projects/radio_thing/main.py
+2025-08-18 17:01:57.530 [info] Send text to terminal: /home/aaron/projects/radio_thing/venv/bin/python /home/aaron/projects/radio_thing/main.py
+2025-08-18 17:01:57.781 [info] Discover tests for workspace name: radio_thing - uri: /home/aaron/projects/radio_thing/main.py
+2025-08-18 17:02:14.634 [info] Send text to terminal: /home/aaron/projects/radio_thing/venv/bin/python /home/aaron/projects/radio_thing/main.py
+2025-08-18 17:02:14.883 [info] Discover tests for workspace name: radio_thing - uri: /home/aaron/projects/radio_thing/main.py
+2025-08-18 17:02:42.317 [info] Discover tests for workspace name: radio_thing - uri: /home/aaron/projects/radio_thing/hls_lfcd2.py
+2025-08-18 17:02:44.371 [info] Send text to terminal: /home/aaron/projects/radio_thing/venv/bin/python /home/aaron/projects/radio_thing/main.py
+2025-08-18 17:03:02.050 [info] Send text to terminal: /home/aaron/projects/radio_thing/venv/bin/python /home/aaron/projects/radio_thing/main.py
+2025-08-18 17:03:20.371 [info] Send text to terminal: /home/aaron/projects/radio_thing/venv/bin/python /home/aaron/projects/radio_thing/main.py
+2025-08-18 17:04:16.299 [info] Send text to terminal: /home/aaron/projects/radio_thing/venv/bin/python /home/aaron/projects/radio_thing/main.py
+2025-08-18 17:04:16.549 [info] Discover tests for workspace name: radio_thing - uri: /home/aaron/projects/radio_thing/main.py
+2025-08-18 17:06:19.651 [info] Send text to terminal: /home/aaron/projects/radio_thing/venv/bin/python /home/aaron/projects/radio_thing/main.py
+2025-08-18 17:10:35.117 [info] Environments refresh paths discovered: 18 milliseconds
+2025-08-18 17:10:35.144 [info] > ./venv/bin/python -I ~/.cursor/extensions/ms-python.python-2025.6.1-linux-x64/python_files/get_output_via_markers.py ~/.cursor/extensions/ms-python.python-2025.6.1-linux-x64/python_files/interpreterInfo.py
+2025-08-18 17:10:35.200 [info] Environments refresh finished (event): 101 milliseconds
+2025-08-18 17:14:22.821 [info] Send text to terminal: source /home/aaron/projects/radio_thing/venv/bin/activate
+2025-08-18 17:14:22.941 [info] Discover tests for workspace name: radio_thing - uri: /home/aaron/projects/radio_thing/main.py
+2025-08-18 17:14:23.322 [info] Send text to terminal: /home/aaron/projects/radio_thing/venv/bin/python /home/aaron/projects/radio_thing/main.py
+2025-08-18 17:14:34.928 [info] Send text to terminal: /home/aaron/projects/radio_thing/venv/bin/python /home/aaron/projects/radio_thing/main.py
+2025-08-18 17:15:58.489 [info] Send text to terminal: source /home/aaron/projects/radio_thing/venv/bin/activate
+2025-08-18 17:15:58.990 [info] Send text to terminal: /home/aaron/projects/radio_thing/venv/bin/python /home/aaron/projects/radio_thing/main.py
+2025-08-18 17:19:17.892 [info] Discover tests for workspace name: radio_thing - uri: /home/aaron/projects/radio_thing/main.py
+2025-08-18 17:21:08.029 [info] Discover tests for workspace name: radio_thing - uri: /home/aaron/projects/radio_thing/main.py
+2025-08-18 17:21:47.879 [info] Discover tests for workspace name: radio_thing - uri: /home/aaron/projects/radio_thing/main.py
+2025-08-18 17:31:33.557 [info] Send text to terminal: source /home/aaron/projects/radio_thing/venv/bin/activate
+2025-08-18 17:31:34.060 [info] Send text to terminal: /home/aaron/projects/radio_thing/venv/bin/python /home/aaron/projects/radio_thing/main.py

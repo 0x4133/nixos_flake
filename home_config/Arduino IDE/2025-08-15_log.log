@@ -1,0 +1,11 @@
+2025-08-15 06:12:44 2025-08-15T13:12:44.767Z daemon INFO time="2025-08-15T06:12:44-07:00" level=info msg="sending command" command=CLOSE monitor=serial-monitor
+2025-08-15 06:12:44 2025-08-15T13:12:44.768Z daemon INFO time="2025-08-15T06:12:44-07:00" level=info msg="received message" error=true event_type=port_closed message="readfrom tcp 127.0.0.1:33914->127.0.0.1:36951: Port has been closed" monitor=serial-monitor
+time="2025-08-15T06:12:44-07:00" level=info msg="monitor port has been closed externally" monitor=serial-monitor
+2025-08-15 06:12:44 2025-08-15T13:12:44.768Z daemon INFO time="2025-08-15T06:12:44-07:00" level=info msg="received message" error=true event_type=close message="port already closed" monitor=serial-monitor
+2025-08-15 06:12:44 2025-08-15T13:12:44.770Z discovery-log INFO {"eventType":"remove","port":{"matchingBoardsList":[],"port":{"address":"/dev/ttyACM0","label":"","protocol":"serial","protocolLabel":"","propertiesMap":[],"hardwareId":""}},"error":""}
+2025-08-15 06:12:44 2025-08-15T13:12:44.770Z daemon INFO time="2025-08-15T06:12:44-07:00" level=info msg="sending command" command=QUIT monitor=serial-monitor
+time="2025-08-15T06:12:44-07:00" level=info msg="received message" error=false event_type=quit message=OK monitor=serial-monitor
+time="2025-08-15T06:12:44-07:00" level=info msg="Killing monitor process" monitor=serial-monitor
+time="2025-08-15T06:12:44-07:00" level=error msg="stopped decode loop: EOF" monitor=serial-monitor
+time="2025-08-15T06:12:44-07:00" level=info msg="Monitor process killed" monitor=serial-monitor
+2025-08-15 06:12:44 2025-08-15T13:12:44.771Z monitor-service INFO monitor to /dev/ttyACM0 using serial closed by server

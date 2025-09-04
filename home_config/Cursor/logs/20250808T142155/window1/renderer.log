@@ -56,3 +56,4 @@
 2025-08-08 14:23:32.076 [info] Started local extension host with pid 22307.
 2025-08-08 14:23:32.707 [warning] [ms-python.python]: Cannot register 'python.venvPath'. This property is already registered.
 2025-08-08 14:23:35.753 [info] [perf] Render performance baseline is 33ms
+2025-08-08 15:22:26.410 [info] [Extensions]: Checking for updates. Reason: Product update

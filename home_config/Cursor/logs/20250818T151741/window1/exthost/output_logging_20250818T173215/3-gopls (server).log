@@ -1,0 +1,318 @@
+[Info  - 5:40:10 PM] 2025/08/18 17:40:10 Created View (#1)
+	directory=/home/aaron/projects/lidar
+	view_type="GoMod"
+	root_dir="file:///home/aaron/projects/lidar"
+	go_version="go version go1.24.4 linux/amd64"
+	build_flags=[]
+	env={GOOS:linux GOARCH:amd64 GOCACHE:/home/aaron/.cache/go-build GOMODCACHE:/home/aaron/go/pkg/mod GOPATH:/home/aaron/go GOPRIVATE: GOFLAGS: GO111MODULE: GOTOOLCHAIN:auto GOROOT:/nix/store/xrzqlk92h7z5mz9mlc4a9dyy91n5b68i-go-1.24.4/share/go GoVersion:24 GoVersionOutput:go version go1.24.4 linux/amd64
+ ExplicitGOWORK: EffectiveGOPACKAGESDRIVER:}
+	env_overlay=[]
+
+[Info  - 5:40:10 PM] 2025/08/18 17:40:10 go/packages.Load #1
+	view_id="1"
+	snapshot=0
+	directory=/home/aaron/projects/lidar
+	query=[/home/aaron/projects/lidar/... builtin]
+	packages=2
+	duration=194.85573ms
+
+[Info  - 5:40:43 PM] 2025/08/18 17:40:43 background imports cache refresh starting
+
+[Info  - 5:40:43 PM] 2025/08/18 17:40:43 background refresh finished after 3.68502683s
+
+[Error - 5:40:47 PM] Request textDocument/hover failed.
+  Message: no package data for file:///home/aaron/projects/lidar/main.go
+  Code: 0 
+[Info  - 5:41:49 PM] 2025/08/18 17:41:49 go/packages.Load #3
+	view_id="1"
+	snapshot=3
+	directory=/home/aaron/projects/lidar
+	query=[/home/aaron/projects/lidar/... builtin]
+	packages=2
+	duration=269.128912ms
+
+[Info  - 5:42:54 PM] 2025/08/18 17:42:54 go/packages.Load #6
+	view_id="1"
+	snapshot=6
+	directory=/home/aaron/projects/lidar
+	query=[file=/home/aaron/projects/lidar/main.go]
+	packages=1
+	duration=170.751658ms
+
+[Info  - 5:42:58 PM] 2025/08/18 17:42:58 go/packages.Load #7
+	view_id="1"
+	snapshot=12
+	directory=/home/aaron/projects/lidar
+	query=[/home/aaron/projects/lidar/... builtin]
+	packages=2
+	duration=160.205904ms
+
+[Info  - 5:42:59 PM] 2025/08/18 17:42:59 go/packages.Load #8
+	view_id="1"
+	snapshot=13
+	directory=/home/aaron/projects/lidar
+	query=[compress/zlib encoding/xml fyne.io/fyne/v2 fyne.io/fyne/v2/app fyne.io/fyne/v2/canvas fyne.io/fyne/v2/container fyne.io/fyne/v2/data/binding fyne.io/fyne/v2/driver/desktop fyne.io/fyne/v2/driver/mobile fyne.io/fyne/v2/internal fyne.io/fyne/v2/internal/animation fyne.io/fyne/v2/internal/app fyne.io/fyne/v2/internal/async fyne.io/fyne/v2/internal/cache fyne.io/fyne/v2/internal/color fyne.io/fyne/v2/internal/driver fyne.io/fyne/v2/internal/driver/common fyne.io/fyne/v2/internal/driver/glfw fyne.io/fyne/v2/internal/painter fyne.io/fyne/v2/internal/painter/gl fyne.io/fyne/v2/internal/repository fyne.io/fyne/v2/internal/scale fyne.io/fyne/v2/internal/svg fyne.io/fyne/v2/internal/widget fyne.io/fyne/v2/layout fyne.io/fyne/v2/storage fyne.io/fyne/v2/storage/repository fyne.io/fyne/v2/theme fyne.io/fyne/v2/widget hash/adler32 image image/color image/draw image/internal/imageutil image/jpeg image/png os/signal]
+	packages=61
+	duration=186.650673ms
+
+[Info  - 5:45:59 PM] 2025/08/18 17:45:59 background imports cache refresh starting
+
+[Info  - 5:45:59 PM] 2025/08/18 17:45:59 background refresh finished after 27.831521ms
+
+[Info  - 5:46:09 PM] 2025/08/18 17:46:09 go/packages.Load #10
+	view_id="1"
+	snapshot=15
+	directory=/home/aaron/projects/lidar
+	query=[file=/home/aaron/projects/lidar/main.go]
+	packages=1
+	duration=175.406606ms
+
+[Info  - 5:46:09 PM] 2025/08/18 17:46:09 go/packages.Load #11
+	view_id="1"
+	snapshot=15
+	directory=/home/aaron/projects/lidar
+	query=[lidar]
+	packages=1
+	duration=154.529074ms
+
+[Info  - 5:46:14 PM] 2025/08/18 17:46:14 go/packages.Load #12
+	view_id="1"
+	snapshot=21
+	directory=/home/aaron/projects/lidar
+	query=[/home/aaron/projects/lidar/... builtin]
+	packages=2
+	duration=182.915589ms
+
+[Info  - 5:46:15 PM] 2025/08/18 17:46:15 go/packages.Load #13
+	view_id="1"
+	snapshot=22
+	directory=/home/aaron/projects/lidar
+	query=[compress/lzw compress/zlib compress/zlib_test encoding/xml encoding/xml_test flag hash/adler32 image image/color image/color/palette image/draw image/draw_test image/gif image/internal/imageutil image/jpeg image/png image/png_test image_test internal/cfg internal/platform internal/sysinfo internal/testenv os/exec os/signal os/signal_test runtime/debug runtime/trace testing testing/quick]
+	packages=79
+	duration=217.710105ms
+
+[Info  - 5:46:22 PM] 2025/08/18 17:46:22 go/packages.Load #14
+	view_id="1"
+	snapshot=23
+	directory=/home/aaron/projects/lidar
+	query=[/home/aaron/projects/lidar/... builtin]
+	packages=2
+	duration=677.28616ms
+
+[Info  - 5:46:23 PM] 2025/08/18 17:46:23 go/packages.Load #15
+	view_id="1"
+	snapshot=24
+	directory=/home/aaron/projects/lidar
+	query=[/home/aaron/projects/lidar/... builtin]
+	packages=2
+	duration=202.656031ms
+
+[Info  - 5:46:23 PM] 2025/08/18 17:46:23 go/packages.Load #16
+	view_id="1"
+	snapshot=24
+	directory=/home/aaron/projects/lidar
+	query=[compress/lzw compress/zlib compress/zlib_test encoding/xml encoding/xml_test flag flag_test hash/adler32 image image/color image/color/palette image/draw image/draw_test image/gif image/internal/imageutil image/jpeg image/png image/png_test image_test internal/cfg internal/diff internal/platform internal/platform_test internal/sysinfo internal/sysinfo_test internal/testenv internal/testenv_test net/http/httptest net/http/internal/testcert os/exec os/exec/internal/fdtest os/exec_test os/signal os/signal_test os/user runtime/debug runtime/debug_test runtime/trace runtime/trace_test testing testing/quick testing_test]
+	packages=101
+	duration=209.306818ms
+
+[Info  - 5:46:39 PM] 2025/08/18 17:46:39 background imports cache refresh starting
+
+[Info  - 5:46:39 PM] 2025/08/18 17:46:39 background refresh finished after 11.588513ms
+
+[Info  - 5:48:02 PM] 2025/08/18 17:48:02 go/packages.Load #17
+	view_id="1"
+	snapshot=25
+	directory=/home/aaron/projects/lidar
+	query=[file=/home/aaron/projects/lidar/main.go]
+	packages=1
+	duration=193.064378ms
+
+[Info  - 5:48:02 PM] 2025/08/18 17:48:02 go/packages.Load #18
+	view_id="1"
+	snapshot=26
+	directory=/home/aaron/projects/lidar
+	query=[file=/home/aaron/projects/lidar/main.go]
+	packages=1
+	duration=175.849738ms
+
+[Info  - 5:48:04 PM] 2025/08/18 17:48:04 go/packages.Load #22
+	view_id="1"
+	snapshot=30
+	directory=/home/aaron/projects/lidar
+	query=[file=/home/aaron/projects/lidar/main.go]
+	packages=1
+	duration=169.323329ms
+
+[Info  - 5:48:34 PM] 2025/08/18 17:48:34 background imports cache refresh starting
+
+[Info  - 5:48:34 PM] 2025/08/18 17:48:34 background refresh finished after 19.284634ms
+
+[Error - 5:49:06 PM] 2025/08/18 17:49:06 imports fixes: allImportsFixes: /home/aaron/projects/lidar/main.go:550:79: expected ';', found Raw (and 3 more errors)
+	file="/home/aaron/projects/lidar/main.go"
+
+[Error - 5:49:06 PM] Request textDocument/formatting failed.
+  Message: 550:79: expected ';', found Raw (and 3 more errors)
+  Code: 0 
+[Info  - 5:49:07 PM] 2025/08/18 17:49:07 background imports cache refresh starting
+
+[Info  - 5:49:07 PM] 2025/08/18 17:49:07 background refresh finished after 8.476356ms
+
+[Info  - 5:49:56 PM] 2025/08/18 17:49:56 background imports cache refresh starting
+
+[Info  - 5:49:56 PM] 2025/08/18 17:49:56 background refresh finished after 8.296277ms
+
+[Info  - 5:53:40 PM] 2025/08/18 17:53:40 background imports cache refresh starting
+
+[Info  - 5:53:40 PM] 2025/08/18 17:53:40 background refresh finished after 8.633884ms
+
+[Info  - 5:53:45 PM] 2025/08/18 17:53:45 go/packages.Load #23
+	view_id="1"
+	snapshot=96
+	directory=/home/aaron/projects/lidar
+	query=[file=/home/aaron/projects/lidar/main.go]
+	packages=1
+	duration=171.197926ms
+
+[Info  - 5:53:46 PM] 2025/08/18 17:53:46 go/packages.Load #26
+	view_id="1"
+	snapshot=101
+	directory=/home/aaron/projects/lidar
+	query=[file=/home/aaron/projects/lidar/main.go]
+	packages=1
+	duration=161.390611ms
+
+[Info  - 5:53:46 PM] 2025/08/18 17:53:46 go/packages.Load #27
+	view_id="1"
+	snapshot=102
+	directory=/home/aaron/projects/lidar
+	query=[file=/home/aaron/projects/lidar/main.go]
+	packages=1
+	duration=172.140584ms
+
+[Error - 5:53:47 PM] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: context canceled
+  Code: 0 
+[Info  - 5:53:59 PM] 2025/08/18 17:53:59 go/packages.Load #29
+	view_id="1"
+	snapshot=105
+	directory=/home/aaron/projects/lidar
+	query=[file=/home/aaron/projects/lidar/main.go]
+	packages=1
+	duration=150.016939ms
+
+[Info  - 5:53:59 PM] 2025/08/18 17:53:59 go/packages.Load #30
+	view_id="1"
+	snapshot=105
+	directory=/home/aaron/projects/lidar
+	query=[file=/home/aaron/projects/lidar/main.go]
+	packages=1
+	duration=168.372374ms
+
+[Info  - 5:54:16 PM] 2025/08/18 17:54:16 background imports cache refresh starting
+
+[Info  - 5:54:16 PM] 2025/08/18 17:54:16 background refresh finished after 7.357347ms
+
+[Info  - 5:56:12 PM] 2025/08/18 17:56:12 background imports cache refresh starting
+
+[Info  - 5:56:12 PM] 2025/08/18 17:56:12 background refresh finished after 7.882385ms
+
+[Info  - 5:56:50 PM] 2025/08/18 17:56:50 background imports cache refresh starting
+
+[Info  - 5:56:50 PM] 2025/08/18 17:56:50 background refresh finished after 12.626394ms
+
+[Info  - 5:58:59 PM] 2025/08/18 17:58:59 background imports cache refresh starting
+
+[Info  - 5:58:59 PM] 2025/08/18 17:58:59 background refresh finished after 10.673206ms
+
+[Error - 6:00:42 PM] 2025/08/18 18:00:42 imports fixes: allImportsFixes: /home/aaron/projects/lidar/main.go:439:26: expected ';', found Creating (and 9 more errors)
+	file="/home/aaron/projects/lidar/main.go"
+
+[Error - 6:00:42 PM] Request textDocument/formatting failed.
+  Message: 439:26: expected ';', found Creating (and 9 more errors)
+  Code: 0 
+[Error - 6:00:46 PM] 2025/08/18 18:00:46 imports fixes: allImportsFixes: /home/aaron/projects/lidar/main.go:472:26: expected ';', found Point (and 8 more errors)
+	file="/home/aaron/projects/lidar/main.go"
+
+[Error - 6:00:46 PM] Request textDocument/formatting failed.
+  Message: 472:26: expected ';', found Point (and 8 more errors)
+  Code: 0 
+[Info  - 6:00:58 PM] 2025/08/18 18:00:58 background imports cache refresh starting
+
+[Info  - 6:00:58 PM] 2025/08/18 18:00:58 background refresh finished after 5.506264ms
+
+[Info  - 6:01:29 PM] 2025/08/18 18:01:29 background imports cache refresh starting
+
+[Info  - 6:01:29 PM] 2025/08/18 18:01:29 background refresh finished after 7.73866ms
+
+[Info  - 6:05:07 PM] 2025/08/18 18:05:07 background imports cache refresh starting
+
+[Info  - 6:05:07 PM] 2025/08/18 18:05:07 background refresh finished after 14.29459ms
+
+[Info  - 6:05:45 PM] 2025/08/18 18:05:45 background imports cache refresh starting
+
+[Info  - 6:05:45 PM] 2025/08/18 18:05:45 background refresh finished after 7.76709ms
+
+[Info  - 6:09:39 PM] 2025/08/18 18:09:39 go/packages.Load #31
+	view_id="1"
+	snapshot=245
+	directory=/home/aaron/projects/lidar
+	query=[file=/home/aaron/projects/lidar/main.go]
+	packages=1
+	duration=169.008685ms
+
+[Info  - 6:09:39 PM] 2025/08/18 18:09:39 go/packages.Load #32
+	view_id="1"
+	snapshot=245
+	directory=/home/aaron/projects/lidar
+	query=[file=/home/aaron/projects/lidar/main.go]
+	packages=1
+	duration=154.422172ms
+
+[Info  - 6:10:10 PM] 2025/08/18 18:10:10 background imports cache refresh starting
+
+[Info  - 6:10:10 PM] 2025/08/18 18:10:10 background refresh finished after 19.886717ms
+
+[Info  - 6:23:09 PM] 2025/08/18 18:23:09 go/packages.Load #33
+	view_id="1"
+	snapshot=252
+	directory=/home/aaron/projects/lidar
+	query=[file=/home/aaron/projects/lidar/main.go]
+	packages=1
+	duration=166.873099ms
+
+[Info  - 6:23:15 PM] 2025/08/18 18:23:15 go/packages.Load #34
+	view_id="1"
+	snapshot=259
+	directory=/home/aaron/projects/lidar
+	query=[file=/home/aaron/projects/lidar/main.go]
+	packages=1
+	duration=169.947698ms
+
+[Info  - 6:23:19 PM] 2025/08/18 18:23:19 go/packages.Load #35
+	view_id="1"
+	snapshot=260
+	directory=/home/aaron/projects/lidar
+	query=[file=/home/aaron/projects/lidar/main.go]
+	packages=1
+	duration=167.496579ms
+
+[Info  - 6:23:40 PM] 2025/08/18 18:23:40 background imports cache refresh starting
+
+[Info  - 6:23:40 PM] 2025/08/18 18:23:40 background refresh finished after 16.906454ms
+
+[Info  - 6:26:37 PM] 2025/08/18 18:26:37 background imports cache refresh starting
+
+[Info  - 6:26:37 PM] 2025/08/18 18:26:37 background refresh finished after 19.07749ms
+
+[Info  - 6:32:51 PM] 2025/08/18 18:32:51 background imports cache refresh starting
+
+[Info  - 6:32:51 PM] 2025/08/18 18:32:51 background refresh finished after 12.242809ms
+
+[Info  - 6:35:38 PM] 2025/08/18 18:35:38 background imports cache refresh starting
+
+[Info  - 6:35:38 PM] 2025/08/18 18:35:38 background refresh finished after 10.069927ms
+
+[Info  - 6:39:46 PM] 2025/08/18 18:39:46 background imports cache refresh starting
+
+[Info  - 6:39:46 PM] 2025/08/18 18:39:46 background refresh finished after 7.550872ms
+

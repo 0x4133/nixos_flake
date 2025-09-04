@@ -1,0 +1,26 @@
+[Info  - 6:12:22 AM] basedpyright language server 1.29.4 starting
+[Info  - 6:12:22 AM] Server root directory: file:///home/aaron/.cursor/extensions/anysphere.cursorpyright-1.0.8/dist
+[Info  - 6:12:22 AM] Starting service instance "lidar2"
+Received pythonPath from Python extension: /etc/profiles/per-user/aaron/bin/python
+[Info  - 6:12:22 AM] Setting pythonPath for service "lidar2": "/etc/profiles/per-user/aaron/bin/python"
+[Info  - 6:12:22 AM] No include entries specified; assuming /home/aaron/projects/lidar2
+[Info  - 6:12:22 AM] Auto-excluding **/node_modules
+[Info  - 6:12:22 AM] Auto-excluding **/__pycache__
+[Info  - 6:12:22 AM] Auto-excluding **/.*
+[Info  - 6:12:22 AM] Assuming Python version 3.13.5.final.0
+[Info  - 6:12:22 AM] Found 1 source file
+[Info  - 6:12:23 AM] BG: Background analysis(1) root directory: file:///home/aaron/.cursor/extensions/anysphere.cursorpyright-1.0.8/dist
+[Info  - 6:12:23 AM] BG: Background analysis(1) started
+Received pythonPath from Python extension: /home/aaron/projects/lidar2/venv/bin/python
+[Info  - 6:14:44 AM] Setting pythonPath for service "lidar2": "/home/aaron/projects/lidar2/venv/bin/python"
+[Info  - 6:14:44 AM] No include entries specified; assuming /home/aaron/projects/lidar2
+[Info  - 6:14:44 AM] Auto-excluding **/node_modules
+[Info  - 6:14:44 AM] Auto-excluding **/__pycache__
+[Info  - 6:14:44 AM] Auto-excluding **/.*
+[Info  - 6:14:44 AM] Assuming Python version 3.13.5.final.0
+[Info  - 6:14:44 AM] Auto-excluding /home/aaron/projects/lidar2/venv
+[Info  - 6:14:44 AM] Found 1 source file
+[Info  - 6:30:25 AM] Auto-excluding /home/aaron/projects/lidar2/venv
+[Info  - 6:30:25 AM] Found 2 source files
+[Info  - 6:35:51 AM] Auto-excluding /home/aaron/projects/lidar2/venv
+[Info  - 6:35:51 AM] Found 2 source files

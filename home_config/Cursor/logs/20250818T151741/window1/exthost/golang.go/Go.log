@@ -1,0 +1,178 @@
+2025-08-18 17:39:39.101 [info] Tools environment: GOPATH=/home/aaron/go, GOTOOLCHAIN=auto
+2025-08-18 17:39:39.101 [info] Installing 2 tools at /home/aaron/go/bin
+2025-08-18 17:39:39.101 [info]   gopls
+2025-08-18 17:39:39.101 [info]   staticcheck
+2025-08-18 17:39:39.101 [info] 
+2025-08-18 17:40:02.328 [info] Installing golang.org/x/tools/gopls@latest (/home/aaron/go/bin/gopls) SUCCEEDED
+2025-08-18 17:40:09.326 [info] Installing honnef.co/go/tools/cmd/staticcheck@latest (/home/aaron/go/bin/staticcheck) SUCCEEDED
+2025-08-18 17:40:09.328 [info] 
+2025-08-18 17:40:09.328 [info] All tools successfully installed. You are ready to Go. :)
+2025-08-18 17:40:09.531 [info] Try to start language server - activation (enabled: true)
+2025-08-18 17:40:09.848 [info] Running language server gopls(v0.20.0/go1.24.4)
+2025-08-18 17:42:57.251 [info] Running checks...
+2025-08-18 17:42:57.251 [info] Starting linting the current package at /home/aaron/projects/lidar
+2025-08-18 17:43:01.992 [info] /home/aaron/projects/lidar>Finished running tool: /home/aaron/go/bin/staticcheck
+2025-08-18 17:43:01.992 [info] 
+2025-08-18 17:48:19.017 [info] Running checks...
+2025-08-18 17:48:19.017 [info] Starting linting the current package at /home/aaron/projects/lidar
+2025-08-18 17:48:19.889 [info] /home/aaron/projects/lidar>Finished running tool: /home/aaron/go/bin/staticcheck
+2025-08-18 17:48:19.889 [info] 
+2025-08-18 17:48:28.854 [info] Running checks...
+2025-08-18 17:48:28.854 [info] Starting linting the current package at /home/aaron/projects/lidar
+2025-08-18 17:48:29.319 [info] /home/aaron/projects/lidar>Finished running tool: /home/aaron/go/bin/staticcheck
+2025-08-18 17:48:29.319 [info] 
+2025-08-18 17:48:38.409 [info] Running checks...
+2025-08-18 17:48:38.410 [info] Starting linting the current package at /home/aaron/projects/lidar
+2025-08-18 17:48:38.918 [info] /home/aaron/projects/lidar>Finished running tool: /home/aaron/go/bin/staticcheck
+2025-08-18 17:48:38.918 [info] 
+2025-08-18 17:48:46.440 [info] Running checks...
+2025-08-18 17:48:46.441 [info] Starting linting the current package at /home/aaron/projects/lidar
+2025-08-18 17:48:46.920 [info] /home/aaron/projects/lidar>Finished running tool: /home/aaron/go/bin/staticcheck
+2025-08-18 17:48:46.920 [info] 
+2025-08-18 17:48:54.036 [info] Running checks...
+2025-08-18 17:48:54.036 [info] Starting linting the current package at /home/aaron/projects/lidar
+2025-08-18 17:48:54.500 [info] /home/aaron/projects/lidar>Finished running tool: /home/aaron/go/bin/staticcheck
+2025-08-18 17:48:54.500 [info] 
+2025-08-18 17:49:06.566 [info] Running checks...
+2025-08-18 17:49:06.566 [info] Starting linting the current package at /home/aaron/projects/lidar
+2025-08-18 17:49:06.861 [info] /home/aaron/projects/lidar>Finished running tool: /home/aaron/go/bin/staticcheck
+2025-08-18 17:49:06.861 [info] /home/aaron/projects/lidar/main.go:550:79 syntax error: unexpected name Raw after top level declaration
+2025-08-18 17:49:06.861 [info] /home/aaron/projects/lidar/main.go:550:98 invalid character U+0024 '$' (compile)
+2025-08-18 17:49:06.861 [info] 
+2025-08-18 17:49:26.510 [info] Running checks...
+2025-08-18 17:49:26.510 [info] Starting linting the current package at /home/aaron/projects/lidar
+2025-08-18 17:49:26.968 [info] /home/aaron/projects/lidar>Finished running tool: /home/aaron/go/bin/staticcheck
+2025-08-18 17:49:26.968 [info] 
+2025-08-18 17:49:39.128 [info] Running checks...
+2025-08-18 17:49:39.128 [info] Starting linting the current package at /home/aaron/projects/lidar
+2025-08-18 17:49:39.618 [info] /home/aaron/projects/lidar>Finished running tool: /home/aaron/go/bin/staticcheck
+2025-08-18 17:49:39.618 [info] 
+2025-08-18 17:53:11.363 [info] Running checks...
+2025-08-18 17:53:11.363 [info] Starting linting the current package at /home/aaron/projects/lidar
+2025-08-18 17:53:11.639 [info] /home/aaron/projects/lidar>Finished running tool: /home/aaron/go/bin/staticcheck
+2025-08-18 17:53:11.639 [info] /home/aaron/projects/lidar/main.go:212:23 undefined: parseHexLineToBytes (compile)
+2025-08-18 17:53:11.639 [info] 
+2025-08-18 17:53:47.046 [info] Running checks...
+2025-08-18 17:53:47.047 [info] Starting linting the current package at /home/aaron/projects/lidar
+2025-08-18 17:53:47.325 [info] /home/aaron/projects/lidar>Finished running tool: /home/aaron/go/bin/staticcheck
+2025-08-18 17:53:47.325 [info] /home/aaron/projects/lidar/main.go:212:23 undefined: parseHexLineToBytes (compile)
+2025-08-18 17:53:47.325 [info] 
+2025-08-18 17:54:00.118 [info] Running checks...
+2025-08-18 17:54:00.118 [info] Starting linting the current package at /home/aaron/projects/lidar
+2025-08-18 17:54:00.573 [info] /home/aaron/projects/lidar>Finished running tool: /home/aaron/go/bin/staticcheck
+2025-08-18 17:54:00.573 [info] 
+2025-08-18 17:56:20.565 [info] Running checks...
+2025-08-18 17:56:20.565 [info] Starting linting the current package at /home/aaron/projects/lidar
+2025-08-18 17:56:21.058 [info] /home/aaron/projects/lidar>Finished running tool: /home/aaron/go/bin/staticcheck
+2025-08-18 17:56:21.058 [info] 
+2025-08-18 17:56:29.800 [info] Running checks...
+2025-08-18 17:56:29.800 [info] Starting linting the current package at /home/aaron/projects/lidar
+2025-08-18 17:56:30.240 [info] /home/aaron/projects/lidar>Finished running tool: /home/aaron/go/bin/staticcheck
+2025-08-18 17:56:30.240 [info] 
+2025-08-18 17:56:38.292 [info] Running checks...
+2025-08-18 17:56:38.292 [info] Starting linting the current package at /home/aaron/projects/lidar
+2025-08-18 17:56:38.787 [info] /home/aaron/projects/lidar>Finished running tool: /home/aaron/go/bin/staticcheck
+2025-08-18 17:56:38.787 [info] 
+2025-08-18 17:56:47.933 [info] Running checks...
+2025-08-18 17:56:47.933 [info] Starting linting the current package at /home/aaron/projects/lidar
+2025-08-18 17:56:48.435 [info] /home/aaron/projects/lidar>Finished running tool: /home/aaron/go/bin/staticcheck
+2025-08-18 17:56:48.436 [info] 
+2025-08-18 17:58:29.877 [info] Running checks...
+2025-08-18 17:58:29.877 [info] Starting linting the current package at /home/aaron/projects/lidar
+2025-08-18 17:58:30.347 [info] /home/aaron/projects/lidar>Finished running tool: /home/aaron/go/bin/staticcheck
+2025-08-18 17:58:30.347 [info] 
+2025-08-18 17:58:38.436 [info] Running checks...
+2025-08-18 17:58:38.436 [info] Starting linting the current package at /home/aaron/projects/lidar
+2025-08-18 17:58:38.924 [info] /home/aaron/projects/lidar>Finished running tool: /home/aaron/go/bin/staticcheck
+2025-08-18 17:58:38.924 [info] 
+2025-08-18 18:00:28.364 [info] Running checks...
+2025-08-18 18:00:28.364 [info] Starting linting the current package at /home/aaron/projects/lidar
+2025-08-18 18:00:28.814 [info] /home/aaron/projects/lidar>Finished running tool: /home/aaron/go/bin/staticcheck
+2025-08-18 18:00:28.814 [info] 
+2025-08-18 18:00:43.010 [info] Running checks...
+2025-08-18 18:00:43.010 [info] Starting linting the current package at /home/aaron/projects/lidar
+2025-08-18 18:00:43.312 [info] /home/aaron/projects/lidar>Finished running tool: /home/aaron/go/bin/staticcheck
+2025-08-18 18:00:43.312 [info] /home/aaron/projects/lidar/main.go:439:26 syntax error: unexpected name Creating after top level declaration
+2025-08-18 18:00:43.312 [info] /home/aaron/projects/lidar/main.go:439:52 invalid character U+0024 '$'
+2025-08-18 18:00:43.312 [info] /home/aaron/projects/lidar/main.go:472:48 invalid character U+0024 '$' (compile)
+2025-08-18 18:00:43.312 [info] 
+2025-08-18 18:00:46.629 [info] Running checks...
+2025-08-18 18:00:46.629 [info] Starting linting the current package at /home/aaron/projects/lidar
+2025-08-18 18:00:46.913 [info] /home/aaron/projects/lidar>Finished running tool: /home/aaron/go/bin/staticcheck
+2025-08-18 18:00:46.913 [info] /home/aaron/projects/lidar/main.go:472:26 syntax error: unexpected name Point after top level declaration
+2025-08-18 18:00:46.913 [info] /home/aaron/projects/lidar/main.go:472:48 invalid character U+0024 '$' (compile)
+2025-08-18 18:00:46.913 [info] 
+2025-08-18 18:00:51.359 [info] Running checks...
+2025-08-18 18:00:51.359 [info] Starting linting the current package at /home/aaron/projects/lidar
+2025-08-18 18:00:51.804 [info] /home/aaron/projects/lidar>Finished running tool: /home/aaron/go/bin/staticcheck
+2025-08-18 18:00:51.804 [info] 
+2025-08-18 18:00:59.805 [info] Running checks...
+2025-08-18 18:00:59.806 [info] Starting linting the current package at /home/aaron/projects/lidar
+2025-08-18 18:01:00.201 [info] /home/aaron/projects/lidar>Finished running tool: /home/aaron/go/bin/staticcheck
+2025-08-18 18:01:00.201 [info] 
+2025-08-18 18:01:06.028 [info] Running checks...
+2025-08-18 18:01:06.028 [info] Starting linting the current package at /home/aaron/projects/lidar
+2025-08-18 18:01:06.489 [info] /home/aaron/projects/lidar>Finished running tool: /home/aaron/go/bin/staticcheck
+2025-08-18 18:01:06.489 [info] 
+2025-08-18 18:04:37.818 [info] Running checks...
+2025-08-18 18:04:37.818 [info] Starting linting the current package at /home/aaron/projects/lidar
+2025-08-18 18:04:38.255 [info] /home/aaron/projects/lidar>Finished running tool: /home/aaron/go/bin/staticcheck
+2025-08-18 18:04:38.255 [info] 
+2025-08-18 18:04:48.924 [info] Running checks...
+2025-08-18 18:04:48.924 [info] Starting linting the current package at /home/aaron/projects/lidar
+2025-08-18 18:04:49.359 [info] /home/aaron/projects/lidar>Finished running tool: /home/aaron/go/bin/staticcheck
+2025-08-18 18:04:49.359 [info] 
+2025-08-18 18:04:58.385 [info] Running checks...
+2025-08-18 18:04:58.385 [info] Starting linting the current package at /home/aaron/projects/lidar
+2025-08-18 18:04:58.846 [info] /home/aaron/projects/lidar>Finished running tool: /home/aaron/go/bin/staticcheck
+2025-08-18 18:04:58.846 [info] 
+2025-08-18 18:05:15.594 [info] Running checks...
+2025-08-18 18:05:15.594 [info] Starting linting the current package at /home/aaron/projects/lidar
+2025-08-18 18:05:16.082 [info] /home/aaron/projects/lidar>Finished running tool: /home/aaron/go/bin/staticcheck
+2025-08-18 18:05:16.082 [info] 
+2025-08-18 18:09:40.976 [info] Running checks...
+2025-08-18 18:09:40.976 [info] Starting linting the current package at /home/aaron/projects/lidar
+2025-08-18 18:09:41.454 [info] /home/aaron/projects/lidar>Finished running tool: /home/aaron/go/bin/staticcheck
+2025-08-18 18:09:41.454 [info] 
+2025-08-18 18:23:14.836 [info] Running checks...
+2025-08-18 18:23:14.836 [info] Starting linting the current package at /home/aaron/projects/lidar
+2025-08-18 18:23:15.106 [info] /home/aaron/projects/lidar>Finished running tool: /home/aaron/go/bin/staticcheck
+2025-08-18 18:23:15.106 [info] /home/aaron/projects/lidar/main.go:76:22 invalid operation: operator % not defined on float64(angle) (value of type float64)
+2025-08-18 18:23:15.106 [info] /home/aaron/projects/lidar/main.go:827:7 r.Method undefined (type *http.ResponseWriter is pointer to interface, not interface)
+2025-08-18 18:23:15.106 [info] /home/aaron/projects/lidar/main.go:887:34 cannot use handleStopStream (value of type func(w http.ResponseWriter, r *http.ResponseWriter)) as func(http.ResponseWriter, *http.Request) value in argument to http.HandleFunc (compile)
+2025-08-18 18:23:15.106 [info] 
+2025-08-18 18:23:19.814 [info] Running checks...
+2025-08-18 18:23:19.814 [info] Starting linting the current package at /home/aaron/projects/lidar
+2025-08-18 18:23:20.111 [info] /home/aaron/projects/lidar>Finished running tool: /home/aaron/go/bin/staticcheck
+2025-08-18 18:23:20.111 [info] /home/aaron/projects/lidar/main.go:830:7 r.Method undefined (type *http.ResponseWriter is pointer to interface, not interface)
+2025-08-18 18:23:20.111 [info] /home/aaron/projects/lidar/main.go:890:34 cannot use handleStopStream (value of type func(w http.ResponseWriter, r *http.ResponseWriter)) as func(http.ResponseWriter, *http.Request) value in argument to http.HandleFunc (compile)
+2025-08-18 18:23:20.111 [info] 
+2025-08-18 18:23:23.655 [info] Running checks...
+2025-08-18 18:23:23.655 [info] Starting linting the current package at /home/aaron/projects/lidar
+2025-08-18 18:23:24.051 [info] /home/aaron/projects/lidar>Finished running tool: /home/aaron/go/bin/staticcheck
+2025-08-18 18:23:24.051 [info] 
+2025-08-18 18:26:07.633 [info] Running checks...
+2025-08-18 18:26:07.633 [info] Starting linting the current package at /home/aaron/projects/lidar
+2025-08-18 18:26:08.088 [info] /home/aaron/projects/lidar>Finished running tool: /home/aaron/go/bin/staticcheck
+2025-08-18 18:26:08.088 [info] /home/aaron/projects/lidar/main.go:37:6 func heuristicallySelectDistance is unused (U1000)
+2025-08-18 18:26:08.088 [info] /home/aaron/projects/lidar/main.go:57:6 func parseAsciiHexLine is unused (U1000)
+2025-08-18 18:26:08.088 [info] /home/aaron/projects/lidar/main.go:80:6 func tryExtractFrames is unused (U1000)
+2025-08-18 18:26:08.088 [info] 
+2025-08-18 18:26:27.518 [info] Running checks...
+2025-08-18 18:26:27.518 [info] Starting linting the current package at /home/aaron/projects/lidar
+2025-08-18 18:26:27.947 [info] /home/aaron/projects/lidar>Finished running tool: /home/aaron/go/bin/staticcheck
+2025-08-18 18:26:27.947 [info] 
+2025-08-18 18:32:22.362 [info] Running checks...
+2025-08-18 18:32:22.362 [info] Starting linting the current package at /home/aaron/projects/lidar
+2025-08-18 18:32:22.810 [info] /home/aaron/projects/lidar>Finished running tool: /home/aaron/go/bin/staticcheck
+2025-08-18 18:32:22.810 [info] 
+2025-08-18 18:35:09.077 [info] Running checks...
+2025-08-18 18:35:09.077 [info] Starting linting the current package at /home/aaron/projects/lidar
+2025-08-18 18:35:09.527 [info] /home/aaron/projects/lidar>Finished running tool: /home/aaron/go/bin/staticcheck
+2025-08-18 18:35:09.527 [info] /home/aaron/projects/lidar/main.go:37:6 func heuristicallySelectDistance is unused (U1000)
+2025-08-18 18:35:09.527 [info] 
+2025-08-18 18:39:17.710 [info] Running checks...
+2025-08-18 18:39:17.710 [info] Starting linting the current package at /home/aaron/projects/lidar
+2025-08-18 18:39:18.182 [info] /home/aaron/projects/lidar>Finished running tool: /home/aaron/go/bin/staticcheck
+2025-08-18 18:39:18.182 [info] /home/aaron/projects/lidar/main.go:37:6 func heuristicallySelectDistance is unused (U1000)
+2025-08-18 18:39:18.182 [info] 

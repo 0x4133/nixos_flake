@@ -1,0 +1,26 @@
+[Info  - 3:17:46 PM] basedpyright language server 1.29.4 starting
+[Info  - 3:17:46 PM] Server root directory: file:///home/aaron/.cursor/extensions/anysphere.cursorpyright-1.0.8/dist
+[Info  - 3:17:46 PM] Starting service instance "radio_thing"
+Received pythonPath from Python extension: /etc/profiles/per-user/aaron/bin/python
+[Info  - 3:17:46 PM] Setting pythonPath for service "radio_thing": "/etc/profiles/per-user/aaron/bin/python"
+[Info  - 3:17:46 PM] No include entries specified; assuming /home/aaron/projects/radio_thing
+[Info  - 3:17:46 PM] Auto-excluding **/node_modules
+[Info  - 3:17:46 PM] Auto-excluding **/__pycache__
+[Info  - 3:17:46 PM] Auto-excluding **/.*
+[Info  - 3:17:46 PM] Assuming Python version 3.13.5.final.0
+[Info  - 3:17:47 PM] Found 1 source file
+[Info  - 3:17:48 PM] BG: Background analysis(1) root directory: file:///home/aaron/.cursor/extensions/anysphere.cursorpyright-1.0.8/dist
+[Info  - 3:17:48 PM] BG: Background analysis(1) started
+[Info  - 3:18:51 PM] Found 2 source files
+Received pythonPath from Python extension: /home/aaron/projects/radio_thing/venv/bin/python
+[Info  - 3:19:55 PM] Setting pythonPath for service "radio_thing": "/home/aaron/projects/radio_thing/venv/bin/python"
+[Info  - 3:19:55 PM] No include entries specified; assuming /home/aaron/projects/radio_thing
+[Info  - 3:19:55 PM] Auto-excluding **/node_modules
+[Info  - 3:19:55 PM] Auto-excluding **/__pycache__
+[Info  - 3:19:55 PM] Auto-excluding **/.*
+[Info  - 3:19:55 PM] Assuming Python version 3.13.5.final.0
+[Info  - 3:19:56 PM] Auto-excluding /home/aaron/projects/radio_thing/venv
+[Info  - 3:19:56 PM] Found 2 source files
+[Info  - 5:08:48 PM] Found 2 source files
+[Info  - 5:10:34 PM] Auto-excluding /home/aaron/projects/radio_thing/venv
+[Info  - 5:10:34 PM] Found 2 source files

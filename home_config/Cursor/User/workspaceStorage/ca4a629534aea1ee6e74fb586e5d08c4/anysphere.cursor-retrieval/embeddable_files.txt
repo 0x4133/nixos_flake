@@ -1,0 +1,15 @@
+lidar_20250819_061739.copc.laz
+lidar_20250819_061739.las
+lidar_20250819_063938.copc.laz
+lidar_20250819_120619.las
+lidar_20250819_124233.copc.laz
+main.py
+lidar_20250819_062128.copc.laz
+lidar_20250819_120619.copc.laz
+lidar_20250819_064032.copc.laz
+lidar_20250819_063938.las
+shell.nix
+lidar_20250819_121833.copc.laz
+lidar_20250819_064032.las
+main copy.py
+lidar_20250819_062128.las

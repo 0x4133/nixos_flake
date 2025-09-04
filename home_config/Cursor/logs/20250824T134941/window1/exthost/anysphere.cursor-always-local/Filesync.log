@@ -1,0 +1,40 @@
+2025-08-24 13:49:48.851 [error] Failed to check if file sync is enabled for user {}
+2025-08-24 13:49:48.851 [error] Failed to fetch fsConfig File sync is disabled
+2025-08-24 13:49:48.851 [error] Failed to fetch fsConfig File sync is disabled
+2025-08-24 13:49:48.970 [info] [registerEventListeners] Registering event listeners
+2025-08-24 13:49:50.209 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-08-24 13:49:50.463 [info] Fetched fsConfig in 252.6284480000004ms
+2025-08-24 13:49:50.463 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-08-24 13:49:50.779 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-08-24 13:49:51.221 [info] Fetched fsConfig in 441.425021ms
+2025-08-24 13:49:51.221 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-08-24 13:49:51.224 [info] File sync enabled status: true
+2025-08-24 13:49:51.224 [info] Starting sync of visible tabs
+2025-08-24 13:49:51.277 [info] Uploaded file main.py modelVersion=1 in 49.63083999999981ms
+2025-08-24 13:49:51.278 [info] Synced all visible tabs in 56.46710199999961ms
+2025-08-24 13:49:51.543 [info] Starting sync of visible tabs
+2025-08-24 13:49:51.589 [info] Uploaded file main.py modelVersion=1 in 43.99559800000043ms
+2025-08-24 13:49:51.589 [info] Synced all visible tabs in 47.121423000000505ms
+2025-08-24 13:49:51.787 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-08-24 13:49:52.029 [info] Fetched fsConfig in 241.92876700000033ms
+2025-08-24 13:49:52.029 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-08-24 13:50:00.386 [error] Failed to check if file sync is enabled for user {}
+2025-08-24 13:50:00.386 [error] Failed to fetch fsConfig File sync is disabled
+2025-08-24 13:50:00.386 [error] Failed to fetch fsConfig File sync is disabled
+2025-08-24 13:50:00.622 [info] [registerEventListeners] Registering event listeners
+2025-08-24 13:50:01.751 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-08-24 13:50:01.989 [info] Fetched fsConfig in 236.85099300000002ms
+2025-08-24 13:50:01.989 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-08-24 13:50:02.241 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-08-24 13:50:02.680 [info] Fetched fsConfig in 438.36690499999986ms
+2025-08-24 13:50:02.680 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-08-24 13:50:02.680 [info] File sync enabled status: true
+2025-08-24 13:50:02.680 [info] Starting sync of visible tabs
+2025-08-24 13:50:02.680 [info] Synced all visible tabs in 0.0876590000007127ms
+2025-08-24 13:50:03.001 [info] Starting sync of visible tabs
+2025-08-24 13:50:03.001 [info] Synced all visible tabs in 0.3008300000001327ms
+2025-08-24 13:50:03.247 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-08-24 13:50:03.496 [info] Fetched fsConfig in 249.13352600000053ms
+2025-08-24 13:50:03.496 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-08-24 13:50:10.219 [info] Uploaded file wroom/master/master.ino modelVersion=1 in 81.34748099999888ms
+2025-08-24 13:50:10.219 [info] Handled visible editors change in 245.49372399999993ms

@@ -1,0 +1,313 @@
+20:03:41.880: Platform: Wayland
+20:03:41.880: CPU Name: Intel(R) Xeon(R) CPU E5-2687W v4 @ 3.00GHz
+20:03:41.880: CPU Speed: 1198.576MHz
+20:03:41.880: CPU Name: Intel(R) Xeon(R) CPU E5-2687W v4 @ 3.00GHz
+20:03:41.880: CPU Speed: 1197.365MHz
+20:03:41.880: CPU Name: Intel(R) Xeon(R) CPU E5-2687W v4 @ 3.00GHz
+20:03:41.880: CPU Speed: 1200.000MHz
+20:03:41.880: CPU Name: Intel(R) Xeon(R) CPU E5-2687W v4 @ 3.00GHz
+20:03:41.880: CPU Speed: 1200.000MHz
+20:03:41.881: Physical Cores: 24, Logical Cores: 48
+20:03:41.881: Physical Memory: 64301MB Total, 59901MB Free
+20:03:41.881: Kernel Version: Linux 6.12.40
+20:03:41.881: Distribution: NixOS "25.11"
+20:03:41.881: Desktop Environment: Hyprland (hyprland)
+20:03:41.881: Session Type: wayland
+20:03:41.885: Current Date/Time: 2025-08-21, 08:03:41 PM
+20:03:41.885: Browser Hardware Acceleration: true
+20:03:41.885: Qt Version: 6.9.1 (runtime), 6.9.1 (compiled)
+20:03:41.885: Portable mode: false
+20:03:41.979: OBS 31.1.1 (linux)
+20:03:41.979: ---------------------------------
+20:03:41.980: ---------------------------------
+20:03:41.980: audio settings reset:
+20:03:41.980: 	samples per sec: 48000
+20:03:41.980: 	speakers:        2
+20:03:41.980: 	max buffering:   960 milliseconds
+20:03:41.980: 	buffering type:  dynamically increasing
+20:03:41.985: ---------------------------------
+20:03:41.985: Initializing OpenGL...
+20:03:41.985: Using EGL/Wayland
+20:03:42.055: Initialized EGL 1.5
+20:03:42.089: Loading up OpenGL on adapter NVIDIA Corporation NVIDIA GeForce GTX 960/PCIe/SSE2
+20:03:42.089: OpenGL loaded successfully, version 3.3.0 NVIDIA 570.172.08, shading language 3.30 NVIDIA via Cg compiler
+20:03:42.359: ---------------------------------
+20:03:42.359: video settings reset:
+20:03:42.359: 	base resolution:   1920x1080
+20:03:42.359: 	output resolution: 1280x720
+20:03:42.359: 	downscale filter:  Bicubic
+20:03:42.359: 	fps:               30/1
+20:03:42.359: 	format:            NV12
+20:03:42.359: 	YUV mode:          Rec. 709/Partial
+20:03:42.359: NV12 texture support enabled
+20:03:42.359: P010 texture support not available
+20:03:42.360: Audio monitoring device:
+20:03:42.360: 	name: Default
+20:03:42.360: 	id: default
+20:03:42.385: ---------------------------------
+20:03:42.403: Failed to load 'en-US' text for module: 'decklink-captions.so'
+20:03:42.414: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+20:03:42.424: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+20:03:42.424: Failed to initialize module 'decklink.so'
+20:03:42.951: [pipewire] Available capture sources:
+20:03:42.952: [pipewire]     - Monitor source
+20:03:42.952: [pipewire]     - Window source
+20:03:42.987: v4l2loopback not installed, virtual camera not registered
+20:03:43.007: [obs-browser]: Version 2.25.3
+20:03:43.007: [obs-browser]: CEF Version 138.0.7204.97 (runtime), 138.0.17+gac9b751+chromium-138.0.7204.97 (compiled)
+20:03:43.008: [obs-browser]: Blacklisted driver detected, disabling browser source hardware acceleration.
+20:03:43.296: VAAPI: API version 1.22
+20:03:43.321: FFmpeg VAAPI H264 encoding supported
+20:03:43.486: FFmpeg VAAPI AV1 encoding supported
+20:03:43.631: FFmpeg VAAPI HEVC encoding supported
+20:03:44.117: [obs-nvenc] NVENC version: 12.1 (compiled) / 13.0 (driver), CUDA driver version: 12.80, AV1 supported: false
+20:03:44.863: [obs-websocket] [obs_module_load] you can haz websockets (Version: 5.6.2 | RPC Version: 1)
+20:03:44.864: [obs-websocket] [obs_module_load] Qt version (compile-time): 6.9.1 | Qt version (run-time): 6.9.1
+20:03:44.864: [obs-websocket] [obs_module_load] Linked ASIO Version: 102400
+20:03:44.864: DEPRECATION: obs_frontend_get_global_config is deprecated. Read from global or user configuration explicitly instead.
+20:03:44.865: [obs-websocket] [Config::Load] Existing configuration not found, using defaults.
+20:03:44.865: [obs-websocket] [Config::Load] (FirstLoad) Generating new server password.
+20:03:44.879: [obs-websocket] [obs_module_load] Module loaded.
+20:03:44.938: [vlc-video]: VLC 3.0.21 Vetinari found, VLC video source enabled
+20:03:44.988: [linux-vkcapture] plugin loaded successfully (version 1.5.2)
+20:03:45.145: [obs-backgroundremoval] Plugin loaded successfully (version 1.1.13)
+20:03:45.146: [obs-backgroundremoval] Config folder does not exist, creating: /home/aaron/.config/obs-studio/plugin_config/obs-backgroundremoval/
+20:03:45.146: [obs-backgroundremoval] Failed to open config file /home/aaron/.config/obs-studio/plugin_config/obs-backgroundremoval/config.ini
+20:03:45.146: [obs-backgroundremoval] Failed to open config file /home/aaron/.config/obs-studio/plugin_config/obs-backgroundremoval/config.ini
+20:03:45.448: [obs-backgroundremoval] Latest release is 
+20:03:45.488: [obs-gstreamer] build: 0.4.1, gst-runtime: 1.26.0
+20:03:47.472: ---------------------------------
+20:03:47.472:   Loaded Modules:
+20:03:47.472:     obs-gstreamer.so
+20:03:47.472:     obs-backgroundremoval.so
+20:03:47.472:     linux-vkcapture.so
+20:03:47.472:     linux-pipewire-audio.so
+20:03:47.472:     libwlrobs.so
+20:03:47.472:     vlc-video.so
+20:03:47.472:     text-freetype2.so
+20:03:47.472:     rtmp-services.so
+20:03:47.472:     obs-x264.so
+20:03:47.472:     obs-websocket.so
+20:03:47.472:     obs-webrtc.so
+20:03:47.472:     obs-vst.so
+20:03:47.472:     obs-transitions.so
+20:03:47.472:     obs-qsv11.so
+20:03:47.472:     obs-outputs.so
+20:03:47.472:     obs-nvenc.so
+20:03:47.472:     obs-libfdk.so
+20:03:47.472:     obs-filters.so
+20:03:47.472:     obs-ffmpeg.so
+20:03:47.472:     obs-browser.so
+20:03:47.472:     linux-v4l2.so
+20:03:47.472:     linux-pulseaudio.so
+20:03:47.472:     linux-pipewire.so
+20:03:47.472:     linux-jack.so
+20:03:47.472:     linux-capture.so
+20:03:47.472:     linux-alsa.so
+20:03:47.472:     image-source.so
+20:03:47.472:     frontend-tools.so
+20:03:47.472:     decklink-output-ui.so
+20:03:47.472:     decklink-captions.so
+20:03:47.472: ---------------------------------
+20:03:47.472: ---------------------------------
+20:03:47.472: Available Encoders:
+20:03:47.472:   Video Encoders:
+20:03:47.472: 	- ffmpeg_svt_av1 (SVT-AV1)
+20:03:47.472: 	- ffmpeg_aom_av1 (AOM AV1)
+20:03:47.472: 	- ffmpeg_vaapi_tex (FFmpeg VAAPI H.264)
+20:03:47.472: 	- av1_ffmpeg_vaapi_tex (FFmpeg VAAPI AV1)
+20:03:47.472: 	- hevc_ffmpeg_vaapi_tex (FFmpeg VAAPI HEVC)
+20:03:47.473: 	- obs_nvenc_h264_tex (NVIDIA NVENC H.264)
+20:03:47.473: 	- obs_nvenc_hevc_tex (NVIDIA NVENC HEVC)
+20:03:47.473: 	- obs_x264 (x264)
+20:03:47.473:   Audio Encoders:
+20:03:47.473: 	- ffmpeg_aac (FFmpeg AAC)
+20:03:47.473: 	- ffmpeg_opus (FFmpeg Opus)
+20:03:47.473: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16-bit))
+20:03:47.473: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24-bit))
+20:03:47.473: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32-bit float))
+20:03:47.473: 	- ffmpeg_alac (FFmpeg ALAC (24-bit))
+20:03:47.473: 	- ffmpeg_flac (FFmpeg FLAC (16-bit))
+20:03:47.473: 	- libfdk_aac (libfdk AAC)
+20:03:47.473: ==== Startup complete ===============================================
+20:03:47.484: No scene file found, creating default scene
+20:03:47.531: All scene data cleared
+20:03:47.531: ------------------------------------------------
+20:03:47.615: pulse-input: Server name: 'PulseAudio (on PipeWire 1.4.6) 15.0.0'
+20:03:47.615: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+20:03:47.616: pulse-input: Started recording from 'alsa_output.pci-0000_00_1b.0.analog-stereo.monitor' (default)
+20:03:47.675: pulse-input: Server name: 'PulseAudio (on PipeWire 1.4.6) 15.0.0'
+20:03:47.675: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+20:03:47.675: pulse-input: Started recording from 'alsa_output.pci-0000_00_1b.0.analog-stereo.monitor' (default)
+20:03:47.679: Switched to scene 'Scene'
+20:03:47.679: Created scene collection 'Untitled' (clean, Untitled.json)
+20:03:47.679: ------------------------------------------------
+20:03:48.445: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Desktop Audio)
+20:03:48.445: 
+20:03:48.765: adding 64 milliseconds of audio buffering, total audio buffering is now 85 milliseconds (source: Mic/Aux)
+20:03:48.765: 
+20:04:07.885: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Try to disable surface 0x1520d2f0 with focusing surface 0x1572ad30
+20:04:09.340: v4l2-input: Start capture from 
+20:04:09.340: v4l2-input: Unable to open device
+20:04:09.340: v4l2-input: Initialization failed, errno: No such file or directory
+20:04:09.350: User added source 'Video Capture Device (V4L2)' (v4l2_input) to scene 'Scene'
+20:04:09.502: v4l2-input: Found device 'HD USB Camera: HD USB Camera' at /dev/video1
+20:04:09.502: v4l2-input: /dev/video2 seems to not support video capture
+20:04:09.503: v4l2-input: Found device 'Xbox NUI Camera' at /dev/video0
+20:04:09.508: v4l2-input: Found input 'Camera 1' (Index 0)
+20:04:09.508: v4l2-controls: setting default for Power Line Frequency to 1
+20:04:09.508: v4l2-controls: setting default for Auto Exposure to 3
+20:04:09.509: v4l2-input: Pixelformat: Motion-JPEG (available)
+20:04:09.509: v4l2-input: Pixelformat: YUYV 4:2:2 (available)
+20:04:09.509: v4l2-input: Pixelformat: RGB3 (Emulated) (unavailable)
+20:04:09.509: v4l2-input: Pixelformat: BGR3 (Emulated) (available)
+20:04:09.509: v4l2-input: Pixelformat: YU12 (Emulated) (available)
+20:04:09.509: v4l2-input: Pixelformat: YV12 (Emulated) (available)
+20:04:09.510: v4l2-input: Stepwise and Continuous framesizes are currently hardcoded
+20:04:09.512: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+20:04:09.518: v4l2-input: Pixelformat: Motion-JPEG (available)
+20:04:09.518: v4l2-input: Pixelformat: YUYV 4:2:2 (available)
+20:04:09.518: v4l2-input: Pixelformat: RGB3 (Emulated) (unavailable)
+20:04:09.518: v4l2-input: Pixelformat: BGR3 (Emulated) (available)
+20:04:09.518: v4l2-input: Pixelformat: YU12 (Emulated) (available)
+20:04:09.518: v4l2-input: Pixelformat: YV12 (Emulated) (available)
+20:04:09.519: v4l2-input: Stepwise and Continuous framesizes are currently hardcoded
+20:04:09.520: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+20:04:09.527: v4l2-input: Start capture from /dev/video1
+20:04:09.527: v4l2-input: Input: 0
+20:04:10.293: v4l2-input: Resolution: 1920x1080
+20:04:10.293: v4l2-input: Pixelformat: MJPG
+20:04:10.293: v4l2-input: Linesize: 0 Bytes
+20:04:10.293: v4l2-input: Framerate: 30.00 fps
+20:04:10.293: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+20:04:10.302: v4l2-input: /dev/video1: select timeout set to 166666 (5x frame periods)
+20:05:16.994: v4l2-input: Found input 'kinect' (Index 0)
+20:05:16.995: v4l2-input: Pixelformat: 10-bit Greyscale (Packed) (unavailable)
+20:05:17.040: v4l2-input: Pixelformat: 8-bit Bayer GRGR/BGBG (unavailable)
+20:05:17.027: v4l2-input: /dev/video1: Stopped capture after 1986 frames
+20:05:17.040: v4l2-input: Pixelformat: UYVY 4:2:2 (available)
+20:05:17.040: v4l2-input: Pixelformat: RGB3 (Emulated) (unavailable)
+20:05:17.040: v4l2-input: Pixelformat: BGR3 (Emulated) (available)
+20:05:17.040: v4l2-input: Pixelformat: YU12 (Emulated) (available)
+20:05:17.041: v4l2-input: Pixelformat: YV12 (Emulated) (available)
+20:05:17.041: v4l2-input: Stepwise and Continuous framesizes are currently hardcoded
+20:05:17.042: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+20:05:17.060: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+20:05:17.135: v4l2-input: Start capture from /dev/video0
+20:05:17.136: v4l2-input: Input: 0
+20:05:17.136: v4l2-input: Resolution: 640x480
+20:05:17.136: v4l2-input: Pixelformat: UYVY
+20:05:17.136: v4l2-input: Linesize: 1280 Bytes
+20:05:17.136: v4l2-input: Framerate is not set, falling back to 30
+20:05:17.136: v4l2-input: Framerate: 30.00 fps
+20:05:17.138: v4l2-input: /dev/video0: select timeout set to 166666 (5x frame periods)
+20:05:23.464: v4l2-input: /dev/video0: Stopped capture after 91 frames
+20:05:23.538: v4l2-input: Start capture from /dev/video0
+20:05:23.540: v4l2-input: Input: 0
+20:05:23.540: v4l2-input: Resolution: 640x480
+20:05:23.540: v4l2-input: Pixelformat: UYVY
+20:05:23.540: v4l2-input: Linesize: 1280 Bytes
+20:05:23.540: v4l2-input: Framerate is not set, falling back to 30
+20:05:23.540: v4l2-input: Framerate: 30.00 fps
+20:05:23.542: v4l2-input: /dev/video0: select timeout set to 166666 (5x frame periods)
+20:05:25.529: v4l2-input: /dev/video0: Stopped capture after 26 frames
+20:05:25.603: v4l2-input: Start capture from /dev/video0
+20:05:25.604: v4l2-input: Input: 0
+20:05:25.605: v4l2-input: Resolution: 640x480
+20:05:25.605: v4l2-input: Pixelformat: UYVY
+20:05:25.605: v4l2-input: Linesize: 1280 Bytes
+20:05:25.605: v4l2-input: Framerate is not set, falling back to 30
+20:05:25.605: v4l2-input: Framerate: 30.00 fps
+20:05:25.606: v4l2-input: /dev/video0: select timeout set to 166666 (5x frame periods)
+20:05:27.193: v4l2-input: /dev/video0: Stopped capture after 20 frames
+20:05:27.268: v4l2-input: Start capture from /dev/video0
+20:05:27.269: v4l2-input: Input: 0
+20:05:27.269: v4l2-input: Resolution: 640x480
+20:05:27.269: v4l2-input: Pixelformat: UYVY
+20:05:27.269: v4l2-input: Linesize: 1280 Bytes
+20:05:27.269: v4l2-input: Framerate is not set, falling back to 30
+20:05:27.269: v4l2-input: Framerate: 30.00 fps
+20:05:27.271: v4l2-input: /dev/video0: select timeout set to 166666 (5x frame periods)
+20:05:29.261: v4l2-input: /dev/video0: Stopped capture after 26 frames
+20:05:29.335: v4l2-input: Start capture from /dev/video0
+20:05:29.336: v4l2-input: Input: 0
+20:05:29.337: v4l2-input: Resolution: 640x480
+20:05:29.337: v4l2-input: Pixelformat: UYVY
+20:05:29.337: v4l2-input: Linesize: 1280 Bytes
+20:05:29.337: v4l2-input: Framerate is not set, falling back to 30
+20:05:29.337: v4l2-input: Framerate: 30.00 fps
+20:05:29.338: v4l2-input: /dev/video0: select timeout set to 166666 (5x frame periods)
+20:05:31.324: v4l2-input: /dev/video0: Stopped capture after 26 frames
+20:05:31.399: v4l2-input: Start capture from /dev/video0
+20:05:31.400: v4l2-input: Input: 0
+20:05:31.400: v4l2-input: Resolution: 640x480
+20:05:31.400: v4l2-input: Pixelformat: UYVY
+20:05:31.400: v4l2-input: Linesize: 1280 Bytes
+20:05:31.400: v4l2-input: Framerate: 60.00 fps
+20:05:31.402: v4l2-input: /dev/video0: select timeout set to 83333 (5x frame periods)
+20:05:31.708: v4l2-input: /dev/video0: select timed out
+20:05:31.708: v4l2-input: /dev/video0: failed to log status
+20:05:37.517: v4l2-input: /dev/video0: Stopped capture after 88 frames
+20:05:37.591: v4l2-input: Start capture from /dev/video0
+20:05:37.592: v4l2-input: Input: 0
+20:05:37.593: v4l2-input: Resolution: 640x480
+20:05:37.593: v4l2-input: Pixelformat: UYVY
+20:05:37.593: v4l2-input: Linesize: 1280 Bytes
+20:05:37.593: v4l2-input: Framerate: 30.00 fps
+20:05:37.594: v4l2-input: /dev/video0: select timeout set to 166666 (5x frame periods)
+20:05:42.801: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+20:05:42.846: v4l2-input: /dev/video0: Stopped capture after 75 frames
+20:05:42.919: v4l2-input: Start capture from /dev/video0
+20:05:42.921: v4l2-input: Input: 0
+20:05:42.921: v4l2-input: Resolution: 640x480
+20:05:42.921: v4l2-input: Pixelformat: BGR3
+20:05:42.921: v4l2-input: Linesize: 1920 Bytes
+20:05:42.921: v4l2-input: Framerate: 30.00 fps
+20:05:42.922: v4l2-input: /dev/video0: select timeout set to 166666 (5x frame periods)
+20:05:44.641: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+20:05:44.713: v4l2-input: /dev/video0: Stopped capture after 23 frames
+20:05:44.790: v4l2-input: Start capture from /dev/video0
+20:05:44.791: v4l2-input: Input: 0
+20:05:44.791: v4l2-input: Resolution: 640x480
+20:05:44.791: v4l2-input: Pixelformat: YU12
+20:05:44.791: v4l2-input: Linesize: 640 Bytes
+20:05:44.791: v4l2-input: Framerate: 30.00 fps
+20:05:44.793: v4l2-input: /dev/video0: select timeout set to 166666 (5x frame periods)
+20:05:46.213: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+20:05:46.242: v4l2-input: /dev/video0: Stopped capture after 18 frames
+20:05:46.317: v4l2-input: Start capture from /dev/video0
+20:05:46.318: v4l2-input: Input: 0
+20:05:46.318: v4l2-input: Resolution: 640x480
+20:05:46.318: v4l2-input: Pixelformat: YV12
+20:05:46.318: v4l2-input: Linesize: 640 Bytes
+20:05:46.318: v4l2-input: Framerate: 30.00 fps
+20:05:46.320: v4l2-input: /dev/video0: select timeout set to 166666 (5x frame periods)
+20:06:00.702: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+20:06:00.763: v4l2-input: /dev/video0: Stopped capture after 213 frames
+20:06:00.839: v4l2-input: Start capture from /dev/video0
+20:06:00.840: v4l2-input: Input: 0
+20:06:00.840: v4l2-input: Resolution: 640x480
+20:06:00.840: v4l2-input: Pixelformat: UYVY
+20:06:00.840: v4l2-input: Linesize: 1280 Bytes
+20:06:00.840: v4l2-input: Framerate: 30.00 fps
+20:06:00.842: v4l2-input: /dev/video0: select timeout set to 166666 (5x frame periods)
+20:06:06.825: v4l2-input: /dev/video0: Stopped capture after 86 frames
+20:06:06.899: v4l2-input: Start capture from /dev/video0
+20:06:06.903: v4l2-input: Input: 0
+20:06:06.903: v4l2-input: Resolution: 640x480
+20:06:06.903: v4l2-input: Pixelformat: UYVY
+20:06:06.903: v4l2-input: Linesize: 1280 Bytes
+20:06:06.903: v4l2-input: Framerate: 60.00 fps
+20:06:06.905: v4l2-input: /dev/video0: select timeout set to 83333 (5x frame periods)
+20:06:07.214: v4l2-input: /dev/video0: select timed out
+20:06:07.214: v4l2-input: /dev/video0: failed to log status
+20:06:25.748: This plugin supports grabbing the mouse only for popup windows
+20:06:27.836: This plugin supports grabbing the mouse only for popup windows
+20:06:27.836: This plugin supports grabbing the mouse only for popup windows
+20:06:29.189: This plugin supports grabbing the mouse only for popup windows
+20:06:29.190: This plugin supports grabbing the mouse only for popup windows
+20:06:30.832: This plugin supports grabbing the mouse only for popup windows
+20:06:30.832: This plugin supports grabbing the mouse only for popup windows
+20:07:42.629: This plugin supports grabbing the mouse only for popup windows
+20:07:42.629: This plugin supports grabbing the mouse only for popup windows
+20:07:43.406: This plugin supports grabbing the mouse only for popup windows

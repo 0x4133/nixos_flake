@@ -1,5 +1,14 @@
-2025/08/07-15:32:25.844 472d Reusing MANIFEST /home/aaron/.config/arduino-ide/Local Storage/leveldb/MANIFEST-000001
-2025/08/07-15:32:25.845 472d Recovering log #3
-2025/08/07-15:32:25.845 472d Reusing old log /home/aaron/.config/arduino-ide/Local Storage/leveldb/000003.log 
-2025/08/07-18:38:24.747 4730 Level-0 table #5: started
-2025/08/07-18:38:24.753 4730 Level-0 table #5: 19068 bytes OK
+2025/08/26-11:15:08.198 2cf6 Reusing MANIFEST /home/aaron/.config/arduino-ide/Local Storage/leveldb/MANIFEST-000001
+2025/08/26-11:15:08.217 2cf6 Recovering log #45
+2025/08/26-11:15:08.219 2cf6 Level-0 table #47: started
+2025/08/26-11:15:08.227 2cf6 Level-0 table #47: 19255 bytes OK
+2025/08/26-11:15:08.229 2cf6 Delete type=0 #45
+2025/08/26-11:15:08.230 2cf6 Compacting 4@0 + 1@1 files
+2025/08/26-11:15:08.237 2cf6 Generated table #49@0: 277 keys, 141485 bytes
+2025/08/26-11:15:08.237 2cf6 Compacted 4@0 + 1@1 files => 141485 bytes
+2025/08/26-11:15:08.239 2cf6 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/08/26-11:15:08.239 2cf6 Delete type=2 #47
+2025/08/26-11:15:08.239 2cf6 Delete type=2 #41
+2025/08/26-11:15:08.239 2cf6 Delete type=2 #36
+2025/08/26-11:15:08.239 2cf6 Delete type=2 #38
+2025/08/26-11:15:08.239 2cf6 Delete type=2 #44

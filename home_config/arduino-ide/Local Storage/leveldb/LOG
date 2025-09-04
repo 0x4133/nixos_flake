@@ -1,8 +1,6 @@
-2025/08/07-19:08:57.916 a760 Reusing MANIFEST /home/aaron/.config/arduino-ide/Local Storage/leveldb/MANIFEST-000001
-2025/08/07-19:08:57.917 a760 Recovering log #3
-2025/08/07-19:08:57.918 a760 Level-0 table #3: started
-2025/08/07-19:08:57.964 a760 Level-0 table #3: 19068 bytes OK
-2025/08/07-19:08:57.964 a760 Recovering log #4
-2025/08/07-19:08:57.965 a760 Reusing old log /home/aaron/.config/arduino-ide/Local Storage/leveldb/000004.log 
-2025/08/07-19:08:57.967 a760 Delete type=2 #5
-2025/08/07-19:08:57.967 a760 Delete type=0 #3
+2025/09/01-18:33:15.590 8658 Reusing MANIFEST /home/aaron/.config/arduino-ide/Local Storage/leveldb/MANIFEST-000001
+2025/09/01-18:33:15.610 8658 Recovering log #48
+2025/09/01-18:33:15.610 8658 Reusing old log /home/aaron/.config/arduino-ide/Local Storage/leveldb/000048.log 
+2025/09/01-18:39:30.940 8659 Level-0 table #52: started
+2025/09/01-18:39:30.971 8659 Level-0 table #52: 22910 bytes OK
+2025/09/01-18:39:30.973 8659 Delete type=0 #48

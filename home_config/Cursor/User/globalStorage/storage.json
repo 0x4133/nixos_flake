@@ -7,10 +7,10 @@
         "workspaces": [],
         "folders": [
             {
-                "folderUri": "file:///home/aaron/projects/stego_ai"
+                "folderUri": "file:///home/aaron/projects/lidar2"
             },
             {
-                "folderUri": "file:///home/aaron/projects/aiPii"
+                "folderUri": "file:///home/aaron/projects/esp32_ble"
             }
         ],
         "emptyWindows": []
@@ -20,20 +20,24 @@
         "workspaces": {
             "file:///home/aaron/projects/api_caller": "__default__profile__",
             "file:///home/aaron/projects/stego_ai": "__default__profile__",
-            "file:///home/aaron/projects/aiPii": "__default__profile__"
+            "file:///home/aaron/projects/aiPii": "__default__profile__",
+            "file:///home/aaron/projects/radio_thing": "__default__profile__",
+            "file:///home/aaron/projects/lidar": "__default__profile__",
+            "file:///home/aaron/projects/lidar2": "__default__profile__",
+            "file:///home/aaron/projects/esp32_ble": "__default__profile__"
         },
         "emptyWindows": {}
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/aaron/projects/aiPii",
-            "backupPath": "/home/aaron/.config/Cursor/Backups/81d2b233495f61c3089d7aee32db1854",
+            "folder": "file:///home/aaron/projects/esp32_ble",
+            "backupPath": "/home/aaron/.config/Cursor/Backups/1b77b36e1f2ee9e685b7e39bd2b4aebd",
             "uiState": {
                 "mode": 1,
-                "x": 1817,
+                "x": 1923,
                 "y": 3,
-                "width": 100,
-                "height": 1074
+                "width": 1594,
+                "height": 894
             }
         },
         "openedWindows": []
@@ -74,7 +78,11 @@
                 [
                     "c28e107ea1613416d0485de256b8c54e",
                     "d7d7c982169a0f4126c26b3d8a0b89c9",
-                    "b93c8259a08fd8d2d4f9c38f4bf20bc6"
+                    "b93c8259a08fd8d2d4f9c38f4bf20bc6",
+                    "123ae52878b5d78ba4519d1f1fa580e8",
+                    "5ea89e73263c370febe9a15e97e23ad1",
+                    "ca4a629534aea1ee6e74fb586e5d08c4",
+                    "ed7209d065f4b6f1078572890c60f847"
                 ]
             ]
         }
