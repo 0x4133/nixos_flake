@@ -238,6 +238,7 @@ services.udev.packages = [ pkgs.hackrf ];
         gcc
         libGL
         picocom
+        minicom
         
         xorg.libX11
         xorg.libXcursor
