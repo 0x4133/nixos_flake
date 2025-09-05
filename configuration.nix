@@ -246,7 +246,7 @@ services.udev.packages = [ pkgs.hackrf ];
         xorg. libXxf86vm
        # Sectools
         nmap masscan rustscan amass subfinder nuclei fierce dnsenum
-         theharvester responder netexec enum4linux-ng
+         theharvester responder netexec enum4linux-ng nikto
     ];
   };
 networking.firewall.trustedInterfaces = [ "incusbr0" ];
