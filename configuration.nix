@@ -240,6 +240,7 @@ services.udev.packages = [ pkgs.hackrf ];
         picocom
         minicom
          fritzing
+         kicad
         xorg.libX11
         xorg.libXcursor
         xorg.libXrandr
