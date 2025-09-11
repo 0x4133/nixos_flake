@@ -246,6 +246,7 @@ services.udev.packages = [ pkgs.hackrf ];
         xorg.libXinerama
         xorg.libXi
         xorg. libXxf86vm
+        wf-recorder
        # Sectools
         nmap masscan rustscan amass subfinder nuclei fierce dnsenum
          theharvester responder netexec enum4linux-ng nikto
