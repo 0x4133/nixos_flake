@@ -248,8 +248,8 @@ services.udev.packages = [ pkgs.hackrf ];
         xorg.libXi
         xorg. libXxf86vm
         wf-recorder
-        nord
-       
+        
+       bloodhound
        # Sectools
         nmap masscan rustscan amass subfinder nuclei fierce dnsenum
          theharvester responder netexec enum4linux-ng nikto
