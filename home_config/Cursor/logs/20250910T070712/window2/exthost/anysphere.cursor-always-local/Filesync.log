@@ -1,0 +1,105 @@
+2025-09-11 08:48:11.888 [error] Failed to check if file sync is enabled for user {}
+2025-09-11 08:48:11.888 [error] Failed to fetch fsConfig File sync is disabled
+2025-09-11 08:48:11.888 [error] Failed to fetch fsConfig File sync is disabled
+2025-09-11 08:48:12.097 [info] [registerEventListeners] Registering event listeners
+2025-09-11 08:48:13.253 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-09-11 08:48:13.482 [info] Fetched fsConfig in 227.96592799999962ms
+2025-09-11 08:48:13.482 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-09-11 08:48:13.801 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-09-11 08:48:14.239 [info] Fetched fsConfig in 438.0075080000006ms
+2025-09-11 08:48:14.239 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-09-11 08:48:14.239 [info] File sync enabled status: true
+2025-09-11 08:48:14.239 [info] Starting sync of visible tabs
+2025-09-11 08:48:14.239 [info] Synced all visible tabs in 0.08858099999997648ms
+2025-09-11 08:48:14.564 [info] Starting sync of visible tabs
+2025-09-11 08:48:14.564 [info] Synced all visible tabs in 0.3547159999998257ms
+2025-09-11 08:48:14.810 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-09-11 08:48:15.039 [info] Fetched fsConfig in 229.151296ms
+2025-09-11 08:48:15.039 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-09-11 08:48:47.517 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-09-11 08:48:47.745 [info] Fetched fsConfig in 227.38974400000006ms
+2025-09-11 08:48:47.745 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-09-11 08:48:47.745 [info] File sync enabled status: true
+2025-09-11 08:48:47.745 [info] Starting sync of visible tabs
+2025-09-11 08:48:47.745 [info] Synced all visible tabs in 0.10021200000483077ms
+2025-09-11 08:49:12.204 [error] Failed to check if file sync is enabled for user {}
+2025-09-11 08:49:12.204 [error] Failed to fetch fsConfig File sync is disabled
+2025-09-11 08:49:12.204 [error] Failed to fetch fsConfig File sync is disabled
+2025-09-11 08:49:12.410 [info] [registerEventListeners] Registering event listeners
+2025-09-11 08:49:13.508 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-09-11 08:49:13.738 [info] Fetched fsConfig in 229.19880900000044ms
+2025-09-11 08:49:13.738 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-09-11 08:49:13.760 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-09-11 08:49:14.165 [info] Fetched fsConfig in 404.5315419999997ms
+2025-09-11 08:49:14.165 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-09-11 08:49:14.165 [info] File sync enabled status: true
+2025-09-11 08:49:14.165 [info] Starting sync of visible tabs
+2025-09-11 08:49:14.165 [info] Synced all visible tabs in 0.11696699999993143ms
+2025-09-11 08:49:14.539 [info] Starting sync of visible tabs
+2025-09-11 08:49:14.539 [info] Synced all visible tabs in 0.23909099999946193ms
+2025-09-11 08:49:14.783 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-09-11 08:49:15.011 [info] Fetched fsConfig in 227.67132299999957ms
+2025-09-11 08:49:15.011 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-09-11 08:49:15.345 [info] Uploaded file file_carver.go modelVersion=1 in 83.41420900000048ms
+2025-09-11 08:49:15.345 [info] Handled visible editors change in 477.8751540000003ms
+2025-09-11 08:49:47.506 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-09-11 08:49:47.752 [info] Fetched fsConfig in 245.88481599999795ms
+2025-09-11 08:49:47.752 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-09-11 08:49:47.753 [info] File sync enabled status: true
+2025-09-11 08:49:47.753 [info] Starting sync of visible tabs
+2025-09-11 08:49:47.753 [info] Synced all visible tabs in 0.9213529999979073ms
+2025-09-11 08:55:58.642 [info] Handled visible editors change in 1.4333479999913834ms
+2025-09-11 08:56:10.824 [info] Uploaded file file_carver.go modelVersion=1 in 506.47540300001856ms
+2025-09-11 08:56:10.824 [info] Handled visible editors change in 671.479931000038ms
+2025-09-11 08:56:17.256 [info] Handled visible editors change in 1.0683430000208318ms
+2025-09-11 08:56:17.316 [info] Handled visible editors change in 1.9980579999973997ms
+2025-09-11 08:56:21.779 [info] Handled visible editors change in 0.5302099999971688ms
+2025-09-11 08:56:22.897 [info] Handled visible editors change in 2.5506290000048466ms
+2025-09-11 08:57:05.822 [info] Handled visible editors change in 1.6950349999824539ms
+2025-09-11 08:57:06.030 [info] Uploaded file file_carver2.go modelVersion=2 in 39.801508000004105ms
+2025-09-11 08:57:06.031 [info] Handled visible editors change in 122.72543500002939ms
+2025-09-11 08:57:06.032 [info] Uploaded file file_carver2.go modelVersion=2 in 36.98435199999949ms
+2025-09-11 08:57:06.052 [info] Uploaded file file_carver2.go modelVersion=2 in 38.99600300000748ms
+2025-09-11 08:57:07.380 [info] Synced file file_carver2.go modelVersion=3 in 41.83353800000623ms
+2025-09-11 08:57:08.069 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-09-11 08:57:08.323 [info] Fetched fsConfig in 242.60763599997154ms
+2025-09-11 08:57:08.323 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-09-11 08:57:08.324 [info] File sync enabled status: true
+2025-09-11 08:57:08.324 [info] Starting sync of visible tabs
+2025-09-11 08:57:08.324 [info] Synced all visible tabs in 0.3075380000518635ms
+2025-09-11 08:57:25.721 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-09-11 08:57:25.949 [info] Fetched fsConfig in 227.1189519999898ms
+2025-09-11 08:57:25.949 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-09-11 08:57:25.949 [info] File sync enabled status: true
+2025-09-11 08:57:25.949 [info] Starting sync of visible tabs
+2025-09-11 08:57:25.949 [info] Synced all visible tabs in 0.23122600000351667ms
+2025-09-11 08:58:56.701 [info] Synced file file_carver2.go modelVersion=4 in 40.466855000006035ms
+2025-09-11 08:58:56.828 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-09-11 08:58:57.058 [info] Fetched fsConfig in 229.88662000000477ms
+2025-09-11 08:58:57.058 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-09-11 08:58:57.058 [info] File sync enabled status: true
+2025-09-11 08:58:57.058 [info] Starting sync of visible tabs
+2025-09-11 08:58:57.058 [info] Synced all visible tabs in 0.19679800001904368ms
+2025-09-11 08:59:00.694 [info] Synced file file_carver2.go modelVersion=5 in 43.74683900002856ms
+2025-09-11 08:59:03.420 [info] Synced file file_carver2.go modelVersion=6 in 41.77749699994456ms
+2025-09-11 08:59:05.286 [info] Synced file file_carver2.go modelVersion=7 in 42.16782900004182ms
+2025-09-11 08:59:47.577 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-09-11 08:59:47.807 [info] Fetched fsConfig in 229.8634809999494ms
+2025-09-11 08:59:47.807 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-09-11 08:59:47.807 [info] File sync enabled status: true
+2025-09-11 08:59:47.807 [info] Starting sync of visible tabs
+2025-09-11 08:59:47.807 [info] Synced all visible tabs in 0.2933109999867156ms
+2025-09-11 09:00:51.173 [info] Handled visible editors change in 1.2553039999911562ms
+2025-09-11 09:00:51.225 [info] Handled visible editors change in 2.636322999955155ms
+2025-09-11 09:01:19.834 [info] Handled visible editors change in 1.134682000032626ms
+2025-09-11 09:01:19.904 [info] Handled visible editors change in 1.8066660000476986ms
+2025-09-11 09:01:52.577 [info] Handled visible editors change in 1.0190680000232533ms
+2025-09-11 09:01:52.630 [info] Handled visible editors change in 1.854166999924928ms
+2025-09-11 09:01:53.519 [info] Handled visible editors change in 1.0004969999426976ms
+2025-09-11 09:01:53.574 [info] Handled visible editors change in 2.1756740000564605ms
+2025-09-11 09:02:32.984 [info] Handled visible editors change in 1.0971279999939725ms
+2025-09-11 09:02:36.945 [info] Handled visible editors change in 7.287546999985352ms
+2025-09-11 09:02:40.637 [info] Handled visible editors change in 1.0462619999889284ms
+2025-09-11 09:02:40.670 [info] Handled visible editors change in 2.1566530000418425ms
+2025-09-11 09:06:47.196 [info] Handled visible editors change in 1.5733410001266748ms
+2025-09-11 09:06:47.271 [info] Handled visible editors change in 1.6003910000436008ms

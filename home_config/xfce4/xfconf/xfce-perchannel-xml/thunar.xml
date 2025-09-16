@@ -7,7 +7,8 @@
   <property name="last-separator-position" type="int" value="186"/>
   <property name="last-show-hidden" type="bool" value="true"/>
   <property name="last-details-view-zoom-level" type="string" value="THUNAR_ZOOM_LEVEL_38_PERCENT"/>
-  <property name="last-details-view-column-widths" type="string" value="50,50,131,123,92,668,50,50,293,50,50,78,50,189"/>
+  <property name="last-details-view-column-widths" type="string" value="50,50,131,123,92,550,50,50,239,50,50,78,50,164"/>
   <property name="last-sort-column" type="string" value="THUNAR_COLUMN_DATE_MODIFIED"/>
   <property name="last-sort-order" type="string" value="GTK_SORT_ASCENDING"/>
+  <property name="last-side-pane" type="string" value="THUNAR_SIDEPANE_TYPE_TREE"/>
 </channel>

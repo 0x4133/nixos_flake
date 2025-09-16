@@ -1,0 +1,66 @@
+2025-09-11 08:48:11.887 [info] CURSOR LOG: Finished creating provider!
+2025-09-11 08:49:12.204 [info] CURSOR LOG: Finished creating provider!
+2025-09-11 08:57:07.669 [info] CURSOR LOG: requestId c04c2fbe-e14b-490d-8240-312bd5a7ccbe  
+2025-09-11 08:57:08.036 [info] CURSOR LOG: Done streaming cpp with id c04c2fbe-e14b-490d-8240-312bd5a7ccbe
+2025-09-11 08:57:08.036 [info] CPP RT LOG: Time taken for streaming cpp 435.377197265625 with request c04c2fbe-e14b-490d-8240-312bd5a7ccbe
+2025-09-11 08:57:08.036 [info] CPP Request Log with id c04c2fbe-e14b-490d-8240-312bd5a7ccbe
+2025-09-11 08:57:08.036 [info] =======>Model output 
+@@ file_carver2.go:0
+-|package readmemory
++|package readmemory
+2025-09-11 08:57:08.036 [info] =======>Debug stream time 192.19084600009955
+2025-09-11 08:57:08.036 [info] =======>Debug ttft time 191.86933200014755
+2025-09-11 08:57:08.037 [info] Average of latest 20 ttft time 191.86933200014755
+2025-09-11 08:57:08.037 [info] Average of latest 20 stream time 192.19084600009955
+2025-09-11 08:57:08.037 [info] Average of latest 20 total time NaN
+2025-09-11 08:57:08.037 [info] Average of latest 20 client time 435.377197265625
+2025-09-11 08:57:08.037 [info] Average of latest 20 discrepencies NaN
+2025-09-11 08:57:08.037 [info] CPP RT LOG: All stats {"streamingtime":435.377197265625,"actualTtftFromStart":826.515869140625,"timeTillServerRequest":586.70068359375,"requestToTtft":239.815185546875,"totalTime":1017.99755859375}
+2025-09-11 08:57:18.151 [info] CURSOR LOG: requestId 3a989773-6b50-4d5a-b016-a370b540b538  
+2025-09-11 08:57:18.387 [info] CURSOR LOG: Done streaming cpp with id 3a989773-6b50-4d5a-b016-a370b540b538
+2025-09-11 08:57:18.388 [info] CPP RT LOG: Time taken for streaming cpp 239.003662109375 with request 3a989773-6b50-4d5a-b016-a370b540b538
+2025-09-11 08:57:18.388 [info] CPP Request Log with id 3a989773-6b50-4d5a-b016-a370b540b538
+2025-09-11 08:57:18.388 [info] =======>Model output 
+@@ file_carver2.go:0
+-|package readmemory
++|
+2025-09-11 08:57:18.388 [info] =======>Debug stream time 180.73941500019282
+2025-09-11 08:57:18.388 [info] =======>Debug ttft time 180.52521000010893
+2025-09-11 08:57:18.389 [info] Average of latest 20 ttft time 186.19727100012824
+2025-09-11 08:57:18.389 [info] Average of latest 20 stream time 186.4651305001462
+2025-09-11 08:57:18.389 [info] Average of latest 20 total time NaN
+2025-09-11 08:57:18.389 [info] Average of latest 20 client time 337.1904296875
+2025-09-11 08:57:18.389 [info] Average of latest 20 discrepencies NaN
+2025-09-11 08:57:18.389 [info] CPP RT LOG: All stats {"streamingtime":239.003662109375,"actualTtftFromStart":114.74658203125,"timeTillServerRequest":54.65234375,"requestToTtft":60.09423828125,"totalTime":293.537353515625}
+2025-09-11 08:59:01.645 [info] CURSOR LOG: requestId aa90efd2-cb19-42c3-adc9-16f8203cc56c  
+2025-09-11 08:59:01.914 [info] CURSOR LOG: Done streaming cpp with id aa90efd2-cb19-42c3-adc9-16f8203cc56c
+2025-09-11 08:59:01.914 [info] CPP RT LOG: Time taken for streaming cpp 272.48876953125 with request aa90efd2-cb19-42c3-adc9-16f8203cc56c
+2025-09-11 08:59:01.915 [info] CPP Request Log with id aa90efd2-cb19-42c3-adc9-16f8203cc56c
+2025-09-11 08:59:01.915 [info] =======>Model output 
+@@ file_carver2.go:0
+-|package readmemory
++|
+2025-09-11 08:59:01.915 [info] =======>Debug stream time 213.59013799997047
+2025-09-11 08:59:01.915 [info] =======>Debug ttft time 213.35430100001395
+2025-09-11 08:59:01.915 [info] Average of latest 20 ttft time 195.24961433342347
+2025-09-11 08:59:01.915 [info] Average of latest 20 stream time 195.5067996667543
+2025-09-11 08:59:01.915 [info] Average of latest 20 total time NaN
+2025-09-11 08:59:01.915 [info] Average of latest 20 client time 315.6232096354167
+2025-09-11 08:59:01.915 [info] Average of latest 20 discrepencies NaN
+2025-09-11 08:59:01.916 [info] CPP RT LOG: All stats {"streamingtime":272.48876953125,"actualTtftFromStart":121.483154296875,"timeTillServerRequest":62.9765625,"requestToTtft":58.506591796875,"totalTime":335.37109375}
+2025-09-11 08:59:04.897 [info] CURSOR LOG: requestId 07291654-96af-4fbd-abce-7bb06252a11e  
+2025-09-11 08:59:05.061 [info] CURSOR LOG: Done streaming cpp with id 07291654-96af-4fbd-abce-7bb06252a11e
+2025-09-11 08:59:05.062 [info] CPP RT LOG: Time taken for streaming cpp 167.2333984375 with request 07291654-96af-4fbd-abce-7bb06252a11e
+2025-09-11 08:59:05.062 [info] CPP Request Log with id 07291654-96af-4fbd-abce-7bb06252a11e
+2025-09-11 08:59:05.062 [info] =======>Model output 
+@@ file_carver2.go:0
+-|package main
++|package main
+2025-09-11 08:59:05.062 [info] =======>Debug stream time 108.77985299983993
+2025-09-11 08:59:05.062 [info] =======>Debug ttft time 108.53058899985626
+2025-09-11 08:59:05.063 [info] Average of latest 20 ttft time 173.56985800003167
+2025-09-11 08:59:05.063 [info] Average of latest 20 stream time 173.8250630000257
+2025-09-11 08:59:05.063 [info] Average of latest 20 total time NaN
+2025-09-11 08:59:05.063 [info] Average of latest 20 client time 278.5257568359375
+2025-09-11 08:59:05.063 [info] Average of latest 20 discrepencies NaN
+2025-09-11 08:59:05.063 [info] CPP RT LOG: All stats {"streamingtime":167.2333984375,"actualTtftFromStart":114.283447265625,"timeTillServerRequest":57.802978515625,"requestToTtft":56.48046875,"totalTime":224.95361328125}

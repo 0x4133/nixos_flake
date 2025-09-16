@@ -1,0 +1,782 @@
+2025-09-04 16:53:42.282 [error] Git command failed: git config --get remote.origin.url Command failed: git config --get remote.origin.url
+
+2025-09-04 16:53:42.282 [error] Error getting repo info: Command failed: git config --get remote.origin.url
+
+2025-09-04 16:53:42.282 [error] Error: Command failed: git config --get remote.origin.url
+
+	at genericNodeError (node:internal/errors:984:15)
+	at wrappedFn (node:internal/errors:538:14)
+	at ChildProcess.exithandler (node:child_process:422:12)
+	at ChildProcess.emit (node:events:524:28)
+	at maybeClose (node:internal/child_process:1104:16)
+	at Socket.<anonymous> (node:internal/child_process:456:11)
+	at Socket.emit (node:events:524:28)
+	at Pipe.<anonymous> (node:net:343:12)
+2025-09-04 16:53:42.282 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2025-09-04 16:53:42.282 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2025-09-04 16:53:42.282 [info] Using existing keys for an index
+2025-09-04 16:53:42.282 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2025-09-04 16:53:42.334 [error] Git command failed: git rev-parse --show-toplevel Command failed: git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 16:53:42.518 [info] Using existing keys for an index
+2025-09-04 16:53:42.518 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2025-09-04 16:53:42.558 [info] Setting global status from status tracker: synced
+2025-09-04 16:53:42.558 [info] Doing a startup handshake.
+2025-09-04 16:53:42.559 [error] Git command failed: git rev-parse --show-toplevel Command failed: git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 16:53:43.835 [info] Finished computing merkle tree in 315.2381409999998 ms.
+2025-09-04 16:53:43.859 [info] Doing the initial handshake with hash: 42fa84a024bf761ad37681563197cfc3aef11fdf6e79dc9b56f100005054cf7f
+2025-09-04 16:53:43.870 [info] Computed simhash vector of length: 256
+2025-09-04 16:53:43.870 [info] Path key hash: a9784bd5e552201b9ae313b1aa9411dcaae773075381883685ab07c8d1bf5797
+2025-09-04 16:53:43.870 [info] Handshake start
+2025-09-04 16:53:44.575 [info] Handshake timing: 710.0049819999995, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"01b431ae-bd58-41ca-9939-9a4f130b4536","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2025-09-04 16:53:44.575 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"01b431ae-bd58-41ca-9939-9a4f130b4536","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2025-09-04 16:53:44.576 [info] Starting fast remote sync.
+2025-09-04 16:53:44.576 [info] Total num embeddable files: 150
+2025-09-04 16:53:44.578 [info] Root hash: 42fa84a024bf761ad37681563197cfc3aef11fdf6e79dc9b56f100005054cf7f
+2025-09-04 16:53:44.578 [info] In the out of sync case.
+2025-09-04 16:53:44.582 [info] Waiting on semaphore to be released 1
+2025-09-04 16:53:44.808 [info] Waiting on semaphore to be released 1
+2025-09-04 16:53:45.029 [info] setting numJobsToGo to 1
+2025-09-04 16:53:45.030 [info] [startSync]: numJobs: 1
+2025-09-04 16:53:45.031 [info] Uploading 1 files.
+2025-09-04 16:53:45.033 [info] Total number of files to embed: 150
+2025-09-04 16:53:45.033 [info] Not aborted
+2025-09-04 16:53:45.033 [info] Starting while loop.
+2025-09-04 16:53:45.778 [info] Completed job successfully: 01b431ae-bd58-41ca-9939-9a4f130b4536 ./map/ble_locations.py
+2025-09-04 16:53:45.885 [info] Finishing sync (hasUpdates: true, isErr: false)
+2025-09-04 16:53:46.273 [info] Finished indexing repository.
+2025-09-04 16:53:46.274 [info] Indexing job successfully done or aborted.
+2025-09-04 16:54:12.615 [error] Git command failed: git rev-parse --show-toplevel Command failed: git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 16:54:35.586 [error] Git command failed: git rev-parse --show-toplevel Command failed: git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 16:55:07.520 [error] Git command failed: git rev-parse --show-toplevel Command failed: git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 16:55:18.977 [error] Git command failed: git rev-parse --show-toplevel Command failed: git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 16:55:42.727 [error] Git command failed: git rev-parse --show-toplevel Command failed: git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 16:57:17.678 [error] Git command failed: git rev-parse --show-toplevel Command failed: git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 16:57:29.062 [error] Git command failed: git rev-parse --show-toplevel Command failed: git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 16:58:19.557 [info] multiCodebaseIndexingJob dispose
+2025-09-04 16:58:19.557 [info] Aborting indexing job.
+2025-09-04 16:58:19.557 [info] Setting global status from status tracker: synced
+2025-09-04 16:58:19.557 [info] Doing a startup handshake.
+2025-09-04 16:58:19.564 [info] Finished computing merkle tree in 3.5058280000230297 ms.
+2025-09-04 16:58:19.566 [info] Doing the initial handshake with hash: 42fa84a024bf761ad37681563197cfc3aef11fdf6e79dc9b56f100005054cf7f
+2025-09-04 16:58:19.570 [info] Computed simhash vector of length: 256
+2025-09-04 16:58:19.571 [info] Path key hash: a9784bd5e552201b9ae313b1aa9411dcaae773075381883685ab07c8d1bf5797
+2025-09-04 16:58:19.571 [info] Handshake start
+2025-09-04 16:58:19.674 [info] Handshake timing: 106.42066200001864, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"01b431ae-bd58-41ca-9939-9a4f130b4536","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-09-04 16:58:19.674 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"01b431ae-bd58-41ca-9939-9a4f130b4536","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-09-04 16:58:19.675 [info] Starting fast remote sync.
+2025-09-04 16:58:19.675 [info] Total num embeddable files: 150
+2025-09-04 16:58:19.675 [info] Root hash: 42fa84a024bf761ad37681563197cfc3aef11fdf6e79dc9b56f100005054cf7f
+2025-09-04 16:58:19.677 [info] Finishing sync (hasUpdates: false, isErr: false)
+2025-09-04 16:58:19.773 [info] Finished indexing repository.
+2025-09-04 16:58:19.773 [info] Indexing job successfully done or aborted.
+2025-09-04 16:58:40.411 [error] Git command failed: git rev-parse --show-toplevel Command failed: git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 16:58:44.151 [error] Git command failed: git rev-parse --show-toplevel Command failed: git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 16:58:48.319 [error] Git command failed: git rev-parse --show-toplevel Command failed: git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 16:58:53.335 [error] Git command failed: git rev-parse --show-toplevel Command failed: git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 17:01:34.215 [error] Error getting git status: Failed to execute git
+2025-09-04 17:01:38.712 [warning] Failed to get symbolic ref: Failed to execute git
+2025-09-04 17:01:38.713 [warning] Failed to read .git/HEAD: A system error occurred (ENOENT: no such file or directory, open '/home/aaron/projects/esp32_ble/.git/HEAD')
+2025-09-04 17:01:38.777 [warning] Failed to get branches from remote: Failed to execute git
+2025-09-04 17:01:38.798 [warning] Failed to get default branch from git config: Failed to execute git
+2025-09-04 17:01:38.903 [error] Error getting git status: Failed to execute git
+2025-09-04 17:01:39.844 [error] Error getting git status: Failed to execute git
+2025-09-04 17:01:43.453 [error] Error getting git status: Failed to execute git
+2025-09-04 17:01:57.020 [error] Git command failed: git rev-parse --show-toplevel Command failed: git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 17:02:10.821 [error] Git command failed: git rev-parse --show-toplevel Command failed: git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 17:02:23.777 [error] Git command failed: git rev-parse --show-toplevel Command failed: git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 17:02:56.559 [info] multiCodebaseIndexingJob dispose
+2025-09-04 17:02:56.559 [info] Aborting indexing job.
+2025-09-04 17:02:56.559 [info] Setting global status from status tracker: synced
+2025-09-04 17:02:56.559 [info] Doing a startup handshake.
+2025-09-04 17:02:56.609 [info] Finished computing merkle tree in 5.647161000058986 ms.
+2025-09-04 17:02:56.611 [info] Doing the initial handshake with hash: 42fa84a024bf761ad37681563197cfc3aef11fdf6e79dc9b56f100005054cf7f
+2025-09-04 17:02:56.615 [info] Computed simhash vector of length: 256
+2025-09-04 17:02:56.615 [info] Path key hash: a9784bd5e552201b9ae313b1aa9411dcaae773075381883685ab07c8d1bf5797
+2025-09-04 17:02:56.615 [info] Handshake start
+2025-09-04 17:02:56.719 [info] Handshake timing: 106.36343300004955, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"01b431ae-bd58-41ca-9939-9a4f130b4536","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-09-04 17:02:56.719 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"01b431ae-bd58-41ca-9939-9a4f130b4536","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-09-04 17:02:56.719 [info] Starting fast remote sync.
+2025-09-04 17:02:56.720 [info] Total num embeddable files: 150
+2025-09-04 17:02:56.720 [info] Root hash: 42fa84a024bf761ad37681563197cfc3aef11fdf6e79dc9b56f100005054cf7f
+2025-09-04 17:02:56.722 [info] Finishing sync (hasUpdates: false, isErr: false)
+2025-09-04 17:02:56.815 [info] Finished indexing repository.
+2025-09-04 17:02:56.815 [info] Indexing job successfully done or aborted.
+2025-09-04 17:03:38.642 [error] Git command failed: git log --pretty=format:"%H<|ENT|><|RY|>%s<|COM|><|MIT|>" -n 10 --author="$(git config user.email || git config user.name || whoami)" Command failed: git log --pretty=format:"%H<|ENT|><|RY|>%s<|COM|><|MIT|>" -n 10 --author="$(git config user.email || git config user.name || whoami)"
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 17:03:38.642 [error] Error getting user commits: Command failed: git log --pretty=format:"%H<|ENT|><|RY|>%s<|COM|><|MIT|>" -n 10 --author="$(git config user.email || git config user.name || whoami)"
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 17:03:40.412 [error] Git command failed: git rev-parse --show-toplevel Command failed: git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 17:04:01.665 [error] Git command failed: git rev-parse --show-toplevel Command failed: git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 17:05:01.473 [error] Git command failed: git rev-parse --show-toplevel Command failed: git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 17:06:29.396 [error] Git command failed: git rev-parse --show-toplevel Command failed: git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 17:06:46.057 [error] Git command failed: git rev-parse --show-toplevel Command failed: git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 17:07:15.070 [error] Git command failed: git rev-parse --show-toplevel Command failed: git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 17:07:33.560 [info] multiCodebaseIndexingJob dispose
+2025-09-04 17:07:33.560 [info] Aborting indexing job.
+2025-09-04 17:07:33.560 [info] Setting global status from status tracker: synced
+2025-09-04 17:07:33.560 [info] Doing a startup handshake.
+2025-09-04 17:07:33.566 [info] Finished computing merkle tree in 3.3029879999812692 ms.
+2025-09-04 17:07:33.568 [info] Doing the initial handshake with hash: 42fa84a024bf761ad37681563197cfc3aef11fdf6e79dc9b56f100005054cf7f
+2025-09-04 17:07:33.573 [info] Computed simhash vector of length: 256
+2025-09-04 17:07:33.573 [info] Path key hash: a9784bd5e552201b9ae313b1aa9411dcaae773075381883685ab07c8d1bf5797
+2025-09-04 17:07:33.573 [info] Handshake start
+2025-09-04 17:07:33.674 [info] Handshake timing: 104.25939700007439, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"01b431ae-bd58-41ca-9939-9a4f130b4536","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-09-04 17:07:33.674 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"01b431ae-bd58-41ca-9939-9a4f130b4536","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-09-04 17:07:33.674 [info] Starting fast remote sync.
+2025-09-04 17:07:33.675 [info] Total num embeddable files: 150
+2025-09-04 17:07:33.675 [info] Root hash: 42fa84a024bf761ad37681563197cfc3aef11fdf6e79dc9b56f100005054cf7f
+2025-09-04 17:07:33.677 [info] Finishing sync (hasUpdates: false, isErr: false)
+2025-09-04 17:07:33.773 [info] Finished indexing repository.
+2025-09-04 17:07:33.773 [info] Indexing job successfully done or aborted.
+2025-09-04 17:07:35.825 [error] Error getting git status: Failed to execute git
+2025-09-04 17:08:14.625 [error] Error getting git status: Failed to execute git
+2025-09-04 17:08:40.411 [error] Git command failed: git rev-parse --show-toplevel Command failed: git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 17:12:10.560 [info] multiCodebaseIndexingJob dispose
+2025-09-04 17:12:10.560 [info] Aborting indexing job.
+2025-09-04 17:12:10.560 [info] Setting global status from status tracker: synced
+2025-09-04 17:12:10.560 [info] Doing a startup handshake.
+2025-09-04 17:12:10.589 [info] Finished computing merkle tree in 26.29001299990341 ms.
+2025-09-04 17:12:10.591 [info] Doing the initial handshake with hash: 42fa84a024bf761ad37681563197cfc3aef11fdf6e79dc9b56f100005054cf7f
+2025-09-04 17:12:10.595 [info] Computed simhash vector of length: 256
+2025-09-04 17:12:10.595 [info] Path key hash: a9784bd5e552201b9ae313b1aa9411dcaae773075381883685ab07c8d1bf5797
+2025-09-04 17:12:10.595 [info] Handshake start
+2025-09-04 17:12:10.706 [info] Handshake timing: 113.43141800002195, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"01b431ae-bd58-41ca-9939-9a4f130b4536","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-09-04 17:12:10.706 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"01b431ae-bd58-41ca-9939-9a4f130b4536","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-09-04 17:12:10.706 [info] Starting fast remote sync.
+2025-09-04 17:12:10.707 [info] Total num embeddable files: 150
+2025-09-04 17:12:10.707 [info] Root hash: 42fa84a024bf761ad37681563197cfc3aef11fdf6e79dc9b56f100005054cf7f
+2025-09-04 17:12:10.709 [info] Finishing sync (hasUpdates: false, isErr: false)
+2025-09-04 17:12:10.805 [info] Finished indexing repository.
+2025-09-04 17:12:10.805 [info] Indexing job successfully done or aborted.
+2025-09-04 17:13:38.637 [error] Git command failed: git log --pretty=format:"%H<|ENT|><|RY|>%s<|COM|><|MIT|>" -n 10 --author="$(git config user.email || git config user.name || whoami)" Command failed: git log --pretty=format:"%H<|ENT|><|RY|>%s<|COM|><|MIT|>" -n 10 --author="$(git config user.email || git config user.name || whoami)"
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 17:13:38.637 [error] Error getting user commits: Command failed: git log --pretty=format:"%H<|ENT|><|RY|>%s<|COM|><|MIT|>" -n 10 --author="$(git config user.email || git config user.name || whoami)"
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 17:13:40.411 [error] Git command failed: git rev-parse --show-toplevel Command failed: git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 17:16:47.560 [info] multiCodebaseIndexingJob dispose
+2025-09-04 17:16:47.560 [info] Aborting indexing job.
+2025-09-04 17:16:47.560 [info] Setting global status from status tracker: synced
+2025-09-04 17:16:47.560 [info] Doing a startup handshake.
+2025-09-04 17:16:47.570 [info] Finished computing merkle tree in 2.7875019998755306 ms.
+2025-09-04 17:16:47.571 [info] Doing the initial handshake with hash: 42fa84a024bf761ad37681563197cfc3aef11fdf6e79dc9b56f100005054cf7f
+2025-09-04 17:16:47.575 [info] Computed simhash vector of length: 256
+2025-09-04 17:16:47.576 [info] Path key hash: a9784bd5e552201b9ae313b1aa9411dcaae773075381883685ab07c8d1bf5797
+2025-09-04 17:16:47.576 [info] Handshake start
+2025-09-04 17:16:47.675 [info] Handshake timing: 102.45798099995591, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"01b431ae-bd58-41ca-9939-9a4f130b4536","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-09-04 17:16:47.676 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"01b431ae-bd58-41ca-9939-9a4f130b4536","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-09-04 17:16:47.676 [info] Starting fast remote sync.
+2025-09-04 17:16:47.676 [info] Total num embeddable files: 150
+2025-09-04 17:16:47.676 [info] Root hash: 42fa84a024bf761ad37681563197cfc3aef11fdf6e79dc9b56f100005054cf7f
+2025-09-04 17:16:47.678 [info] Finishing sync (hasUpdates: false, isErr: false)
+2025-09-04 17:16:47.773 [info] Finished indexing repository.
+2025-09-04 17:16:47.773 [info] Indexing job successfully done or aborted.
+2025-09-04 17:18:40.466 [error] Git command failed: git rev-parse --show-toplevel Command failed: git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 17:21:24.560 [info] multiCodebaseIndexingJob dispose
+2025-09-04 17:21:24.560 [info] Aborting indexing job.
+2025-09-04 17:21:24.560 [info] Setting global status from status tracker: synced
+2025-09-04 17:21:24.560 [info] Doing a startup handshake.
+2025-09-04 17:21:25.270 [info] Finished computing merkle tree in 239.09881600015797 ms.
+2025-09-04 17:21:25.271 [info] Doing the initial handshake with hash: 42fa84a024bf761ad37681563197cfc3aef11fdf6e79dc9b56f100005054cf7f
+2025-09-04 17:21:25.275 [info] Computed simhash vector of length: 256
+2025-09-04 17:21:25.275 [info] Path key hash: a9784bd5e552201b9ae313b1aa9411dcaae773075381883685ab07c8d1bf5797
+2025-09-04 17:21:25.275 [info] Handshake start
+2025-09-04 17:21:25.378 [info] Handshake timing: 105.29389000008814, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"01b431ae-bd58-41ca-9939-9a4f130b4536","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-09-04 17:21:25.378 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"01b431ae-bd58-41ca-9939-9a4f130b4536","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-09-04 17:21:25.378 [info] Starting fast remote sync.
+2025-09-04 17:21:25.378 [info] Total num embeddable files: 150
+2025-09-04 17:21:25.379 [info] Root hash: 42fa84a024bf761ad37681563197cfc3aef11fdf6e79dc9b56f100005054cf7f
+2025-09-04 17:21:25.380 [info] Finishing sync (hasUpdates: false, isErr: false)
+2025-09-04 17:21:25.471 [info] Finished indexing repository.
+2025-09-04 17:21:25.471 [info] Indexing job successfully done or aborted.
+2025-09-04 17:23:22.329 [error] Error getting git status: Failed to execute git
+2025-09-04 17:23:38.720 [error] Git command failed: git log --pretty=format:"%H<|ENT|><|RY|>%s<|COM|><|MIT|>" -n 10 --author="$(git config user.email || git config user.name || whoami)" Command failed: git log --pretty=format:"%H<|ENT|><|RY|>%s<|COM|><|MIT|>" -n 10 --author="$(git config user.email || git config user.name || whoami)"
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 17:23:38.720 [error] Error getting user commits: Command failed: git log --pretty=format:"%H<|ENT|><|RY|>%s<|COM|><|MIT|>" -n 10 --author="$(git config user.email || git config user.name || whoami)"
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 17:23:40.410 [error] Git command failed: git rev-parse --show-toplevel Command failed: git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 17:26:01.562 [info] multiCodebaseIndexingJob dispose
+2025-09-04 17:26:01.562 [info] Aborting indexing job.
+2025-09-04 17:26:01.562 [info] Setting global status from status tracker: synced
+2025-09-04 17:26:01.562 [info] Doing a startup handshake.
+2025-09-04 17:26:01.568 [info] Finished computing merkle tree in 3.6921940001193434 ms.
+2025-09-04 17:26:01.569 [info] Doing the initial handshake with hash: 42fa84a024bf761ad37681563197cfc3aef11fdf6e79dc9b56f100005054cf7f
+2025-09-04 17:26:01.574 [info] Computed simhash vector of length: 256
+2025-09-04 17:26:01.574 [info] Path key hash: a9784bd5e552201b9ae313b1aa9411dcaae773075381883685ab07c8d1bf5797
+2025-09-04 17:26:01.574 [info] Handshake start
+2025-09-04 17:26:01.676 [info] Handshake timing: 104.91315800021403, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"01b431ae-bd58-41ca-9939-9a4f130b4536","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-09-04 17:26:01.677 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"01b431ae-bd58-41ca-9939-9a4f130b4536","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-09-04 17:26:01.677 [info] Starting fast remote sync.
+2025-09-04 17:26:01.677 [info] Total num embeddable files: 150
+2025-09-04 17:26:01.677 [info] Root hash: 42fa84a024bf761ad37681563197cfc3aef11fdf6e79dc9b56f100005054cf7f
+2025-09-04 17:26:01.679 [info] Finishing sync (hasUpdates: false, isErr: false)
+2025-09-04 17:26:01.775 [info] Finished indexing repository.
+2025-09-04 17:26:01.775 [info] Indexing job successfully done or aborted.
+2025-09-04 17:28:40.410 [error] Git command failed: git rev-parse --show-toplevel Command failed: git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 17:30:38.563 [info] multiCodebaseIndexingJob dispose
+2025-09-04 17:30:38.563 [info] Aborting indexing job.
+2025-09-04 17:30:38.563 [info] Setting global status from status tracker: synced
+2025-09-04 17:30:38.563 [info] Doing a startup handshake.
+2025-09-04 17:30:38.569 [info] Finished computing merkle tree in 2.883224000222981 ms.
+2025-09-04 17:30:38.570 [info] Doing the initial handshake with hash: 42fa84a024bf761ad37681563197cfc3aef11fdf6e79dc9b56f100005054cf7f
+2025-09-04 17:30:38.574 [info] Computed simhash vector of length: 256
+2025-09-04 17:30:38.575 [info] Path key hash: a9784bd5e552201b9ae313b1aa9411dcaae773075381883685ab07c8d1bf5797
+2025-09-04 17:30:38.575 [info] Handshake start
+2025-09-04 17:30:38.880 [info] Handshake timing: 308.3183720000088, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"01b431ae-bd58-41ca-9939-9a4f130b4536","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-09-04 17:30:38.881 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"01b431ae-bd58-41ca-9939-9a4f130b4536","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-09-04 17:30:38.881 [info] Starting fast remote sync.
+2025-09-04 17:30:38.881 [info] Total num embeddable files: 150
+2025-09-04 17:30:38.881 [info] Root hash: 42fa84a024bf761ad37681563197cfc3aef11fdf6e79dc9b56f100005054cf7f
+2025-09-04 17:30:38.883 [info] Finishing sync (hasUpdates: false, isErr: false)
+2025-09-04 17:30:38.976 [info] Finished indexing repository.
+2025-09-04 17:30:38.976 [info] Indexing job successfully done or aborted.
+2025-09-04 17:33:38.715 [error] Git command failed: git log --pretty=format:"%H<|ENT|><|RY|>%s<|COM|><|MIT|>" -n 10 --author="$(git config user.email || git config user.name || whoami)" Command failed: git log --pretty=format:"%H<|ENT|><|RY|>%s<|COM|><|MIT|>" -n 10 --author="$(git config user.email || git config user.name || whoami)"
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 17:33:38.716 [error] Error getting user commits: Command failed: git log --pretty=format:"%H<|ENT|><|RY|>%s<|COM|><|MIT|>" -n 10 --author="$(git config user.email || git config user.name || whoami)"
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 17:33:40.409 [error] Git command failed: git rev-parse --show-toplevel Command failed: git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 17:35:15.563 [info] multiCodebaseIndexingJob dispose
+2025-09-04 17:35:15.563 [info] Aborting indexing job.
+2025-09-04 17:35:15.563 [info] Setting global status from status tracker: synced
+2025-09-04 17:35:15.563 [info] Doing a startup handshake.
+2025-09-04 17:35:15.569 [info] Finished computing merkle tree in 3.2215370000340044 ms.
+2025-09-04 17:35:15.571 [info] Doing the initial handshake with hash: 42fa84a024bf761ad37681563197cfc3aef11fdf6e79dc9b56f100005054cf7f
+2025-09-04 17:35:15.575 [info] Computed simhash vector of length: 256
+2025-09-04 17:35:15.575 [info] Path key hash: a9784bd5e552201b9ae313b1aa9411dcaae773075381883685ab07c8d1bf5797
+2025-09-04 17:35:15.575 [info] Handshake start
+2025-09-04 17:35:15.679 [info] Handshake timing: 106.06953500024974, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"01b431ae-bd58-41ca-9939-9a4f130b4536","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-09-04 17:35:15.679 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"01b431ae-bd58-41ca-9939-9a4f130b4536","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-09-04 17:35:15.679 [info] Starting fast remote sync.
+2025-09-04 17:35:15.679 [info] Total num embeddable files: 150
+2025-09-04 17:35:15.680 [info] Root hash: 42fa84a024bf761ad37681563197cfc3aef11fdf6e79dc9b56f100005054cf7f
+2025-09-04 17:35:15.681 [info] Finishing sync (hasUpdates: false, isErr: false)
+2025-09-04 17:35:15.777 [info] Finished indexing repository.
+2025-09-04 17:35:15.777 [info] Indexing job successfully done or aborted.
+2025-09-04 17:38:40.410 [error] Git command failed: git rev-parse --show-toplevel Command failed: git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 17:39:52.565 [info] multiCodebaseIndexingJob dispose
+2025-09-04 17:39:52.565 [info] Aborting indexing job.
+2025-09-04 17:39:52.565 [info] Setting global status from status tracker: synced
+2025-09-04 17:39:52.565 [info] Doing a startup handshake.
+2025-09-04 17:39:52.571 [info] Finished computing merkle tree in 2.9680220000445843 ms.
+2025-09-04 17:39:52.572 [info] Doing the initial handshake with hash: 42fa84a024bf761ad37681563197cfc3aef11fdf6e79dc9b56f100005054cf7f
+2025-09-04 17:39:52.576 [info] Computed simhash vector of length: 256
+2025-09-04 17:39:52.576 [info] Path key hash: a9784bd5e552201b9ae313b1aa9411dcaae773075381883685ab07c8d1bf5797
+2025-09-04 17:39:52.576 [info] Handshake start
+2025-09-04 17:39:52.684 [info] Handshake timing: 110.95853800000623, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"01b431ae-bd58-41ca-9939-9a4f130b4536","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-09-04 17:39:52.685 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"01b431ae-bd58-41ca-9939-9a4f130b4536","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-09-04 17:39:52.685 [info] Starting fast remote sync.
+2025-09-04 17:39:52.685 [info] Total num embeddable files: 150
+2025-09-04 17:39:52.685 [info] Root hash: 42fa84a024bf761ad37681563197cfc3aef11fdf6e79dc9b56f100005054cf7f
+2025-09-04 17:39:52.687 [info] Finishing sync (hasUpdates: false, isErr: false)
+2025-09-04 17:39:52.780 [info] Finished indexing repository.
+2025-09-04 17:39:52.780 [info] Indexing job successfully done or aborted.
+2025-09-04 17:43:38.717 [error] Git command failed: git log --pretty=format:"%H<|ENT|><|RY|>%s<|COM|><|MIT|>" -n 10 --author="$(git config user.email || git config user.name || whoami)" Command failed: git log --pretty=format:"%H<|ENT|><|RY|>%s<|COM|><|MIT|>" -n 10 --author="$(git config user.email || git config user.name || whoami)"
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 17:43:38.717 [error] Error getting user commits: Command failed: git log --pretty=format:"%H<|ENT|><|RY|>%s<|COM|><|MIT|>" -n 10 --author="$(git config user.email || git config user.name || whoami)"
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 17:43:40.411 [error] Git command failed: git rev-parse --show-toplevel Command failed: git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 17:44:29.566 [info] multiCodebaseIndexingJob dispose
+2025-09-04 17:44:29.566 [info] Aborting indexing job.
+2025-09-04 17:44:29.566 [info] Setting global status from status tracker: synced
+2025-09-04 17:44:29.566 [info] Doing a startup handshake.
+2025-09-04 17:44:29.572 [info] Finished computing merkle tree in 2.9252570001408458 ms.
+2025-09-04 17:44:29.573 [info] Doing the initial handshake with hash: 42fa84a024bf761ad37681563197cfc3aef11fdf6e79dc9b56f100005054cf7f
+2025-09-04 17:44:29.577 [info] Computed simhash vector of length: 256
+2025-09-04 17:44:29.577 [info] Path key hash: a9784bd5e552201b9ae313b1aa9411dcaae773075381883685ab07c8d1bf5797
+2025-09-04 17:44:29.577 [info] Handshake start
+2025-09-04 17:44:29.681 [info] Handshake timing: 106.39639800041914, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"01b431ae-bd58-41ca-9939-9a4f130b4536","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-09-04 17:44:29.681 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"01b431ae-bd58-41ca-9939-9a4f130b4536","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-09-04 17:44:29.681 [info] Starting fast remote sync.
+2025-09-04 17:44:29.681 [info] Total num embeddable files: 150
+2025-09-04 17:44:29.681 [info] Root hash: 42fa84a024bf761ad37681563197cfc3aef11fdf6e79dc9b56f100005054cf7f
+2025-09-04 17:44:29.683 [info] Finishing sync (hasUpdates: false, isErr: false)
+2025-09-04 17:44:29.778 [info] Finished indexing repository.
+2025-09-04 17:44:29.778 [info] Indexing job successfully done or aborted.
+2025-09-04 17:48:40.410 [error] Git command failed: git rev-parse --show-toplevel Command failed: git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 17:49:06.567 [info] multiCodebaseIndexingJob dispose
+2025-09-04 17:49:06.567 [info] Aborting indexing job.
+2025-09-04 17:49:06.567 [info] Setting global status from status tracker: synced
+2025-09-04 17:49:06.567 [info] Doing a startup handshake.
+2025-09-04 17:49:06.573 [info] Finished computing merkle tree in 3.227311000227928 ms.
+2025-09-04 17:49:06.575 [info] Doing the initial handshake with hash: 42fa84a024bf761ad37681563197cfc3aef11fdf6e79dc9b56f100005054cf7f
+2025-09-04 17:49:06.578 [info] Computed simhash vector of length: 256
+2025-09-04 17:49:06.579 [info] Path key hash: a9784bd5e552201b9ae313b1aa9411dcaae773075381883685ab07c8d1bf5797
+2025-09-04 17:49:06.579 [info] Handshake start
+2025-09-04 17:49:06.679 [info] Handshake timing: 102.6487020002678, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"01b431ae-bd58-41ca-9939-9a4f130b4536","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-09-04 17:49:06.679 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"01b431ae-bd58-41ca-9939-9a4f130b4536","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-09-04 17:49:06.679 [info] Starting fast remote sync.
+2025-09-04 17:49:06.680 [info] Total num embeddable files: 150
+2025-09-04 17:49:06.680 [info] Root hash: 42fa84a024bf761ad37681563197cfc3aef11fdf6e79dc9b56f100005054cf7f
+2025-09-04 17:49:06.681 [info] Finishing sync (hasUpdates: false, isErr: false)
+2025-09-04 17:49:06.782 [info] Finished indexing repository.
+2025-09-04 17:49:06.782 [info] Indexing job successfully done or aborted.
+2025-09-04 17:53:38.715 [error] Git command failed: git log --pretty=format:"%H<|ENT|><|RY|>%s<|COM|><|MIT|>" -n 10 --author="$(git config user.email || git config user.name || whoami)" Command failed: git log --pretty=format:"%H<|ENT|><|RY|>%s<|COM|><|MIT|>" -n 10 --author="$(git config user.email || git config user.name || whoami)"
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 17:53:38.715 [error] Error getting user commits: Command failed: git log --pretty=format:"%H<|ENT|><|RY|>%s<|COM|><|MIT|>" -n 10 --author="$(git config user.email || git config user.name || whoami)"
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 17:53:40.409 [error] Git command failed: git rev-parse --show-toplevel Command failed: git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 17:53:43.567 [info] multiCodebaseIndexingJob dispose
+2025-09-04 17:53:43.567 [info] Aborting indexing job.
+2025-09-04 17:53:43.567 [info] Setting global status from status tracker: synced
+2025-09-04 17:53:43.567 [info] Doing a startup handshake.
+2025-09-04 17:53:43.573 [info] Finished computing merkle tree in 3.193260000087321 ms.
+2025-09-04 17:53:43.575 [info] Doing the initial handshake with hash: 42fa84a024bf761ad37681563197cfc3aef11fdf6e79dc9b56f100005054cf7f
+2025-09-04 17:53:43.579 [info] Computed simhash vector of length: 256
+2025-09-04 17:53:43.579 [info] Path key hash: a9784bd5e552201b9ae313b1aa9411dcaae773075381883685ab07c8d1bf5797
+2025-09-04 17:53:43.579 [info] Handshake start
+2025-09-04 17:53:43.681 [info] Handshake timing: 104.54549799999222, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"01b431ae-bd58-41ca-9939-9a4f130b4536","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-09-04 17:53:43.681 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"01b431ae-bd58-41ca-9939-9a4f130b4536","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-09-04 17:53:43.681 [info] Starting fast remote sync.
+2025-09-04 17:53:43.682 [info] Total num embeddable files: 150
+2025-09-04 17:53:43.682 [info] Root hash: 42fa84a024bf761ad37681563197cfc3aef11fdf6e79dc9b56f100005054cf7f
+2025-09-04 17:53:43.683 [info] Finishing sync (hasUpdates: false, isErr: false)
+2025-09-04 17:53:43.776 [info] Finished indexing repository.
+2025-09-04 17:53:43.776 [info] Indexing job successfully done or aborted.
+2025-09-04 17:58:20.568 [info] multiCodebaseIndexingJob dispose
+2025-09-04 17:58:20.568 [info] Aborting indexing job.
+2025-09-04 17:58:20.568 [info] Setting global status from status tracker: synced
+2025-09-04 17:58:20.568 [info] Doing a startup handshake.
+2025-09-04 17:58:20.574 [info] Finished computing merkle tree in 2.9975739996880293 ms.
+2025-09-04 17:58:20.575 [info] Doing the initial handshake with hash: 42fa84a024bf761ad37681563197cfc3aef11fdf6e79dc9b56f100005054cf7f
+2025-09-04 17:58:20.579 [info] Computed simhash vector of length: 256
+2025-09-04 17:58:20.579 [info] Path key hash: a9784bd5e552201b9ae313b1aa9411dcaae773075381883685ab07c8d1bf5797
+2025-09-04 17:58:20.579 [info] Handshake start
+2025-09-04 17:58:20.688 [info] Handshake timing: 111.67479899991304, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"01b431ae-bd58-41ca-9939-9a4f130b4536","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-09-04 17:58:20.689 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"01b431ae-bd58-41ca-9939-9a4f130b4536","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-09-04 17:58:20.689 [info] Starting fast remote sync.
+2025-09-04 17:58:20.690 [info] Total num embeddable files: 150
+2025-09-04 17:58:20.690 [info] Root hash: 42fa84a024bf761ad37681563197cfc3aef11fdf6e79dc9b56f100005054cf7f
+2025-09-04 17:58:20.693 [info] Finishing sync (hasUpdates: false, isErr: false)
+2025-09-04 17:58:21.002 [info] Finished indexing repository.
+2025-09-04 17:58:21.002 [info] Indexing job successfully done or aborted.
+2025-09-04 17:58:40.410 [error] Git command failed: git rev-parse --show-toplevel Command failed: git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 18:02:57.570 [info] multiCodebaseIndexingJob dispose
+2025-09-04 18:02:57.570 [info] Aborting indexing job.
+2025-09-04 18:02:57.570 [info] Setting global status from status tracker: synced
+2025-09-04 18:02:57.570 [info] Doing a startup handshake.
+2025-09-04 18:02:57.582 [info] Finished computing merkle tree in 9.26810499979183 ms.
+2025-09-04 18:02:57.584 [info] Doing the initial handshake with hash: 42fa84a024bf761ad37681563197cfc3aef11fdf6e79dc9b56f100005054cf7f
+2025-09-04 18:02:57.587 [info] Computed simhash vector of length: 256
+2025-09-04 18:02:57.588 [info] Path key hash: a9784bd5e552201b9ae313b1aa9411dcaae773075381883685ab07c8d1bf5797
+2025-09-04 18:02:57.588 [info] Handshake start
+2025-09-04 18:02:57.690 [info] Handshake timing: 104.75582800013945, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"01b431ae-bd58-41ca-9939-9a4f130b4536","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-09-04 18:02:57.690 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"01b431ae-bd58-41ca-9939-9a4f130b4536","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-09-04 18:02:57.690 [info] Starting fast remote sync.
+2025-09-04 18:02:57.691 [info] Total num embeddable files: 150
+2025-09-04 18:02:57.691 [info] Root hash: 42fa84a024bf761ad37681563197cfc3aef11fdf6e79dc9b56f100005054cf7f
+2025-09-04 18:02:57.692 [info] Finishing sync (hasUpdates: false, isErr: false)
+2025-09-04 18:02:57.788 [info] Finished indexing repository.
+2025-09-04 18:02:57.788 [info] Indexing job successfully done or aborted.
+2025-09-04 18:03:38.728 [error] Git command failed: git log --pretty=format:"%H<|ENT|><|RY|>%s<|COM|><|MIT|>" -n 10 --author="$(git config user.email || git config user.name || whoami)" Command failed: git log --pretty=format:"%H<|ENT|><|RY|>%s<|COM|><|MIT|>" -n 10 --author="$(git config user.email || git config user.name || whoami)"
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 18:03:38.728 [error] Error getting user commits: Command failed: git log --pretty=format:"%H<|ENT|><|RY|>%s<|COM|><|MIT|>" -n 10 --author="$(git config user.email || git config user.name || whoami)"
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 18:03:40.413 [error] Git command failed: git rev-parse --show-toplevel Command failed: git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 18:07:34.571 [info] multiCodebaseIndexingJob dispose
+2025-09-04 18:07:34.571 [info] Aborting indexing job.
+2025-09-04 18:07:34.571 [info] Setting global status from status tracker: synced
+2025-09-04 18:07:34.571 [info] Doing a startup handshake.
+2025-09-04 18:07:34.578 [info] Finished computing merkle tree in 2.885212999768555 ms.
+2025-09-04 18:07:34.579 [info] Doing the initial handshake with hash: 42fa84a024bf761ad37681563197cfc3aef11fdf6e79dc9b56f100005054cf7f
+2025-09-04 18:07:34.584 [info] Computed simhash vector of length: 256
+2025-09-04 18:07:34.584 [info] Path key hash: a9784bd5e552201b9ae313b1aa9411dcaae773075381883685ab07c8d1bf5797
+2025-09-04 18:07:34.584 [info] Handshake start
+2025-09-04 18:07:34.690 [info] Handshake timing: 108.54122699983418, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"01b431ae-bd58-41ca-9939-9a4f130b4536","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-09-04 18:07:34.690 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"01b431ae-bd58-41ca-9939-9a4f130b4536","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-09-04 18:07:34.690 [info] Starting fast remote sync.
+2025-09-04 18:07:34.690 [info] Total num embeddable files: 150
+2025-09-04 18:07:34.691 [info] Root hash: 42fa84a024bf761ad37681563197cfc3aef11fdf6e79dc9b56f100005054cf7f
+2025-09-04 18:07:34.692 [info] Finishing sync (hasUpdates: false, isErr: false)
+2025-09-04 18:07:34.785 [info] Finished indexing repository.
+2025-09-04 18:07:34.785 [info] Indexing job successfully done or aborted.
+2025-09-04 18:08:40.412 [error] Git command failed: git rev-parse --show-toplevel Command failed: git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 18:12:11.571 [info] multiCodebaseIndexingJob dispose
+2025-09-04 18:12:11.571 [info] Aborting indexing job.
+2025-09-04 18:12:11.571 [info] Setting global status from status tracker: synced
+2025-09-04 18:12:11.571 [info] Doing a startup handshake.
+2025-09-04 18:12:11.577 [info] Finished computing merkle tree in 3.103698999620974 ms.
+2025-09-04 18:12:11.579 [info] Doing the initial handshake with hash: 42fa84a024bf761ad37681563197cfc3aef11fdf6e79dc9b56f100005054cf7f
+2025-09-04 18:12:11.583 [info] Computed simhash vector of length: 256
+2025-09-04 18:12:11.583 [info] Path key hash: a9784bd5e552201b9ae313b1aa9411dcaae773075381883685ab07c8d1bf5797
+2025-09-04 18:12:11.583 [info] Handshake start
+2025-09-04 18:12:11.705 [info] Handshake timing: 124.19143399968743, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"01b431ae-bd58-41ca-9939-9a4f130b4536","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-09-04 18:12:11.705 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"01b431ae-bd58-41ca-9939-9a4f130b4536","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-09-04 18:12:11.705 [info] Starting fast remote sync.
+2025-09-04 18:12:11.705 [info] Total num embeddable files: 150
+2025-09-04 18:12:11.705 [info] Root hash: 42fa84a024bf761ad37681563197cfc3aef11fdf6e79dc9b56f100005054cf7f
+2025-09-04 18:12:11.707 [info] Finishing sync (hasUpdates: false, isErr: false)
+2025-09-04 18:12:11.800 [info] Finished indexing repository.
+2025-09-04 18:12:11.800 [info] Indexing job successfully done or aborted.
+2025-09-04 18:13:38.724 [error] Git command failed: git log --pretty=format:"%H<|ENT|><|RY|>%s<|COM|><|MIT|>" -n 10 --author="$(git config user.email || git config user.name || whoami)" Command failed: git log --pretty=format:"%H<|ENT|><|RY|>%s<|COM|><|MIT|>" -n 10 --author="$(git config user.email || git config user.name || whoami)"
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 18:13:38.724 [error] Error getting user commits: Command failed: git log --pretty=format:"%H<|ENT|><|RY|>%s<|COM|><|MIT|>" -n 10 --author="$(git config user.email || git config user.name || whoami)"
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 18:13:40.410 [error] Git command failed: git rev-parse --show-toplevel Command failed: git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 18:15:54.684 [error] Error getting git status: Failed to execute git
+2025-09-04 18:16:02.362 [error] Error getting git status: Failed to execute git
+2025-09-04 18:16:09.778 [warning] Failed to get symbolic ref: Failed to execute git
+2025-09-04 18:16:09.778 [warning] Failed to read .git/HEAD: A system error occurred (ENOENT: no such file or directory, open '/home/aaron/projects/esp32_ble/.git/HEAD')
+2025-09-04 18:16:10.001 [warning] Failed to get branches from remote: Failed to execute git
+2025-09-04 18:16:10.019 [warning] Failed to get symbolic ref: Failed to execute git
+2025-09-04 18:16:10.039 [warning] Failed to read .git/HEAD: A system error occurred (ENOENT: no such file or directory, open '/home/aaron/projects/esp32_ble/.git/HEAD')
+2025-09-04 18:16:10.055 [warning] Failed to get default branch from git config: Failed to execute git
+2025-09-04 18:16:10.104 [error] Error getting git status: Failed to execute git
+2025-09-04 18:16:10.120 [warning] Failed to get branches from remote: Failed to execute git
+2025-09-04 18:16:10.135 [warning] Failed to get default branch from git config: Failed to execute git
+2025-09-04 18:16:11.254 [error] Error getting git status: Failed to execute git
+2025-09-04 18:16:11.256 [error] Error getting git status: Failed to execute git
+2025-09-04 18:16:48.573 [info] multiCodebaseIndexingJob dispose
+2025-09-04 18:16:48.573 [info] Aborting indexing job.
+2025-09-04 18:16:48.573 [info] Setting global status from status tracker: synced
+2025-09-04 18:16:48.573 [info] Doing a startup handshake.
+2025-09-04 18:16:48.580 [info] Finished computing merkle tree in 3.3015179997310042 ms.
+2025-09-04 18:16:48.581 [info] Doing the initial handshake with hash: 42fa84a024bf761ad37681563197cfc3aef11fdf6e79dc9b56f100005054cf7f
+2025-09-04 18:16:48.587 [info] Computed simhash vector of length: 256
+2025-09-04 18:16:48.587 [info] Path key hash: a9784bd5e552201b9ae313b1aa9411dcaae773075381883685ab07c8d1bf5797
+2025-09-04 18:16:48.587 [info] Handshake start
+2025-09-04 18:16:48.695 [info] Handshake timing: 109.75401899963617, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"01b431ae-bd58-41ca-9939-9a4f130b4536","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-09-04 18:16:48.695 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"01b431ae-bd58-41ca-9939-9a4f130b4536","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-09-04 18:16:48.695 [info] Starting fast remote sync.
+2025-09-04 18:16:48.695 [info] Total num embeddable files: 150
+2025-09-04 18:16:48.695 [info] Root hash: 42fa84a024bf761ad37681563197cfc3aef11fdf6e79dc9b56f100005054cf7f
+2025-09-04 18:16:48.697 [info] Finishing sync (hasUpdates: false, isErr: false)
+2025-09-04 18:16:48.790 [info] Finished indexing repository.
+2025-09-04 18:16:48.790 [info] Indexing job successfully done or aborted.
+2025-09-04 18:16:56.400 [error] Error getting git status: Failed to execute git
+2025-09-04 18:18:40.412 [error] Git command failed: git rev-parse --show-toplevel Command failed: git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 18:19:27.291 [error] Error getting git status: Failed to execute git
+2025-09-04 18:21:25.573 [info] multiCodebaseIndexingJob dispose
+2025-09-04 18:21:25.573 [info] Aborting indexing job.
+2025-09-04 18:21:25.573 [info] Setting global status from status tracker: synced
+2025-09-04 18:21:25.573 [info] Doing a startup handshake.
+2025-09-04 18:21:25.579 [info] Finished computing merkle tree in 2.676864999346435 ms.
+2025-09-04 18:21:25.580 [info] Doing the initial handshake with hash: 42fa84a024bf761ad37681563197cfc3aef11fdf6e79dc9b56f100005054cf7f
+2025-09-04 18:21:25.584 [info] Computed simhash vector of length: 256
+2025-09-04 18:21:25.584 [info] Path key hash: a9784bd5e552201b9ae313b1aa9411dcaae773075381883685ab07c8d1bf5797
+2025-09-04 18:21:25.584 [info] Handshake start
+2025-09-04 18:21:25.686 [info] Handshake timing: 104.51755900029093, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"01b431ae-bd58-41ca-9939-9a4f130b4536","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-09-04 18:21:25.687 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"01b431ae-bd58-41ca-9939-9a4f130b4536","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-09-04 18:21:25.687 [info] Starting fast remote sync.
+2025-09-04 18:21:25.687 [info] Total num embeddable files: 150
+2025-09-04 18:21:25.688 [info] Root hash: 42fa84a024bf761ad37681563197cfc3aef11fdf6e79dc9b56f100005054cf7f
+2025-09-04 18:21:25.689 [info] Finishing sync (hasUpdates: false, isErr: false)
+2025-09-04 18:21:25.779 [info] Finished indexing repository.
+2025-09-04 18:21:25.779 [info] Indexing job successfully done or aborted.
+2025-09-04 18:23:38.644 [error] Git command failed: git log --pretty=format:"%H<|ENT|><|RY|>%s<|COM|><|MIT|>" -n 10 --author="$(git config user.email || git config user.name || whoami)" Command failed: git log --pretty=format:"%H<|ENT|><|RY|>%s<|COM|><|MIT|>" -n 10 --author="$(git config user.email || git config user.name || whoami)"
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 18:23:38.644 [error] Error getting user commits: Command failed: git log --pretty=format:"%H<|ENT|><|RY|>%s<|COM|><|MIT|>" -n 10 --author="$(git config user.email || git config user.name || whoami)"
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 18:23:40.412 [error] Git command failed: git rev-parse --show-toplevel Command failed: git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 18:26:02.575 [info] multiCodebaseIndexingJob dispose
+2025-09-04 18:26:02.575 [info] Aborting indexing job.
+2025-09-04 18:26:02.575 [info] Setting global status from status tracker: synced
+2025-09-04 18:26:02.575 [info] Doing a startup handshake.
+2025-09-04 18:26:02.582 [info] Finished computing merkle tree in 3.278580999933183 ms.
+2025-09-04 18:26:02.583 [info] Doing the initial handshake with hash: 42fa84a024bf761ad37681563197cfc3aef11fdf6e79dc9b56f100005054cf7f
+2025-09-04 18:26:02.587 [info] Computed simhash vector of length: 256
+2025-09-04 18:26:02.587 [info] Path key hash: a9784bd5e552201b9ae313b1aa9411dcaae773075381883685ab07c8d1bf5797
+2025-09-04 18:26:02.587 [info] Handshake start
+2025-09-04 18:26:02.684 [info] Handshake timing: 99.48422299977392, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"01b431ae-bd58-41ca-9939-9a4f130b4536","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-09-04 18:26:02.684 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"01b431ae-bd58-41ca-9939-9a4f130b4536","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-09-04 18:26:02.684 [info] Starting fast remote sync.
+2025-09-04 18:26:02.684 [info] Total num embeddable files: 150
+2025-09-04 18:26:02.685 [info] Root hash: 42fa84a024bf761ad37681563197cfc3aef11fdf6e79dc9b56f100005054cf7f
+2025-09-04 18:26:02.686 [info] Finishing sync (hasUpdates: false, isErr: false)
+2025-09-04 18:26:02.777 [info] Finished indexing repository.
+2025-09-04 18:26:02.777 [info] Indexing job successfully done or aborted.
+2025-09-04 18:28:40.413 [error] Git command failed: git rev-parse --show-toplevel Command failed: git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 18:30:39.576 [info] multiCodebaseIndexingJob dispose
+2025-09-04 18:30:39.576 [info] Aborting indexing job.
+2025-09-04 18:30:39.576 [info] Setting global status from status tracker: synced
+2025-09-04 18:30:39.576 [info] Doing a startup handshake.
+2025-09-04 18:30:39.582 [info] Finished computing merkle tree in 3.0875659994781017 ms.
+2025-09-04 18:30:39.583 [info] Doing the initial handshake with hash: 42fa84a024bf761ad37681563197cfc3aef11fdf6e79dc9b56f100005054cf7f
+2025-09-04 18:30:39.587 [info] Computed simhash vector of length: 256
+2025-09-04 18:30:39.587 [info] Path key hash: a9784bd5e552201b9ae313b1aa9411dcaae773075381883685ab07c8d1bf5797
+2025-09-04 18:30:39.587 [info] Handshake start
+2025-09-04 18:30:39.689 [info] Handshake timing: 104.24133999925107, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"01b431ae-bd58-41ca-9939-9a4f130b4536","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-09-04 18:30:39.689 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"01b431ae-bd58-41ca-9939-9a4f130b4536","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-09-04 18:30:39.689 [info] Starting fast remote sync.
+2025-09-04 18:30:39.690 [info] Total num embeddable files: 150
+2025-09-04 18:30:39.690 [info] Root hash: 42fa84a024bf761ad37681563197cfc3aef11fdf6e79dc9b56f100005054cf7f
+2025-09-04 18:30:39.691 [info] Finishing sync (hasUpdates: false, isErr: false)
+2025-09-04 18:30:39.790 [info] Finished indexing repository.
+2025-09-04 18:30:39.790 [info] Indexing job successfully done or aborted.
+2025-09-04 18:33:38.634 [error] Git command failed: git log --pretty=format:"%H<|ENT|><|RY|>%s<|COM|><|MIT|>" -n 10 --author="$(git config user.email || git config user.name || whoami)" Command failed: git log --pretty=format:"%H<|ENT|><|RY|>%s<|COM|><|MIT|>" -n 10 --author="$(git config user.email || git config user.name || whoami)"
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 18:33:38.634 [error] Error getting user commits: Command failed: git log --pretty=format:"%H<|ENT|><|RY|>%s<|COM|><|MIT|>" -n 10 --author="$(git config user.email || git config user.name || whoami)"
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 18:33:40.419 [error] Git command failed: git rev-parse --show-toplevel Command failed: git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 18:35:16.578 [info] multiCodebaseIndexingJob dispose
+2025-09-04 18:35:16.578 [info] Aborting indexing job.
+2025-09-04 18:35:16.578 [info] Setting global status from status tracker: synced
+2025-09-04 18:35:16.578 [info] Doing a startup handshake.
+2025-09-04 18:35:16.583 [info] Finished computing merkle tree in 2.8122989991679788 ms.
+2025-09-04 18:35:16.585 [info] Doing the initial handshake with hash: 42fa84a024bf761ad37681563197cfc3aef11fdf6e79dc9b56f100005054cf7f
+2025-09-04 18:35:16.588 [info] Computed simhash vector of length: 256
+2025-09-04 18:35:16.589 [info] Path key hash: a9784bd5e552201b9ae313b1aa9411dcaae773075381883685ab07c8d1bf5797
+2025-09-04 18:35:16.589 [info] Handshake start
+2025-09-04 18:35:16.694 [info] Handshake timing: 108.30429899971932, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"01b431ae-bd58-41ca-9939-9a4f130b4536","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-09-04 18:35:16.695 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"01b431ae-bd58-41ca-9939-9a4f130b4536","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-09-04 18:35:16.695 [info] Starting fast remote sync.
+2025-09-04 18:35:16.695 [info] Total num embeddable files: 150
+2025-09-04 18:35:16.695 [info] Root hash: 42fa84a024bf761ad37681563197cfc3aef11fdf6e79dc9b56f100005054cf7f
+2025-09-04 18:35:16.697 [info] Finishing sync (hasUpdates: false, isErr: false)
+2025-09-04 18:35:16.788 [info] Finished indexing repository.
+2025-09-04 18:35:16.788 [info] Indexing job successfully done or aborted.
+2025-09-04 18:38:40.412 [error] Git command failed: git rev-parse --show-toplevel Command failed: git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 18:39:53.580 [info] multiCodebaseIndexingJob dispose
+2025-09-04 18:39:53.580 [info] Aborting indexing job.
+2025-09-04 18:39:53.580 [info] Setting global status from status tracker: synced
+2025-09-04 18:39:53.580 [info] Doing a startup handshake.
+2025-09-04 18:39:53.587 [info] Finished computing merkle tree in 3.2762799998745322 ms.
+2025-09-04 18:39:53.589 [info] Doing the initial handshake with hash: 42fa84a024bf761ad37681563197cfc3aef11fdf6e79dc9b56f100005054cf7f
+2025-09-04 18:39:53.593 [info] Computed simhash vector of length: 256
+2025-09-04 18:39:53.593 [info] Path key hash: a9784bd5e552201b9ae313b1aa9411dcaae773075381883685ab07c8d1bf5797
+2025-09-04 18:39:53.593 [info] Handshake start
+2025-09-04 18:39:53.690 [info] Handshake timing: 99.60492299962789, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"01b431ae-bd58-41ca-9939-9a4f130b4536","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-09-04 18:39:53.690 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"01b431ae-bd58-41ca-9939-9a4f130b4536","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-09-04 18:39:53.690 [info] Starting fast remote sync.
+2025-09-04 18:39:53.691 [info] Total num embeddable files: 150
+2025-09-04 18:39:53.691 [info] Root hash: 42fa84a024bf761ad37681563197cfc3aef11fdf6e79dc9b56f100005054cf7f
+2025-09-04 18:39:53.693 [info] Finishing sync (hasUpdates: false, isErr: false)
+2025-09-04 18:39:53.789 [info] Finished indexing repository.
+2025-09-04 18:39:53.790 [info] Indexing job successfully done or aborted.
+2025-09-04 18:43:38.639 [error] Git command failed: git log --pretty=format:"%H<|ENT|><|RY|>%s<|COM|><|MIT|>" -n 10 --author="$(git config user.email || git config user.name || whoami)" Command failed: git log --pretty=format:"%H<|ENT|><|RY|>%s<|COM|><|MIT|>" -n 10 --author="$(git config user.email || git config user.name || whoami)"
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 18:43:38.639 [error] Error getting user commits: Command failed: git log --pretty=format:"%H<|ENT|><|RY|>%s<|COM|><|MIT|>" -n 10 --author="$(git config user.email || git config user.name || whoami)"
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 18:43:40.413 [error] Git command failed: git rev-parse --show-toplevel Command failed: git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 18:44:30.580 [info] multiCodebaseIndexingJob dispose
+2025-09-04 18:44:30.580 [info] Aborting indexing job.
+2025-09-04 18:44:30.580 [info] Setting global status from status tracker: synced
+2025-09-04 18:44:30.580 [info] Doing a startup handshake.
+2025-09-04 18:44:30.586 [info] Finished computing merkle tree in 3.089367000386119 ms.
+2025-09-04 18:44:30.587 [info] Doing the initial handshake with hash: 42fa84a024bf761ad37681563197cfc3aef11fdf6e79dc9b56f100005054cf7f
+2025-09-04 18:44:30.592 [info] Computed simhash vector of length: 256
+2025-09-04 18:44:30.592 [info] Path key hash: a9784bd5e552201b9ae313b1aa9411dcaae773075381883685ab07c8d1bf5797
+2025-09-04 18:44:30.592 [info] Handshake start
+2025-09-04 18:44:30.694 [info] Handshake timing: 104.4205720005557, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"01b431ae-bd58-41ca-9939-9a4f130b4536","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-09-04 18:44:30.694 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"01b431ae-bd58-41ca-9939-9a4f130b4536","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-09-04 18:44:30.694 [info] Starting fast remote sync.
+2025-09-04 18:44:30.695 [info] Total num embeddable files: 150
+2025-09-04 18:44:30.695 [info] Root hash: 42fa84a024bf761ad37681563197cfc3aef11fdf6e79dc9b56f100005054cf7f
+2025-09-04 18:44:30.696 [info] Finishing sync (hasUpdates: false, isErr: false)
+2025-09-04 18:44:30.787 [info] Finished indexing repository.
+2025-09-04 18:44:30.787 [info] Indexing job successfully done or aborted.
+2025-09-04 18:48:40.417 [error] Git command failed: git rev-parse --show-toplevel Command failed: git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 18:49:07.581 [info] multiCodebaseIndexingJob dispose
+2025-09-04 18:49:07.581 [info] Aborting indexing job.
+2025-09-04 18:49:07.581 [info] Setting global status from status tracker: synced
+2025-09-04 18:49:07.581 [info] Doing a startup handshake.
+2025-09-04 18:49:07.587 [info] Finished computing merkle tree in 3.172314000315964 ms.
+2025-09-04 18:49:07.588 [info] Doing the initial handshake with hash: 42fa84a024bf761ad37681563197cfc3aef11fdf6e79dc9b56f100005054cf7f
+2025-09-04 18:49:07.592 [info] Computed simhash vector of length: 256
+2025-09-04 18:49:07.592 [info] Path key hash: a9784bd5e552201b9ae313b1aa9411dcaae773075381883685ab07c8d1bf5797
+2025-09-04 18:49:07.592 [info] Handshake start
+2025-09-04 18:49:07.709 [info] Handshake timing: 119.32586499955505, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"01b431ae-bd58-41ca-9939-9a4f130b4536","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-09-04 18:49:07.709 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"01b431ae-bd58-41ca-9939-9a4f130b4536","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-09-04 18:49:07.709 [info] Starting fast remote sync.
+2025-09-04 18:49:07.710 [info] Total num embeddable files: 150
+2025-09-04 18:49:07.710 [info] Root hash: 42fa84a024bf761ad37681563197cfc3aef11fdf6e79dc9b56f100005054cf7f
+2025-09-04 18:49:07.711 [info] Finishing sync (hasUpdates: false, isErr: false)
+2025-09-04 18:49:07.803 [info] Finished indexing repository.
+2025-09-04 18:49:07.803 [info] Indexing job successfully done or aborted.
+2025-09-04 18:53:38.638 [error] Git command failed: git log --pretty=format:"%H<|ENT|><|RY|>%s<|COM|><|MIT|>" -n 10 --author="$(git config user.email || git config user.name || whoami)" Command failed: git log --pretty=format:"%H<|ENT|><|RY|>%s<|COM|><|MIT|>" -n 10 --author="$(git config user.email || git config user.name || whoami)"
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 18:53:38.638 [error] Error getting user commits: Command failed: git log --pretty=format:"%H<|ENT|><|RY|>%s<|COM|><|MIT|>" -n 10 --author="$(git config user.email || git config user.name || whoami)"
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 18:53:40.412 [error] Git command failed: git rev-parse --show-toplevel Command failed: git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 18:53:44.581 [info] multiCodebaseIndexingJob dispose
+2025-09-04 18:53:44.581 [info] Aborting indexing job.
+2025-09-04 18:53:44.581 [info] Setting global status from status tracker: synced
+2025-09-04 18:53:44.581 [info] Doing a startup handshake.
+2025-09-04 18:53:44.587 [info] Finished computing merkle tree in 3.09496199991554 ms.
+2025-09-04 18:53:44.588 [info] Doing the initial handshake with hash: 42fa84a024bf761ad37681563197cfc3aef11fdf6e79dc9b56f100005054cf7f
+2025-09-04 18:53:44.592 [info] Computed simhash vector of length: 256
+2025-09-04 18:53:44.592 [info] Path key hash: a9784bd5e552201b9ae313b1aa9411dcaae773075381883685ab07c8d1bf5797
+2025-09-04 18:53:44.592 [info] Handshake start
+2025-09-04 18:53:44.691 [info] Handshake timing: 101.09520399942994, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"01b431ae-bd58-41ca-9939-9a4f130b4536","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-09-04 18:53:44.691 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"01b431ae-bd58-41ca-9939-9a4f130b4536","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-09-04 18:53:44.691 [info] Starting fast remote sync.
+2025-09-04 18:53:44.692 [info] Total num embeddable files: 150
+2025-09-04 18:53:44.692 [info] Root hash: 42fa84a024bf761ad37681563197cfc3aef11fdf6e79dc9b56f100005054cf7f
+2025-09-04 18:53:44.693 [info] Finishing sync (hasUpdates: false, isErr: false)
+2025-09-04 18:53:44.785 [info] Finished indexing repository.
+2025-09-04 18:53:44.785 [info] Indexing job successfully done or aborted.
+2025-09-04 18:58:21.582 [info] multiCodebaseIndexingJob dispose
+2025-09-04 18:58:21.582 [info] Aborting indexing job.
+2025-09-04 18:58:21.582 [info] Setting global status from status tracker: synced
+2025-09-04 18:58:21.582 [info] Doing a startup handshake.
+2025-09-04 18:58:21.588 [info] Finished computing merkle tree in 2.9978219997137785 ms.
+2025-09-04 18:58:21.589 [info] Doing the initial handshake with hash: 42fa84a024bf761ad37681563197cfc3aef11fdf6e79dc9b56f100005054cf7f
+2025-09-04 18:58:21.594 [info] Computed simhash vector of length: 256
+2025-09-04 18:58:21.594 [info] Path key hash: a9784bd5e552201b9ae313b1aa9411dcaae773075381883685ab07c8d1bf5797
+2025-09-04 18:58:21.594 [info] Handshake start
+2025-09-04 18:58:21.703 [info] Handshake timing: 112.63221400044858, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"01b431ae-bd58-41ca-9939-9a4f130b4536","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-09-04 18:58:21.704 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"01b431ae-bd58-41ca-9939-9a4f130b4536","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-09-04 18:58:21.704 [info] Starting fast remote sync.
+2025-09-04 18:58:21.705 [info] Total num embeddable files: 150
+2025-09-04 18:58:21.705 [info] Root hash: 42fa84a024bf761ad37681563197cfc3aef11fdf6e79dc9b56f100005054cf7f
+2025-09-04 18:58:21.709 [info] Finishing sync (hasUpdates: false, isErr: false)
+2025-09-04 18:58:22.017 [info] Finished indexing repository.
+2025-09-04 18:58:22.017 [info] Indexing job successfully done or aborted.
+2025-09-04 18:58:40.414 [error] Git command failed: git rev-parse --show-toplevel Command failed: git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 19:02:58.584 [info] multiCodebaseIndexingJob dispose
+2025-09-04 19:02:58.584 [info] Aborting indexing job.
+2025-09-04 19:02:58.584 [info] Setting global status from status tracker: synced
+2025-09-04 19:02:58.584 [info] Doing a startup handshake.
+2025-09-04 19:02:58.590 [info] Finished computing merkle tree in 3.0099229998886585 ms.
+2025-09-04 19:02:58.591 [info] Doing the initial handshake with hash: 42fa84a024bf761ad37681563197cfc3aef11fdf6e79dc9b56f100005054cf7f
+2025-09-04 19:02:58.595 [info] Computed simhash vector of length: 256
+2025-09-04 19:02:58.595 [info] Path key hash: a9784bd5e552201b9ae313b1aa9411dcaae773075381883685ab07c8d1bf5797
+2025-09-04 19:02:58.595 [info] Handshake start
+2025-09-04 19:02:58.697 [info] Handshake timing: 104.92837699968368, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"01b431ae-bd58-41ca-9939-9a4f130b4536","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-09-04 19:02:58.698 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"01b431ae-bd58-41ca-9939-9a4f130b4536","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-09-04 19:02:58.698 [info] Starting fast remote sync.
+2025-09-04 19:02:58.698 [info] Total num embeddable files: 150
+2025-09-04 19:02:58.698 [info] Root hash: 42fa84a024bf761ad37681563197cfc3aef11fdf6e79dc9b56f100005054cf7f
+2025-09-04 19:02:58.700 [info] Finishing sync (hasUpdates: false, isErr: false)
+2025-09-04 19:02:58.804 [info] Finished indexing repository.
+2025-09-04 19:02:58.804 [info] Indexing job successfully done or aborted.
+2025-09-04 19:03:38.640 [error] Git command failed: git log --pretty=format:"%H<|ENT|><|RY|>%s<|COM|><|MIT|>" -n 10 --author="$(git config user.email || git config user.name || whoami)" Command failed: git log --pretty=format:"%H<|ENT|><|RY|>%s<|COM|><|MIT|>" -n 10 --author="$(git config user.email || git config user.name || whoami)"
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 19:03:38.640 [error] Error getting user commits: Command failed: git log --pretty=format:"%H<|ENT|><|RY|>%s<|COM|><|MIT|>" -n 10 --author="$(git config user.email || git config user.name || whoami)"
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 19:03:40.415 [error] Git command failed: git rev-parse --show-toplevel Command failed: git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-04 19:07:35.583 [info] multiCodebaseIndexingJob dispose
+2025-09-04 19:07:35.583 [info] Aborting indexing job.
+2025-09-04 19:07:35.583 [info] Setting global status from status tracker: synced
+2025-09-04 19:07:35.583 [info] Doing a startup handshake.
+2025-09-04 19:07:35.589 [info] Finished computing merkle tree in 3.0582069996744394 ms.
+2025-09-04 19:07:35.590 [info] Doing the initial handshake with hash: 42fa84a024bf761ad37681563197cfc3aef11fdf6e79dc9b56f100005054cf7f
+2025-09-04 19:07:35.594 [info] Computed simhash vector of length: 256
+2025-09-04 19:07:35.594 [info] Path key hash: a9784bd5e552201b9ae313b1aa9411dcaae773075381883685ab07c8d1bf5797
+2025-09-04 19:07:35.594 [info] Handshake start
+2025-09-04 19:07:35.701 [info] Handshake timing: 109.6064670002088, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"01b431ae-bd58-41ca-9939-9a4f130b4536","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-09-04 19:07:35.701 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"01b431ae-bd58-41ca-9939-9a4f130b4536","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-09-04 19:07:35.702 [info] Starting fast remote sync.
+2025-09-04 19:07:35.702 [info] Total num embeddable files: 150
+2025-09-04 19:07:35.702 [info] Root hash: 42fa84a024bf761ad37681563197cfc3aef11fdf6e79dc9b56f100005054cf7f
+2025-09-04 19:07:35.704 [info] Finishing sync (hasUpdates: false, isErr: false)
+2025-09-04 19:07:35.799 [info] Finished indexing repository.
+2025-09-04 19:07:35.799 [info] Indexing job successfully done or aborted.
+2025-09-04 19:08:28.749 [info] multiCodebaseIndexingJob dispose
+2025-09-04 19:08:28.749 [info] Aborting indexing job.

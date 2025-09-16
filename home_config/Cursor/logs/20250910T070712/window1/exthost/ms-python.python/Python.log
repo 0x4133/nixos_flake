@@ -1,0 +1,28 @@
+2025-09-10 07:07:53.389 [warning] Dir "/home/aaron/projects/lidar4/.pixi/envs" is not watchable (directory does not exist)
+2025-09-10 07:07:53.389 [info] Starting Environment refresh
+2025-09-10 07:07:53.389 [info] Starting Environment refresh
+2025-09-10 07:07:53.389 [info] > hatch env show --json
+2025-09-10 07:07:53.389 [info] cwd: .
+2025-09-10 07:07:53.420 [info] Environments refresh finished (event): 190 milliseconds
+2025-09-10 07:07:53.420 [info] Environments refresh finished (event): 189 milliseconds
+2025-09-10 07:07:53.420 [info] Environments refresh paths discovered: 190 milliseconds
+2025-09-10 07:07:53.420 [info] Environments refresh paths discovered: 189 milliseconds
+2025-09-10 07:07:53.422 [info] Environment refresh took 193 milliseconds
+2025-09-10 07:07:53.423 [info] Environment refresh took 192 milliseconds
+2025-09-10 07:07:53.438 [info] > pyenv which python
+2025-09-10 07:07:53.438 [info] cwd: .
+2025-09-10 07:07:53.456 [info] Editor support is inactive since language server is set to None.
+2025-09-10 07:07:53.480 [info] > /etc/profiles/per-user/aaron/bin/python -I ~/.cursor/extensions/ms-python.python-2025.6.1-linux-x64/python_files/get_output_via_markers.py ~/.cursor/extensions/ms-python.python-2025.6.1-linux-x64/python_files/interpreterInfo.py
+2025-09-10 07:07:53.529 [info] Python interpreter path: /etc/profiles/per-user/aaron/bin/python
+2025-09-10 07:08:19.946 [info] > ./venv/bin/python -I ~/.cursor/extensions/ms-python.python-2025.6.1-linux-x64/python_files/get_output_via_markers.py ~/.cursor/extensions/ms-python.python-2025.6.1-linux-x64/python_files/interpreterInfo.py
+2025-09-10 07:08:19.946 [info] Environments refresh paths discovered: 34 milliseconds
+2025-09-10 07:08:20.000 [info] Environments refresh finished (event): 88 milliseconds
+2025-09-10 07:08:24.628 [info] Editor support is inactive since language server is set to None.
+2025-09-10 07:08:24.634 [info] Active interpreter [/home/aaron/projects/lidar4]:  /home/aaron/projects/lidar4/venv/bin/python
+2025-09-10 07:08:24.638 [info] Discover tests for workspace name: lidar4 - uri: /home/aaron/projects/lidar4
+2025-09-10 07:08:24.638 [info] Python interpreter path: ./venv/bin/python
+2025-09-10 07:09:00.718 [info] Send text to terminal: source /home/aaron/projects/lidar4/venv/bin/activate
+2025-09-10 07:09:39.719 [info] Discover tests for workspace name: lidar4 - uri: /home/aaron/projects/lidar4/main.py
+2025-09-10 07:11:20.512 [info] Discover tests for workspace name: lidar4 - uri: /home/aaron/projects/lidar4/main.py
+2025-09-10 07:15:53.356 [info] Discover tests for workspace name: lidar4 - uri: /home/aaron/projects/lidar4/lidar_to_las.py
+2025-09-10 07:19:53.918 [info] Discover tests for workspace name: lidar4 - uri: /home/aaron/projects/lidar4/lidar_to_las_pure.py

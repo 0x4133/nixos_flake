@@ -1,0 +1,16 @@
+2025-09-05 11:45:19.901 [info] Getting Manifest... golang.go
+2025-09-05 11:45:19.905 [info] Getting Manifest... ms-python.debugpy
+2025-09-05 11:45:20.563 [info] Installing extension: ms-python.debugpy {"productVersion":{"version":"1.2.2","date":"2025-07-07T06:13:23.028Z","vscodeVersion":"1.99.3"},"donotVerifySignature":true,"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/aaron/.cursor/extensions/extensions.json","path":"/home/aaron/.cursor/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2025-09-05 11:45:20.594 [info] Installing extension: golang.go {"productVersion":{"version":"1.2.2","date":"2025-07-07T06:13:23.028Z","vscodeVersion":"1.99.3"},"donotVerifySignature":true,"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/aaron/.cursor/extensions/extensions.json","path":"/home/aaron/.cursor/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2025-09-05 11:45:20.697 [info] Started downloading extension: golang.go 0.50.0 file:///home/aaron/.config/Cursor/CachedExtensionVSIXs/golang.go-0.50.0-universal
+2025-09-05 11:45:20.812 [info] Getting Manifest... ms-python.python
+2025-09-05 11:45:21.431 [info] Extracted extension to file:///home/aaron/.cursor/extensions/golang.go-0.50.0-universal: golang.go
+2025-09-05 11:45:21.496 [info] Renamed to /home/aaron/.cursor/extensions/golang.go-0.50.0-universal
+2025-09-05 11:45:21.541 [info] Marked extension as removed golang.go-0.48.0-universal
+2025-09-05 11:45:21.566 [info] Extension installed successfully: golang.go vscode-userdata:/home/aaron/.cursor/extensions/extensions.json
+2025-09-05 11:45:21.675 [info] Getting Manifest... anysphere.cursorpyright
+2025-09-05 11:45:22.347 [info] Started downloading extension: ms-python.debugpy 2025.10.0 file:///home/aaron/.config/Cursor/CachedExtensionVSIXs/ms-python.debugpy-2025.10.0-linux-x64
+2025-09-05 11:45:23.767 [info] Extracted extension to file:///home/aaron/.cursor/extensions/ms-python.debugpy-2025.10.0-linux-x64: ms-python.debugpy
+2025-09-05 11:45:23.839 [info] Renamed to /home/aaron/.cursor/extensions/ms-python.debugpy-2025.10.0-linux-x64
+2025-09-05 11:45:23.865 [info] Marked extension as removed ms-python.debugpy-2025.6.0-linux-x64
+2025-09-05 11:45:23.885 [info] Extension installed successfully: ms-python.debugpy vscode-userdata:/home/aaron/.cursor/extensions/extensions.json

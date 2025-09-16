@@ -1,0 +1,867 @@
+2025-09-05 13:04:59 Arduino IDE 2.3.6
+2025-09-05 13:04:59 Checking for frontend application configuration customizations. Module path: /nix/store/2d5i1bzbqbnl4rgnhk8czrw5zmqqjdzv-arduino-ide-2.3.6-extracted/resources/app/lib/backend/electron-main.js, destination 'package.json': /nix/store/2d5i1bzbqbnl4rgnhk8czrw5zmqqjdzv-arduino-ide-2.3.6-extracted/resources/app/package.json
+2025-09-05 13:04:59 Setting 'theia.frontend.config.appVersion' application configuration value to: "2.3.6" (type of string)
+2025-09-05 13:04:59 Setting 'theia.frontend.config.cliVersion' application configuration value to: "1.2.0" (type of string)
+2025-09-05 13:04:59 Setting 'theia.frontend.config.buildDate' application configuration value to: "2025-04-09T11:24:04.835Z" (type of string)
+2025-09-05 13:04:59 Frontend application configuration after modifications: {"applicationName":"Arduino IDE","defaultTheme":{"light":"arduino-theme","dark":"arduino-theme-dark"},"defaultIconTheme":"none","electron":{"windowOptions":{},"showWindowEarly":true,"splashScreenOptions":{},"uriScheme":"arduino-ide"},"defaultLocale":"","validatePreferencesSchema":false,"reloadOnReconnect":true,"uriScheme":"theia","preferences":{"window.title":"${rootName}${activeEditorShort}${appName}","files.autoSave":"afterDelay","editor.minimap.enabled":false,"editor.tabSize":2,"editor.scrollBeyondLastLine":false,"editor.quickSuggestions":{"other":false,"comments":false,"strings":false},"editor.maxTokenizationLineLength":500,"editor.bracketPairColorization.enabled":false,"breadcrumbs.enabled":false,"workbench.tree.renderIndentGuides":"none","explorer.compactFolders":false},"appVersion":"2.3.6","cliVersion":"1.2.0","buildDate":"2025-04-09T11:24:04.835Z"}
+2025-09-05 13:04:59 Starting backend process. PID: 30126
+2025-09-05 13:05:00 Showing main window early
+2025-09-05 13:05:00 Using browser-only version of superagent in non-browser environment
+2025-09-05 13:05:00 Configuration directory URI: 'file:///home/aaron/.arduinoIDE'
+2025-09-05 13:05:00 Configuring to accept webviews on '^.+\.webview\..+$' hostname.
+2025-09-05 13:05:00 2025-09-05T20:05:00.774Z root INFO Backend u.initialize: 35.4 ms [Finished 0.837 s after backend start]
+2025-09-05 13:05:00 2025-09-05T20:05:00.776Z root INFO Backend Object.initialize: 33.3 ms [Finished 0.837 s after backend start]
+2025-09-05 13:05:00 2025-09-05T20:05:00.777Z root INFO Backend a.initialize: 1.5 ms [Finished 0.837 s after backend start]
+2025-09-05 13:05:00 2025-09-05T20:05:00.777Z root INFO Backend a.initialize: 1.2 ms [Finished 0.837 s after backend start]
+2025-09-05 13:05:00 2025-09-05T20:05:00.777Z root INFO Backend u.initialize: 1.6 ms [Finished 0.838 s after backend start]
+2025-09-05 13:05:00 2025-09-05T20:05:00.779Z root INFO Backend l.initialize: 35.4 ms [Finished 0.840 s after backend start]
+2025-09-05 13:05:00 2025-09-05T20:05:00.787Z root INFO configured all backend app contributions
+2025-09-05 13:05:00 2025-09-05T20:05:00.788Z root INFO Backend l.onStart: 1.7 ms [Finished 0.854 s after backend start]
+2025-09-05 13:05:00 2025-09-05T20:05:00.788Z root INFO Backend d.onStart: 0.1 ms [Finished 0.854 s after backend start]
+2025-09-05 13:05:00 2025-09-05T20:05:00.789Z root INFO Backend a.onStart: 0.4 ms [Finished 0.854 s after backend start]
+2025-09-05 13:05:00 2025-09-05T20:05:00.789Z config INFO >>> Initializing CLI configuration...
+2025-09-05 13:05:00 2025-09-05T20:05:00.789Z root INFO Backend x.onStart: 0.4 ms [Finished 0.855 s after backend start]
+2025-09-05 13:05:00 2025-09-05T20:05:00.789Z config INFO Loading CLI configuration from /home/aaron/.arduinoIDE/arduino-cli.yaml...
+2025-09-05 13:05:00 2025-09-05T20:05:00.790Z daemon INFO Starting daemon from /nix/store/2d5i1bzbqbnl4rgnhk8czrw5zmqqjdzv-arduino-ide-2.3.6-extracted/resources/app/lib/backend/resources/arduino-cli...
+2025-09-05 13:05:00 2025-09-05T20:05:00.790Z root INFO Backend w.onStart: 0.4 ms [Finished 0.855 s after backend start]
+2025-09-05 13:05:00 2025-09-05T20:05:00.790Z discovery-log INFO start
+2025-09-05 13:05:00 2025-09-05T20:05:00.790Z discovery-log INFO start new deferred
+2025-09-05 13:05:00 2025-09-05T20:05:00.790Z root INFO Backend v.onStart: 0.3 ms [Finished 0.856 s after backend start]
+2025-09-05 13:05:00 2025-09-05T20:05:00.790Z root INFO Backend a.onStart: 0.1 ms [Finished 0.856 s after backend start]
+2025-09-05 13:05:00 2025-09-05T20:05:00.794Z root INFO Theia app listening on http://127.0.0.1:32811.
+2025-09-05 13:05:00 2025-09-05T20:05:00.794Z root INFO Finished starting backend application: 4.6 ms [Finished 0.860 s after backend start]
+2025-09-05 13:05:00 Error: node-loader:
+Error: libxkbfile.so.1: cannot open shared object file: No such file or directory
+    at 95585 (/nix/store/2d5i1bzbqbnl4rgnhk8czrw5zmqqjdzv-arduino-ide-2.3.6-extracted/resources/app/lib/backend/electron-main.js:8:1529780)
+    at __webpack_require__ (/nix/store/2d5i1bzbqbnl4rgnhk8czrw5zmqqjdzv-arduino-ide-2.3.6-extracted/resources/app/lib/backend/electron-main.js:8:1985382)
+    at o._init (/nix/store/2d5i1bzbqbnl4rgnhk8czrw5zmqqjdzv-arduino-ide-2.3.6-extracted/resources/app/lib/backend/electron-main.js:5:1319254)
+    at o.onDidChangeKeyboardLayout (/nix/store/2d5i1bzbqbnl4rgnhk8czrw5zmqqjdzv-arduino-ide-2.3.6-extracted/resources/app/lib/backend/electron-main.js:5:1319604)
+    at t.onDidChangeKeyboardLayout (/nix/store/2d5i1bzbqbnl4rgnhk8czrw5zmqqjdzv-arduino-ide-2.3.6-extracted/resources/app/lib/backend/electron-main.js:5:1319982)
+    at a.onStart (/nix/store/2d5i1bzbqbnl4rgnhk8czrw5zmqqjdzv-arduino-ide-2.3.6-extracted/resources/app/lib/backend/electron-main.js:2:205197)
+    at A.startContributions (/nix/store/2d5i1bzbqbnl4rgnhk8czrw5zmqqjdzv-arduino-ide-2.3.6-extracted/resources/app/lib/backend/electron-main.js:8:1599586)
+    at Object.handler (/nix/store/2d5i1bzbqbnl4rgnhk8czrw5zmqqjdzv-arduino-ide-2.3.6-extracted/resources/app/lib/backend/electron-main.js:2:1217714)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-09-05 13:05:00 2025-09-05T20:05:00.795Z root WARN The local plugin referenced by local-dir:/home/aaron/.arduinoIDE/plugins does not exist.
+2025-09-05 13:05:00 2025-09-05T20:05:00.795Z root WARN The local plugin referenced by local-dir:/home/aaron/.arduinoIDE/deployedPlugins does not exist.
+2025-09-05 13:05:00 2025-09-05T20:05:00.809Z config INFO Loaded CLI configuration: {"board_manager":{"additional_urls":["https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json"]},"directories":{"builtin":{"libraries":"/home/aaron/.arduino15/libraries"},"data":"/home/aaron/.arduino15","user":"/home/aaron/Arduino"},"locale":"en"}
+2025-09-05 13:05:00 2025-09-05T20:05:00.809Z config INFO 'directories.data' and 'directories.user' are set in the CLI configuration model.
+2025-09-05 13:05:00 2025-09-05T20:05:00.809Z config INFO Loaded the CLI configuration.
+2025-09-05 13:05:00 2025-09-05T20:05:00.810Z config INFO Mapped the CLI configuration: {"dataDirUri":"file:///home/aaron/.arduino15","sketchDirUri":"file:///home/aaron/Arduino","additionalUrls":["https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json"],"network":"none","locale":"en"}
+2025-09-05 13:05:00 2025-09-05T20:05:00.810Z config INFO Validating the CLI configuration...
+2025-09-05 13:05:00 2025-09-05T20:05:00.811Z config INFO The CLI config is valid.
+2025-09-05 13:05:00 2025-09-05T20:05:00.811Z config INFO <<< Initialized the CLI configuration.
+2025-09-05 13:05:00 2025-09-05T20:05:00.843Z root INFO Resolve plugins list: 51.2 ms [Finished 0.908 s after backend start]
+2025-09-05 13:05:00 2025-09-05T20:05:00.979Z daemon INFO time="2025-09-05T13:05:00-07:00" level=info msg="arduino-cli version 1.2.0"
+time="2025-09-05T13:05:00-07:00" level=info msg="Using config file: /home/aaron/.arduinoIDE/arduino-cli.yaml"
+time="2025-09-05T13:05:00-07:00" level=info msg="Executing `arduino-cli daemon`"
+Daemon is now listening on 127.0.0.1:39817
+{"IP":"127.0.0.1","Port":"39817"}
+2025-09-05 13:05:00 2025-09-05T20:05:00.979Z daemon INFO Daemon is running.
+2025-09-05 13:05:01 2025-09-05T20:05:01.061Z daemon INFO time="2025-09-05T13:05:01-07:00" level=info msg="Checking signature" index=/home/aaron/.arduino15/package_index.json signatureFile=/home/aaron/.arduino15/package_index.json.sig trusted=true
+2025-09-05 13:05:01 2025-09-05T20:05:01.066Z daemon INFO time="2025-09-05T13:05:01-07:00" level=info msg="Missing signature file" index=/home/aaron/.arduino15/package_esp32_index.json
+2025-09-05 13:05:01 2025-09-05T20:05:01.066Z daemon INFO time="2025-09-05T13:05:01-07:00" level=info msg="Loading hardware from: /home/aaron/.arduino15/packages"
+2025-09-05 13:05:01 2025-09-05T20:05:01.068Z daemon INFO time="2025-09-05T13:05:01-07:00" level=info msg="Loading package arduino from: /home/aaron/.arduino15/packages/arduino/hardware"
+2025-09-05 13:05:01 2025-09-05T20:05:01.078Z daemon INFO time="2025-09-05T13:05:01-07:00" level=info msg="Missing signature file" index=/home/aaron/.arduino15/packages/arduino/hardware/avr/1.8.6/installed.json
+time="2025-09-05T13:05:01-07:00" level=info msg="Adding monitor tool" protocol=serial tool="builtin:serial-monitor"
+time="2025-09-05T13:05:01-07:00" level=info msg="Loaded platform" platform="arduino:avr@1.8.6"
+2025-09-05 13:05:01 2025-09-05T20:05:01.087Z daemon INFO time="2025-09-05T13:05:01-07:00" level=info msg="Missing signature file" index=/home/aaron/.arduino15/packages/arduino/hardware/renesas_uno/1.5.0/installed.json
+time="2025-09-05T13:05:01-07:00" level=info msg="Adding monitor tool" protocol=serial tool="builtin:serial-monitor"
+time="2025-09-05T13:05:01-07:00" level=info msg="Loaded platform" platform="arduino:renesas_uno@1.5.0"
+time="2025-09-05T13:05:01-07:00" level=info msg="Checking existence of 'tools' path: /home/aaron/.arduino15/packages/arduino/tools"
+time="2025-09-05T13:05:01-07:00" level=info msg="Loading tools from dir: /home/aaron/.arduino15/packages/arduino/tools"
+time="2025-09-05T13:05:01-07:00" level=info msg="Loaded tool" tool="arduino:arduinoOTA@1.3.0"
+time="2025-09-05T13:05:01-07:00" level=info msg="Loaded tool" tool="arduino:arm-none-eabi-gcc@7-2017q4"
+time="2025-09-05T13:05:01-07:00" level=info msg="Loaded tool" tool="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+time="2025-09-05T13:05:01-07:00" level=info msg="Loaded tool" tool="arduino:avrdude@6.3.0-arduino17"
+time="2025-09-05T13:05:01-07:00" level=info msg="Loaded tool" tool="arduino:bossac@1.9.1-arduino5"
+time="2025-09-05T13:05:01-07:00" level=info msg="Loaded tool" tool="arduino:dfu-util@0.11.0-arduino5"
+time="2025-09-05T13:05:01-07:00" level=info msg="Loaded tool" tool="arduino:openocd@0.11.0-arduino2"
+time="2025-09-05T13:05:01-07:00" level=info msg="Loading package builtin from: /home/aaron/.arduino15/packages/builtin"
+time="2025-09-05T13:05:01-07:00" level=info msg="Checking existence of 'tools' path: /home/aaron/.arduino15/packages/builtin/tools"
+time="2025-09-05T13:05:01-07:00" level=info msg="Loading tools from dir: /home/aaron/.arduino15/packages/builtin/tools"
+time="2025-09-05T13:05:01-07:00" level=info msg="Loaded tool" tool="builtin:ctags@5.8-arduino11"
+time="2025-09-05T13:05:01-07:00" level=info msg="Loaded tool" tool="builtin:dfu-discovery@0.1.2"
+time="2025-09-05T13:05:01-07:00" level=info msg="Loaded tool" tool="builtin:mdns-discovery@1.0.9"
+time="2025-09-05T13:05:01-07:00" level=info msg="Loaded tool" tool="builtin:serial-discovery@1.4.1"
+time="2025-09-05T13:05:01-07:00" level=info msg="Loaded tool" tool="builtin:serial-monitor@0.15.0"
+time="2025-09-05T13:05:01-07:00" level=info msg="Loading package esp32 from: /home/aaron/.arduino15/packages/esp32/hardware"
+2025-09-05 13:05:01 2025-09-05T20:05:01.093Z daemon INFO time="2025-09-05T13:05:01-07:00" level=info msg="Missing signature file" index=/home/aaron/.arduino15/packages/esp32/hardware/esp32/3.3.0/installed.json
+2025-09-05 13:05:01 2025-09-05T20:05:01.328Z daemon INFO time="2025-09-05T13:05:01-07:00" level=info msg="Adding monitor tool" protocol=serial tool="builtin:serial-monitor"
+time="2025-09-05T13:05:01-07:00" level=info msg="Loaded platform" platform="esp32:esp32@3.3.0"
+time="2025-09-05T13:05:01-07:00" level=info msg="Checking existence of 'tools' path: /home/aaron/.arduino15/packages/esp32/tools"
+time="2025-09-05T13:05:01-07:00" level=info msg="Loading tools from dir: /home/aaron/.arduino15/packages/esp32/tools"
+time="2025-09-05T13:05:01-07:00" level=info msg="Loaded tool" tool="esp32:esp-rv32@2411"
+2025-09-05 13:05:01 2025-09-05T20:05:01.341Z daemon INFO time="2025-09-05T13:05:01-07:00" level=info msg="Loaded tool" tool="esp32:esp-x32@2411"
+time="2025-09-05T13:05:01-07:00" level=info msg="Loaded tool" tool="esp32:esp32-arduino-libs@idf-release_v5.5-b66b5448-v1"
+time="2025-09-05T13:05:01-07:00" level=info msg="Loaded tool" tool="esp32:esptool_py@5.0.0"
+time="2025-09-05T13:05:01-07:00" level=info msg="Loaded tool" tool="esp32:mklittlefs@3.0.0-gnu12-dc7f933"
+time="2025-09-05T13:05:01-07:00" level=info msg="Loaded tool" tool="esp32:mkspiffs@0.2.3"
+time="2025-09-05T13:05:01-07:00" level=info msg="Loaded tool" tool="esp32:openocd-esp32@v0.12.0-esp32-20250422"
+time="2025-09-05T13:05:01-07:00" level=info msg="Loaded tool" tool="esp32:riscv32-esp-elf-gdb@16.2_20250324"
+time="2025-09-05T13:05:01-07:00" level=info msg="Loaded tool" tool="esp32:xtensa-esp-elf-gdb@16.2_20250324"
+time="2025-09-05T13:05:01-07:00" level=info msg="Adding libraries dir" dir=/home/aaron/.arduino15/packages/esp32/hardware/esp32/3.3.0/libraries isSingleLibrary=false location=platform
+time="2025-09-05T13:05:01-07:00" level=info msg="Adding libraries dir" dir=/home/aaron/.arduino15/packages/arduino/hardware/renesas_uno/1.5.0/libraries isSingleLibrary=false location=platform
+time="2025-09-05T13:05:01-07:00" level=info msg="Adding libraries dir" dir=/home/aaron/.arduino15/packages/arduino/hardware/avr/1.8.6/libraries isSingleLibrary=false location=platform
+time="2025-09-05T13:05:01-07:00" level=info msg="Loading libraries index file" index=/home/aaron/.arduino15/library_index.json
+2025-09-05 13:05:01 2025-09-05T20:05:01.665Z root INFO Deploy plugins list: 873.8 ms [Finished 1.731 s after backend start]
+2025-09-05 13:05:01 2025-09-05T20:05:01.781Z daemon INFO time="2025-09-05T13:05:01-07:00" level=info msg="Adding libraries dir" dir=/home/aaron/.arduino15/libraries isSingleLibrary=false location=ide
+time="2025-09-05T13:05:01-07:00" level=info msg="Adding libraries dir" dir=/home/aaron/Arduino/libraries isSingleLibrary=false location=user
+2025-09-05 13:05:01 2025-09-05T20:05:01.957Z root INFO creating connection for 1
+2025-09-05 13:05:02 2025-09-05T20:05:02.098Z daemon INFO time="2025-09-05T13:05:02-07:00" level=warning msg="Error loading library" error="rpc error: code = Internal desc = loading library from /home/aaron/Arduino/libraries/SoftSerialTest: invalid library: no header files found"
+2025-09-05 13:05:02 2025-09-05T20:05:02.108Z discovery-log INFO start resolved watching
+2025-09-05 13:05:02 2025-09-05T20:05:02.143Z discovery-log INFO {"eventType":"add","port":{"matchingBoardsList":[],"port":{"address":"/dev/ttyS0","label":"/dev/ttyS0","protocol":"serial","protocolLabel":"Serial Port","propertiesMap":[],"hardwareId":""}},"error":""}
+2025-09-05 13:05:02 2025-09-05T20:05:02.658Z discovery-log INFO {"eventType":"add","port":{"matchingBoardsList":[],"port":{"address":"/dev/ttyUSB0","label":"/dev/ttyUSB0","protocol":"serial","protocolLabel":"Serial Port (USB)","propertiesMap":[["pid","0x6001"],["serialNumber","B002YPHM"],["vid","0x0403"]],"hardwareId":"B002YPHM"}},"error":""}
+2025-09-05 13:05:03 2025-09-05T20:05:03.062Z root ERROR Error: node-loader:
+Error: libxkbfile.so.1: cannot open shared object file: No such file or directory
+    at 95585 (/nix/store/2d5i1bzbqbnl4rgnhk8czrw5zmqqjdzv-arduino-ide-2.3.6-extracted/resources/app/lib/backend/main.js:2:6468723)
+    at __webpack_require__ (/nix/store/2d5i1bzbqbnl4rgnhk8czrw5zmqqjdzv-arduino-ide-2.3.6-extracted/resources/app/lib/backend/main.js:2:7034640)
+    at r._init (/nix/store/2d5i1bzbqbnl4rgnhk8czrw5zmqqjdzv-arduino-ide-2.3.6-extracted/resources/app/lib/backend/main.js:2:4537535)
+    at r.getCurrentKeyboardLayout (/nix/store/2d5i1bzbqbnl4rgnhk8czrw5zmqqjdzv-arduino-ide-2.3.6-extracted/resources/app/lib/backend/main.js:2:4537734)
+    at t.getCurrentKeyboardLayout (/nix/store/2d5i1bzbqbnl4rgnhk8czrw5zmqqjdzv-arduino-ide-2.3.6-extracted/resources/app/lib/backend/main.js:2:4538141)
+    at s.getNativeLayoutSync (/nix/store/2d5i1bzbqbnl4rgnhk8czrw5zmqqjdzv-arduino-ide-2.3.6-extracted/resources/app/lib/backend/main.js:2:1830040)
+    at s.getNativeLayout (/nix/store/2d5i1bzbqbnl4rgnhk8czrw5zmqqjdzv-arduino-ide-2.3.6-extracted/resources/app/lib/backend/main.js:2:1829981)
+    at u.onRequest (/nix/store/2d5i1bzbqbnl4rgnhk8czrw5zmqqjdzv-arduino-ide-2.3.6-extracted/resources/app/lib/backend/main.js:2:4942964)
+    at c.requestHandler (/nix/store/2d5i1bzbqbnl4rgnhk8czrw5zmqqjdzv-arduino-ide-2.3.6-extracted/resources/app/lib/backend/main.js:2:4942783)
+    at c.handleRequest (/nix/store/2d5i1bzbqbnl4rgnhk8czrw5zmqqjdzv-arduino-ide-2.3.6-extracted/resources/app/lib/backend/main.js:2:524486)
+2025-09-05 13:05:03 2025-09-05T20:05:03.062Z root ERROR TypeError: Cannot read properties of null (reading 'getKeyMap')
+    at r.getKeyMap (/nix/store/2d5i1bzbqbnl4rgnhk8czrw5zmqqjdzv-arduino-ide-2.3.6-extracted/resources/app/lib/backend/main.js:2:4537620)
+    at t.getKeyMap (/nix/store/2d5i1bzbqbnl4rgnhk8czrw5zmqqjdzv-arduino-ide-2.3.6-extracted/resources/app/lib/backend/main.js:2:4538201)
+    at s.getNativeLayoutSync (/nix/store/2d5i1bzbqbnl4rgnhk8czrw5zmqqjdzv-arduino-ide-2.3.6-extracted/resources/app/lib/backend/main.js:2:1830077)
+    at s.getNativeLayout (/nix/store/2d5i1bzbqbnl4rgnhk8czrw5zmqqjdzv-arduino-ide-2.3.6-extracted/resources/app/lib/backend/main.js:2:1829981)
+    at u.onRequest (/nix/store/2d5i1bzbqbnl4rgnhk8czrw5zmqqjdzv-arduino-ide-2.3.6-extracted/resources/app/lib/backend/main.js:2:4942964)
+    at c.requestHandler (/nix/store/2d5i1bzbqbnl4rgnhk8czrw5zmqqjdzv-arduino-ide-2.3.6-extracted/resources/app/lib/backend/main.js:2:4942783)
+    at c.handleRequest (/nix/store/2d5i1bzbqbnl4rgnhk8czrw5zmqqjdzv-arduino-ide-2.3.6-extracted/resources/app/lib/backend/main.js:2:524486)
+    at c.handleMessage (/nix/store/2d5i1bzbqbnl4rgnhk8czrw5zmqqjdzv-arduino-ide-2.3.6-extracted/resources/app/lib/backend/main.js:2:522388)
+    at /nix/store/2d5i1bzbqbnl4rgnhk8czrw5zmqqjdzv-arduino-ide-2.3.6-extracted/resources/app/lib/backend/main.js:2:522022
+    at /nix/store/2d5i1bzbqbnl4rgnhk8czrw5zmqqjdzv-arduino-ide-2.3.6-extracted/resources/app/lib/backend/main.js:2:6419737
+2025-09-05 13:05:03 2025-09-05T20:05:03.063Z root WARN A command editor.action.toggleStickyScroll is already registered.
+2025-09-05 13:05:03 Opening channel for service path '/services/electron-window'.
+2025-09-05 13:05:03 Opening channel for service path '/services/ide-updater'.
+2025-09-05 13:05:03 2025-09-05T20:05:03.197Z root INFO Start frontend contributions: 321.0 ms [Finished 2.362 s after frontend start]
+2025-09-05 13:05:03 2025-09-05T20:05:03.198Z root INFO Changed application state from 'init' to 'started_contributions'.
+2025-09-05 13:05:03 2025-09-05T20:05:03.207Z root INFO Changed application state from 'started_contributions' to 'attached_shell'.
+2025-09-05 13:05:03 2025-09-05T20:05:03.207Z root INFO >>> Restoring the layout state...
+2025-09-05 13:05:03 2025-09-05T20:05:03.252Z root INFO [2017bf15-3e6c-45b7-940c-aec6ad9135bb] Waiting for backend deployment: 69.4 ms [Finished 2.426 s after frontend start]
+2025-09-05 13:05:03 2025-09-05T20:05:03.970Z root INFO [hosted-plugin: 30329] PLUGIN_HOST(30329) starting instance
+[Object: null prototype] {}
+2025-09-05 13:05:04 2025-09-05T20:05:04.759Z root INFO [2017bf15-3e6c-45b7-940c-aec6ad9135bb] Sync of 23 plugins: 1511.9 ms [Finished 3.938 s after frontend start]
+2025-09-05 13:05:04 2025-09-05T20:05:04.771Z root INFO <<< Nothing to restore.
+2025-09-05 13:05:04 2025-09-05T20:05:04.848Z root INFO Initialize the workbench layout: 1587.3 ms [Finished 3.974 s after frontend start]
+2025-09-05 13:05:04 2025-09-05T20:05:04.849Z root INFO Changed application state from 'attached_shell' to 'initialized_layout'.
+2025-09-05 13:05:04 2025-09-05T20:05:04.851Z root INFO [2017bf15-3e6c-45b7-940c-aec6ad9135bb] Loading plugin contributions
+2025-09-05 13:05:04 2025-09-05T20:05:04.851Z root INFO [2017bf15-3e6c-45b7-940c-aec6ad9135bb] Load contributions of 23 plugins: 44.4 ms [Finished 4.026 s after frontend start]
+2025-09-05 13:05:04 2025-09-05T20:05:04.901Z root WARN 'cpp' language is remapped from 'source.cpp.embedded.macro' to 'source.cpp' scope
+2025-09-05 13:05:04 2025-09-05T20:05:04.902Z root WARN a registered grammar configuration for 'cpp' language is overridden
+2025-09-05 13:05:05 2025-09-05T20:05:05.171Z root ERROR [hosted-plugin: 30329] Conflict in settings file Default: Ignoring cortex-debug.armToolchainPath.linux as cortex-debug.armToolchainPath is null
+2025-09-05 13:05:05 2025-09-05T20:05:05.171Z root ERROR [hosted-plugin: 30329] Conflict in settings file Default: Ignoring cortex-debug.armToolchainPath.osx as cortex-debug.armToolchainPath is null
+Conflict in settings file Default: Ignoring cortex-debug.armToolchainPath.windows as cortex-debug.armToolchainPath is null
+Conflict in settings file Default: Ignoring cortex-debug.JLinkGDBServerPath.linux as cortex-debug.JLinkGDBServerPath is null
+2025-09-05 13:05:05 2025-09-05T20:05:05.171Z root ERROR [hosted-plugin: 30329] Conflict in settings file Default: Ignoring cortex-debug.JLinkGDBServerPath.osx as cortex-debug.JLinkGDBServerPath is null
+2025-09-05 13:05:05 2025-09-05T20:05:05.171Z root ERROR [hosted-plugin: 30329] Conflict in settings file Default: Ignoring cortex-debug.JLinkGDBServerPath.windows as cortex-debug.JLinkGDBServerPath is null
+Conflict in settings file Default: Ignoring cortex-debug.openocdPath.linux as cortex-debug.openocdPath is null
+2025-09-05 13:05:05 2025-09-05T20:05:05.171Z root ERROR [hosted-plugin: 30329] Conflict in settings file Default: Ignoring cortex-debug.openocdPath.osx as cortex-debug.openocdPath is null
+2025-09-05 13:05:05 2025-09-05T20:05:05.171Z root ERROR [hosted-plugin: 30329] Conflict in settings file Default: Ignoring cortex-debug.openocdPath.windows as cortex-debug.openocdPath is null
+2025-09-05 13:05:05 2025-09-05T20:05:05.172Z root ERROR [hosted-plugin: 30329] Conflict in settings file Default: Ignoring cortex-debug.pyocdPath.linux as cortex-debug.pyocdPath is null
+Conflict in settings file Default: Ignoring cortex-debug.pyocdPath.osx as cortex-debug.pyocdPath is null
+Conflict in settings file Default: Ignoring cortex-debug.pyocdPath.windows as cortex-debug.pyocdPath is null
+2025-09-05 13:05:05 2025-09-05T20:05:05.172Z root ERROR [hosted-plugin: 30329] Conflict in settings file Default: Ignoring cortex-debug.PEGDBServerPath.linux as cortex-debug.PEGDBServerPath is null
+Conflict in settings file Default: Ignoring cortex-debug.PEGDBServerPath.osx as cortex-debug.PEGDBServerPath is null
+2025-09-05 13:05:05 2025-09-05T20:05:05.172Z root ERROR [hosted-plugin: 30329] Conflict in settings file Default: Ignoring cortex-debug.PEGDBServerPath.windows as cortex-debug.PEGDBServerPath is null
+Conflict in settings file Default: Ignoring cortex-debug.stutilPath.linux as cortex-debug.stutilPath is null
+Conflict in settings file Default: Ignoring cortex-debug.stutilPath.osx as cortex-debug.stutilPath is null
+2025-09-05 13:05:05 2025-09-05T20:05:05.172Z root ERROR [hosted-plugin: 30329] Conflict in settings file Default: Ignoring cortex-debug.stutilPath.windows as cortex-debug.stutilPath is null
+Conflict in settings file Default: Ignoring cortex-debug.stlinkPath.linux as cortex-debug.stlinkPath is null
+Conflict in settings file Default: Ignoring cortex-debug.stlinkPath.osx as cortex-debug.stlinkPath is null
+Conflict in settings file Default: Ignoring cortex-debug.stlinkPath.windows as cortex-debug.stlinkPath is null
+2025-09-05 13:05:05 2025-09-05T20:05:05.172Z root ERROR [hosted-plugin: 30329] Conflict in settings file Default: Ignoring cortex-debug.stm32cubeprogrammer.linux as cortex-debug.stm32cubeprogrammer is null
+Conflict in settings file Default: Ignoring cortex-debug.stm32cubeprogrammer.osx as cortex-debug.stm32cubeprogrammer is null
+Conflict in settings file Default: Ignoring cortex-debug.stm32cubeprogrammer.windows as cortex-debug.stm32cubeprogrammer is null
+2025-09-05 13:05:05 2025-09-05T20:05:05.335Z root INFO [hosted-plugin: 30329] PLUGIN_HOST(30329): PluginManagerExtImpl/init()
+2025-09-05 13:05:05 2025-09-05T20:05:05.342Z root INFO [hosted-plugin: 30329] PLUGIN_HOST(30329): initializing(vscode-arduino-api@0.1.2 with /nix/store/2d5i1bzbqbnl4rgnhk8czrw5zmqqjdzv-arduino-ide-2.3.6-extracted/resources/app/lib/backend/plugin-vscode-init)
+2025-09-05 13:05:05 2025-09-05T20:05:05.453Z root INFO [hosted-plugin: 30329] PLUGIN_HOST(30329): initializing(json-language-features@1.88.1 with /nix/store/2d5i1bzbqbnl4rgnhk8czrw5zmqqjdzv-arduino-ide-2.3.6-extracted/resources/app/lib/backend/plugin-vscode-init)
+2025-09-05 13:05:05 2025-09-05T20:05:05.459Z root INFO [hosted-plugin: 30329] PLUGIN_HOST(30329): initializing(cortex-debug@1.5.1 with /nix/store/2d5i1bzbqbnl4rgnhk8czrw5zmqqjdzv-arduino-ide-2.3.6-extracted/resources/app/lib/backend/plugin-vscode-init)
+2025-09-05 13:05:05 2025-09-05T20:05:05.459Z root INFO [hosted-plugin: 30329] Debugger contribution has been registered: cortex-debug
+2025-09-05 13:05:05 2025-09-05T20:05:05.462Z root INFO [hosted-plugin: 30329] PLUGIN_HOST(30329): initializing(vscode-arduino-tools@0.1.3 with /nix/store/2d5i1bzbqbnl4rgnhk8czrw5zmqqjdzv-arduino-ide-2.3.6-extracted/resources/app/lib/backend/plugin-vscode-init)
+2025-09-05 13:05:05 2025-09-05T20:05:05.463Z root INFO [hosted-plugin: 30329] PLUGIN_HOST(30329): initializing(cpp@1.88.1 with /nix/store/2d5i1bzbqbnl4rgnhk8czrw5zmqqjdzv-arduino-ide-2.3.6-extracted/resources/app/lib/backend/plugin-vscode-init)
+2025-09-05 13:05:05 2025-09-05T20:05:05.468Z root INFO [hosted-plugin: 30329] PLUGIN_HOST(30329): initializing(json@1.88.1 with /nix/store/2d5i1bzbqbnl4rgnhk8czrw5zmqqjdzv-arduino-ide-2.3.6-extracted/resources/app/lib/backend/plugin-vscode-init)
+2025-09-05 13:05:05 2025-09-05T20:05:05.469Z root INFO [hosted-plugin: 30329] PLUGIN_HOST(30329): initializing(vscode-language-pack-bg@1.48.3 with /nix/store/2d5i1bzbqbnl4rgnhk8czrw5zmqqjdzv-arduino-ide-2.3.6-extracted/resources/app/lib/backend/plugin-vscode-init)
+2025-09-05 13:05:05 2025-09-05T20:05:05.470Z root INFO [hosted-plugin: 30329] PLUGIN_HOST(30329): initializing(vscode-language-pack-cs@1.96.0 with /nix/store/2d5i1bzbqbnl4rgnhk8czrw5zmqqjdzv-arduino-ide-2.3.6-extracted/resources/app/lib/backend/plugin-vscode-init)
+2025-09-05 13:05:05 2025-09-05T20:05:05.471Z root INFO [hosted-plugin: 30329] PLUGIN_HOST(30329): initializing(vscode-language-pack-de@1.96.0 with /nix/store/2d5i1bzbqbnl4rgnhk8czrw5zmqqjdzv-arduino-ide-2.3.6-extracted/resources/app/lib/backend/plugin-vscode-init)
+2025-09-05 13:05:05 2025-09-05T20:05:05.472Z root INFO [hosted-plugin: 30329] PLUGIN_HOST(30329): initializing(vscode-language-pack-es@1.96.0 with /nix/store/2d5i1bzbqbnl4rgnhk8czrw5zmqqjdzv-arduino-ide-2.3.6-extracted/resources/app/lib/backend/plugin-vscode-init)
+2025-09-05 13:05:05 2025-09-05T20:05:05.473Z root INFO [hosted-plugin: 30329] PLUGIN_HOST(30329): initializing(vscode-language-pack-fr@1.96.0 with /nix/store/2d5i1bzbqbnl4rgnhk8czrw5zmqqjdzv-arduino-ide-2.3.6-extracted/resources/app/lib/backend/plugin-vscode-init)
+2025-09-05 13:05:05 2025-09-05T20:05:05.474Z root INFO [hosted-plugin: 30329] PLUGIN_HOST(30329): initializing(vscode-language-pack-hu@1.48.3 with /nix/store/2d5i1bzbqbnl4rgnhk8czrw5zmqqjdzv-arduino-ide-2.3.6-extracted/resources/app/lib/backend/plugin-vscode-init)
+2025-09-05 13:05:05 2025-09-05T20:05:05.474Z root INFO [hosted-plugin: 30329] PLUGIN_HOST(30329): initializing(vscode-language-pack-it@1.96.0 with /nix/store/2d5i1bzbqbnl4rgnhk8czrw5zmqqjdzv-arduino-ide-2.3.6-extracted/resources/app/lib/backend/plugin-vscode-init)
+2025-09-05 13:05:05 2025-09-05T20:05:05.475Z root INFO [hosted-plugin: 30329] PLUGIN_HOST(30329): initializing(vscode-language-pack-ja@1.96.0 with /nix/store/2d5i1bzbqbnl4rgnhk8czrw5zmqqjdzv-arduino-ide-2.3.6-extracted/resources/app/lib/backend/plugin-vscode-init)
+2025-09-05 13:05:05 2025-09-05T20:05:05.475Z root INFO [hosted-plugin: 30329] PLUGIN_HOST(30329): initializing(vscode-language-pack-ko@1.96.0 with /nix/store/2d5i1bzbqbnl4rgnhk8czrw5zmqqjdzv-arduino-ide-2.3.6-extracted/resources/app/lib/backend/plugin-vscode-init)
+2025-09-05 13:05:05 2025-09-05T20:05:05.476Z root INFO [hosted-plugin: 30329] PLUGIN_HOST(30329): initializing(vscode-language-pack-nl@1.48.3 with /nix/store/2d5i1bzbqbnl4rgnhk8czrw5zmqqjdzv-arduino-ide-2.3.6-extracted/resources/app/lib/backend/plugin-vscode-init)
+2025-09-05 13:05:05 2025-09-05T20:05:05.476Z root INFO [hosted-plugin: 30329] PLUGIN_HOST(30329): initializing(vscode-language-pack-pl@1.96.0 with /nix/store/2d5i1bzbqbnl4rgnhk8czrw5zmqqjdzv-arduino-ide-2.3.6-extracted/resources/app/lib/backend/plugin-vscode-init)
+2025-09-05 13:05:05 2025-09-05T20:05:05.476Z root INFO [hosted-plugin: 30329] PLUGIN_HOST(30329): initializing(vscode-language-pack-pt-BR@1.96.0 with /nix/store/2d5i1bzbqbnl4rgnhk8czrw5zmqqjdzv-arduino-ide-2.3.6-extracted/resources/app/lib/backend/plugin-vscode-init)
+2025-09-05 13:05:05 2025-09-05T20:05:05.477Z root INFO [hosted-plugin: 30329] PLUGIN_HOST(30329): initializing(vscode-language-pack-ru@1.96.0 with /nix/store/2d5i1bzbqbnl4rgnhk8czrw5zmqqjdzv-arduino-ide-2.3.6-extracted/resources/app/lib/backend/plugin-vscode-init)
+2025-09-05 13:05:05 2025-09-05T20:05:05.477Z root INFO [hosted-plugin: 30329] PLUGIN_HOST(30329): initializing(vscode-language-pack-tr@1.96.0 with /nix/store/2d5i1bzbqbnl4rgnhk8czrw5zmqqjdzv-arduino-ide-2.3.6-extracted/resources/app/lib/backend/plugin-vscode-init)
+2025-09-05 13:05:05 2025-09-05T20:05:05.478Z root INFO [hosted-plugin: 30329] PLUGIN_HOST(30329): initializing(vscode-language-pack-uk@1.48.3 with /nix/store/2d5i1bzbqbnl4rgnhk8czrw5zmqqjdzv-arduino-ide-2.3.6-extracted/resources/app/lib/backend/plugin-vscode-init)
+2025-09-05 13:05:05 2025-09-05T20:05:05.478Z root INFO [hosted-plugin: 30329] PLUGIN_HOST(30329): initializing(vscode-language-pack-zh-hans@1.96.0 with /nix/store/2d5i1bzbqbnl4rgnhk8czrw5zmqqjdzv-arduino-ide-2.3.6-extracted/resources/app/lib/backend/plugin-vscode-init)
+2025-09-05 13:05:05 2025-09-05T20:05:05.478Z root INFO [hosted-plugin: 30329] PLUGIN_HOST(30329): initializing(vscode-language-pack-zh-hant@1.96.0 with /nix/store/2d5i1bzbqbnl4rgnhk8czrw5zmqqjdzv-arduino-ide-2.3.6-extracted/resources/app/lib/backend/plugin-vscode-init)
+2025-09-05 13:05:05 2025-09-05T20:05:05.510Z root INFO [hosted-plugin: 30329] PLUGIN_HOST(30329): PluginManagerExtImpl/loadPlugin(/nix/store/2d5i1bzbqbnl4rgnhk8czrw5zmqqjdzv-arduino-ide-2.3.6-extracted/resources/app/plugins/vscode-builtin-json-language-features/extension/client/dist/node/jsonClientMain)
+2025-09-05 13:05:05 2025-09-05T20:05:05.627Z root INFO [hosted-plugin: 30329] PLUGIN_HOST(30329): PluginManagerExtImpl/loadPlugin(/nix/store/2d5i1bzbqbnl4rgnhk8czrw5zmqqjdzv-arduino-ide-2.3.6-extracted/resources/app/plugins/vscode-arduino-api/extension/dist/extension.js)
+2025-09-05 13:05:05 2025-09-05T20:05:05.630Z root INFO [hosted-plugin: 30329] calling activation function on Arduino IDE API for VS Code extensions
+2025-09-05 13:05:05 2025-09-05T20:05:05.681Z root INFO [2017bf15-3e6c-45b7-940c-aec6ad9135bb] Starting plugins.
+2025-09-05 13:05:05 2025-09-05T20:05:05.873Z root INFO [hosted-plugin: 30329] calling activation function on JSON Language Features (built-in)
+2025-09-05 13:05:05 2025-09-05T20:05:05.929Z root INFO Frontend application start: 2923.9 ms [Finished 5.995 s after backend start]
+2025-09-05 13:05:05 2025-09-05T20:05:05.985Z root INFO Replace loading indicator with ready workbench UI (animation): 874.0 ms [Finished 4.905 s after frontend start]
+2025-09-05 13:05:05 2025-09-05T20:05:05.985Z root INFO Changed application state from 'initialized_layout' to 'ready'.
+2025-09-05 13:05:05 2025-09-05T20:05:05.985Z root WARN Linked preference "workbench.colorCustomizations" not found.
+2025-09-05 13:05:05 Checking for update
+2025-09-05 13:05:06 2025-09-05T20:05:06.083Z root INFO [hosted-plugin: 30329] PLUGIN_HOST(30329): PluginManagerExtImpl/loadPlugin(/nix/store/2d5i1bzbqbnl4rgnhk8czrw5zmqqjdzv-arduino-ide-2.3.6-extracted/resources/app/plugins/cortex-debug/extension/dist/extension.js)
+2025-09-05 13:05:06 2025-09-05T20:05:06.089Z root INFO core-client-provider [library-index] Downloading index: library_index.tar.bz2
+
+2025-09-05 13:05:06 2025-09-05T20:05:06.089Z root INFO core-client-provider [platform-index] Downloading index: package_index.tar.bz2
+
+2025-09-05 13:05:06 2025-09-05T20:05:06.090Z daemon INFO time="2025-09-05T13:05:06-07:00" level=info msg="Updating index" url="https://downloads.arduino.cc/packages/package_index.tar.bz2"
+time="2025-09-05T13:05:06-07:00" level=info msg="Starting download" url="https://downloads.arduino.cc/libraries/library_index.tar.bz2"
+time="2025-09-05T13:05:06-07:00" level=info msg="Starting download" url="https://downloads.arduino.cc/packages/package_index.tar.bz2"
+2025-09-05 13:05:06 2025-09-05T20:05:06.139Z root INFO [hosted-plugin: 30329] Debug configuration provider has been registered: cortex-debug, trigger: 1
+calling activation function on Cortex-Debug
+GDB server console created
+2025-09-05 13:05:06 2025-09-05T20:05:06.451Z root INFO [2017bf15-3e6c-45b7-940c-aec6ad9135bb] Start of 23 plugins: 1303.1 ms [Finished 5.427 s after frontend start]
+2025-09-05 13:05:06 2025-09-05T20:05:06.456Z daemon INFO time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:dfu-util@0.11.0-arduino5"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esp-rv32@2411"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esp-x32@2411"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esp32-arduino-libs@idf-release_v5.5-b66b5448-v1"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esptool_py@5.0.0"
+2025-09-05 13:05:06 2025-09-05T20:05:06.456Z daemon INFO time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:mklittlefs@3.0.0-gnu12-dc7f933"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:mkspiffs@0.2.3"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:openocd-esp32@v0.12.0-esp32-20250422"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:riscv32-esp-elf-gdb@16.2_20250324"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:xtensa-esp-elf-gdb@16.2_20250324"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:arm-none-eabi-gcc@7-2017q4"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:dfu-discovery@0.1.2"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:serial-discovery@1.4.1"
+2025-09-05 13:05:06 2025-09-05T20:05:06.457Z daemon INFO time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:avrdude@6.3.0-arduino17"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:openocd@0.11.0-arduino2"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:serial-monitor@0.15.0"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:ctags@5.8-arduino11"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:mdns-discovery@1.0.9"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:bossac@1.9.1-arduino5"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:arduinoOTA@1.3.0"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+2025-09-05 13:05:06 2025-09-05T20:05:06.676Z daemon INFO time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:dfu-util@0.11.0-arduino5"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esp-rv32@2411"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esp-x32@2411"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esp32-arduino-libs@idf-release_v5.5-b66b5448-v1"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esptool_py@5.0.0"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:mklittlefs@3.0.0-gnu12-dc7f933"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:mkspiffs@0.2.3"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:openocd-esp32@v0.12.0-esp32-20250422"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:riscv32-esp-elf-gdb@16.2_20250324"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:xtensa-esp-elf-gdb@16.2_20250324"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:arm-none-eabi-gcc@7-2017q4"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:openocd@0.11.0-arduino2"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:serial-discovery@1.4.1"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:serial-monitor@0.15.0"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:bossac@1.9.1-arduino5"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:arduinoOTA@1.3.0"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:dfu-discovery@0.1.2"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:avrdude@6.3.0-arduino17"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:ctags@5.8-arduino11"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:mdns-discovery@1.0.9"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:dfu-util@0.11.0-arduino5"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esp-rv32@2411"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esp-x32@2411"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esp32-arduino-libs@idf-release_v5.5-b66b5448-v1"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esptool_py@5.0.0"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:mklittlefs@3.0.0-gnu12-dc7f933"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:mkspiffs@0.2.3"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:openocd-esp32@v0.12.0-esp32-20250422"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:riscv32-esp-elf-gdb@16.2_20250324"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:xtensa-esp-elf-gdb@16.2_20250324"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:arduinoOTA@1.3.0"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:serial-monitor@0.15.0"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:ctags@5.8-arduino11"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:bossac@1.9.1-arduino5"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:openocd@0.11.0-arduino2"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:dfu-discovery@0.1.2"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:serial-discovery@1.4.1"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:mdns-discovery@1.0.9"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:arm-none-eabi-gcc@7-2017q4"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:avrdude@6.3.0-arduino17"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:dfu-util@0.11.0-arduino5"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esp-rv32@2411"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esp-x32@2411"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esp32-arduino-libs@idf-release_v5.5-b66b5448-v1"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esptool_py@5.0.0"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:mklittlefs@3.0.0-gnu12-dc7f933"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:mkspiffs@0.2.3"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:openocd-esp32@v0.12.0-esp32-20250422"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:riscv32-esp-elf-gdb@16.2_20250324"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:xtensa-esp-elf-gdb@16.2_20250324"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:avrdude@6.3.0-arduino17"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:serial-discovery@1.4.1"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:ctags@5.8-arduino11"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:serial-monitor@0.15.0"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:bossac@1.9.1-arduino5"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:arduinoOTA@1.3.0"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:dfu-discovery@0.1.2"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:mdns-discovery@1.0.9"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:arm-none-eabi-gcc@7-2017q4"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:openocd@0.11.0-arduino2"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:dfu-util@0.11.0-arduino5"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esp-rv32@2411"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esp-x32@2411"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esp32-arduino-libs@idf-release_v5.5-b66b5448-v1"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esptool_py@5.0.0"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:mklittlefs@3.0.0-gnu12-dc7f933"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:mkspiffs@0.2.3"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:openocd-esp32@v0.12.0-esp32-20250422"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:riscv32-esp-elf-gdb@16.2_20250324"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:xtensa-esp-elf-gdb@16.2_20250324"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:arm-none-eabi-gcc@7-2017q4"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:serial-discovery@1.4.1"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:serial-monitor@0.15.0"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:arduinoOTA@1.3.0"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:openocd@0.11.0-arduino2"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:dfu-discovery@0.1.2"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:mdns-discovery@1.0.9"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:bossac@1.9.1-arduino5"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:avrdude@6.3.0-arduino17"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:ctags@5.8-arduino11"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:dfu-util@0.11.0-arduino5"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esp-rv32@2411"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esp-x32@2411"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esp32-arduino-libs@idf-release_v5.5-b66b5448-v1"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esptool_py@5.0.0"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:mklittlefs@3.0.0-gnu12-dc7f933"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:mkspiffs@0.2.3"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:openocd-esp32@v0.12.0-esp32-20250422"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:riscv32-esp-elf-gdb@16.2_20250324"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:xtensa-esp-elf-gdb@16.2_20250324"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:mdns-discovery@1.0.9"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:serial-discovery@1.4.1"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:serial-monitor@0.15.0"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:avrdude@6.3.0-arduino17"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:arm-none-eabi-gcc@7-2017q4"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:dfu-discovery@0.1.2"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:openocd@0.11.0-arduino2"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:ctags@5.8-arduino11"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:bossac@1.9.1-arduino5"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:arduinoOTA@1.3.0"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:dfu-util@0.11.0-arduino5"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esp-rv32@2411"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esp-x32@2411"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esp32-arduino-libs@idf-release_v5.5-b66b5448-v1"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esptool_py@5.0.0"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:mklittlefs@3.0.0-gnu12-dc7f933"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:mkspiffs@0.2.3"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:openocd-esp32@v0.12.0-esp32-20250422"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:riscv32-esp-elf-gdb@16.2_20250324"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:xtensa-esp-elf-gdb@16.2_20250324"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:serial-discovery@1.4.1"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:arm-none-eabi-gcc@7-2017q4"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:dfu-discovery@0.1.2"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:serial-monitor@0.15.0"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:avrdude@6.3.0-arduino17"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:ctags@5.8-arduino11"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:bossac@1.9.1-arduino5"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:openocd@0.11.0-arduino2"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:mdns-discovery@1.0.9"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:arduinoOTA@1.3.0"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:dfu-util@0.11.0-arduino5"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esp-rv32@2411"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esp-x32@2411"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esp32-arduino-libs@idf-release_v5.5-b66b5448-v1"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esptool_py@5.0.0"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:mklittlefs@3.0.0-gnu12-dc7f933"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:mkspiffs@0.2.3"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:openocd-esp32@v0.12.0-esp32-20250422"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:riscv32-esp-elf-gdb@16.2_20250324"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:xtensa-esp-elf-gdb@16.2_20250324"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:serial-monitor@0.15.0"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:arm-none-eabi-gcc@7-2017q4"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:avrdude@6.3.0-arduino17"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:bossac@1.9.1-arduino5"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:arduinoOTA@1.3.0"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:dfu-discovery@0.1.2"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:serial-discovery@1.4.1"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:ctags@5.8-arduino11"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:openocd@0.11.0-arduino2"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:mdns-discovery@1.0.9"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:dfu-util@0.11.0-arduino5"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esp-rv32@2411"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esp-x32@2411"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esp32-arduino-libs@idf-release_v5.5-b66b5448-v1"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esptool_py@5.0.0"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:mklittlefs@3.0.0-gnu12-dc7f933"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:mkspiffs@0.2.3"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:openocd-esp32@v0.12.0-esp32-20250422"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:riscv32-esp-elf-gdb@16.2_20250324"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:xtensa-esp-elf-gdb@16.2_20250324"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:arduinoOTA@1.3.0"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:serial-monitor@0.15.0"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:mdns-discovery@1.0.9"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:avrdude@6.3.0-arduino17"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:ctags@5.8-arduino11"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:openocd@0.11.0-arduino2"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:bossac@1.9.1-arduino5"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:arm-none-eabi-gcc@7-2017q4"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:dfu-discovery@0.1.2"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:serial-discovery@1.4.1"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:dfu-util@0.11.0-arduino5"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esp-rv32@2411"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esp-x32@2411"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esp32-arduino-libs@idf-release_v5.5-b66b5448-v1"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esptool_py@5.0.0"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:mklittlefs@3.0.0-gnu12-dc7f933"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:mkspiffs@0.2.3"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:openocd-esp32@v0.12.0-esp32-20250422"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:riscv32-esp-elf-gdb@16.2_20250324"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:xtensa-esp-elf-gdb@16.2_20250324"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:avrdude@6.3.0-arduino17"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:serial-discovery@1.4.1"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:ctags@5.8-arduino11"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:openocd@0.11.0-arduino2"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:mdns-discovery@1.0.9"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:arm-none-eabi-gcc@7-2017q4"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:bossac@1.9.1-arduino5"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:arduinoOTA@1.3.0"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:serial-monitor@0.15.0"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:dfu-discovery@0.1.2"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:dfu-util@0.11.0-arduino5"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esp-rv32@2411"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esp-x32@2411"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esp32-arduino-libs@idf-release_v5.5-b66b5448-v1"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esptool_py@5.0.0"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:mklittlefs@3.0.0-gnu12-dc7f933"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:mkspiffs@0.2.3"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:openocd-esp32@v0.12.0-esp32-20250422"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:riscv32-esp-elf-gdb@16.2_20250324"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:xtensa-esp-elf-gdb@16.2_20250324"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:bossac@1.9.1-arduino5"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:avrdude@6.3.0-arduino17"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:openocd@0.11.0-arduino2"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:arm-none-eabi-gcc@7-2017q4"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:arduinoOTA@1.3.0"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:mdns-discovery@1.0.9"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:dfu-discovery@0.1.2"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:ctags@5.8-arduino11"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:serial-discovery@1.4.1"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:serial-monitor@0.15.0"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:dfu-util@0.11.0-arduino5"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esp-rv32@2411"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esp-x32@2411"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esp32-arduino-libs@idf-release_v5.5-b66b5448-v1"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esptool_py@5.0.0"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:mklittlefs@3.0.0-gnu12-dc7f933"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:mkspiffs@0.2.3"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:openocd-esp32@v0.12.0-esp32-20250422"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:riscv32-esp-elf-gdb@16.2_20250324"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:xtensa-esp-elf-gdb@16.2_20250324"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:ctags@5.8-arduino11"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:mdns-discovery@1.0.9"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:serial-monitor@0.15.0"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:arduinoOTA@1.3.0"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:avrdude@6.3.0-arduino17"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:openocd@0.11.0-arduino2"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:bossac@1.9.1-arduino5"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:arm-none-eabi-gcc@7-2017q4"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:dfu-discovery@0.1.2"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:serial-discovery@1.4.1"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:dfu-util@0.11.0-arduino5"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esp-rv32@2411"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esp-x32@2411"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esp32-arduino-libs@idf-release_v5.5-b66b5448-v1"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esptool_py@5.0.0"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:mklittlefs@3.0.0-gnu12-dc7f933"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:mkspiffs@0.2.3"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:openocd-esp32@v0.12.0-esp32-20250422"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:riscv32-esp-elf-gdb@16.2_20250324"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:xtensa-esp-elf-gdb@16.2_20250324"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:dfu-discovery@0.1.2"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:mdns-discovery@1.0.9"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:avrdude@6.3.0-arduino17"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:openocd@0.11.0-arduino2"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:serial-monitor@0.15.0"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:arm-none-eabi-gcc@7-2017q4"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:serial-discovery@1.4.1"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:arduinoOTA@1.3.0"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:bossac@1.9.1-arduino5"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:ctags@5.8-arduino11"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:dfu-util@0.11.0-arduino5"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esp-rv32@2411"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esp-x32@2411"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esp32-arduino-libs@idf-release_v5.5-b66b5448-v1"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esptool_py@5.0.0"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:mklittlefs@3.0.0-gnu12-dc7f933"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:mkspiffs@0.2.3"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:openocd-esp32@v0.12.0-esp32-20250422"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:riscv32-esp-elf-gdb@16.2_20250324"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:xtensa-esp-elf-gdb@16.2_20250324"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:serial-discovery@1.4.1"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:bossac@1.9.1-arduino5"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:serial-monitor@0.15.0"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:mdns-discovery@1.0.9"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:avrdude@6.3.0-arduino17"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:dfu-discovery@0.1.2"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:openocd@0.11.0-arduino2"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:ctags@5.8-arduino11"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:arm-none-eabi-gcc@7-2017q4"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:arduinoOTA@1.3.0"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:dfu-util@0.11.0-arduino5"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esp-rv32@2411"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esp-x32@2411"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esp32-arduino-libs@idf-release_v5.5-b66b5448-v1"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esptool_py@5.0.0"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:mklittlefs@3.0.0-gnu12-dc7f933"
+2025-09-05 13:05:06 2025-09-05T20:05:06.681Z daemon INFO time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:mkspiffs@0.2.3"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:openocd-esp32@v0.12.0-esp32-20250422"
+time="2025-09-05T13:05:06-07:00" level=info msg="Updating index" url="https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:riscv32-esp-elf-gdb@16.2_20250324"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:xtensa-esp-elf-gdb@16.2_20250324"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:openocd@0.11.0-arduino2"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:arm-none-eabi-gcc@7-2017q4"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:dfu-discovery@0.1.2"
+time="2025-09-05T13:05:06-07:00" level=info msg="Starting download" url="https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:ctags@5.8-arduino11"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:serial-monitor@0.15.0"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:avrdude@6.3.0-arduino17"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:bossac@1.9.1-arduino5"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:mdns-discovery@1.0.9"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:serial-discovery@1.4.1"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:arduinoOTA@1.3.0"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:dfu-util@0.11.0-arduino5"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esp-rv32@2411"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esp-x32@2411"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esp32-arduino-libs@idf-release_v5.5-b66b5448-v1"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esptool_py@5.0.0"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:mklittlefs@3.0.0-gnu12-dc7f933"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:mkspiffs@0.2.3"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:openocd-esp32@v0.12.0-esp32-20250422"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:riscv32-esp-elf-gdb@16.2_20250324"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:xtensa-esp-elf-gdb@16.2_20250324"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:dfu-discovery@0.1.2"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:mdns-discovery@1.0.9"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:serial-discovery@1.4.1"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:arm-none-eabi-gcc@7-2017q4"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:arduinoOTA@1.3.0"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:avrdude@6.3.0-arduino17"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:openocd@0.11.0-arduino2"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:serial-monitor@0.15.0"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:ctags@5.8-arduino11"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:bossac@1.9.1-arduino5"
+2025-09-05 13:05:06 2025-09-05T20:05:06.684Z root INFO core-client-provider [platform-index] Downloading index: package_esp32_index.json
+
+2025-09-05 13:05:06 2025-09-05T20:05:06.686Z daemon INFO time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:dfu-util@0.11.0-arduino5"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esp-rv32@2411"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esp-x32@2411"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esp32-arduino-libs@idf-release_v5.5-b66b5448-v1"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esptool_py@5.0.0"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:mklittlefs@3.0.0-gnu12-dc7f933"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:mkspiffs@0.2.3"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:openocd-esp32@v0.12.0-esp32-20250422"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:riscv32-esp-elf-gdb@16.2_20250324"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:xtensa-esp-elf-gdb@16.2_20250324"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:arm-none-eabi-gcc@7-2017q4"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:openocd@0.11.0-arduino2"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:bossac@1.9.1-arduino5"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:avrdude@6.3.0-arduino17"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:serial-monitor@0.15.0"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:mdns-discovery@1.0.9"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:ctags@5.8-arduino11"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:dfu-discovery@0.1.2"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:serial-discovery@1.4.1"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:arduinoOTA@1.3.0"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+2025-09-05 13:05:06 2025-09-05T20:05:06.690Z daemon INFO time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:dfu-util@0.11.0-arduino5"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esp-rv32@2411"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esp-x32@2411"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esp32-arduino-libs@idf-release_v5.5-b66b5448-v1"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:esptool_py@5.0.0"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:mklittlefs@3.0.0-gnu12-dc7f933"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:mkspiffs@0.2.3"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:openocd-esp32@v0.12.0-esp32-20250422"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:riscv32-esp-elf-gdb@16.2_20250324"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="esp32:xtensa-esp-elf-gdb@16.2_20250324"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:dfu-discovery@0.1.2"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:mdns-discovery@1.0.9"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:serial-monitor@0.15.0"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:arm-none-eabi-gcc@7-2017q4"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:ctags@5.8-arduino11"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:arduinoOTA@1.3.0"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:bossac@1.9.1-arduino5"
+2025-09-05 13:05:06 2025-09-05T20:05:06.690Z daemon INFO time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="builtin:serial-discovery@1.4.1"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:openocd@0.11.0-arduino2"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+time="2025-09-05T13:05:06-07:00" level=info msg="Tool required for debug" tool="arduino:avrdude@6.3.0-arduino17"
+2025-09-05 13:05:06 Update for version 2.3.6 is not available (latest version: 2.3.6, downgrade is allowed).
+2025-09-05 13:05:06 2025-09-05T20:05:06.939Z root ERROR ---- !!!SLOW!!! DURATION: search took 953.964 ms. Args: [{"type":"Updatable"}] ----
+2025-09-05 13:05:06 2025-09-05T20:05:06.942Z root INFO Starting language server: esp32:esp32:esp32s3:UploadSpeed=921600,USBMode=hwcdc,CDCOnBoot=default,MSCOnBoot=default,DFUOnBoot=default,UploadMode=default,CPUFreq=240,FlashMode=qio,FlashSize=16M,PartitionScheme=app3M_fat9M_16MB,DebugLevel=none,PSRAM=opi,LoopCore=1,EventsCore=1,EraseFlash=none,JTAGAdapter=default,ZigbeeMode=default
+2025-09-05 13:05:07 2025-09-05T20:05:07.084Z root INFO [hosted-plugin: 30329] PLUGIN_HOST(30329): PluginManagerExtImpl/loadPlugin(/nix/store/2d5i1bzbqbnl4rgnhk8czrw5zmqqjdzv-arduino-ide-2.3.6-extracted/resources/app/plugins/vscode-arduino-tools/extension/dist/extension.js)
+2025-09-05 13:05:07 2025-09-05T20:05:07.166Z root INFO [hosted-plugin: 30329] calling activation function on VS Code Arduino Tools
+2025-09-05 13:05:07 2025-09-05T20:05:07.318Z daemon INFO time="2025-09-05T13:05:07-07:00" level=info msg="Adding libraries dir" dir=/home/aaron/.arduino15/libraries isSingleLibrary=false location=ide
+time="2025-09-05T13:05:07-07:00" level=info msg="Adding libraries dir" dir=/home/aaron/.arduino15/packages/esp32/hardware/esp32/3.3.0/libraries isSingleLibrary=false location=platform
+time="2025-09-05T13:05:07-07:00" level=info msg="Adding libraries dir" dir=/home/aaron/Arduino/libraries isSingleLibrary=false location=user
+2025-09-05 13:05:08 2025-09-05T20:05:08.626Z daemon INFO time="2025-09-05T13:05:08-07:00" level=info msg="Checking signature" index=/home/aaron/.arduino15/package_index.json signatureFile=/home/aaron/.arduino15/package_index.json.sig trusted=true
+2025-09-05 13:05:08 2025-09-05T20:05:08.636Z daemon INFO time="2025-09-05T13:05:08-07:00" level=info msg="Missing signature file" index=/home/aaron/.arduino15/package_esp32_index.json
+2025-09-05 13:05:08 2025-09-05T20:05:08.636Z daemon INFO time="2025-09-05T13:05:08-07:00" level=info msg="Loading hardware from: /home/aaron/.arduino15/packages"
+2025-09-05 13:05:08 2025-09-05T20:05:08.636Z daemon INFO time="2025-09-05T13:05:08-07:00" level=info msg="Loading package arduino from: /home/aaron/.arduino15/packages/arduino/hardware"
+2025-09-05 13:05:08 2025-09-05T20:05:08.639Z daemon INFO time="2025-09-05T13:05:08-07:00" level=info msg="Missing signature file" index=/home/aaron/.arduino15/packages/arduino/hardware/avr/1.8.6/installed.json
+2025-09-05 13:05:08 2025-09-05T20:05:08.643Z daemon INFO time="2025-09-05T13:05:08-07:00" level=info msg="Adding monitor tool" protocol=serial tool="builtin:serial-monitor"
+time="2025-09-05T13:05:08-07:00" level=info msg="Loaded platform" platform="arduino:avr@1.8.6"
+2025-09-05 13:05:08 2025-09-05T20:05:08.645Z daemon INFO time="2025-09-05T13:05:08-07:00" level=info msg="Missing signature file" index=/home/aaron/.arduino15/packages/arduino/hardware/renesas_uno/1.5.0/installed.json
+2025-09-05 13:05:08 2025-09-05T20:05:08.646Z daemon INFO time="2025-09-05T13:05:08-07:00" level=info msg="Adding monitor tool" protocol=serial tool="builtin:serial-monitor"
+time="2025-09-05T13:05:08-07:00" level=info msg="Loaded platform" platform="arduino:renesas_uno@1.5.0"
+time="2025-09-05T13:05:08-07:00" level=info msg="Checking existence of 'tools' path: /home/aaron/.arduino15/packages/arduino/tools"
+time="2025-09-05T13:05:08-07:00" level=info msg="Loading tools from dir: /home/aaron/.arduino15/packages/arduino/tools"
+2025-09-05 13:05:08 2025-09-05T20:05:08.646Z daemon INFO time="2025-09-05T13:05:08-07:00" level=info msg="Loaded tool" tool="arduino:arduinoOTA@1.3.0"
+time="2025-09-05T13:05:08-07:00" level=info msg="Loaded tool" tool="arduino:arm-none-eabi-gcc@7-2017q4"
+time="2025-09-05T13:05:08-07:00" level=info msg="Loaded tool" tool="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+2025-09-05 13:05:08 2025-09-05T20:05:08.646Z daemon INFO time="2025-09-05T13:05:08-07:00" level=info msg="Loaded tool" tool="arduino:avrdude@6.3.0-arduino17"
+time="2025-09-05T13:05:08-07:00" level=info msg="Loaded tool" tool="arduino:bossac@1.9.1-arduino5"
+2025-09-05 13:05:08 2025-09-05T20:05:08.646Z daemon INFO time="2025-09-05T13:05:08-07:00" level=info msg="Loaded tool" tool="arduino:dfu-util@0.11.0-arduino5"
+2025-09-05 13:05:08 2025-09-05T20:05:08.646Z daemon INFO time="2025-09-05T13:05:08-07:00" level=info msg="Loaded tool" tool="arduino:openocd@0.11.0-arduino2"
+time="2025-09-05T13:05:08-07:00" level=info msg="Loading package builtin from: /home/aaron/.arduino15/packages/builtin"
+2025-09-05 13:05:08 2025-09-05T20:05:08.646Z daemon INFO time="2025-09-05T13:05:08-07:00" level=info msg="Checking existence of 'tools' path: /home/aaron/.arduino15/packages/builtin/tools"
+time="2025-09-05T13:05:08-07:00" level=info msg="Loading tools from dir: /home/aaron/.arduino15/packages/builtin/tools"
+2025-09-05 13:05:08 2025-09-05T20:05:08.646Z daemon INFO time="2025-09-05T13:05:08-07:00" level=info msg="Loaded tool" tool="builtin:ctags@5.8-arduino11"
+time="2025-09-05T13:05:08-07:00" level=info msg="Loaded tool" tool="builtin:dfu-discovery@0.1.2"
+2025-09-05 13:05:08 2025-09-05T20:05:08.646Z daemon INFO time="2025-09-05T13:05:08-07:00" level=info msg="Loaded tool" tool="builtin:mdns-discovery@1.0.9"
+time="2025-09-05T13:05:08-07:00" level=info msg="Loaded tool" tool="builtin:serial-discovery@1.4.1"
+2025-09-05 13:05:08 2025-09-05T20:05:08.646Z daemon INFO time="2025-09-05T13:05:08-07:00" level=info msg="Loaded tool" tool="builtin:serial-monitor@0.15.0"
+time="2025-09-05T13:05:08-07:00" level=info msg="Loading package esp32 from: /home/aaron/.arduino15/packages/esp32/hardware"
+2025-09-05 13:05:08 2025-09-05T20:05:08.648Z daemon INFO time="2025-09-05T13:05:08-07:00" level=info msg="Missing signature file" index=/home/aaron/.arduino15/packages/esp32/hardware/esp32/3.3.0/installed.json
+2025-09-05 13:05:08 2025-09-05T20:05:08.859Z daemon INFO time="2025-09-05T13:05:08-07:00" level=info msg="Adding monitor tool" protocol=serial tool="builtin:serial-monitor"
+time="2025-09-05T13:05:08-07:00" level=info msg="Loaded platform" platform="esp32:esp32@3.3.0"
+time="2025-09-05T13:05:08-07:00" level=info msg="Checking existence of 'tools' path: /home/aaron/.arduino15/packages/esp32/tools"
+time="2025-09-05T13:05:08-07:00" level=info msg="Loading tools from dir: /home/aaron/.arduino15/packages/esp32/tools"
+2025-09-05 13:05:08 2025-09-05T20:05:08.859Z daemon INFO time="2025-09-05T13:05:08-07:00" level=info msg="Loaded tool" tool="esp32:esp-rv32@2411"
+time="2025-09-05T13:05:08-07:00" level=info msg="Loaded tool" tool="esp32:esp-x32@2411"
+time="2025-09-05T13:05:08-07:00" level=info msg="Loaded tool" tool="esp32:esp32-arduino-libs@idf-release_v5.5-b66b5448-v1"
+time="2025-09-05T13:05:08-07:00" level=info msg="Loaded tool" tool="esp32:esptool_py@5.0.0"
+time="2025-09-05T13:05:08-07:00" level=info msg="Loaded tool" tool="esp32:mklittlefs@3.0.0-gnu12-dc7f933"
+time="2025-09-05T13:05:08-07:00" level=info msg="Loaded tool" tool="esp32:mkspiffs@0.2.3"
+2025-09-05 13:05:08 2025-09-05T20:05:08.859Z daemon INFO time="2025-09-05T13:05:08-07:00" level=info msg="Loaded tool" tool="esp32:openocd-esp32@v0.12.0-esp32-20250422"
+time="2025-09-05T13:05:08-07:00" level=info msg="Loaded tool" tool="esp32:riscv32-esp-elf-gdb@16.2_20250324"
+time="2025-09-05T13:05:08-07:00" level=info msg="Loaded tool" tool="esp32:xtensa-esp-elf-gdb@16.2_20250324"
+2025-09-05 13:05:08 2025-09-05T20:05:08.864Z daemon INFO time="2025-09-05T13:05:08-07:00" level=info msg="Discovery event channel closed builtin:serial-discovery. Exiting goroutine."
+2025-09-05 13:05:08 2025-09-05T20:05:08.864Z discovery-log INFO {"eventType":"remove","port":{"matchingBoardsList":[],"port":{"address":"/dev/ttyS0","label":"/dev/ttyS0","protocol":"serial","protocolLabel":"Serial Port","propertiesMap":[],"hardwareId":""}},"error":""}
+2025-09-05 13:05:08 2025-09-05T20:05:08.865Z discovery-log INFO {"eventType":"remove","port":{"matchingBoardsList":[],"port":{"address":"/dev/ttyUSB0","label":"/dev/ttyUSB0","protocol":"serial","protocolLabel":"Serial Port (USB)","propertiesMap":[],"hardwareId":""}},"error":""}
+2025-09-05 13:05:08 2025-09-05T20:05:08.865Z daemon INFO time="2025-09-05T13:05:08-07:00" level=info msg="Closed and removed discovery builtin:serial-discovery"
+time="2025-09-05T13:05:08-07:00" level=error msg="Stopped decode loop: EOF" discovery="builtin:serial-discovery"
+time="2025-09-05T13:05:08-07:00" level=info msg="Discovery event channel closed builtin:mdns-discovery. Exiting goroutine."
+2025-09-05 13:05:08 2025-09-05T20:05:08.866Z daemon INFO time="2025-09-05T13:05:08-07:00" level=info msg="Closed and removed discovery builtin:mdns-discovery"
+2025-09-05 13:05:08 2025-09-05T20:05:08.866Z daemon INFO time="2025-09-05T13:05:08-07:00" level=error msg="Stopped decode loop: EOF" discovery="builtin:mdns-discovery"
+2025-09-05 13:05:08 2025-09-05T20:05:08.866Z daemon INFO time="2025-09-05T13:05:08-07:00" level=info msg="Discovery event channel closed builtin:dfu-discovery. Exiting goroutine."
+2025-09-05 13:05:08 2025-09-05T20:05:08.867Z daemon INFO time="2025-09-05T13:05:08-07:00" level=info msg="Closed and removed discovery builtin:dfu-discovery"
+2025-09-05 13:05:08 2025-09-05T20:05:08.867Z daemon INFO time="2025-09-05T13:05:08-07:00" level=error msg="Stopped decode loop: EOF" discovery="builtin:dfu-discovery"
+2025-09-05 13:05:08 2025-09-05T20:05:08.873Z discovery-log INFO {"eventType":"add","port":{"matchingBoardsList":[],"port":{"address":"/dev/ttyS0","label":"/dev/ttyS0","protocol":"serial","protocolLabel":"Serial Port","propertiesMap":[],"hardwareId":""}},"error":""}
+2025-09-05 13:05:08 2025-09-05T20:05:08.875Z discovery-log INFO {"eventType":"add","port":{"matchingBoardsList":[],"port":{"address":"/dev/ttyUSB0","label":"/dev/ttyUSB0","protocol":"serial","protocolLabel":"Serial Port (USB)","propertiesMap":[["pid","0x6001"],["serialNumber","B002YPHM"],["vid","0x0403"]],"hardwareId":"B002YPHM"}},"error":""}
+2025-09-05 13:05:08 2025-09-05T20:05:08.881Z daemon INFO time="2025-09-05T13:05:08-07:00" level=info msg="Adding libraries dir" dir=/home/aaron/.arduino15/packages/esp32/hardware/esp32/3.3.0/libraries isSingleLibrary=false location=platform
+2025-09-05 13:05:08 2025-09-05T20:05:08.881Z daemon INFO time="2025-09-05T13:05:08-07:00" level=info msg="Adding libraries dir" dir=/home/aaron/.arduino15/packages/arduino/hardware/avr/1.8.6/libraries isSingleLibrary=false location=platform
+2025-09-05 13:05:08 2025-09-05T20:05:08.881Z daemon INFO time="2025-09-05T13:05:08-07:00" level=info msg="Adding libraries dir" dir=/home/aaron/.arduino15/packages/arduino/hardware/renesas_uno/1.5.0/libraries isSingleLibrary=false location=platform
+2025-09-05 13:05:08 2025-09-05T20:05:08.881Z daemon INFO time="2025-09-05T13:05:08-07:00" level=info msg="Loading libraries index file" index=/home/aaron/.arduino15/library_index.json
+2025-09-05 13:05:09 2025-09-05T20:05:09.274Z daemon INFO time="2025-09-05T13:05:09-07:00" level=info msg="Adding libraries dir" dir=/home/aaron/.arduino15/libraries isSingleLibrary=false location=ide
+time="2025-09-05T13:05:09-07:00" level=info msg="Adding libraries dir" dir=/home/aaron/Arduino/libraries isSingleLibrary=false location=user
+2025-09-05 13:05:09 2025-09-05T20:05:09.333Z daemon INFO time="2025-09-05T13:05:09-07:00" level=info msg="Resolving include BLEDevice.h for arch esp32"
+time="2025-09-05T13:05:09-07:00" level=info msg="  found better lib" lib=BLE prio=3F4
+2025-09-05 13:05:09 2025-09-05T20:05:09.333Z daemon INFO time="2025-09-05T13:05:09-07:00" level=warning msg="Error loading library" error="rpc error: code = Internal desc = loading library from /home/aaron/Arduino/libraries/SoftSerialTest: invalid library: no header files found"
+2025-09-05 13:05:10 2025-09-05T20:05:10.451Z daemon INFO time="2025-09-05T13:05:10-07:00" level=info msg="Resolving include SPI.h for arch esp32"
+2025-09-05 13:05:10 2025-09-05T20:05:10.452Z daemon INFO time="2025-09-05T13:05:10-07:00" level=info msg="  found better lib" lib=SPI prio=6B0
+2025-09-05 13:05:11 2025-09-05T20:05:11.435Z daemon INFO time="2025-09-05T13:05:11-07:00" level=info msg="Resolving include FS.h for arch esp32"
+time="2025-09-05T13:05:11-07:00" level=info msg="  found better lib" lib=FS prio=6B0
+2025-09-05 13:05:12 2025-09-05T20:05:12.568Z daemon INFO time="2025-09-05T13:05:12-07:00" level=info msg="Resolving include SD_MMC.h for arch esp32"
+time="2025-09-05T13:05:12-07:00" level=info msg="  found better lib" lib=SD_MMC prio=6B0
+2025-09-05 13:05:14 2025-09-05T20:05:14.396Z daemon INFO time="2025-09-05T13:05:14-07:00" level=info msg="Resolving include PNGdec.h for arch esp32"
+time="2025-09-05T13:05:14-07:00" level=info msg="  found better lib" lib=PNGdec prio=6A7
+2025-09-05 13:05:50 2025-09-05T20:05:50.602Z daemon INFO time="2025-09-05T13:05:50-07:00" level=info msg="Adding libraries dir" dir=/home/aaron/.arduino15/libraries isSingleLibrary=false location=ide
+time="2025-09-05T13:05:50-07:00" level=info msg="Adding libraries dir" dir=/home/aaron/.arduino15/packages/esp32/hardware/esp32/3.3.0/libraries isSingleLibrary=false location=platform
+2025-09-05 13:05:50 2025-09-05T20:05:50.602Z daemon INFO time="2025-09-05T13:05:50-07:00" level=info msg="Adding libraries dir" dir=/home/aaron/Arduino/libraries isSingleLibrary=false location=user
+2025-09-05 13:40:20 2025-09-05T20:40:20.471Z discovery-log INFO {"eventType":"remove","port":{"matchingBoardsList":[],"port":{"address":"/dev/ttyUSB0","label":"","protocol":"serial","protocolLabel":"","propertiesMap":[],"hardwareId":""}},"error":""}
+2025-09-05 13:44:57 2025-09-05T20:44:57.965Z discovery-log INFO {"eventType":"add","port":{"matchingBoardsList":[],"port":{"address":"/dev/ttyUSB0","label":"/dev/ttyUSB0","protocol":"serial","protocolLabel":"Serial Port (USB)","propertiesMap":[["pid","0x6001"],["serialNumber","B002YPHM"],["vid","0x0403"]],"hardwareId":"B002YPHM"}},"error":""}
+2025-09-05 13:45:43 2025-09-05T20:45:43.501Z discovery-log INFO {"eventType":"remove","port":{"matchingBoardsList":[],"port":{"address":"/dev/ttyUSB0","label":"","protocol":"serial","protocolLabel":"","propertiesMap":[],"hardwareId":""}},"error":""}
+2025-09-05 14:00:17 2025-09-05T21:00:17.412Z discovery-log INFO {"eventType":"add","port":{"matchingBoardsList":[],"port":{"address":"/dev/ttyUSB0","label":"/dev/ttyUSB0","protocol":"serial","protocolLabel":"Serial Port (USB)","propertiesMap":[["pid","0x6001"],["serialNumber","B002YPHM"],["vid","0x0403"]],"hardwareId":"B002YPHM"}},"error":""}
+2025-09-05 14:01:50 2025-09-05T21:01:50.748Z discovery-log INFO {"eventType":"remove","port":{"matchingBoardsList":[],"port":{"address":"/dev/ttyUSB0","label":"","protocol":"serial","protocolLabel":"","propertiesMap":[],"hardwareId":""}},"error":""}
+2025-09-05 14:03:23 2025-09-05T21:03:23.449Z discovery-log INFO {"eventType":"add","port":{"matchingBoardsList":[],"port":{"address":"/dev/ttyUSB0","label":"/dev/ttyUSB0","protocol":"serial","protocolLabel":"Serial Port (USB)","propertiesMap":[["pid","0x6001"],["serialNumber","B002YPHM"],["vid","0x0403"]],"hardwareId":"B002YPHM"}},"error":""}
+2025-09-05 14:06:34 2025-09-05T21:06:34.181Z discovery-log INFO {"eventType":"remove","port":{"matchingBoardsList":[],"port":{"address":"/dev/ttyUSB0","label":"","protocol":"serial","protocolLabel":"","propertiesMap":[],"hardwareId":""}},"error":""}
+2025-09-05 14:07:58 2025-09-05T21:07:58.950Z discovery-log INFO {"eventType":"add","port":{"matchingBoardsList":[],"port":{"address":"/dev/ttyUSB0","label":"/dev/ttyUSB0","protocol":"serial","protocolLabel":"Serial Port (USB)","propertiesMap":[["pid","0x6001"],["serialNumber","B002YPHM"],["vid","0x0403"]],"hardwareId":"B002YPHM"}},"error":""}
+2025-09-05 14:13:43 2025-09-05T21:13:43.325Z discovery-log INFO {"eventType":"remove","port":{"matchingBoardsList":[],"port":{"address":"/dev/ttyUSB0","label":"","protocol":"serial","protocolLabel":"","propertiesMap":[],"hardwareId":""}},"error":""}
+2025-09-05 14:16:19 2025-09-05T21:16:19.432Z discovery-log INFO {"eventType":"add","port":{"matchingBoardsList":[],"port":{"address":"/dev/ttyACM0","label":"/dev/ttyACM0","protocol":"serial","protocolLabel":"Serial Port (USB)","propertiesMap":[["pid","0x55d2"],["serialNumber","56D5005898"],["vid","0x1a86"]],"hardwareId":"56D5005898"}},"error":""}
+2025-09-05 14:16:19 2025-09-05T21:16:19.432Z discovery-log INFO {"eventType":"add","port":{"matchingBoardsList":[],"port":{"address":"/dev/ttyACM1","label":"/dev/ttyACM1","protocol":"serial","protocolLabel":"Serial Port (USB)","propertiesMap":[["pid","0x55d2"],["serialNumber","56D5005898"],["vid","0x1a86"]],"hardwareId":"56D5005898"}},"error":""}
+2025-09-05 14:16:19 2025-09-05T21:16:19.720Z daemon INFO time="2025-09-05T14:16:19-07:00" level=info msg="Starting monitor process" monitor=serial-monitor
+2025-09-05 14:16:19 2025-09-05T21:16:19.747Z daemon INFO time="2025-09-05T14:16:19-07:00" level=info msg="Monitor process started successfully!" monitor=serial-monitor
+time="2025-09-05T14:16:19-07:00" level=info msg="sending command" command="HELLO 1 \"arduino-cli 1.2.0\"" monitor=serial-monitor
+2025-09-05 14:16:19 2025-09-05T21:16:19.776Z daemon INFO time="2025-09-05T14:16:19-07:00" level=info msg="received message" error=false event_type=hello message=OK monitor=serial-monitor
+time="2025-09-05T14:16:19-07:00" level=info msg="sending command" command=DESCRIBE monitor=serial-monitor
+2025-09-05 14:16:19 2025-09-05T21:16:19.776Z daemon INFO time="2025-09-05T14:16:19-07:00" level=info msg="received message" error=false event_type=describe message=OK monitor=serial-monitor
+2025-09-05 14:16:19 2025-09-05T21:16:19.776Z daemon INFO time="2025-09-05T14:16:19-07:00" level=info msg="sending command" command=QUIT monitor=serial-monitor
+2025-09-05 14:16:19 2025-09-05T21:16:19.776Z daemon INFO time="2025-09-05T14:16:19-07:00" level=info msg="received message" error=false event_type=quit message=OK monitor=serial-monitor
+time="2025-09-05T14:16:19-07:00" level=info msg="Killing monitor process" monitor=serial-monitor
+2025-09-05 14:16:19 2025-09-05T21:16:19.776Z daemon INFO time="2025-09-05T14:16:19-07:00" level=error msg="stopped decode loop: EOF" monitor=serial-monitor
+time="2025-09-05T14:16:19-07:00" level=info msg="Monitor process killed" monitor=serial-monitor
+2025-09-05 14:16:19 2025-09-05T21:16:19.798Z monitor-service INFO starting monitor
+2025-09-05 14:16:19 2025-09-05T21:16:19.800Z daemon INFO time="2025-09-05T14:16:19-07:00" level=info msg="Starting monitor process" monitor=serial-monitor
+2025-09-05 14:16:19 2025-09-05T21:16:19.801Z daemon INFO time="2025-09-05T14:16:19-07:00" level=info msg="Monitor process started successfully!" monitor=serial-monitor
+time="2025-09-05T14:16:19-07:00" level=info msg="sending command" command="HELLO 1 \"arduino-cli 1.2.0\"" monitor=serial-monitor
+2025-09-05 14:16:19 2025-09-05T21:16:19.804Z daemon INFO time="2025-09-05T14:16:19-07:00" level=info msg="received message" error=false event_type=hello message=OK monitor=serial-monitor
+time="2025-09-05T14:16:19-07:00" level=info msg="sending command" command=DESCRIBE monitor=serial-monitor
+2025-09-05 14:16:19 2025-09-05T21:16:19.804Z daemon INFO time="2025-09-05T14:16:19-07:00" level=info msg="received message" error=false event_type=describe message=OK monitor=serial-monitor
+2025-09-05 14:16:19 2025-09-05T21:16:19.804Z daemon INFO time="2025-09-05T14:16:19-07:00" level=info msg="sending command" command=QUIT monitor=serial-monitor
+2025-09-05 14:16:19 2025-09-05T21:16:19.804Z daemon INFO time="2025-09-05T14:16:19-07:00" level=info msg="received message" error=false event_type=quit message=OK monitor=serial-monitor
+time="2025-09-05T14:16:19-07:00" level=info msg="Killing monitor process" monitor=serial-monitor
+2025-09-05 14:16:19 2025-09-05T21:16:19.805Z daemon INFO time="2025-09-05T14:16:19-07:00" level=error msg="stopped decode loop: EOF" monitor=serial-monitor
+2025-09-05 14:16:19 2025-09-05T21:16:19.805Z daemon INFO time="2025-09-05T14:16:19-07:00" level=info msg="Monitor process killed" monitor=serial-monitor
+2025-09-05 14:16:19 2025-09-05T21:16:19.813Z daemon INFO time="2025-09-05T14:16:19-07:00" level=info msg="Starting monitor process" monitor=serial-monitor
+2025-09-05 14:16:19 2025-09-05T21:16:19.813Z daemon INFO time="2025-09-05T14:16:19-07:00" level=info msg="Monitor process started successfully!" monitor=serial-monitor
+time="2025-09-05T14:16:19-07:00" level=info msg="sending command" command="HELLO 1 \"arduino-cli 1.2.0\"" monitor=serial-monitor
+2025-09-05 14:16:19 2025-09-05T21:16:19.815Z daemon INFO time="2025-09-05T14:16:19-07:00" level=info msg="received message" error=false event_type=hello message=OK monitor=serial-monitor
+2025-09-05 14:16:19 2025-09-05T21:16:19.815Z daemon INFO time="2025-09-05T14:16:19-07:00" level=info msg="sending command" command=DESCRIBE monitor=serial-monitor
+2025-09-05 14:16:19 2025-09-05T21:16:19.815Z daemon INFO time="2025-09-05T14:16:19-07:00" level=info msg="received message" error=false event_type=describe message=OK monitor=serial-monitor
+2025-09-05 14:16:19 2025-09-05T21:16:19.816Z daemon INFO time="2025-09-05T14:16:19-07:00" level=info msg="sending command" command="CONFIGURE rts on" monitor=serial-monitor
+2025-09-05 14:16:19 2025-09-05T21:16:19.816Z daemon INFO time="2025-09-05T14:16:19-07:00" level=info msg="received message" error=false event_type=configure message=OK monitor=serial-monitor
+2025-09-05 14:16:19 2025-09-05T21:16:19.816Z daemon INFO time="2025-09-05T14:16:19-07:00" level=info msg="sending command" command="CONFIGURE stop_bits 1" monitor=serial-monitor
+time="2025-09-05T14:16:19-07:00" level=info msg="received message" error=false event_type=configure message=OK monitor=serial-monitor
+2025-09-05 14:16:19 2025-09-05T21:16:19.816Z daemon INFO time="2025-09-05T14:16:19-07:00" level=info msg="sending command" command="CONFIGURE baudrate 115200" monitor=serial-monitor
+time="2025-09-05T14:16:19-07:00" level=info msg="received message" error=false event_type=configure message=OK monitor=serial-monitor
+time="2025-09-05T14:16:19-07:00" level=info msg="sending command" command="CONFIGURE bits 8" monitor=serial-monitor
+time="2025-09-05T14:16:19-07:00" level=info msg="received message" error=false event_type=configure message=OK monitor=serial-monitor
+time="2025-09-05T14:16:19-07:00" level=info msg="sending command" command="CONFIGURE dtr on" monitor=serial-monitor
+time="2025-09-05T14:16:19-07:00" level=info msg="received message" error=false event_type=configure message=OK monitor=serial-monitor
+time="2025-09-05T14:16:19-07:00" level=info msg="sending command" command="CONFIGURE parity none" monitor=serial-monitor
+time="2025-09-05T14:16:19-07:00" level=info msg="received message" error=false event_type=configure message=OK monitor=serial-monitor
+2025-09-05 14:16:19 2025-09-05T21:16:19.816Z daemon INFO time="2025-09-05T14:16:19-07:00" level=info msg="sending command" command="OPEN 127.0.0.1:42545 /dev/ttyACM0" monitor=serial-monitor
+2025-09-05 14:16:19 2025-09-05T21:16:19.817Z daemon INFO time="2025-09-05T14:16:19-07:00" level=info msg="received message" error=false event_type=open message=OK monitor=serial-monitor
+2025-09-05 14:16:19 2025-09-05T21:16:19.817Z daemon INFO time="2025-09-05T14:16:19-07:00" level=info msg="Port /dev/ttyACM0 successfully opened"
+2025-09-05 14:16:19 2025-09-05T21:16:19.818Z monitor-service INFO Using port configuration for serial:/dev/ttyACM0: {"settingsList":[{"settingId":"rts","value":"on"},{"settingId":"stop_bits","value":"1"},{"settingId":"baudrate","value":"115200"},{"settingId":"bits","value":"8"},{"settingId":"dtr","value":"on"},{"settingId":"parity","value":"none"}]}
+2025-09-05 14:16:19 2025-09-05T21:16:19.818Z monitor-service INFO started monitor to /dev/ttyACM0 using serial
+2025-09-05 14:16:19 2025-09-05T21:16:19.835Z monitor-service INFO No port configuration changes have been detected. No need to send configure commands to the running monitor serial:/dev/ttyACM0.
+2025-09-05 14:16:38 2025-09-05T21:16:38.530Z monitor-service INFO No port configuration changes have been detected. No need to send configure commands to the running monitor serial:/dev/ttyACM0.
+2025-09-05 14:16:45 2025-09-05T21:16:45.404Z monitor-service INFO No port configuration changes have been detected. No need to send configure commands to the running monitor serial:/dev/ttyACM0.
+2025-09-05 14:17:15 2025-09-05T21:17:15.882Z daemon INFO time="2025-09-05T14:17:15-07:00" level=info msg="sending command" command=CLOSE monitor=serial-monitor
+2025-09-05 14:17:15 2025-09-05T21:17:15.883Z discovery-log INFO {"eventType":"remove","port":{"matchingBoardsList":[],"port":{"address":"/dev/ttyACM0","label":"","protocol":"serial","protocolLabel":"","propertiesMap":[],"hardwareId":""}},"error":""}
+2025-09-05 14:17:15 2025-09-05T21:17:15.883Z discovery-log INFO {"eventType":"remove","port":{"matchingBoardsList":[],"port":{"address":"/dev/ttyACM1","label":"","protocol":"serial","protocolLabel":"","propertiesMap":[],"hardwareId":""}},"error":""}
+2025-09-05 14:17:15 2025-09-05T21:17:15.883Z daemon INFO time="2025-09-05T14:17:15-07:00" level=info msg="received message" error=true event_type=port_closed message="readfrom tcp 127.0.0.1:59844->127.0.0.1:42545: Port has been closed" monitor=serial-monitor
+time="2025-09-05T14:17:15-07:00" level=info msg="monitor port has been closed externally" monitor=serial-monitor
+time="2025-09-05T14:17:15-07:00" level=info msg="received message" error=true event_type=close message="port already closed" monitor=serial-monitor
+time="2025-09-05T14:17:15-07:00" level=info msg="sending command" command=QUIT monitor=serial-monitor
+time="2025-09-05T14:17:15-07:00" level=info msg="received message" error=false event_type=quit message=OK monitor=serial-monitor
+time="2025-09-05T14:17:15-07:00" level=info msg="Killing monitor process" monitor=serial-monitor
+2025-09-05 14:17:15 2025-09-05T21:17:15.883Z daemon INFO time="2025-09-05T14:17:15-07:00" level=error msg="stopped decode loop: EOF" monitor=serial-monitor
+2025-09-05 14:17:15 2025-09-05T21:17:15.883Z daemon INFO time="2025-09-05T14:17:15-07:00" level=info msg="Monitor process killed" monitor=serial-monitor
+2025-09-05 14:17:15 2025-09-05T21:17:15.885Z monitor-service INFO monitor to /dev/ttyACM0 using serial closed by server
+2025-09-05 14:17:18 2025-09-05T21:17:18.090Z discovery-log INFO {"eventType":"add","port":{"matchingBoardsList":[],"port":{"address":"/dev/ttyACM0","label":"/dev/ttyACM0","protocol":"serial","protocolLabel":"Serial Port (USB)","propertiesMap":[["pid","0x55d2"],["serialNumber","56D5005898"],["vid","0x1a86"]],"hardwareId":"56D5005898"}},"error":""}
+2025-09-05 14:17:18 2025-09-05T21:17:18.092Z discovery-log INFO {"eventType":"add","port":{"matchingBoardsList":[],"port":{"address":"/dev/ttyACM1","label":"/dev/ttyACM1","protocol":"serial","protocolLabel":"Serial Port (USB)","propertiesMap":[["pid","0x55d2"],["serialNumber","56D5005898"],["vid","0x1a86"]],"hardwareId":"56D5005898"}},"error":""}
+2025-09-05 14:17:18 2025-09-05T21:17:18.326Z monitor-service INFO starting monitor
+2025-09-05 14:17:18 2025-09-05T21:17:18.330Z daemon INFO time="2025-09-05T14:17:18-07:00" level=info msg="Starting monitor process" monitor=serial-monitor
+2025-09-05 14:17:18 2025-09-05T21:17:18.331Z daemon INFO time="2025-09-05T14:17:18-07:00" level=info msg="Monitor process started successfully!" monitor=serial-monitor
+time="2025-09-05T14:17:18-07:00" level=info msg="sending command" command="HELLO 1 \"arduino-cli 1.2.0\"" monitor=serial-monitor
+2025-09-05 14:17:18 2025-09-05T21:17:18.334Z daemon INFO time="2025-09-05T14:17:18-07:00" level=info msg="received message" error=false event_type=hello message=OK monitor=serial-monitor
+2025-09-05 14:17:18 2025-09-05T21:17:18.334Z daemon INFO time="2025-09-05T14:17:18-07:00" level=info msg="sending command" command=DESCRIBE monitor=serial-monitor
+2025-09-05 14:17:18 2025-09-05T21:17:18.334Z daemon INFO time="2025-09-05T14:17:18-07:00" level=info msg="received message" error=false event_type=describe message=OK monitor=serial-monitor
+2025-09-05 14:17:18 2025-09-05T21:17:18.334Z daemon INFO time="2025-09-05T14:17:18-07:00" level=info msg="sending command" command=QUIT monitor=serial-monitor
+2025-09-05 14:17:18 2025-09-05T21:17:18.334Z daemon INFO time="2025-09-05T14:17:18-07:00" level=info msg="received message" error=false event_type=quit message=OK monitor=serial-monitor
+2025-09-05 14:17:18 2025-09-05T21:17:18.334Z daemon INFO time="2025-09-05T14:17:18-07:00" level=info msg="Killing monitor process" monitor=serial-monitor
+2025-09-05 14:17:18 2025-09-05T21:17:18.334Z daemon INFO time="2025-09-05T14:17:18-07:00" level=error msg="stopped decode loop: EOF" monitor=serial-monitor
+2025-09-05 14:17:18 2025-09-05T21:17:18.334Z daemon INFO time="2025-09-05T14:17:18-07:00" level=info msg="Monitor process killed" monitor=serial-monitor
+2025-09-05 14:17:18 2025-09-05T21:17:18.340Z daemon INFO time="2025-09-05T14:17:18-07:00" level=info msg="Starting monitor process" monitor=serial-monitor
+2025-09-05 14:17:18 2025-09-05T21:17:18.341Z daemon INFO time="2025-09-05T14:17:18-07:00" level=info msg="Monitor process started successfully!" monitor=serial-monitor
+time="2025-09-05T14:17:18-07:00" level=info msg="sending command" command="HELLO 1 \"arduino-cli 1.2.0\"" monitor=serial-monitor
+2025-09-05 14:17:18 2025-09-05T21:17:18.343Z daemon INFO time="2025-09-05T14:17:18-07:00" level=info msg="received message" error=false event_type=hello message=OK monitor=serial-monitor
+time="2025-09-05T14:17:18-07:00" level=info msg="sending command" command=DESCRIBE monitor=serial-monitor
+2025-09-05 14:17:18 2025-09-05T21:17:18.343Z daemon INFO time="2025-09-05T14:17:18-07:00" level=info msg="received message" error=false event_type=describe message=OK monitor=serial-monitor
+2025-09-05 14:17:18 2025-09-05T21:17:18.343Z daemon INFO time="2025-09-05T14:17:18-07:00" level=info msg="sending command" command="CONFIGURE rts on" monitor=serial-monitor
+2025-09-05 14:17:18 2025-09-05T21:17:18.343Z daemon INFO time="2025-09-05T14:17:18-07:00" level=info msg="received message" error=false event_type=configure message=OK monitor=serial-monitor
+2025-09-05 14:17:18 2025-09-05T21:17:18.343Z daemon INFO time="2025-09-05T14:17:18-07:00" level=info msg="sending command" command="CONFIGURE stop_bits 1" monitor=serial-monitor
+2025-09-05 14:17:18 2025-09-05T21:17:18.343Z daemon INFO time="2025-09-05T14:17:18-07:00" level=info msg="received message" error=false event_type=configure message=OK monitor=serial-monitor
+2025-09-05 14:17:18 2025-09-05T21:17:18.343Z daemon INFO time="2025-09-05T14:17:18-07:00" level=info msg="sending command" command="CONFIGURE baudrate 115200" monitor=serial-monitor
+2025-09-05 14:17:18 2025-09-05T21:17:18.343Z daemon INFO time="2025-09-05T14:17:18-07:00" level=info msg="received message" error=false event_type=configure message=OK monitor=serial-monitor
+time="2025-09-05T14:17:18-07:00" level=info msg="sending command" command="CONFIGURE bits 8" monitor=serial-monitor
+2025-09-05 14:17:18 2025-09-05T21:17:18.343Z daemon INFO time="2025-09-05T14:17:18-07:00" level=info msg="received message" error=false event_type=configure message=OK monitor=serial-monitor
+2025-09-05 14:17:18 2025-09-05T21:17:18.343Z daemon INFO time="2025-09-05T14:17:18-07:00" level=info msg="sending command" command="CONFIGURE dtr on" monitor=serial-monitor
+2025-09-05 14:17:18 2025-09-05T21:17:18.343Z daemon INFO time="2025-09-05T14:17:18-07:00" level=info msg="received message" error=false event_type=configure message=OK monitor=serial-monitor
+2025-09-05 14:17:18 2025-09-05T21:17:18.344Z daemon INFO time="2025-09-05T14:17:18-07:00" level=info msg="sending command" command="CONFIGURE parity none" monitor=serial-monitor
+2025-09-05 14:17:18 2025-09-05T21:17:18.344Z daemon INFO time="2025-09-05T14:17:18-07:00" level=info msg="received message" error=false event_type=configure message=OK monitor=serial-monitor
+2025-09-05 14:17:18 2025-09-05T21:17:18.344Z daemon INFO time="2025-09-05T14:17:18-07:00" level=info msg="sending command" command="OPEN 127.0.0.1:42641 /dev/ttyACM0" monitor=serial-monitor
+2025-09-05 14:17:18 2025-09-05T21:17:18.344Z daemon INFO time="2025-09-05T14:17:18-07:00" level=info msg="received message" error=false event_type=open message=OK monitor=serial-monitor
+2025-09-05 14:17:18 2025-09-05T21:17:18.344Z daemon INFO time="2025-09-05T14:17:18-07:00" level=info msg="Port /dev/ttyACM0 successfully opened"
+2025-09-05 14:17:18 2025-09-05T21:17:18.345Z monitor-service INFO Using port configuration for serial:/dev/ttyACM0: {"settingsList":[{"settingId":"rts","value":"on"},{"settingId":"stop_bits","value":"1"},{"settingId":"baudrate","value":"115200"},{"settingId":"bits","value":"8"},{"settingId":"dtr","value":"on"},{"settingId":"parity","value":"none"}]}
+2025-09-05 14:17:18 2025-09-05T21:17:18.345Z monitor-service INFO started monitor to /dev/ttyACM0 using serial
+2025-09-05 14:17:18 2025-09-05T21:17:18.356Z monitor-service INFO No port configuration changes have been detected. No need to send configure commands to the running monitor serial:/dev/ttyACM0.
+2025-09-05 14:17:18 2025-09-05T21:17:18.367Z monitor-service INFO No port configuration changes have been detected. No need to send configure commands to the running monitor serial:/dev/ttyACM0.
+2025-09-05 14:18:08 2025-09-05T21:18:08.573Z daemon INFO time="2025-09-05T14:18:08-07:00" level=info msg="sending command" command=CLOSE monitor=serial-monitor
+2025-09-05 14:18:08 2025-09-05T21:18:08.574Z daemon INFO time="2025-09-05T14:18:08-07:00" level=info msg="received message" error=true event_type=port_closed message="readfrom tcp 127.0.0.1:48146->127.0.0.1:42641: Port has been closed" monitor=serial-monitor
+time="2025-09-05T14:18:08-07:00" level=info msg="monitor port has been closed externally" monitor=serial-monitor
+2025-09-05 14:18:08 2025-09-05T21:18:08.575Z daemon INFO time="2025-09-05T14:18:08-07:00" level=info msg="received message" error=true event_type=close message="port already closed" monitor=serial-monitor
+time="2025-09-05T14:18:08-07:00" level=info msg="sending command" command=QUIT monitor=serial-monitor
+2025-09-05 14:18:08 2025-09-05T21:18:08.575Z discovery-log INFO {"eventType":"remove","port":{"matchingBoardsList":[],"port":{"address":"/dev/ttyACM0","label":"","protocol":"serial","protocolLabel":"","propertiesMap":[],"hardwareId":""}},"error":""}
+2025-09-05 14:18:08 2025-09-05T21:18:08.575Z daemon INFO time="2025-09-05T14:18:08-07:00" level=info msg="received message" error=false event_type=quit message=OK monitor=serial-monitor
+time="2025-09-05T14:18:08-07:00" level=info msg="Killing monitor process" monitor=serial-monitor
+2025-09-05 14:18:08 2025-09-05T21:18:08.576Z discovery-log INFO {"eventType":"remove","port":{"matchingBoardsList":[],"port":{"address":"/dev/ttyACM1","label":"","protocol":"serial","protocolLabel":"","propertiesMap":[],"hardwareId":""}},"error":""}
+2025-09-05 14:18:08 2025-09-05T21:18:08.576Z daemon INFO time="2025-09-05T14:18:08-07:00" level=error msg="stopped decode loop: EOF" monitor=serial-monitor
+time="2025-09-05T14:18:08-07:00" level=info msg="Monitor process killed" monitor=serial-monitor
+2025-09-05 14:18:08 2025-09-05T21:18:08.576Z monitor-service INFO monitor to /dev/ttyACM0 using serial closed by server
+2025-09-05 15:10:25 isTempSketch: false. Input was /home/aaron/Downloads/ESP32-S3-LCD-1.47B-Demo/Arduino/bluetooth_scanner
+2025-09-05 15:10:25 Marking workspace as a closed sketch. Workspace URI: file:///home/aaron/Downloads/ESP32-S3-LCD-1.47B-Demo/Arduino/bluetooth_scanner. Date: 1757110225519.
+2025-09-05 15:10:25 isTempSketch: false. Input was /home/aaron/Downloads/ESP32-S3-LCD-1.47B-Demo/Arduino/bluetooth_scanner
+2025-09-05 15:10:25 Marking workspace as a closed sketch. Workspace URI: file:///home/aaron/Downloads/ESP32-S3-LCD-1.47B-Demo/Arduino/bluetooth_scanner. Date: 1757110225525.
+2025-09-05 15:10:25 Closing channel on service path '/services/electron-window'.
+2025-09-05 15:10:25 Closing channel on service path '/services/ide-updater'.
+2025-09-05 15:10:25 Storing the sketch as a workspace root: </home/aaron/Downloads/ESP32-S3-LCD-1.47B-Demo/Arduino/bluetooth_scanner>.
+2025-09-05 15:10:25 Skipped storing sketch as workspace root. Already visited: </home/aaron/Downloads/ESP32-S3-LCD-1.47B-Demo/Arduino/bluetooth_scanner>.
+2025-09-05 15:10:25 Stored workspaces roots: /home/aaron/Downloads/ESP32-S3-LCD-1.47B-Demo/Arduino/bluetooth_scanner
+2025-09-05 15:10:25 No sketches were scheduled for deletion.
+2025-09-05 15:10:25 2025-09-05T22:10:25.544Z root INFO socked closed
+2025-09-05 15:10:25 2025-09-05T22:10:25.544Z root INFO closing connection for 1
+2025-09-05 15:10:25 2025-09-05T22:10:25.544Z root INFO Closing channel on service path '/localization-server'.
+2025-09-05 15:10:25 2025-09-05T22:10:25.544Z root INFO Closing channel on service path '/os'.
+2025-09-05 15:10:25 2025-09-05T22:10:25.544Z root INFO Closing channel on service path '/services/commands'.
+2025-09-05 15:10:25 2025-09-05T22:10:25.544Z root INFO Closing channel on service path '/services/keyboard'.
+2025-09-05 15:10:25 2025-09-05T22:10:25.544Z root INFO Closing channel on service path '/services/logger'.
+2025-09-05 15:10:25 2025-09-05T22:10:25.544Z root INFO Closing channel on service path '/services/messageService'.
+2025-09-05 15:10:25 2025-09-05T22:10:25.544Z root INFO Closing channel on service path '/services/ChannelCloseService'.
+2025-09-05 15:10:25 2025-09-05T22:10:25.544Z root INFO Closing channel on service path '/services/remote-filesystem'.
+2025-09-05 15:10:25 2025-09-05T22:10:25.544Z root INFO Closing channel on service path '/services/envs'.
+2025-09-05 15:10:25 2025-09-05T22:10:25.544Z root INFO Closing channel on service path '/services/authentication-service'.
+2025-09-05 15:10:25 2025-09-05T22:10:25.544Z root INFO Closing channel on service path '/services/sketches-service'.
+2025-09-05 15:10:25 2025-09-05T22:10:25.544Z root INFO Closing channel on service path '/services/config-service'.
+2025-09-05 15:10:25 2025-09-05T22:10:25.544Z root INFO Closing channel on service path '/services/workspace'.
+2025-09-05 15:10:25 2025-09-05T22:10:25.544Z root INFO Closing channel on service path '/services/notification-service'.
+2025-09-05 15:10:25 2025-09-05T22:10:25.544Z root INFO Closing channel on service path '/services/arduino-daemon'.
+2025-09-05 15:10:25 2025-09-05T22:10:25.544Z root INFO Closing channel on service path '/services/stopwatch'.
+2025-09-05 15:10:25 2025-09-05T22:10:25.544Z root INFO Closing channel on service path '/services/application'.
+2025-09-05 15:10:25 2025-09-05T22:10:25.544Z root INFO Closing channel on service path '/services/i18n'.
+2025-09-05 15:10:25 2025-09-05T22:10:25.544Z root INFO Closing channel on service path '/services/quickInput'.
+2025-09-05 15:10:25 2025-09-05T22:10:25.544Z root INFO Closing channel on service path '/services/debug'.
+2025-09-05 15:10:25 2025-09-05T22:10:25.544Z root INFO Closing channel on service path '/services/shell-terminal'.
+2025-09-05 15:10:25 2025-09-05T22:10:25.544Z root INFO Closing channel on service path '/services/quickPick'.
+2025-09-05 15:10:25 2025-09-05T22:10:25.544Z root INFO Closing channel on service path '/services/task'.
+2025-09-05 15:10:25 2025-09-05T22:10:25.544Z root INFO Closing channel on service path '/services/search'.
+2025-09-05 15:10:25 2025-09-05T22:10:25.544Z root INFO Closing channel on service path '/services/hostedPlugin'.
+2025-09-05 15:10:25 2025-09-05T22:10:25.545Z root INFO Closing channel on service path '/services/plugin-ext'.
+2025-09-05 15:10:25 2025-09-05T22:10:25.545Z root INFO Closing channel on service path '/services/plugin-paths'.
+2025-09-05 15:10:25 2025-09-05T22:10:25.545Z root INFO Closing channel on service path '/services/cli-preferences'.
+2025-09-05 15:10:25 2025-09-05T22:10:25.545Z root INFO Closing channel on service path '/services/boards-service'.
+2025-09-05 15:10:25 2025-09-05T22:10:25.545Z root INFO Closing channel on service path '/services/response-service'.
+2025-09-05 15:10:25 2025-09-05T22:10:25.545Z root INFO Closing channel on service path '/services/file-system-ext'.
+2025-09-05 15:10:25 2025-09-05T22:10:25.545Z root INFO Closing channel on service path '/services/core-service'.
+2025-09-05 15:10:25 2025-09-05T22:10:25.545Z root INFO Closing channel on service path '/services/example-service'.
+2025-09-05 15:10:25 2025-09-05T22:10:25.545Z root INFO Closing channel on service path '/services/library-service'.
+2025-09-05 15:10:25 2025-09-05T22:10:25.545Z root INFO Closing channel on service path '/services/executable-service'.
+2025-09-05 15:10:25 2025-09-05T22:10:25.545Z root INFO Closing channel on service path '/services/arduino-firmware-uploader'.
+2025-09-05 15:10:25 2025-09-05T22:10:25.545Z root INFO Closing channel on service path '/services/formatter'.
+2025-09-05 15:10:25 2025-09-05T22:10:25.545Z root INFO Closing channel on service path '/services/search-in-workspace'.
+2025-09-05 15:10:25 2025-09-05T22:10:25.545Z root INFO Closing channel on service path '/services/request-service'.
+2025-09-05 15:10:25 2025-09-05T22:10:25.545Z root INFO Closing channel on service path '/services/keyStore'.
+2025-09-05 15:10:25 2025-09-05T22:10:25.545Z root INFO Closing channel on service path '/services/languagePackService'.
+2025-09-05 15:10:25 2025-09-05T22:10:25.545Z root INFO Closing channel on service path '/services/monitor-manager-proxy'.

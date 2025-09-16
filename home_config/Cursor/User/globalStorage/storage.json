@@ -7,13 +7,20 @@
         "workspaces": [],
         "folders": [
             {
-                "folderUri": "file:///home/aaron/projects/lidar2"
+                "folderUri": "file:///home/aaron/projects/esp32_ble"
             },
             {
-                "folderUri": "file:///home/aaron/projects/esp32_ble"
+                "folderUri": "file:///home/aaron/projects/lidar4"
+            },
+            {
+                "folderUri": "file:///home/aaron/projects/read_memory"
             }
         ],
-        "emptyWindows": []
+        "emptyWindows": [
+            {
+                "backupFolder": "1757605687738"
+            }
+        ]
     },
     "windowControlHeight": 35,
     "profileAssociations": {
@@ -24,20 +31,24 @@
             "file:///home/aaron/projects/radio_thing": "__default__profile__",
             "file:///home/aaron/projects/lidar": "__default__profile__",
             "file:///home/aaron/projects/lidar2": "__default__profile__",
-            "file:///home/aaron/projects/esp32_ble": "__default__profile__"
+            "file:///home/aaron/projects/esp32_ble": "__default__profile__",
+            "file:///home/aaron/projects/lidar4": "__default__profile__",
+            "file:///home/aaron/projects/read_memory": "__default__profile__"
         },
-        "emptyWindows": {}
+        "emptyWindows": {
+            "1757605687738": "__default__profile__"
+        }
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/aaron/projects/esp32_ble",
-            "backupPath": "/home/aaron/.config/Cursor/Backups/1b77b36e1f2ee9e685b7e39bd2b4aebd",
+            "folder": "file:///home/aaron/projects/read_memory",
+            "backupPath": "/home/aaron/.config/Cursor/Backups/fb7fe6bc88128d2b56ce27f2566f056f",
             "uiState": {
                 "mode": 1,
-                "x": 1923,
+                "x": 1603,
                 "y": 3,
-                "width": 1594,
-                "height": 894
+                "width": 954,
+                "height": 1074
             }
         },
         "openedWindows": []
@@ -66,7 +77,7 @@
             "titleBarHeight": 35,
             "activityBarWidth": 0,
             "sideBarWidth": 170,
-            "auxiliarySideBarWidth": 170,
+            "auxiliarySideBarWidth": 452,
             "statusBarHeight": 22,
             "windowBorder": false
         }
@@ -74,7 +85,7 @@
     "windowSplashWorkspaceOverride": {
         "layoutInfo": {
             "auxiliarySideBarWidth": [
-                170,
+                452,
                 [
                     "c28e107ea1613416d0485de256b8c54e",
                     "d7d7c982169a0f4126c26b3d8a0b89c9",
@@ -82,7 +93,9 @@
                     "123ae52878b5d78ba4519d1f1fa580e8",
                     "5ea89e73263c370febe9a15e97e23ad1",
                     "ca4a629534aea1ee6e74fb586e5d08c4",
-                    "ed7209d065f4b6f1078572890c60f847"
+                    "ed7209d065f4b6f1078572890c60f847",
+                    "529aaf117cc5615d077e07d4aff8e84a",
+                    "3e9e8afca690b69f4b8d014304605997"
                 ]
             ]
         }

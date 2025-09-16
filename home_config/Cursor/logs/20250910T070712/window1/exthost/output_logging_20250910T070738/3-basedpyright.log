@@ -1,0 +1,26 @@
+[Info  - 7:07:53 AM] basedpyright language server 1.31.3 starting
+[Info  - 7:07:53 AM] Server root directory: file:///home/aaron/.cursor/extensions/anysphere.cursorpyright-1.0.9/dist
+[Info  - 7:07:53 AM] Starting service instance "lidar4"
+Received pythonPath from Python extension: /etc/profiles/per-user/aaron/bin/python
+[Info  - 7:07:53 AM] Setting pythonPath for service "lidar4": "/etc/profiles/per-user/aaron/bin/python"
+[Info  - 7:07:53 AM] No include entries specified; assuming /home/aaron/projects/lidar4
+[Info  - 7:07:53 AM] Auto-excluding **/node_modules
+[Info  - 7:07:53 AM] Auto-excluding **/__pycache__
+[Info  - 7:07:53 AM] Auto-excluding **/.*
+[Info  - 7:07:53 AM] Assuming Python version 3.13.5.final.0
+[Info  - 7:07:54 AM] Found 1 source file
+[Info  - 7:07:54 AM] BG: Background analysis(1) root directory: file:///home/aaron/.cursor/extensions/anysphere.cursorpyright-1.0.9/dist
+[Info  - 7:07:54 AM] BG: Background analysis(1) started
+Received pythonPath from Python extension: /home/aaron/projects/lidar4/venv/bin/python
+[Info  - 7:08:24 AM] Setting pythonPath for service "lidar4": "/home/aaron/projects/lidar4/venv/bin/python"
+[Info  - 7:08:24 AM] No include entries specified; assuming /home/aaron/projects/lidar4
+[Info  - 7:08:24 AM] Auto-excluding **/node_modules
+[Info  - 7:08:24 AM] Auto-excluding **/__pycache__
+[Info  - 7:08:24 AM] Auto-excluding **/.*
+[Info  - 7:08:24 AM] Assuming Python version 3.13.5.final.0
+[Info  - 7:08:24 AM] Auto-excluding /home/aaron/projects/lidar4/venv
+[Info  - 7:08:24 AM] Found 1 source file
+[Info  - 7:13:57 AM] Auto-excluding /home/aaron/projects/lidar4/venv
+[Info  - 7:13:57 AM] Found 2 source files
+[Info  - 7:17:57 AM] Auto-excluding /home/aaron/projects/lidar4/venv
+[Info  - 7:17:57 AM] Found 3 source files

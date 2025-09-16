@@ -1,0 +1,24 @@
+{
+  "mcpServers": {
+    "hexstrike-ai": {
+      "command": "python3",
+      "args":
+["/home/aaron/git/hexstrike-ai/hexstrike_mcp.py",
+"--server", "http://127.0.0.1:8881"],
+      "description": "HexStrike AI v6.0 - Advanced Cybersecurity Automation Platform"
+    }
+  }
+}
+{
+  "mcpServers": {
+    "hexstrike-ai": {
+      "command": "python3",
+      "args": [
+
+"/home/aaron/git/hexstrike-ai/hexstrike_mcp.py",
+        "--server", "http://127.0.0.1:8881"
+      ],
+      "description": "HexStrike AI v6.0 - Advanced Cybersecurity Automation Platform"
+    }
+  }
+}

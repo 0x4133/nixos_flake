@@ -1,0 +1,113 @@
+2025-09-11 08:48:11.947 [info] user-hexstrike-ai: Handling CreateClient action
+2025-09-11 08:48:11.947 [warning] No workspace folders found, using current path for . expansion
+2025-09-11 08:48:11.947 [info] user-hexstrike-ai: Starting new stdio process with command: /home/aaron/git/hexstrike-ai/hexstrike_env/bin/python /home/aaron/git/hexstrike-ai/hexstrike_mcp.py --server http://127.0.0.1:8881
+2025-09-11 08:48:12.807 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-11 08:48:12 [INFO] [38;5;46m✅ 🚀 Starting HexStrike AI MCP Client v6.0[0m
+[🔥 HexStrike MCP] 2025-09-11 08:48:12 [INFO] [38;5;46m✅ 🔗 Connecting to: http://127.0.0.1:8881[0m
+[🔥 HexStrike MCP] 2025-09-11 08:48:12 [INFO] [38;5;46m✅ 🔗 Attempting to connect to HexStrike AI API at http://127.0.0.1:8881 (attempt 1/3)[0m
+[🔥 HexStrike MCP] 2025-09-11 08:48:12 [WARNING] [38;5;208m⚠️ 🔌 Connection refused to http://127.0.0.1:8881. Make sure the HexStrike AI server is running.[0m
+
+2025-09-11 08:48:14.694 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-11 08:48:14 [INFO] [38;5;46m✅ 🔗 Attempting to connect to HexStrike AI API at http://127.0.0.1:8881 (attempt 2/3)[0m
+
+2025-09-11 08:48:14.696 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-11 08:48:14 [WARNING] [38;5;208m⚠️ 🔌 Connection refused to http://127.0.0.1:8881. Make sure the HexStrike AI server is running.[0m
+
+2025-09-11 08:48:16.697 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-11 08:48:16 [INFO] [38;5;46m✅ 🔗 Attempting to connect to HexStrike AI API at http://127.0.0.1:8881 (attempt 3/3)[0m
+
+2025-09-11 08:48:16.698 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-11 08:48:16 [WARNING] [38;5;208m⚠️ 🔌 Connection refused to http://127.0.0.1:8881. Make sure the HexStrike AI server is running.[0m
+
+2025-09-11 08:48:18.698 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-11 08:48:18 [ERROR] [38;5;196m❌ Failed to establish connection to HexStrike AI API Server at http://127.0.0.1:8881 after 3 attempts[0m
+
+2025-09-11 08:48:18.700 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-11 08:48:18 [ERROR] [38;5;196m❌ 🚫 Request failed: HTTPConnectionPool(host='127.0.0.1', port=8881): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fdda773bce0>: Failed to establish a new connection: [Errno 111] Connection refused'))[0m
+[🔥 HexStrike MCP] 2025-09-11 08:48:18 [WARNING] [38;5;208m⚠️ ⚠️  Unable to connect to HexStrike AI API server at http://127.0.0.1:8881: Request failed: HTTPConnectionPool(host='127.0.0.1', port=8881): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fdda773bce0>: Failed to establish a new connection: [Errno 111] Connection refused'))[0m
+[🔥 HexStrike MCP] 2025-09-11 08:48:18 [WARNING] [38;5;208m⚠️ 🚀 MCP server will start, but tool execution may fail[0m
+
+2025-09-11 08:48:18.972 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-11 08:48:18 [WARNING] [38;5;208m⚠️ Tool already exists: httpx_probe[0m
+
+2025-09-11 08:48:19.104 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-11 08:48:19 [INFO] [38;5;46m✅ 🚀 Starting HexStrike AI MCP server[0m
+[🔥 HexStrike MCP] 2025-09-11 08:48:19 [INFO] [38;5;46m✅ 🤖 Ready to serve AI agents with enhanced cybersecurity capabilities[0m
+
+2025-09-11 08:48:19.123 [info] user-hexstrike-ai: Successfully connected to stdio server
+2025-09-11 08:48:19.123 [info] user-hexstrike-ai: Storing stdio client
+2025-09-11 08:48:19.125 [info] user-hexstrike-ai: Handling ListOfferings action
+2025-09-11 08:48:19.126 [info] user-hexstrike-ai: Listing offerings
+2025-09-11 08:48:19.126 [info] user-hexstrike-ai: Connected to stdio server, fetching offerings
+2025-09-11 08:48:19.127 [info] user-hexstrike-ai: Handling ListOfferings action
+2025-09-11 08:48:19.127 [info] user-hexstrike-ai: Listing offerings
+2025-09-11 08:48:19.127 [info] user-hexstrike-ai: Connected to stdio server, fetching offerings
+2025-09-11 08:48:19.127 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-11 08:48:19 [INFO] [38;5;46m✅ Processing request of type ListToolsRequest[0m
+
+2025-09-11 08:48:19.127 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-11 08:48:19 [INFO] [38;5;46m✅ Processing request of type ListToolsRequest[0m
+
+2025-09-11 08:48:19.297 [info] listOfferings: Found 150 tools
+2025-09-11 08:48:19.297 [info] user-hexstrike-ai: Found 150 tools
+2025-09-11 08:48:19.307 [info] listOfferings: Found 150 tools
+2025-09-11 08:48:19.307 [info] user-hexstrike-ai: Found 150 tools
+2025-09-11 08:48:19.308 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-11 08:48:19 [INFO] [38;5;46m✅ Processing request of type ListToolsRequest[0m
+
+2025-09-11 08:48:19.308 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-11 08:48:19 [INFO] [38;5;46m✅ Processing request of type ListToolsRequest[0m
+
+2025-09-11 08:49:12.246 [info] user-hexstrike-ai: Handling CreateClient action
+2025-09-11 08:49:12.246 [info] user-hexstrike-ai: Starting new stdio process with command: /home/aaron/git/hexstrike-ai/hexstrike_env/bin/python /home/aaron/git/hexstrike-ai/hexstrike_mcp.py --server http://127.0.0.1:8881
+2025-09-11 08:49:13.074 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-11 08:49:12 [INFO] [38;5;46m✅ 🚀 Starting HexStrike AI MCP Client v6.0[0m
+[🔥 HexStrike MCP] 2025-09-11 08:49:12 [INFO] [38;5;46m✅ 🔗 Connecting to: http://127.0.0.1:8881[0m
+[🔥 HexStrike MCP] 2025-09-11 08:49:12 [INFO] [38;5;46m✅ 🔗 Attempting to connect to HexStrike AI API at http://127.0.0.1:8881 (attempt 1/3)[0m
+[🔥 HexStrike MCP] 2025-09-11 08:49:12 [WARNING] [38;5;208m⚠️ 🔌 Connection refused to http://127.0.0.1:8881. Make sure the HexStrike AI server is running.[0m
+
+2025-09-11 08:49:14.949 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-11 08:49:14 [INFO] [38;5;46m✅ 🔗 Attempting to connect to HexStrike AI API at http://127.0.0.1:8881 (attempt 2/3)[0m
+
+2025-09-11 08:49:14.951 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-11 08:49:14 [WARNING] [38;5;208m⚠️ 🔌 Connection refused to http://127.0.0.1:8881. Make sure the HexStrike AI server is running.[0m
+
+2025-09-11 08:49:16.952 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-11 08:49:16 [INFO] [38;5;46m✅ 🔗 Attempting to connect to HexStrike AI API at http://127.0.0.1:8881 (attempt 3/3)[0m
+
+2025-09-11 08:49:16.953 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-11 08:49:16 [WARNING] [38;5;208m⚠️ 🔌 Connection refused to http://127.0.0.1:8881. Make sure the HexStrike AI server is running.[0m
+
+2025-09-11 08:49:18.953 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-11 08:49:18 [ERROR] [38;5;196m❌ Failed to establish connection to HexStrike AI API Server at http://127.0.0.1:8881 after 3 attempts[0m
+
+2025-09-11 08:49:18.955 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-11 08:49:18 [ERROR] [38;5;196m❌ 🚫 Request failed: HTTPConnectionPool(host='127.0.0.1', port=8881): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fda55247ce0>: Failed to establish a new connection: [Errno 111] Connection refused'))[0m
+[🔥 HexStrike MCP] 2025-09-11 08:49:18 [WARNING] [38;5;208m⚠️ ⚠️  Unable to connect to HexStrike AI API server at http://127.0.0.1:8881: Request failed: HTTPConnectionPool(host='127.0.0.1', port=8881): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fda55247ce0>: Failed to establish a new connection: [Errno 111] Connection refused'))[0m
+
+2025-09-11 08:49:18.955 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-11 08:49:18 [WARNING] [38;5;208m⚠️ 🚀 MCP server will start, but tool execution may fail[0m
+
+2025-09-11 08:49:19.242 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-11 08:49:19 [WARNING] [38;5;208m⚠️ Tool already exists: httpx_probe[0m
+
+2025-09-11 08:49:19.378 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-11 08:49:19 [INFO] [38;5;46m✅ 🚀 Starting HexStrike AI MCP server[0m
+[🔥 HexStrike MCP] 2025-09-11 08:49:19 [INFO] [38;5;46m✅ 🤖 Ready to serve AI agents with enhanced cybersecurity capabilities[0m
+
+2025-09-11 08:49:19.395 [info] user-hexstrike-ai: Successfully connected to stdio server
+2025-09-11 08:49:19.395 [info] user-hexstrike-ai: Storing stdio client
+2025-09-11 08:49:19.397 [info] user-hexstrike-ai: Handling ListOfferings action
+2025-09-11 08:49:19.397 [info] user-hexstrike-ai: Listing offerings
+2025-09-11 08:49:19.398 [info] user-hexstrike-ai: Connected to stdio server, fetching offerings
+2025-09-11 08:49:19.398 [info] user-hexstrike-ai: Handling ListOfferings action
+2025-09-11 08:49:19.398 [info] user-hexstrike-ai: Listing offerings
+2025-09-11 08:49:19.399 [info] user-hexstrike-ai: Connected to stdio server, fetching offerings
+2025-09-11 08:49:19.399 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-11 08:49:19 [INFO] [38;5;46m✅ Processing request of type ListToolsRequest[0m
+
+2025-09-11 08:49:19.399 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-11 08:49:19 [INFO] [38;5;46m✅ Processing request of type ListToolsRequest[0m
+
+2025-09-11 08:49:19.411 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-11 08:49:19 [INFO] [38;5;46m✅ Processing request of type ListToolsRequest[0m
+
+2025-09-11 08:49:19.411 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-11 08:49:19 [INFO] [38;5;46m✅ Processing request of type ListToolsRequest[0m
+
+2025-09-11 08:49:19.464 [info] listOfferings: Found 150 tools
+2025-09-11 08:49:19.464 [info] user-hexstrike-ai: Found 150 tools
+2025-09-11 08:49:19.470 [info] listOfferings: Found 150 tools
+2025-09-11 08:49:19.470 [info] user-hexstrike-ai: Found 150 tools
+2025-09-11 08:53:18.200 [info] user-hexstrike-ai: Handling CallTool action for tool 'modify_file'
+2025-09-11 08:53:18.200 [info] user-hexstrike-ai: Calling tool 'modify_file' with toolCallId: tool_bab07290-fba1-4ee6-bab9-470a4f2fbf9
+2025-09-11 08:53:18.204 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-11 08:53:18 [INFO] [38;5;46m✅ Processing request of type CallToolRequest[0m
+
+2025-09-11 08:53:18.204 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-11 08:53:18 [INFO] [38;5;46m✅ Processing request of type CallToolRequest[0m
+
+2025-09-11 08:53:18.204 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-11 08:53:18 [INFO] [38;5;46m✅ ✏️  Modifying file: file_carver.go[0m
+
+2025-09-11 08:53:18.204 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-11 08:53:18 [INFO] [38;5;46m✅ ✏️  Modifying file: file_carver.go[0m
+
+2025-09-11 08:53:18.206 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-11 08:53:18 [ERROR] [38;5;196m❌ 🚫 Request failed: HTTPConnectionPool(host='127.0.0.1', port=8881): Max retries exceeded with url: /api/files/modify (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fda54c1c3e0>: Failed to establish a new connection: [Errno 111] Connection refused'))[0m
+[🔥 HexStrike MCP] 2025-09-11 08:53:18 [ERROR] [38;5;196m❌ ❌ Failed to modify file: file_carver.go[0m
+
+2025-09-11 08:53:18.206 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-11 08:53:18 [ERROR] [38;5;196m❌ 🚫 Request failed: HTTPConnectionPool(host='127.0.0.1', port=8881): Max retries exceeded with url: /api/files/modify (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fda54c1c3e0>: Failed to establish a new connection: [Errno 111] Connection refused'))[0m
+[🔥 HexStrike MCP] 2025-09-11 08:53:18 [ERROR] [38;5;196m❌ ❌ Failed to modify file: file_carver.go[0m
+
+2025-09-11 08:53:18.212 [info] user-hexstrike-ai: Successfully called tool 'modify_file'
+2025-09-11 08:56:03.569 [info] user-hexstrike-ai: Handling DeleteClient action
+2025-09-11 08:56:03.569 [info] user-hexstrike-ai: Cleaning up

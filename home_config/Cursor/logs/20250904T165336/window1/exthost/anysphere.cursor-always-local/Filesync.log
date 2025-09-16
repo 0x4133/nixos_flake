@@ -1,0 +1,157 @@
+2025-09-04 16:53:42.282 [error] Failed to check if file sync is enabled for user {}
+2025-09-04 16:53:42.282 [error] Failed to fetch fsConfig File sync is disabled
+2025-09-04 16:53:42.282 [error] Failed to fetch fsConfig File sync is disabled
+2025-09-04 16:53:42.518 [info] [registerEventListeners] Registering event listeners
+2025-09-04 16:53:43.943 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-09-04 16:53:44.187 [info] Fetched fsConfig in 242.93627199999992ms
+2025-09-04 16:53:44.187 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-09-04 16:53:44.751 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-09-04 16:53:45.274 [info] Fetched fsConfig in 522.7516830000004ms
+2025-09-04 16:53:45.275 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-09-04 16:53:45.277 [info] File sync enabled status: true
+2025-09-04 16:53:45.277 [info] Starting sync of visible tabs
+2025-09-04 16:53:45.329 [info] Uploaded file wroom/master/master.ino modelVersion=1 in 47.827666999999565ms
+2025-09-04 16:53:45.330 [info] Synced all visible tabs in 55.091715999999906ms
+2025-09-04 16:53:45.539 [info] Starting sync of visible tabs
+2025-09-04 16:53:45.580 [info] Uploaded file wroom/master/master.ino modelVersion=1 in 39.96391700000004ms
+2025-09-04 16:53:45.581 [info] Synced all visible tabs in 42.74613800000043ms
+2025-09-04 16:53:45.783 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-09-04 16:53:46.024 [info] Fetched fsConfig in 240.3165399999998ms
+2025-09-04 16:53:46.024 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-09-04 16:54:12.523 [info] Handled visible editors change in 1.3676370000030147ms
+2025-09-04 16:54:17.596 [info] Uploaded file /home/aaron/.cursor/mcp.json modelVersion=1 in 83.966247999997ms
+2025-09-04 16:54:17.597 [info] Handled visible editors change in 343.86525800000527ms
+2025-09-04 16:54:21.533 [info] Synced file /home/aaron/.cursor/mcp.json modelVersion=3 in 41.08948300000338ms
+2025-09-04 16:54:24.726 [info] Synced file /home/aaron/.cursor/mcp.json modelVersion=5 in 39.66169799999625ms
+2025-09-04 16:54:35.526 [info] Handled visible editors change in 1.0381640000050538ms
+2025-09-04 16:54:41.544 [info] Handled visible editors change in 1.661722999997437ms
+2025-09-04 16:54:42.458 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-09-04 16:54:42.682 [info] Fetched fsConfig in 222.91340100000525ms
+2025-09-04 16:54:42.682 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-09-04 16:54:42.682 [info] File sync enabled status: true
+2025-09-04 16:54:42.682 [info] Starting sync of visible tabs
+2025-09-04 16:54:42.682 [info] Synced all visible tabs in 0.24552499999845168ms
+2025-09-04 16:54:48.023 [info] Synced file /home/aaron/.cursor/mcp.json modelVersion=6 in 39.99616500000411ms
+2025-09-04 16:54:48.421 [info] Synced file /home/aaron/.cursor/mcp.json modelVersion=7 in 35.39076500000374ms
+2025-09-04 16:54:48.861 [info] Synced file /home/aaron/.cursor/mcp.json modelVersion=8 in 42.061939999999595ms
+2025-09-04 16:54:49.695 [info] Synced file /home/aaron/.cursor/mcp.json modelVersion=9 in 43.1644629999937ms
+2025-09-04 16:54:53.093 [info] Synced file /home/aaron/.cursor/mcp.json modelVersion=11 in 40.6723309999943ms
+2025-09-04 16:55:03.441 [info] Synced file /home/aaron/.cursor/mcp.json modelVersion=12 in 36.364031000004616ms
+2025-09-04 16:55:07.425 [info] Handled visible editors change in 1.1114600000000792ms
+2025-09-04 16:55:11.043 [info] Handled visible editors change in 1.4402310000004945ms
+2025-09-04 16:55:16.506 [info] Synced file /home/aaron/.cursor/mcp.json modelVersion=13 in 40.145934000000125ms
+2025-09-04 16:55:16.874 [info] Synced file /home/aaron/.cursor/mcp.json modelVersion=14 in 42.92514800000936ms
+2025-09-04 16:55:18.896 [info] Handled visible editors change in 1.0180709999985993ms
+2025-09-04 16:55:24.420 [info] Handled visible editors change in 1.5556980000110343ms
+2025-09-04 16:55:34.103 [info] Synced file /home/aaron/.cursor/mcp.json modelVersion=22 in 38.65217099999427ms
+2025-09-04 16:55:34.517 [info] Synced file /home/aaron/.cursor/mcp.json modelVersion=23 in 37.0078680000006ms
+2025-09-04 16:55:36.447 [info] Synced file /home/aaron/.cursor/mcp.json modelVersion=24 in 36.989374000011594ms
+2025-09-04 16:55:36.812 [info] Synced file /home/aaron/.cursor/mcp.json modelVersion=25 in 39.01999400000204ms
+2025-09-04 16:55:37.284 [info] Synced file /home/aaron/.cursor/mcp.json modelVersion=26 in 39.427098000000115ms
+2025-09-04 16:55:37.837 [info] Synced file /home/aaron/.cursor/mcp.json modelVersion=27 in 40.03199999999197ms
+2025-09-04 16:55:38.125 [info] Synced file /home/aaron/.cursor/mcp.json modelVersion=28 in 40.75298099999782ms
+2025-09-04 16:55:38.433 [info] Synced file /home/aaron/.cursor/mcp.json modelVersion=29 in 42.07039700000314ms
+2025-09-04 16:55:39.324 [info] Synced file /home/aaron/.cursor/mcp.json modelVersion=30 in 40.21896499999275ms
+2025-09-04 16:55:39.913 [info] Synced file /home/aaron/.cursor/mcp.json modelVersion=32 in 43.34646899999643ms
+2025-09-04 16:55:42.644 [info] Handled visible editors change in 1.026981999995769ms
+2025-09-04 16:55:54.731 [info] Handled visible editors change in 1.536480999988271ms
+2025-09-04 16:55:55.712 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-09-04 16:55:55.938 [info] Fetched fsConfig in 225.68752499998664ms
+2025-09-04 16:55:55.938 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-09-04 16:55:55.938 [info] File sync enabled status: true
+2025-09-04 16:55:55.938 [info] Starting sync of visible tabs
+2025-09-04 16:55:55.938 [info] Synced all visible tabs in 0.22594999999273568ms
+2025-09-04 16:56:58.608 [info] Synced file /home/aaron/.cursor/mcp.json modelVersion=34 in 39.535392999998294ms
+2025-09-04 16:56:59.193 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-09-04 16:56:59.418 [info] Fetched fsConfig in 225.0321910000057ms
+2025-09-04 16:56:59.418 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-09-04 16:56:59.418 [info] File sync enabled status: true
+2025-09-04 16:56:59.418 [info] Starting sync of visible tabs
+2025-09-04 16:56:59.418 [info] Synced all visible tabs in 0.18583900001249276ms
+2025-09-04 16:57:02.157 [info] Synced file /home/aaron/.cursor/mcp.json modelVersion=36 in 37.74141899999813ms
+2025-09-04 16:57:05.567 [info] Synced file /home/aaron/.cursor/mcp.json modelVersion=37 in 36.530498999985866ms
+2025-09-04 16:57:17.581 [info] Handled visible editors change in 1.0095909999799915ms
+2025-09-04 16:57:21.947 [info] Handled visible editors change in 1.5226069999916945ms
+2025-09-04 16:57:28.960 [info] Handled visible editors change in 1.000132000015583ms
+2025-09-04 16:57:34.473 [info] Handled visible editors change in 1.7970809999969788ms
+2025-09-04 16:57:56.730 [info] Synced file /home/aaron/.cursor/mcp.json modelVersion=38 in 36.979893000010634ms
+2025-09-04 16:57:57.068 [info] Synced file /home/aaron/.cursor/mcp.json modelVersion=39 in 36.26084999999148ms
+2025-09-04 16:57:57.349 [info] Synced file /home/aaron/.cursor/mcp.json modelVersion=40 in 38.84848200000124ms
+2025-09-04 16:57:57.655 [info] Synced file /home/aaron/.cursor/mcp.json modelVersion=41 in 37.968468000006396ms
+2025-09-04 16:57:58.071 [info] Synced file /home/aaron/.cursor/mcp.json modelVersion=42 in 39.581681000010576ms
+2025-09-04 16:58:44.052 [info] Handled visible editors change in 0.8952589999535121ms
+2025-09-04 16:58:46.549 [info] Handled visible editors change in 1.4025060000130907ms
+2025-09-04 16:58:47.461 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-09-04 16:58:47.702 [info] Fetched fsConfig in 240.88226199999917ms
+2025-09-04 16:58:47.702 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-09-04 16:58:47.702 [info] File sync enabled status: true
+2025-09-04 16:58:47.702 [info] Starting sync of visible tabs
+2025-09-04 16:58:47.702 [info] Synced all visible tabs in 0.18669099995167926ms
+2025-09-04 16:58:48.232 [info] Handled visible editors change in 0.9562959999893792ms
+2025-09-04 16:58:51.940 [info] Handled visible editors change in 1.536956999974791ms
+2025-09-04 16:58:53.237 [info] Handled visible editors change in 0.9803759999922477ms
+2025-09-04 16:59:24.087 [info] Handled visible editors change in 1.3998529999516904ms
+2025-09-04 17:01:19.105 [info] Synced file /home/aaron/.cursor/mcp.json modelVersion=43 in 38.633205999969505ms
+2025-09-04 17:01:19.384 [info] Synced file /home/aaron/.cursor/mcp.json modelVersion=45 in 38.235023999994155ms
+2025-09-04 17:01:19.628 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-09-04 17:01:19.870 [info] Fetched fsConfig in 241.44379699998535ms
+2025-09-04 17:01:19.870 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-09-04 17:01:19.870 [info] File sync enabled status: true
+2025-09-04 17:01:19.870 [info] Starting sync of visible tabs
+2025-09-04 17:01:19.870 [info] Synced all visible tabs in 0.16830499999923632ms
+2025-09-04 17:01:25.099 [info] Synced file /home/aaron/.cursor/mcp.json modelVersion=46 in 42.15157200000249ms
+2025-09-04 17:01:53.978 [info] Synced file /home/aaron/.cursor/mcp.json modelVersion=47 in 42.91514300002018ms
+2025-09-04 17:01:56.924 [info] Handled visible editors change in 0.9258789999876171ms
+2025-09-04 17:01:59.162 [info] Handled visible editors change in 1.5650960000348277ms
+2025-09-04 17:02:10.732 [info] Handled visible editors change in 0.9654919999884441ms
+2025-09-04 17:02:14.327 [info] Handled visible editors change in 1.3838160000159405ms
+2025-09-04 17:02:23.680 [info] Handled visible editors change in 1.0128960000583902ms
+2025-09-04 17:03:56.736 [info] Handled visible editors change in 1.3475170000456274ms
+2025-09-04 17:03:59.617 [info] Synced file /home/aaron/.cursor/mcp.json modelVersion=48 in 410.0391420000233ms
+2025-09-04 17:04:01.580 [info] Handled visible editors change in 1.0436750000808388ms
+2025-09-04 17:04:53.698 [info] Handled visible editors change in 1.3565089999465272ms
+2025-09-04 17:04:54.614 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-09-04 17:04:54.853 [info] Fetched fsConfig in 238.59219200001098ms
+2025-09-04 17:04:54.853 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-09-04 17:04:54.854 [info] File sync enabled status: true
+2025-09-04 17:04:54.854 [info] Starting sync of visible tabs
+2025-09-04 17:04:54.854 [info] Synced all visible tabs in 0.23020600003656ms
+2025-09-04 17:05:01.401 [info] Handled visible editors change in 0.9692719999002293ms
+2025-09-04 17:05:40.126 [info] Handled visible editors change in 1.3514839999843389ms
+2025-09-04 17:06:02.348 [info] Synced file /home/aaron/.cursor/mcp.json modelVersion=49 in 36.53595599997789ms
+2025-09-04 17:06:02.961 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-09-04 17:06:03.202 [info] Fetched fsConfig in 240.30490099999588ms
+2025-09-04 17:06:03.202 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-09-04 17:06:03.202 [info] File sync enabled status: true
+2025-09-04 17:06:03.202 [info] Starting sync of visible tabs
+2025-09-04 17:06:03.202 [info] Synced all visible tabs in 0.21721600007731467ms
+2025-09-04 17:06:04.653 [info] Synced file /home/aaron/.cursor/mcp.json modelVersion=50 in 34.32016000000294ms
+2025-09-04 17:06:05.791 [info] Synced file /home/aaron/.cursor/mcp.json modelVersion=53 in 39.40957499993965ms
+2025-09-04 17:06:11.275 [info] Synced file /home/aaron/.cursor/mcp.json modelVersion=54 in 40.58204599993769ms
+2025-09-04 17:06:11.959 [info] Synced file /home/aaron/.cursor/mcp.json modelVersion=57 in 94.1322340000188ms
+2025-09-04 17:06:12.248 [info] Synced file /home/aaron/.cursor/mcp.json modelVersion=58 in 38.65101400006097ms
+2025-09-04 17:06:14.358 [info] Synced file /home/aaron/.cursor/mcp.json modelVersion=59 in 37.67589900002349ms
+2025-09-04 17:06:18.717 [info] Synced file /home/aaron/.cursor/mcp.json modelVersion=60 in 33.96311200002674ms
+2025-09-04 17:06:19.253 [info] Synced file /home/aaron/.cursor/mcp.json modelVersion=61 in 41.98209700000007ms
+2025-09-04 17:06:19.972 [info] Synced file /home/aaron/.cursor/mcp.json modelVersion=62 in 39.496095000067726ms
+2025-09-04 17:06:23.421 [info] Synced file /home/aaron/.cursor/mcp.json modelVersion=63 in 37.64243499992881ms
+2025-09-04 17:06:24.250 [info] Synced file /home/aaron/.cursor/mcp.json modelVersion=64 in 48.24309500004165ms
+2025-09-04 17:06:25.646 [info] Synced file /home/aaron/.cursor/mcp.json modelVersion=67 in 39.135140000027604ms
+2025-09-04 17:06:26.949 [info] Synced file /home/aaron/.cursor/mcp.json modelVersion=68 in 35.63495400000829ms
+2025-09-04 17:06:29.315 [info] Handled visible editors change in 0.9125419999472797ms
+2025-09-04 17:06:42.235 [info] Handled visible editors change in 1.3952740000095218ms
+2025-09-04 17:06:45.972 [info] Handled visible editors change in 0.9319670000113547ms
+2025-09-04 17:06:54.430 [info] Handled visible editors change in 1.343451999942772ms
+2025-09-04 17:07:04.392 [info] Synced file /home/aaron/.cursor/mcp.json modelVersion=70 in 45.76114299998153ms
+2025-09-04 17:07:04.953 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-09-04 17:07:05.178 [info] Fetched fsConfig in 225.59654699999373ms
+2025-09-04 17:07:05.178 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-09-04 17:07:05.179 [info] File sync enabled status: true
+2025-09-04 17:07:05.179 [info] Starting sync of visible tabs
+2025-09-04 17:07:05.217 [info] Uploaded file /home/aaron/.cursor/mcp.json modelVersion=73 in 36.86095400003251ms
+2025-09-04 17:07:05.217 [info] Synced all visible tabs in 38.71024499996565ms
+2025-09-04 17:07:05.331 [info] Synced file /home/aaron/.cursor/mcp.json modelVersion=73 in 44.00323299993761ms
+2025-09-04 17:07:10.248 [info] Synced file /home/aaron/.cursor/mcp.json modelVersion=74 in 33.272123000002466ms
+2025-09-04 17:07:11.231 [info] Synced file /home/aaron/.cursor/mcp.json modelVersion=75 in 34.965822999947704ms
+2025-09-04 17:07:12.486 [info] Synced file /home/aaron/.cursor/mcp.json modelVersion=76 in 34.542457000003196ms
+2025-09-04 17:07:14.977 [info] Handled visible editors change in 1.0319180000806227ms

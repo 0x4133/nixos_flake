@@ -1,0 +1,10 @@
+2025-09-11 08:49:15.731 [info] Try to start language server - activation (enabled: true)
+2025-09-11 08:49:15.994 [info] Running language server gopls(v0.20.0/go1.24.4)
+2025-09-11 08:57:22.152 [info] Running checks...
+2025-09-11 08:57:22.152 [info] Starting linting the current package at /home/aaron/projects/read_memory
+2025-09-11 08:57:22.365 [info] /home/aaron/projects/read_memory>Finished running tool: /home/aaron/go/bin/staticcheck
+2025-09-11 08:57:22.366 [info] 
+2025-09-11 08:59:04.991 [info] Running checks...
+2025-09-11 08:59:04.991 [info] Starting linting the current package at /home/aaron/projects/read_memory
+2025-09-11 08:59:05.086 [info] /home/aaron/projects/read_memory>Finished running tool: /home/aaron/go/bin/staticcheck
+2025-09-11 08:59:05.086 [info] 

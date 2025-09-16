@@ -1,0 +1,1 @@
+{"timestamp":1757087353211,"paths":["./file_carver.go.backup2","./file_carver.go","./device_detector.go","./file_carver.go.backup","./file_carver2.go","./file.carved","./README.md","./here.txt","./.claude/settings.local.json"]}

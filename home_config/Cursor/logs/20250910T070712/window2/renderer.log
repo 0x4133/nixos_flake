@@ -1,0 +1,110 @@
+2025-09-11 08:48:08.400 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.datawrangler' wants API proposal 'debugFocus' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-09-11 08:48:08.401 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-copilot-data-analysis' wants API proposal 'chatVariableResolver' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-09-11 08:48:08.401 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-09-11 08:48:08.402 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-python-envs' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-09-11 08:48:08.402 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'chatReadonlyPromptReference' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-09-11 08:48:08.403 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-azuretools.vscode-azure-github-copilot' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-09-11 08:48:08.403 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'vscjava.vscode-java-pack' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-09-11 08:48:08.404 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'chatParticipant' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-09-11 08:48:08.404 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'languageModels' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-09-11 08:48:08.451 [warning] Missing property "modes" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-09-11 08:48:08.451 [warning] Missing property "modes2" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-09-11 08:48:08.452 [warning] Missing property "modes3" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-09-11 08:48:08.452 [warning] Missing property "explicitEnableOrDisable" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-09-11 08:48:08.452 [warning] Missing property "lastBackgroundBugbotAt" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-09-11 08:48:08.453 [warning] Missing property "repositoryIndexingError" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-09-11 08:48:08.453 [warning] Missing property "repositoryIndexingStatus" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-09-11 08:48:08.454 [warning] Missing property "repositoryLastSyncedTime" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-09-11 08:48:08.454 [warning] Missing property "repositoryIndexingJobs" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-09-11 08:48:08.454 [warning] Missing property "mainLocalRepositoryProgress" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-09-11 08:48:08.455 [warning] Missing property "shouldHideWarning" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-09-11 08:48:08.455 [warning] Missing property "persistentChatMetadata" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-09-11 08:48:08.456 [warning] Missing property "aiPanePosition" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-09-11 08:48:08.456 [warning] Missing property "shouldRerankByDefault" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-09-11 08:48:08.457 [warning] Missing property "indexingData" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-09-11 08:48:08.457 [warning] Missing property "composerState" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-09-11 08:48:08.457 [warning] Missing property "isCursorPredictionOutOfRangeIndicatorMinimized2" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-09-11 08:48:08.458 [warning] Missing property "needsComposerInitialOpening" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-09-11 08:48:08.458 [warning] Missing property "approvedProjectMcpServers" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-09-11 08:48:08.458 [warning] Missing property "disabledMcpServers" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-09-11 08:48:08.459 [warning] Missing property "eligibleForSnippetLearning" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-09-11 08:48:08.459 [warning] Missing property "solidJSLeakRecords" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-09-11 08:48:08.605 [warning] Creation of workbench contribution 'workbench.contrib.userDataProfiles' took 65ms.
+2025-09-11 08:48:09.013 [info] Started local extension host with pid 38580.
+2025-09-11 08:48:09.489 [warning] [ms-python.python]: Cannot register 'python.venvPath'. This property is already registered.
+2025-09-11 08:48:12.230 [info] [perf] Render performance baseline is 33ms
+2025-09-11 08:48:13.117 [error] [unimplemented] Error: ConnectError: [unimplemented] Error
+    at t (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:4757:224502)
+    at async Object.cursorPredictionConfig (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:489:207939)
+    at async IZs._refreshConfig (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7039:9332) [unimplemented] Error
+2025-09-11 08:49:08.804 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.datawrangler' wants API proposal 'debugFocus' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-09-11 08:49:08.804 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-copilot-data-analysis' wants API proposal 'chatVariableResolver' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-09-11 08:49:08.805 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-09-11 08:49:08.805 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-python-envs' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-09-11 08:49:08.805 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'chatReadonlyPromptReference' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-09-11 08:49:08.806 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-azuretools.vscode-azure-github-copilot' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-09-11 08:49:08.806 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'vscjava.vscode-java-pack' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-09-11 08:49:08.807 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'chatParticipant' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-09-11 08:49:08.807 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'languageModels' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-09-11 08:49:08.832 [warning] Missing property "modes" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-09-11 08:49:08.832 [warning] Missing property "modes2" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-09-11 08:49:08.832 [warning] Missing property "modes3" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-09-11 08:49:08.833 [warning] Missing property "explicitEnableOrDisable" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-09-11 08:49:08.833 [warning] Missing property "lastBackgroundBugbotAt" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-09-11 08:49:08.834 [warning] Missing property "repositoryIndexingError" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-09-11 08:49:08.834 [warning] Missing property "repositoryIndexingStatus" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-09-11 08:49:08.834 [warning] Missing property "repositoryLastSyncedTime" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-09-11 08:49:08.835 [warning] Missing property "repositoryIndexingJobs" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-09-11 08:49:08.835 [warning] Missing property "mainLocalRepositoryProgress" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-09-11 08:49:08.836 [warning] Missing property "shouldHideWarning" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-09-11 08:49:08.836 [warning] Missing property "persistentChatMetadata" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-09-11 08:49:08.836 [warning] Missing property "aiPanePosition" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-09-11 08:49:08.837 [warning] Missing property "shouldRerankByDefault" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-09-11 08:49:08.837 [warning] Missing property "indexingData" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-09-11 08:49:08.838 [warning] Missing property "composerState" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-09-11 08:49:08.838 [warning] Missing property "isCursorPredictionOutOfRangeIndicatorMinimized2" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-09-11 08:49:08.838 [warning] Missing property "needsComposerInitialOpening" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-09-11 08:49:08.839 [warning] Missing property "approvedProjectMcpServers" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-09-11 08:49:08.839 [warning] Missing property "disabledMcpServers" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-09-11 08:49:08.840 [warning] Missing property "eligibleForSnippetLearning" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-09-11 08:49:08.840 [warning] Missing property "solidJSLeakRecords" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-09-11 08:49:09.235 [info] Started local extension host with pid 38740.
+2025-09-11 08:49:09.631 [warning] [ms-python.python]: Cannot register 'python.venvPath'. This property is already registered.
+2025-09-11 08:49:09.783 [warning] No search provider registered for scheme: file, waiting
+2025-09-11 08:49:12.227 [info] [perf] Render performance baseline is 32ms
+2025-09-11 08:49:13.281 [error] [unimplemented] Error: ConnectError: [unimplemented] Error
+    at t (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:4757:224502)
+    at async Object.cursorPredictionConfig (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:489:207939)
+    at async IZs._refreshConfig (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7039:9332) [unimplemented] Error
+2025-09-11 08:53:40.658 [error] [composer] Composer data handle is disposed: Error: [composer] Composer data handle is disposed
+    at get data (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:491:22251)
+    at Array.<anonymous> (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:1450:11696)
+    at Object.fn (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:275:22535)
+    at Hho (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:277:1030)
+    at X$e (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:277:784)
+    at $1t (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:277:2588)
+    at iAc (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:277:4026)
+    at vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:277:3449
+    at CW (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:277:2766)
+    at eAc (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:277:3442)
+    at CW (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:277:2777)
+    at xM (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:275:22274)
+    at tus.r [as setData] (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:277:17382)
+    at setData (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:491:21660)
+    at vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:2565:30338
+    at gd.updateComposerDataSetStore (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:1348:33791)
+    at vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:51:37011
+    at j9 (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:51:36764)
+    at n.value (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:51:37000)
+    at lJ.handleAbortChat (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:2565:30306)
+    at lJ.submitChatMaybeAbortCurrent (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:2565:24431)
+    at async si (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:4516:24730) [composer] Composer data handle is disposed
+2025-09-11 08:57:22.105 [error] Error: 2:1: expected declaration, found 'package' (and 1 more errors)
+	at handleResponse (/home/aaron/.cursor/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/aaron/.cursor/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/aaron/.cursor/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/aaron/.cursor/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2025-09-11 09:09:01.115 [error] Tool call errored or timed out: Error: Tool call errored or timed out
+    at AbortSignal.<anonymous> (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:4214:17035)
+    at PC.abortGenerationUUID (vscode-file://vscode-app/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:1444:6304) Tool call errored or timed out

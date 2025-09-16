@@ -1,0 +1,9 @@
+2025-09-04 16:53:43.968 [info] Getting Manifest... anysphere.cursorpyright
+2025-09-04 16:53:44.759 [info] Installing extension: anysphere.cursorpyright {"productVersion":{"version":"1.2.2","date":"2025-07-07T06:13:23.028Z","vscodeVersion":"1.99.3"},"donotVerifySignature":true,"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/aaron/.cursor/extensions/extensions.json","path":"/home/aaron/.cursor/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2025-09-04 16:53:45.028 [info] Getting Manifest... ms-python.python
+2025-09-04 16:53:45.436 [info] Getting Manifest... ms-python.debugpy
+2025-09-04 16:53:46.002 [info] Started downloading extension: anysphere.cursorpyright 1.0.9 file:///home/aaron/.config/Cursor/CachedExtensionVSIXs/anysphere.cursorpyright-1.0.9
+2025-09-04 16:53:50.321 [info] Extracted extension to file:///home/aaron/.cursor/extensions/anysphere.cursorpyright-1.0.9: anysphere.cursorpyright
+2025-09-04 16:53:50.523 [info] Renamed to /home/aaron/.cursor/extensions/anysphere.cursorpyright-1.0.9
+2025-09-04 16:53:50.555 [info] Marked extension as removed anysphere.cursorpyright-1.0.8
+2025-09-04 16:53:50.574 [info] Extension installed successfully: anysphere.cursorpyright vscode-userdata:/home/aaron/.cursor/extensions/extensions.json

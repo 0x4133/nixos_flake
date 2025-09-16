@@ -109,12 +109,12 @@
                             "y": -1.0
                         },
                         "scale": {
-                            "x": 2.1328125,
-                            "y": 2.1333334445953369
+                            "x": 4.453125,
+                            "y": 4.4541668891906738
                         },
                         "scale_rel": {
-                            "x": 2.1328125,
-                            "y": 2.1333334445953369
+                            "x": 4.453125,
+                            "y": 4.4541668891906738
                         },
                         "bounds": {
                             "x": 0.0,
@@ -307,7 +307,7 @@
     "transition_duration": 300,
     "preview_locked": false,
     "scaling_enabled": false,
-    "scaling_level": -18,
+    "scaling_level": -11,
     "scaling_off_x": 0.0,
     "scaling_off_y": 0.0,
     "modules": {

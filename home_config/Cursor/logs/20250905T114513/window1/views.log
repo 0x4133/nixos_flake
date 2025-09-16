@@ -1,0 +1,17 @@
+2025-09-05 11:45:15.777 [info] Added views:outline in workbench.view.explorer
+2025-09-05 11:45:15.777 [info] Added views:workbench.view.search in workbench.view.search
+2025-09-05 11:45:15.777 [info] Added views:workbench.scm in workbench.view.scm
+2025-09-05 11:45:15.777 [info] Added views:workbench.panel.markers.view in workbench.panel.markers
+2025-09-05 11:45:15.777 [info] Added views:workbench.panel.output in workbench.panel.output
+2025-09-05 11:45:15.777 [info] Added views:terminal in terminal
+2025-09-05 11:45:15.777 [info] Added views:timeline in workbench.view.explorer
+2025-09-05 11:45:15.777 [info] Added views:workbench.panel.aichat.view.2c2399fd-91e4-48e1-a20d-17786b6b9803 in workbench.panel.aichat.cfa2c732-eb9f-4060-a5bb-470538c94289
+2025-09-05 11:45:15.777 [info] Added views:workbench.explorer.fileView in workbench.view.explorer
+2025-09-05 11:45:16.296 [info] Added views:vscode-containers.views.containers,vscode-containers.views.images,vscode-containers.views.registries,vscode-containers.views.networks,vscode-containers.views.volumes,vscode-containers.views.dockerContexts,vscode-containers.views.help in workbench.view.extension.containersView
+2025-09-05 11:45:16.443 [info] Added views:workbench.panel.aichat.view.48d63d92-395b-497e-89d2-78c3c98d26ac in workbench.panel.aichat.cfa2c732-eb9f-4060-a5bb-470538c94289
+2025-09-05 11:45:16.451 [info] Removed views:workbench.panel.aichat.view.2c2399fd-91e4-48e1-a20d-17786b6b9803 from workbench.panel.aichat.cfa2c732-eb9f-4060-a5bb-470538c94289
+2025-09-05 11:45:16.613 [info] Added views:workbench.debug.welcome in workbench.view.debug
+2025-09-05 11:45:16.781 [info] Added views:~remote.forwardedPorts in ~remote.forwardedPortsContainer
+2025-09-05 11:45:17.602 [info] Added views:workbench.panel.repl.view in workbench.panel.repl
+2025-09-05 11:51:21.085 [info] Added views:workbench.panel.aichat.view.a58f65ab-7326-411c-9940-937ce137601c in workbench.panel.aichat.cfa2c732-eb9f-4060-a5bb-470538c94289
+2025-09-05 11:51:21.132 [info] Removed views:workbench.panel.aichat.view.48d63d92-395b-497e-89d2-78c3c98d26ac from workbench.panel.aichat.cfa2c732-eb9f-4060-a5bb-470538c94289

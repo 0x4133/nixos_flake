@@ -1,0 +1,64 @@
+2025-09-11 08:48:10.658 [info] Extension host with pid 38580 started
+2025-09-11 08:48:10.696 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-09-11 08:48:10.704 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-09-11 08:48:10.760 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-09-11 08:48:10.887 [info] Eager extensions activated
+2025-09-11 08:48:10.927 [info] ExtensionService#_doActivateExtension anysphere.cursor-always-local, startup: false, activationEvent: 'onStartupFinished'
+2025-09-11 08:48:11.168 [info] ExtensionService#_doActivateExtension anysphere.cursor-deeplink, startup: false, activationEvent: 'onStartupFinished'
+2025-09-11 08:48:11.226 [info] ExtensionService#_doActivateExtension anysphere.cursor-retrieval, startup: false, activationEvent: 'onStartupFinished'
+2025-09-11 08:48:11.483 [info] ExtensionService#_doActivateExtension anysphere.cursor-shadow-workspace, startup: false, activationEvent: 'onStartupFinished'
+2025-09-11 08:48:11.573 [info] ExtensionService#_doActivateExtension anysphere.cursor-tokenize, startup: false, activationEvent: 'onStartupFinished'
+2025-09-11 08:48:11.763 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-09-11 08:48:11.770 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-09-11 08:49:07.687 [info] Extension host terminating: renderer closed the MessagePort
+2025-09-11 08:49:07.732 [error] Error: Channel has been closed
+	at r (file:///nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:2439)
+	at Object.appendLine (file:///nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:2578)
+	at c (/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:1816886)
+	at t.deactivate (/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:1818542)
+	at /nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:321199
+	at t.deactivate (/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:321258)
+	at async Promise.all (index 0)
+	at async pTe.$ (file:///nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:138:10212)
+2025-09-11 08:49:07.732 [info] Extension host with pid 38580 exiting with code 0
+2025-09-11 08:49:10.855 [info] Extension host with pid 38740 started
+2025-09-11 08:49:10.855 [info] Skipping acquiring lock for /home/aaron/.config/Cursor/User/workspaceStorage/3e9e8afca690b69f4b8d014304605997.
+2025-09-11 08:49:10.932 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-09-11 08:49:10.946 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-09-11 08:49:11.001 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-09-11 08:49:11.124 [info] Eager extensions activated
+2025-09-11 08:49:11.165 [info] ExtensionService#_doActivateExtension anysphere.cursor-always-local, startup: false, activationEvent: 'onStartupFinished'
+2025-09-11 08:49:11.423 [info] ExtensionService#_doActivateExtension anysphere.cursor-deeplink, startup: false, activationEvent: 'onStartupFinished'
+2025-09-11 08:49:11.481 [info] ExtensionService#_doActivateExtension anysphere.cursor-retrieval, startup: false, activationEvent: 'onStartupFinished'
+2025-09-11 08:49:11.745 [info] ExtensionService#_doActivateExtension anysphere.cursor-shadow-workspace, startup: false, activationEvent: 'onStartupFinished'
+2025-09-11 08:49:11.831 [info] ExtensionService#_doActivateExtension anysphere.cursor-tokenize, startup: false, activationEvent: 'onStartupFinished'
+2025-09-11 08:49:12.036 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-09-11 08:49:12.041 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-09-11 08:49:15.059 [info] ExtensionService#_doActivateExtension golang.go, startup: false, activationEvent: 'onLanguage:go'
+2025-09-11 08:49:15.238 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-09-11 08:52:30.104 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-09-11 08:52:47.305 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-09-11 08:52:47.321 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-09-11 08:52:47.341 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2025-09-11 08:52:47.422 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2025-09-11 08:56:22.945 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2025-09-11 08:56:23.493 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2025-09-11 08:57:22.067 [error] [golang.go] provider FAILED
+2025-09-11 08:57:22.073 [error] Error: 2:1: expected declaration, found 'package' (and 1 more errors)
+	at handleResponse (/home/aaron/.cursor/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/aaron/.cursor/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/aaron/.cursor/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/aaron/.cursor/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2025-09-11 09:15:58.763 [info] Extension host terminating: renderer closed the MessagePort
+2025-09-11 09:15:58.857 [error] Error: Channel has been closed
+	at r (file:///nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:2439)
+	at Object.appendLine (file:///nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:2578)
+	at c (/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:1816886)
+	at t.deactivate (/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:1818542)
+	at /nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:321199
+	at t.deactivate (/nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:321258)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+	at async Promise.all (index 1)
+	at async pTe.$ (file:///nix/store/b0z6lbz2qjfigd8y8x3mz6pvdn7036jk-cursor-1.2.2/lib/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:138:10212)
+2025-09-11 09:15:58.862 [info] Extension host with pid 38740 exiting with code 0

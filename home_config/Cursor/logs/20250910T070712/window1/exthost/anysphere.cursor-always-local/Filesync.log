@@ -1,0 +1,109 @@
+2025-09-10 07:07:19.023 [error] Failed to check if file sync is enabled for user {}
+2025-09-10 07:07:19.023 [error] Failed to fetch fsConfig File sync is disabled
+2025-09-10 07:07:19.023 [error] Failed to fetch fsConfig File sync is disabled
+2025-09-10 07:07:19.023 [info] [registerEventListeners] Registering event listeners
+2025-09-10 07:07:20.570 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-09-10 07:07:20.796 [info] Fetched fsConfig in 224.12915900000007ms
+2025-09-10 07:07:20.796 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-09-10 07:07:21.124 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-09-10 07:07:21.671 [info] Fetched fsConfig in 546.3454410000004ms
+2025-09-10 07:07:21.671 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-09-10 07:07:21.671 [info] File sync enabled status: true
+2025-09-10 07:07:21.671 [info] Starting sync of visible tabs
+2025-09-10 07:07:21.671 [info] Synced all visible tabs in 0.07535400000051595ms
+2025-09-10 07:07:21.900 [info] Starting sync of visible tabs
+2025-09-10 07:07:21.900 [info] Synced all visible tabs in 0.26115500000014435ms
+2025-09-10 07:07:22.175 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-09-10 07:07:22.401 [info] Fetched fsConfig in 226.06277899999986ms
+2025-09-10 07:07:22.401 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-09-10 07:07:40.016 [error] Failed to check if file sync is enabled for user {}
+2025-09-10 07:07:40.016 [error] Failed to fetch fsConfig File sync is disabled
+2025-09-10 07:07:40.016 [error] Failed to fetch fsConfig File sync is disabled
+2025-09-10 07:07:40.171 [info] [registerEventListeners] Registering event listeners
+2025-09-10 07:07:41.360 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-09-10 07:07:41.606 [info] Fetched fsConfig in 244.90011400000003ms
+2025-09-10 07:07:41.606 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-09-10 07:07:41.702 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-09-10 07:07:42.092 [info] Fetched fsConfig in 389.8872330000004ms
+2025-09-10 07:07:42.092 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-09-10 07:07:42.092 [info] File sync enabled status: true
+2025-09-10 07:07:42.093 [info] Starting sync of visible tabs
+2025-09-10 07:07:42.093 [info] Synced all visible tabs in 0.08961200000067038ms
+2025-09-10 07:07:42.453 [info] Starting sync of visible tabs
+2025-09-10 07:07:42.453 [info] Synced all visible tabs in 0.2587279999997918ms
+2025-09-10 07:07:42.698 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-09-10 07:07:42.933 [info] Fetched fsConfig in 235.18768699999964ms
+2025-09-10 07:07:42.933 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-09-10 07:07:53.292 [info] Uploaded file main.py modelVersion=1 in 142.62687099999857ms
+2025-09-10 07:07:53.293 [info] Handled visible editors change in 268.6250549999986ms
+2025-09-10 07:07:56.970 [info] Synced file main.py modelVersion=2 in 116.26484400000118ms
+2025-09-10 07:11:18.655 [info] Synced file main.py modelVersion=3 in 38.76073599999654ms
+2025-09-10 07:11:19.214 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-09-10 07:11:19.444 [info] Fetched fsConfig in 229.5085680000193ms
+2025-09-10 07:11:19.444 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-09-10 07:11:19.445 [info] File sync enabled status: true
+2025-09-10 07:11:19.445 [info] Starting sync of visible tabs
+2025-09-10 07:11:19.496 [info] Uploaded file main.py modelVersion=4 in 47.73494299998856ms
+2025-09-10 07:11:19.496 [info] Synced all visible tabs in 52.297277000005124ms
+2025-09-10 07:11:19.529 [info] Synced file main.py modelVersion=4 in 41.41845100000501ms
+2025-09-10 07:13:56.765 [info] Handled visible editors change in 2.2079650000086986ms
+2025-09-10 07:13:57.405 [info] Uploaded file lidar_to_las.py modelVersion=1 in 432.52224700001534ms
+2025-09-10 07:13:57.406 [info] Handled visible editors change in 562.2787479999824ms
+2025-09-10 07:13:58.796 [info] Synced file lidar_to_las.py modelVersion=2 in 45.54571700002998ms
+2025-09-10 07:13:59.348 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-09-10 07:13:59.575 [info] Fetched fsConfig in 226.92977799999062ms
+2025-09-10 07:13:59.575 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-09-10 07:13:59.575 [info] File sync enabled status: true
+2025-09-10 07:13:59.575 [info] Starting sync of visible tabs
+2025-09-10 07:13:59.575 [info] Synced all visible tabs in 0.2910810000030324ms
+2025-09-10 07:15:51.421 [info] Synced file lidar_to_las.py modelVersion=3 in 107.81366300000809ms
+2025-09-10 07:15:51.879 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-09-10 07:15:52.123 [info] Fetched fsConfig in 243.68260999995982ms
+2025-09-10 07:15:52.123 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-09-10 07:15:52.123 [info] File sync enabled status: true
+2025-09-10 07:15:52.123 [info] Starting sync of visible tabs
+2025-09-10 07:15:52.123 [info] Synced all visible tabs in 0.25635300000431016ms
+2025-09-10 07:17:57.109 [info] Handled visible editors change in 1.5251270000590011ms
+2025-09-10 07:17:57.496 [info] Uploaded file lidar_to_las_pure.py modelVersion=1 in 218.95099899999332ms
+2025-09-10 07:17:57.496 [info] Handled visible editors change in 287.57257700001355ms
+2025-09-10 07:19:52.966 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-09-10 07:19:52.980 [info] Synced file lidar_to_las_pure.py modelVersion=2 in 650.6438710000366ms
+2025-09-10 07:19:53.197 [info] Fetched fsConfig in 231.74288999999408ms
+2025-09-10 07:19:53.198 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-09-10 07:19:53.198 [info] File sync enabled status: true
+2025-09-10 07:19:53.198 [info] Starting sync of visible tabs
+2025-09-10 07:19:53.198 [info] Synced all visible tabs in 0.2214220000896603ms
+2025-09-10 07:25:58.926 [info] Handled visible editors change in 1.8212770000100136ms
+2025-09-10 07:26:05.229 [info] Uploaded file lidar_to_las_pure.py modelVersion=2 in 954.3235740000382ms
+2025-09-10 07:26:05.230 [info] Handled visible editors change in 1040.6492739999667ms
+2025-09-11 08:48:10.483 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-09-11 08:48:10.709 [info] Fetched fsConfig in 225.35102200508118ms
+2025-09-11 08:48:10.709 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-09-11 08:48:10.710 [info] File sync enabled status: true
+2025-09-11 08:48:10.710 [info] Starting sync of visible tabs
+2025-09-11 08:48:10.833 [info] Starting sync of visible tabs
+2025-09-11 08:48:10.962 [info] Uploaded file lidar_to_las_pure.py modelVersion=2 in 250.6144289970398ms
+2025-09-11 08:48:10.962 [info] Synced all visible tabs in 253.09476400911808ms
+2025-09-11 08:48:11.059 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-09-11 08:48:11.083 [info] Uploaded file lidar_to_las_pure.py modelVersion=2 in 247.5556050091982ms
+2025-09-11 08:48:11.083 [info] Synced all visible tabs in 251.07151000201702ms
+2025-09-11 08:48:11.281 [info] Fetched fsConfig in 222.18973100185394ms
+2025-09-11 08:48:11.281 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-09-11 08:48:15.044 [info] Starting sync of visible tabs
+2025-09-11 08:48:15.191 [info] Uploaded file lidar_to_las_pure.py modelVersion=2 in 146.45441199839115ms
+2025-09-11 08:48:15.191 [info] Synced all visible tabs in 216.66909500956535ms
+2025-09-11 08:48:15.373 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-09-11 08:48:15.597 [info] Fetched fsConfig in 223.3488900065422ms
+2025-09-11 08:48:15.597 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-09-11 08:49:11.049 [info] Starting sync of visible tabs
+2025-09-11 08:49:11.217 [info] Uploaded file lidar_to_las_pure.py modelVersion=2 in 167.63998898863792ms
+2025-09-11 08:49:11.218 [info] Synced all visible tabs in 202.87518899142742ms
+2025-09-11 08:49:11.420 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-09-11 08:49:11.648 [info] Fetched fsConfig in 228.1545480042696ms
+2025-09-11 08:49:11.648 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-09-11 08:49:15.015 [info] Starting sync of visible tabs
+2025-09-11 08:49:15.161 [info] Uploaded file lidar_to_las_pure.py modelVersion=2 in 145.55306500196457ms
+2025-09-11 08:49:15.161 [info] Synced all visible tabs in 205.3791349977255ms
+2025-09-11 08:49:15.347 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-09-11 08:49:15.586 [info] Fetched fsConfig in 238.37420900166035ms
+2025-09-11 08:49:15.586 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}

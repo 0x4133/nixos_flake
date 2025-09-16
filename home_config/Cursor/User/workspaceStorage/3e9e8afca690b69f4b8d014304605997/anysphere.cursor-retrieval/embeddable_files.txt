@@ -1,0 +1,9 @@
+file_carver2.go
+device_detector.go
+.claude/settings.local.json
+file_carver.go
+README.md
+file_carver.go.backup
+file_carver.go.backup2
+here.txt
+file.carved

@@ -1,0 +1,1071 @@
+2025-09-04 16:53:42.281 [info] CURSOR LOG: Finished creating provider!
+2025-09-04 16:54:21.347 [info] CURSOR LOG: requestId c266b38a-8bbf-4778-bf96-959812e685d5  
+2025-09-04 16:54:21.647 [info] CURSOR LOG: Done streaming cpp with id c266b38a-8bbf-4778-bf96-959812e685d5
+2025-09-04 16:54:21.647 [info] CPP RT LOG: Time taken for streaming cpp 366.967529296875 with request c266b38a-8bbf-4778-bf96-959812e685d5
+2025-09-04 16:54:21.648 [info] CPP Request Log with id c266b38a-8bbf-4778-bf96-959812e685d5
+2025-09-04 16:54:21.648 [info] =======>Model output 
+@@ /home/aaron/.cursor/mcp.json:7
+-|      "description": "HexStrike AI v6.0 - Advanced 
+-|Cybersecurity Automation Platform"
++|      "description": "HexStrike AI v6.0 - Advanced Cybersecurity Automation Platform"
+2025-09-04 16:54:21.648 [info] =======>Debug stream time 138.50631099997554
+2025-09-04 16:54:21.648 [info] =======>Debug ttft time 138.2896639999235
+2025-09-04 16:54:21.651 [info] Average of latest 20 ttft time 138.2896639999235
+2025-09-04 16:54:21.651 [info] Average of latest 20 stream time 138.50631099997554
+2025-09-04 16:54:21.651 [info] Average of latest 20 total time NaN
+2025-09-04 16:54:21.651 [info] Average of latest 20 client time 366.967529296875
+2025-09-04 16:54:21.651 [info] Average of latest 20 discrepencies NaN
+2025-09-04 16:54:21.651 [info] CPP RT LOG: All stats {"streamingtime":366.967529296875,"actualTtftFromStart":301.69970703125,"timeTillServerRequest":73.015869140625,"requestToTtft":228.683837890625,"totalTime":436.022705078125}
+2025-09-04 16:54:22.887 [info] CURSOR LOG: requestId 41981f0f-4f7e-44b1-8461-1a6bcf0d4aba  
+2025-09-04 16:54:23.066 [info] CURSOR LOG: Done streaming cpp with id 41981f0f-4f7e-44b1-8461-1a6bcf0d4aba
+2025-09-04 16:54:23.066 [info] CPP RT LOG: Time taken for streaming cpp 181.732421875 with request 41981f0f-4f7e-44b1-8461-1a6bcf0d4aba
+2025-09-04 16:54:23.066 [info] CPP Request Log with id 41981f0f-4f7e-44b1-8461-1a6bcf0d4aba
+2025-09-04 16:54:23.066 [info] =======>Model output 
+@@ /home/aaron/.cursor/mcp.json:7
+-|      "description": "HexStrike AI v6.0 - Advanced 
+-|Cybersecurity Automation Platform"
++|      "description": "HexStrike AI v6.0 - Advanced Cybersecurity Automation Platform"
+2025-09-04 16:54:23.066 [info] =======>Debug stream time 126.22127799969167
+2025-09-04 16:54:23.066 [info] =======>Debug ttft time 125.86835099942982
+2025-09-04 16:54:23.067 [info] Average of latest 20 ttft time 132.07900749967666
+2025-09-04 16:54:23.067 [info] Average of latest 20 stream time 132.3637944998336
+2025-09-04 16:54:23.067 [info] Average of latest 20 total time NaN
+2025-09-04 16:54:23.067 [info] Average of latest 20 client time 274.3499755859375
+2025-09-04 16:54:23.067 [info] Average of latest 20 discrepencies NaN
+2025-09-04 16:54:23.067 [info] CPP RT LOG: All stats {"streamingtime":181.732421875,"actualTtftFromStart":114.984130859375,"timeTillServerRequest":59.01904296875,"requestToTtft":55.965087890625,"totalTime":240.640869140625}
+2025-09-04 16:54:24.324 [info] CURSOR LOG: requestId b152f55a-ccba-40cb-92d1-89bc5cfa9d44  
+2025-09-04 16:54:24.474 [info] CURSOR LOG: requestId 3a62cfed-b47c-4760-ad56-6fab0a07102e  
+2025-09-04 16:54:24.591 [info] CURSOR LOG: Done streaming cpp with id b152f55a-ccba-40cb-92d1-89bc5cfa9d44
+2025-09-04 16:54:24.591 [info] CPP RT LOG: Time taken for streaming cpp 268.98681640625 with request b152f55a-ccba-40cb-92d1-89bc5cfa9d44
+2025-09-04 16:54:24.591 [info] CPP Request Log with id b152f55a-ccba-40cb-92d1-89bc5cfa9d44
+2025-09-04 16:54:24.591 [info] =======>Model output 
+@@ /home/aaron/.cursor/mcp.json:6
+-|"--server", "http://localhost:888"],
+-|      "description": "HexStrike AI v6.0 - Advanced 
+-|Cybersecurity Automation Platform"
++|"--server", "http://localhost:8888"],
++|      "description": "HexStrike AI v6.0 - Advanced Cybersecurity Automation Platform"
+2025-09-04 16:54:24.591 [info] =======>Debug stream time 220.4571240004152
+2025-09-04 16:54:24.591 [info] =======>Debug ttft time 220.17084799986333
+2025-09-04 16:54:24.592 [info] Average of latest 20 ttft time 161.4429543330722
+2025-09-04 16:54:24.592 [info] Average of latest 20 stream time 161.72823766669413
+2025-09-04 16:54:24.592 [info] Average of latest 20 total time NaN
+2025-09-04 16:54:24.592 [info] Average of latest 20 client time 272.562255859375
+2025-09-04 16:54:24.592 [info] Average of latest 20 discrepencies NaN
+2025-09-04 16:54:24.592 [info] CPP RT LOG: All stats {"streamingtime":268.98681640625,"actualTtftFromStart":102.87109375,"timeTillServerRequest":53.576171875,"requestToTtft":49.294921875,"totalTime":322.487060546875}
+2025-09-04 16:54:24.653 [info] CURSOR LOG: Done streaming cpp with id 3a62cfed-b47c-4760-ad56-6fab0a07102e
+2025-09-04 16:54:24.653 [info] CPP RT LOG: Time taken for streaming cpp 181.990966796875 with request 3a62cfed-b47c-4760-ad56-6fab0a07102e
+2025-09-04 16:54:24.654 [info] CPP Request Log with id 3a62cfed-b47c-4760-ad56-6fab0a07102e
+2025-09-04 16:54:24.654 [info] =======>Model output 
+@@ /home/aaron/.cursor/mcp.json:7
+-|      "description": "HexStrike AI v6.0 - Advanced 
+-|Cybersecurity Automation Platform"
++|      "description": "HexStrike AI v6.0 - Advanced Cybersecurity Automation Platform"
+2025-09-04 16:54:24.654 [info] =======>Debug stream time 125.5156399999978
+2025-09-04 16:54:24.654 [info] =======>Debug ttft time 125.28985699999612
+2025-09-04 16:54:24.655 [info] Average of latest 20 ttft time 152.4046799998032
+2025-09-04 16:54:24.655 [info] Average of latest 20 stream time 152.67508825002005
+2025-09-04 16:54:24.655 [info] Average of latest 20 total time NaN
+2025-09-04 16:54:24.655 [info] Average of latest 20 client time 249.91943359375
+2025-09-04 16:54:24.655 [info] Average of latest 20 discrepencies NaN
+2025-09-04 16:54:24.655 [info] CPP RT LOG: All stats {"streamingtime":181.990966796875,"actualTtftFromStart":115.200439453125,"timeTillServerRequest":56.9775390625,"requestToTtft":58.222900390625,"totalTime":238.870849609375}
+2025-09-04 16:54:41.684 [info] CURSOR LOG: requestId 65ec17e2-12b2-49d9-894a-06086eb29a99  
+2025-09-04 16:54:41.868 [info] CURSOR LOG: Done streaming cpp with id 65ec17e2-12b2-49d9-894a-06086eb29a99
+2025-09-04 16:54:41.869 [info] CPP RT LOG: Time taken for streaming cpp 185.974609375 with request 65ec17e2-12b2-49d9-894a-06086eb29a99
+2025-09-04 16:54:41.869 [info] CPP Request Log with id 65ec17e2-12b2-49d9-894a-06086eb29a99
+2025-09-04 16:54:41.869 [info] =======>Model output 
+@@ /home/aaron/.cursor/mcp.json:7
+-|      "description": "HexStrike AI v6.0 - Advanced 
+-|Cybersecurity Automation Platform"
++|      "description": "HexStrike AI v6.0 - Advanced Cybersecurity Automation Platform"
+2025-09-04 16:54:41.869 [info] =======>Debug stream time 125.00936500000535
+2025-09-04 16:54:41.869 [info] =======>Debug ttft time 124.81518099998357
+2025-09-04 16:54:41.870 [info] Average of latest 20 ttft time 146.88678019983928
+2025-09-04 16:54:41.870 [info] Average of latest 20 stream time 147.1419436000171
+2025-09-04 16:54:41.870 [info] Average of latest 20 total time NaN
+2025-09-04 16:54:41.870 [info] Average of latest 20 client time 237.13046875
+2025-09-04 16:54:41.870 [info] Average of latest 20 discrepencies NaN
+2025-09-04 16:54:41.870 [info] CPP RT LOG: All stats {"streamingtime":185.974609375,"actualTtftFromStart":164.685302734375,"timeTillServerRequest":103.7890625,"requestToTtft":60.896240234375,"totalTime":289.693359375}
+2025-09-04 16:54:46.514 [info] CURSOR LOG: requestId 58193bc2-4b6f-4e84-96b9-45f969f7caa9  
+2025-09-04 16:54:46.689 [info] CURSOR LOG: Done streaming cpp with id 58193bc2-4b6f-4e84-96b9-45f969f7caa9
+2025-09-04 16:54:46.689 [info] CPP RT LOG: Time taken for streaming cpp 177.683837890625 with request 58193bc2-4b6f-4e84-96b9-45f969f7caa9
+2025-09-04 16:54:46.689 [info] CPP Request Log with id 58193bc2-4b6f-4e84-96b9-45f969f7caa9
+2025-09-04 16:54:46.689 [info] =======>Model output 
+@@ /home/aaron/.cursor/mcp.json:7
+-|      "description": "HexStrike AI v6.0 - Advanced 
+-|Cybersecurity Automation Platform"
++|      "description": "HexStrike AI v6.0 - Advanced Cybersecurity Automation Platform"
+2025-09-04 16:54:46.689 [info] =======>Debug stream time 131.75533900014125
+2025-09-04 16:54:46.689 [info] =======>Debug ttft time 131.55313800019212
+2025-09-04 16:54:46.691 [info] Average of latest 20 ttft time 144.33117316656475
+2025-09-04 16:54:46.691 [info] Average of latest 20 stream time 144.5775095000378
+2025-09-04 16:54:46.691 [info] Average of latest 20 total time NaN
+2025-09-04 16:54:46.691 [info] Average of latest 20 client time 227.22269694010416
+2025-09-04 16:54:46.691 [info] Average of latest 20 discrepencies NaN
+2025-09-04 16:54:46.691 [info] CPP RT LOG: All stats {"streamingtime":177.683837890625,"actualTtftFromStart":100.905029296875,"timeTillServerRequest":55.138427734375,"requestToTtft":45.7666015625,"totalTime":232.74462890625}
+2025-09-04 16:54:47.751 [info] CURSOR LOG: requestId 6f3a2f5e-d0c2-424d-9ed0-0be53a0cc46b  
+2025-09-04 16:54:48.010 [info] CURSOR LOG: Done streaming cpp with id 6f3a2f5e-d0c2-424d-9ed0-0be53a0cc46b
+2025-09-04 16:54:48.010 [info] CPP RT LOG: Time taken for streaming cpp 261.038818359375 with request 6f3a2f5e-d0c2-424d-9ed0-0be53a0cc46b
+2025-09-04 16:54:48.010 [info] CPP Request Log with id 6f3a2f5e-d0c2-424d-9ed0-0be53a0cc46b
+2025-09-04 16:54:48.010 [info] =======>Model output 
+@@ /home/aaron/.cursor/mcp.json:6
+-|"--server", "http://localhost:888"],
+-|      "description": "HexStrike AI v6.0 - Advanced 
+-|Cybersecurity Automation Platform"
++|"--server", "http://localhost:8888"],
++|      "description": "HexStrike AI v6.0 - Advanced Cybersecurity Automation Platform"
+2025-09-04 16:54:48.010 [info] =======>Debug stream time 213.33658400003333
+2025-09-04 16:54:48.011 [info] =======>Debug ttft time 213.03292900009546
+2025-09-04 16:54:48.011 [info] Average of latest 20 ttft time 154.145709714212
+2025-09-04 16:54:48.011 [info] Average of latest 20 stream time 154.4002344286086
+2025-09-04 16:54:48.011 [info] Average of latest 20 total time NaN
+2025-09-04 16:54:48.011 [info] Average of latest 20 client time 232.05357142857142
+2025-09-04 16:54:48.011 [info] Average of latest 20 discrepencies NaN
+2025-09-04 16:54:48.011 [info] CPP RT LOG: All stats {"streamingtime":261.038818359375,"actualTtftFromStart":100.663818359375,"timeTillServerRequest":53.449462890625,"requestToTtft":47.21435546875,"totalTime":314.417236328125}
+2025-09-04 16:54:48.575 [info] CURSOR LOG: requestId 474e1eb1-7179-4892-8a48-c4c9092cf466  
+2025-09-04 16:54:48.761 [info] CURSOR LOG: Done streaming cpp with id 474e1eb1-7179-4892-8a48-c4c9092cf466
+2025-09-04 16:54:48.761 [info] CPP RT LOG: Time taken for streaming cpp 184.8994140625 with request 474e1eb1-7179-4892-8a48-c4c9092cf466
+2025-09-04 16:54:48.761 [info] CPP Request Log with id 474e1eb1-7179-4892-8a48-c4c9092cf466
+2025-09-04 16:54:48.761 [info] =======>Model output 
+@@ /home/aaron/.cursor/mcp.json:7
+-|        "description": "HexStrike AI v6.0 - Advanced 
+-|  Cybersecurity Automation Platform"
++|        "description": "HexStrike AI v6.0 - Advanced Cybersecurity Automation Platform"
+2025-09-04 16:54:48.761 [info] =======>Debug stream time 135.188715999946
+2025-09-04 16:54:48.761 [info] =======>Debug ttft time 134.94553299993277
+2025-09-04 16:54:48.762 [info] Average of latest 20 ttft time 151.7456876249271
+2025-09-04 16:54:48.762 [info] Average of latest 20 stream time 151.99879462502577
+2025-09-04 16:54:48.762 [info] Average of latest 20 total time NaN
+2025-09-04 16:54:48.763 [info] Average of latest 20 client time 226.1593017578125
+2025-09-04 16:54:48.763 [info] Average of latest 20 discrepencies NaN
+2025-09-04 16:54:48.763 [info] CPP RT LOG: All stats {"streamingtime":184.8994140625,"actualTtftFromStart":112.790771484375,"timeTillServerRequest":64.177490234375,"requestToTtft":48.61328125,"totalTime":249.015625}
+2025-09-04 16:54:50.514 [info] CURSOR LOG: requestId 3b2ec91d-25e7-4255-a861-42ee03480140  
+2025-09-04 16:54:50.924 [info] CURSOR LOG: Done streaming cpp with id 3b2ec91d-25e7-4255-a861-42ee03480140
+2025-09-04 16:54:50.925 [info] CPP RT LOG: Time taken for streaming cpp 412.935546875 with request 3b2ec91d-25e7-4255-a861-42ee03480140
+2025-09-04 16:54:50.925 [info] CPP Request Log with id 3b2ec91d-25e7-4255-a861-42ee03480140
+2025-09-04 16:54:50.925 [info] =======>Model output 
+@@ /home/aaron/.cursor/mcp.json:1
+-|  "mcpServers": {}
++|  "mcpServers": {
++|    "hexstrike-ai": {
++|      "command": "python3",
++|      "args":
++|["/home/aaron/git/hexstrike-ai/hexstrike_mcp.py",
++|"--server", "http://localhost:8888"],
++|      "description": "HexStrike AI v6.0 - Advanced 
++|Cybersecurity Automation Platform"
++|    }
++|  }
+2025-09-04 16:54:50.925 [info] =======>Debug stream time 363.80864999990445
+2025-09-04 16:54:50.925 [info] =======>Debug ttft time 363.5380969999824
+2025-09-04 16:54:50.926 [info] Average of latest 20 ttft time 175.27817755548878
+2025-09-04 16:54:50.926 [info] Average of latest 20 stream time 175.5332230000123
+2025-09-04 16:54:50.926 [info] Average of latest 20 total time NaN
+2025-09-04 16:54:50.926 [info] Average of latest 20 client time 246.91221788194446
+2025-09-04 16:54:50.926 [info] Average of latest 20 discrepencies NaN
+2025-09-04 16:54:50.926 [info] CPP RT LOG: All stats {"streamingtime":412.935546875,"actualTtftFromStart":104.04296875,"timeTillServerRequest":56.434326171875,"requestToTtft":47.608642578125,"totalTime":469.2763671875}
+2025-09-04 16:54:52.831 [info] CURSOR LOG: requestId 526aa717-cc1f-45dd-93c5-849346023d1c  
+2025-09-04 16:54:53.036 [info] CURSOR LOG: Done streaming cpp with id 526aa717-cc1f-45dd-93c5-849346023d1c
+2025-09-04 16:54:53.036 [info] CPP RT LOG: Time taken for streaming cpp 207.800537109375 with request 526aa717-cc1f-45dd-93c5-849346023d1c
+2025-09-04 16:54:53.036 [info] CPP Request Log with id 526aa717-cc1f-45dd-93c5-849346023d1c
+2025-09-04 16:54:53.036 [info] =======>Model output 
+@@ /home/aaron/.cursor/mcp.json:7
+-|      "description": "HexStrike AI v6.0 - Advanced 
+-|Cybersecurity Automation Platform"
++|      "description": "HexStrike AI v6.0 - Advanced Cybersecurity Automation Platform"
+2025-09-04 16:54:53.036 [info] =======>Debug stream time 158.53752900008112
+2025-09-04 16:54:53.036 [info] =======>Debug ttft time 158.3322520001093
+2025-09-04 16:54:53.037 [info] Average of latest 20 ttft time 173.58358499995083
+2025-09-04 16:54:53.037 [info] Average of latest 20 stream time 173.83365360001918
+2025-09-04 16:54:53.037 [info] Average of latest 20 total time NaN
+2025-09-04 16:54:53.037 [info] Average of latest 20 client time 243.0010498046875
+2025-09-04 16:54:53.037 [info] Average of latest 20 discrepencies NaN
+2025-09-04 16:54:53.037 [info] CPP RT LOG: All stats {"streamingtime":207.800537109375,"actualTtftFromStart":108.327880859375,"timeTillServerRequest":58.96435546875,"requestToTtft":49.363525390625,"totalTime":266.676025390625}
+2025-09-04 16:54:59.718 [info] CURSOR LOG: requestId 17978526-4488-44fd-96fc-53f171f8764f  
+2025-09-04 16:54:59.912 [info] CURSOR LOG: Done streaming cpp with id 17978526-4488-44fd-96fc-53f171f8764f
+2025-09-04 16:54:59.912 [info] CPP RT LOG: Time taken for streaming cpp 196.00830078125 with request 17978526-4488-44fd-96fc-53f171f8764f
+2025-09-04 16:54:59.912 [info] CPP Request Log with id 17978526-4488-44fd-96fc-53f171f8764f
+2025-09-04 16:54:59.912 [info] =======>Model output 
+@@ /home/aaron/.cursor/mcp.json:7
+-|      "description": "HexStrike AI v6.0 - Advanced 
+-|Cybersecurity Automation Platform"
++|      "description": "HexStrike AI v6.0 - Advanced Cybersecurity Automation Platform"
+2025-09-04 16:54:59.912 [info] =======>Debug stream time 141.13037000014447
+2025-09-04 16:54:59.913 [info] =======>Debug ttft time 140.86569300014526
+2025-09-04 16:54:59.913 [info] Average of latest 20 ttft time 170.6092311817867
+2025-09-04 16:54:59.913 [info] Average of latest 20 stream time 170.86062781821238
+2025-09-04 16:54:59.913 [info] Average of latest 20 total time NaN
+2025-09-04 16:54:59.913 [info] Average of latest 20 client time 238.72898171164772
+2025-09-04 16:54:59.913 [info] Average of latest 20 discrepencies NaN
+2025-09-04 16:54:59.913 [info] CPP RT LOG: All stats {"streamingtime":196.00830078125,"actualTtftFromStart":111.3349609375,"timeTillServerRequest":55.239013671875,"requestToTtft":56.095947265625,"totalTime":251.15234375}
+2025-09-04 16:55:03.191 [info] CURSOR LOG: requestId d8e80558-6cbc-46c6-82c8-c2deb4f78947  
+2025-09-04 16:55:03.352 [info] CURSOR LOG: Done streaming cpp with id d8e80558-6cbc-46c6-82c8-c2deb4f78947
+2025-09-04 16:55:03.353 [info] CPP RT LOG: Time taken for streaming cpp 163.69970703125 with request d8e80558-6cbc-46c6-82c8-c2deb4f78947
+2025-09-04 16:55:03.353 [info] CPP Request Log with id d8e80558-6cbc-46c6-82c8-c2deb4f78947
+2025-09-04 16:55:03.353 [info] =======>Model output 
+@@ /home/aaron/.cursor/mcp.json:7
+-|      "description": "HexStrike AI v6.0 - Advanced Cybersecurity Automation Platform"
++|      "description": "HexStrike AI v6.0 - Advanced Cybersecurity Automation Platform"
+2025-09-04 16:55:03.353 [info] =======>Debug stream time 105.93786800000817
+2025-09-04 16:55:03.353 [info] =======>Debug ttft time 105.71157099993434
+2025-09-04 16:55:03.353 [info] Average of latest 20 ttft time 165.201092833299
+2025-09-04 16:55:03.353 [info] Average of latest 20 stream time 165.45039783336202
+2025-09-04 16:55:03.353 [info] Average of latest 20 total time NaN
+2025-09-04 16:55:03.353 [info] Average of latest 20 client time 232.4765421549479
+2025-09-04 16:55:03.353 [info] Average of latest 20 discrepencies NaN
+2025-09-04 16:55:03.353 [info] CPP RT LOG: All stats {"streamingtime":163.69970703125,"actualTtftFromStart":110.22119140625,"timeTillServerRequest":53.232666015625,"requestToTtft":56.988525390625,"totalTime":216.858154296875}
+2025-09-04 16:55:11.135 [info] CURSOR LOG: requestId 259a75a5-f22f-4dde-896e-0c18a4ca0242  
+2025-09-04 16:55:11.407 [info] CURSOR LOG: Done streaming cpp with id 259a75a5-f22f-4dde-896e-0c18a4ca0242
+2025-09-04 16:55:11.407 [info] CPP RT LOG: Time taken for streaming cpp 273.117919921875 with request 259a75a5-f22f-4dde-896e-0c18a4ca0242
+2025-09-04 16:55:11.408 [info] CPP Request Log with id 259a75a5-f22f-4dde-896e-0c18a4ca0242
+2025-09-04 16:55:11.408 [info] =======>Model output 
+@@ /home/aaron/.cursor/mcp.json:7
+-|      "description": "HexStrike AI v6.0 - Advanced Cybersecurity Automation Platform"
++|      "description": "HexStrike AI v6.0 - Advanced Cybersecurity Automation Platform"
+2025-09-04 16:55:11.408 [info] =======>Debug stream time 194.19127499964088
+2025-09-04 16:55:11.408 [info] =======>Debug ttft time 193.95435099955648
+2025-09-04 16:55:11.409 [info] Average of latest 20 ttft time 167.4128819230111
+2025-09-04 16:55:11.409 [info] Average of latest 20 stream time 167.6612345384604
+2025-09-04 16:55:11.409 [info] Average of latest 20 total time NaN
+2025-09-04 16:55:11.409 [info] Average of latest 20 client time 235.60280198317307
+2025-09-04 16:55:11.409 [info] Average of latest 20 discrepencies NaN
+2025-09-04 16:55:11.409 [info] CPP RT LOG: All stats {"streamingtime":273.117919921875,"actualTtftFromStart":136.42919921875,"timeTillServerRequest":57.2294921875,"requestToTtft":79.19970703125,"totalTime":330.267822265625}
+2025-09-04 16:55:13.662 [info] CURSOR LOG: requestId 9024c516-257e-4d15-a3c2-5de3db0221bf  
+2025-09-04 16:55:13.824 [info] CURSOR LOG: Done streaming cpp with id 9024c516-257e-4d15-a3c2-5de3db0221bf
+2025-09-04 16:55:13.824 [info] CPP RT LOG: Time taken for streaming cpp 164.45703125 with request 9024c516-257e-4d15-a3c2-5de3db0221bf
+2025-09-04 16:55:13.824 [info] CPP Request Log with id 9024c516-257e-4d15-a3c2-5de3db0221bf
+2025-09-04 16:55:13.824 [info] =======>Model output 
+@@ /home/aaron/.cursor/mcp.json:6
+-|"--server", "http://localhost:8888"],
++|"--server", "http://localhost:8888"],
+2025-09-04 16:55:13.824 [info] =======>Debug stream time 112.60883700009435
+2025-09-04 16:55:13.824 [info] =======>Debug ttft time 112.31795999966562
+2025-09-04 16:55:13.825 [info] Average of latest 20 ttft time 163.47753035705787
+2025-09-04 16:55:13.825 [info] Average of latest 20 stream time 163.7289204285771
+2025-09-04 16:55:13.825 [info] Average of latest 20 total time NaN
+2025-09-04 16:55:13.825 [info] Average of latest 20 client time 230.52096121651786
+2025-09-04 16:55:13.825 [info] Average of latest 20 discrepencies NaN
+2025-09-04 16:55:13.825 [info] CPP RT LOG: All stats {"streamingtime":164.45703125,"actualTtftFromStart":106.7099609375,"timeTillServerRequest":56.062255859375,"requestToTtft":50.647705078125,"totalTime":220.45556640625}
+2025-09-04 16:55:16.244 [info] CURSOR LOG: requestId 1044aa4a-e04c-4c5d-b483-da4c0c48fef0  
+2025-09-04 16:55:16.417 [info] CURSOR LOG: Done streaming cpp with id 1044aa4a-e04c-4c5d-b483-da4c0c48fef0
+2025-09-04 16:55:16.417 [info] CPP RT LOG: Time taken for streaming cpp 175.17578125 with request 1044aa4a-e04c-4c5d-b483-da4c0c48fef0
+2025-09-04 16:55:16.417 [info] CPP Request Log with id 1044aa4a-e04c-4c5d-b483-da4c0c48fef0
+2025-09-04 16:55:16.417 [info] =======>Model output 
+@@ /home/aaron/.cursor/mcp.json:6
+-|"--server", "http://localhost:888"],
++|"--server", "http://localhost:8888"],
+2025-09-04 16:55:16.417 [info] =======>Debug stream time 121.50792400003411
+2025-09-04 16:55:16.417 [info] =======>Debug ttft time 121.2384810000658
+2025-09-04 16:55:16.418 [info] Average of latest 20 ttft time 160.6615937332584
+2025-09-04 16:55:16.418 [info] Average of latest 20 stream time 160.91418733334092
+2025-09-04 16:55:16.418 [info] Average of latest 20 total time NaN
+2025-09-04 16:55:16.418 [info] Average of latest 20 client time 226.83128255208334
+2025-09-04 16:55:16.418 [info] Average of latest 20 discrepencies NaN
+2025-09-04 16:55:16.418 [info] CPP RT LOG: All stats {"streamingtime":175.17578125,"actualTtftFromStart":116.0517578125,"timeTillServerRequest":52.05419921875,"requestToTtft":63.99755859375,"totalTime":227.178466796875}
+2025-09-04 16:55:16.617 [info] CURSOR LOG: requestId 1174bcda-cecf-4120-b349-54e07531108f  
+2025-09-04 16:55:16.771 [info] CURSOR LOG: Done streaming cpp with id 1174bcda-cecf-4120-b349-54e07531108f
+2025-09-04 16:55:16.771 [info] CPP RT LOG: Time taken for streaming cpp 155.67578125 with request 1174bcda-cecf-4120-b349-54e07531108f
+2025-09-04 16:55:16.771 [info] CPP Request Log with id 1174bcda-cecf-4120-b349-54e07531108f
+2025-09-04 16:55:16.771 [info] =======>Model output 
+@@ /home/aaron/.cursor/mcp.json:6
+-|"--server", "http://localhost:8881"],
++|"--server", "http://localhost:8881"],
+2025-09-04 16:55:16.771 [info] =======>Debug stream time 102.61044800002128
+2025-09-04 16:55:16.771 [info] =======>Debug ttft time 102.361983000068
+2025-09-04 16:55:16.772 [info] Average of latest 20 ttft time 157.017868062434
+2025-09-04 16:55:16.772 [info] Average of latest 20 stream time 157.27020362500843
+2025-09-04 16:55:16.772 [info] Average of latest 20 total time NaN
+2025-09-04 16:55:16.772 [info] Average of latest 20 client time 222.38406372070312
+2025-09-04 16:55:16.772 [info] Average of latest 20 discrepencies NaN
+2025-09-04 16:55:16.772 [info] CPP RT LOG: All stats {"streamingtime":155.67578125,"actualTtftFromStart":105.864013671875,"timeTillServerRequest":51.900634765625,"requestToTtft":53.96337890625,"totalTime":207.506591796875}
+2025-09-04 16:55:24.527 [info] CURSOR LOG: requestId 30fb8796-385e-49ab-8186-4eb8186160bf  
+2025-09-04 16:55:24.815 [info] CURSOR LOG: Done streaming cpp with id 30fb8796-385e-49ab-8186-4eb8186160bf
+2025-09-04 16:55:24.815 [info] CPP RT LOG: Time taken for streaming cpp 290.593994140625 with request 30fb8796-385e-49ab-8186-4eb8186160bf
+2025-09-04 16:55:24.816 [info] CPP Request Log with id 30fb8796-385e-49ab-8186-4eb8186160bf
+2025-09-04 16:55:24.816 [info] =======>Model output 
+@@ /home/aaron/.cursor/mcp.json:6
+-|"--server", "http://localhost:8881"],
++|"--server", "http://localhost:8881"],
+2025-09-04 16:55:24.816 [info] =======>Debug stream time 242.25565199996345
+2025-09-04 16:55:24.816 [info] =======>Debug ttft time 242.01093500014395
+2025-09-04 16:55:24.816 [info] Average of latest 20 ttft time 162.01746023524046
+2025-09-04 16:55:24.816 [info] Average of latest 20 stream time 162.26934764706462
+2025-09-04 16:55:24.816 [info] Average of latest 20 total time NaN
+2025-09-04 16:55:24.816 [info] Average of latest 20 client time 226.3964125689338
+2025-09-04 16:55:24.817 [info] Average of latest 20 discrepencies NaN
+2025-09-04 16:55:24.817 [info] CPP RT LOG: All stats {"streamingtime":290.593994140625,"actualTtftFromStart":109.9462890625,"timeTillServerRequest":61.04296875,"requestToTtft":48.9033203125,"totalTime":351.58447265625}
+2025-09-04 16:55:32.782 [info] CURSOR LOG: requestId a43676a4-4325-478d-b737-1bdde1008dd0  
+2025-09-04 16:55:32.918 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-09-04 16:55:32.969 [info] CURSOR LOG: requestId 9d98bafe-0da3-4889-aa4e-039d415bb52a  
+2025-09-04 16:55:33.091 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-09-04 16:55:33.142 [info] CURSOR LOG: requestId e248624b-aa73-4944-a813-0d5a75740663  
+2025-09-04 16:55:33.235 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-09-04 16:55:33.289 [info] CURSOR LOG: requestId 173732dd-f885-466f-b615-e1cff0859e54  
+2025-09-04 16:55:33.379 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-09-04 16:55:33.430 [info] CURSOR LOG: requestId 201a9d71-da1e-4e85-b534-9fac6aab79cb  
+2025-09-04 16:55:33.523 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-09-04 16:55:33.575 [info] CURSOR LOG: requestId fdf97cd6-1580-4104-a107-5eb4871e6727  
+2025-09-04 16:55:33.667 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-09-04 16:55:33.720 [info] CURSOR LOG: requestId ccb64f58-dfa7-459c-b10b-438650394f38  
+2025-09-04 16:55:33.803 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-09-04 16:55:33.855 [info] CURSOR LOG: requestId b9956a08-1673-4962-838f-1600b82f9207  
+2025-09-04 16:55:34.070 [info] CURSOR LOG: Done streaming cpp with id b9956a08-1673-4962-838f-1600b82f9207
+2025-09-04 16:55:34.070 [info] CPP RT LOG: Time taken for streaming cpp 216.507080078125 with request b9956a08-1673-4962-838f-1600b82f9207
+2025-09-04 16:55:34.070 [info] CPP Request Log with id b9956a08-1673-4962-838f-1600b82f9207
+2025-09-04 16:55:34.070 [info] =======>Model output 
+@@ /home/aaron/.cursor/mcp.json:6
+-|"--server", "http://l:8881"],
++|"--server", "http://192.168.1.100:8881"],
+2025-09-04 16:55:34.070 [info] =======>Debug stream time 169.94572100043297
+2025-09-04 16:55:34.070 [info] =======>Debug ttft time 169.57413700036705
+2025-09-04 16:55:34.071 [info] Average of latest 20 ttft time 162.43727561108082
+2025-09-04 16:55:34.071 [info] Average of latest 20 stream time 162.69581283336285
+2025-09-04 16:55:34.071 [info] Average of latest 20 total time NaN
+2025-09-04 16:55:34.071 [info] Average of latest 20 client time 225.84700520833334
+2025-09-04 16:55:34.071 [info] Average of latest 20 discrepencies NaN
+2025-09-04 16:55:34.071 [info] CPP RT LOG: All stats {"streamingtime":216.507080078125,"actualTtftFromStart":95.457275390625,"timeTillServerRequest":52.164306640625,"requestToTtft":43.29296875,"totalTime":268.60791015625}
+2025-09-04 16:55:34.234 [info] CURSOR LOG: requestId e45aa0d3-3a1d-4be1-a667-eafaf4a29a44  
+2025-09-04 16:55:34.439 [info] CURSOR LOG: Done streaming cpp with id e45aa0d3-3a1d-4be1-a667-eafaf4a29a44
+2025-09-04 16:55:34.439 [info] CPP RT LOG: Time taken for streaming cpp 206.452392578125 with request e45aa0d3-3a1d-4be1-a667-eafaf4a29a44
+2025-09-04 16:55:34.439 [info] CPP Request Log with id e45aa0d3-3a1d-4be1-a667-eafaf4a29a44
+2025-09-04 16:55:34.439 [info] =======>Model output 
+@@ /home/aaron/.cursor/mcp.json:6
+-|"--server", "http://:8881"],
++|"--server", "http://192.168.1.100:8881"],
+2025-09-04 16:55:34.439 [info] =======>Debug stream time 161.01495500002056
+2025-09-04 16:55:34.439 [info] =======>Debug ttft time 160.73412000015378
+2025-09-04 16:55:34.440 [info] Average of latest 20 ttft time 162.34763584208466
+2025-09-04 16:55:34.440 [info] Average of latest 20 stream time 162.607346631608
+2025-09-04 16:55:34.440 [info] Average of latest 20 total time NaN
+2025-09-04 16:55:34.440 [info] Average of latest 20 client time 224.8262361225329
+2025-09-04 16:55:34.440 [info] Average of latest 20 discrepencies NaN
+2025-09-04 16:55:34.440 [info] CPP RT LOG: All stats {"streamingtime":206.452392578125,"actualTtftFromStart":107.785888671875,"timeTillServerRequest":60.476806640625,"requestToTtft":47.30908203125,"totalTime":266.890380859375}
+2025-09-04 16:55:36.529 [info] CURSOR LOG: requestId f0351f82-d545-419d-a9f5-14b1ee623148  
+2025-09-04 16:55:36.719 [info] CURSOR LOG: Done streaming cpp with id f0351f82-d545-419d-a9f5-14b1ee623148
+2025-09-04 16:55:36.719 [info] CPP RT LOG: Time taken for streaming cpp 191.364501953125 with request f0351f82-d545-419d-a9f5-14b1ee623148
+2025-09-04 16:55:36.719 [info] CPP Request Log with id f0351f82-d545-419d-a9f5-14b1ee623148
+2025-09-04 16:55:36.719 [info] =======>Model output 
+@@ /home/aaron/.cursor/mcp.json:6
+-|"--server", "http://12:8881"],
++|"--server", "http://127.0.0.1:8881"],
+2025-09-04 16:55:36.719 [info] =======>Debug stream time 144.94286699965596
+2025-09-04 16:55:36.719 [info] =======>Debug ttft time 144.65423600003123
+2025-09-04 16:55:36.720 [info] Average of latest 20 ttft time 161.462965849982
+2025-09-04 16:55:36.720 [info] Average of latest 20 stream time 161.7241226500104
+2025-09-04 16:55:36.720 [info] Average of latest 20 total time NaN
+2025-09-04 16:55:36.720 [info] Average of latest 20 client time 223.1531494140625
+2025-09-04 16:55:36.720 [info] Average of latest 20 discrepencies NaN
+2025-09-04 16:55:36.720 [info] CPP RT LOG: All stats {"streamingtime":191.364501953125,"actualTtftFromStart":111.110595703125,"timeTillServerRequest":65.55126953125,"requestToTtft":45.559326171875,"totalTime":256.871337890625}
+2025-09-04 16:55:54.865 [info] CURSOR LOG: requestId 9ab31dae-3133-42a4-88d7-cb44b56b8e6b  
+2025-09-04 16:55:55.021 [info] CURSOR LOG: Done streaming cpp with id 9ab31dae-3133-42a4-88d7-cb44b56b8e6b
+2025-09-04 16:55:55.022 [info] CPP RT LOG: Time taken for streaming cpp 157.869384765625 with request 9ab31dae-3133-42a4-88d7-cb44b56b8e6b
+2025-09-04 16:55:55.022 [info] CPP Request Log with id 9ab31dae-3133-42a4-88d7-cb44b56b8e6b
+2025-09-04 16:55:55.022 [info] =======>Model output 
+@@ /home/aaron/.cursor/mcp.json:6
+-|"--server", "http://127.0.0.1:8881"],
++|"--server", "http://127.0.0.1:8881"],
+2025-09-04 16:55:55.022 [info] =======>Debug stream time 110.94628400006332
+2025-09-04 16:55:55.022 [info] =======>Debug ttft time 110.64702900010161
+2025-09-04 16:55:55.022 [info] Average of latest 20 ttft time 160.0808340999909
+2025-09-04 16:55:55.022 [info] Average of latest 20 stream time 160.34612130001477
+2025-09-04 16:55:55.022 [info] Average of latest 20 total time NaN
+2025-09-04 16:55:55.022 [info] Average of latest 20 client time 212.6982421875
+2025-09-04 16:55:55.023 [info] Average of latest 20 discrepencies NaN
+2025-09-04 16:55:55.023 [info] CPP RT LOG: All stats {"streamingtime":157.869384765625,"actualTtftFromStart":119.11865234375,"timeTillServerRequest":72.973876953125,"requestToTtft":46.144775390625,"totalTime":230.79833984375}
+2025-09-04 16:55:57.525 [info] CURSOR LOG: requestId 52ca83c5-ab21-4058-9c51-24685662636a  
+2025-09-04 16:55:57.804 [info] CURSOR LOG: Done streaming cpp with id 52ca83c5-ab21-4058-9c51-24685662636a
+2025-09-04 16:55:57.804 [info] CPP RT LOG: Time taken for streaming cpp 281.239990234375 with request 52ca83c5-ab21-4058-9c51-24685662636a
+2025-09-04 16:55:57.804 [info] CPP Request Log with id 52ca83c5-ab21-4058-9c51-24685662636a
+2025-09-04 16:55:57.804 [info] =======>Model output 
+@@ /home/aaron/.cursor/mcp.json:7
+-|      "description": "HexStrike AI v6.0 - Advanced Cybersecurity Automation Platform"
++|      "description": "HexStrike AI v6.0 - Advanced Cybersecurity Automation Platform"
+2025-09-04 16:55:57.804 [info] =======>Debug stream time 212.45268200000282
+2025-09-04 16:55:57.805 [info] =======>Debug ttft time 212.20511600002646
+2025-09-04 16:55:57.806 [info] Average of latest 20 ttft time 164.39767235002074
+2025-09-04 16:55:57.806 [info] Average of latest 20 stream time 164.65769150003035
+2025-09-04 16:55:57.806 [info] Average of latest 20 total time NaN
+2025-09-04 16:55:57.806 [info] Average of latest 20 client time 217.67362060546876
+2025-09-04 16:55:57.806 [info] Average of latest 20 discrepencies NaN
+2025-09-04 16:55:57.806 [info] CPP RT LOG: All stats {"streamingtime":281.239990234375,"actualTtftFromStart":125.212890625,"timeTillServerRequest":54.9560546875,"requestToTtft":70.2568359375,"totalTime":336.1435546875}
+2025-09-04 16:56:58.399 [info] CURSOR LOG: requestId ec6a878c-e7dd-4c96-8601-1fe25e5a0616  
+2025-09-04 16:56:58.739 [info] CURSOR LOG: Done streaming cpp with id ec6a878c-e7dd-4c96-8601-1fe25e5a0616
+2025-09-04 16:56:58.739 [info] CPP RT LOG: Time taken for streaming cpp 396.400146484375 with request ec6a878c-e7dd-4c96-8601-1fe25e5a0616
+2025-09-04 16:56:58.739 [info] CPP Request Log with id ec6a878c-e7dd-4c96-8601-1fe25e5a0616
+2025-09-04 16:56:58.739 [info] =======>Model output 
+@@ /home/aaron/.cursor/mcp.json:10
+-|      "description": "HexStrike AI v6.0 - Advanced 
+-|Cybersecurity Automation Platform",
++|      "description": "HexStrike AI v6.0 - Advanced Cybersecurity Automation Platform",
+2025-09-04 16:56:58.739 [info] =======>Debug stream time 158.57005199976265
+2025-09-04 16:56:58.739 [info] =======>Debug ttft time 158.33335999958217
+2025-09-04 16:56:58.740 [info] Average of latest 20 ttft time 161.30579795000668
+2025-09-04 16:56:58.740 [info] Average of latest 20 stream time 161.56333789999772
+2025-09-04 16:56:58.740 [info] Average of latest 20 total time NaN
+2025-09-04 16:56:58.740 [info] Average of latest 20 client time 224.044287109375
+2025-09-04 16:56:58.740 [info] Average of latest 20 discrepencies NaN
+2025-09-04 16:56:58.740 [info] CPP RT LOG: All stats {"streamingtime":396.400146484375,"actualTtftFromStart":328.33056640625,"timeTillServerRequest":89.356689453125,"requestToTtft":238.973876953125,"totalTime":485.7060546875}
+2025-09-04 16:57:00.696 [info] CURSOR LOG: requestId ad1eaef5-9ea3-425d-91ab-66408d1b6377  
+2025-09-04 16:57:00.992 [info] CURSOR LOG: Done streaming cpp with id ad1eaef5-9ea3-425d-91ab-66408d1b6377
+2025-09-04 16:57:00.992 [info] CPP RT LOG: Time taken for streaming cpp 298.05908203125 with request ad1eaef5-9ea3-425d-91ab-66408d1b6377
+2025-09-04 16:57:00.992 [info] CPP Request Log with id ad1eaef5-9ea3-425d-91ab-66408d1b6377
+2025-09-04 16:57:00.992 [info] =======>Model output 
+@@ /home/aaron/.cursor/mcp.json:8
+-|        "http://localhost:8888"
+-|      ],
+-|      "description": "HexStrike AI v6.0 - Advanced 
+-|Cybersecurity Automation Platform",
++|        "http://127.0.0.1:8881"
++|      ],
++|      "description": "HexStrike AI v6.0 - Advanced Cybersecurity Automation Platform",
+2025-09-04 16:57:00.992 [info] =======>Debug stream time 241.0023910002783
+2025-09-04 16:57:00.992 [info] =======>Debug ttft time 240.68247199989855
+2025-09-04 16:57:00.993 [info] Average of latest 20 ttft time 167.0754287000018
+2025-09-04 16:57:00.993 [info] Average of latest 20 stream time 167.33767545001174
+2025-09-04 16:57:00.993 [info] Average of latest 20 total time NaN
+2025-09-04 16:57:00.993 [info] Average of latest 20 client time 229.84769287109376
+2025-09-04 16:57:00.993 [info] Average of latest 20 discrepencies NaN
+2025-09-04 16:57:00.993 [info] CPP RT LOG: All stats {"streamingtime":298.05908203125,"actualTtftFromStart":112.138916015625,"timeTillServerRequest":55.197021484375,"requestToTtft":56.94189453125,"totalTime":353.206298828125}
+2025-09-04 16:57:01.879 [info] CURSOR LOG: requestId e0797196-5ece-4a1e-b06f-9b6d24ee3de9  
+2025-09-04 16:57:01.885 [info] CURSOR LOG: requestId cd4d8c1c-eaaa-4a5f-b9b7-86e769083c23  
+2025-09-04 16:57:02.093 [info] CURSOR LOG: Done streaming cpp with id cd4d8c1c-eaaa-4a5f-b9b7-86e769083c23
+2025-09-04 16:57:02.093 [info] CPP RT LOG: Time taken for streaming cpp 209.570556640625 with request cd4d8c1c-eaaa-4a5f-b9b7-86e769083c23
+2025-09-04 16:57:02.093 [info] CPP Request Log with id cd4d8c1c-eaaa-4a5f-b9b7-86e769083c23
+2025-09-04 16:57:02.093 [info] =======>Model output 
+@@ /home/aaron/.cursor/mcp.json:10
+-|      "description": "HexStrike AI v6.0 - Advanced 
+-|Cybersecurity Automation Platform",
++|      "description": "HexStrike AI v6.0 - Advanced Cybersecurity Automation Platform",
+2025-09-04 16:57:02.093 [info] =======>Debug stream time 164.5825879999902
+2025-09-04 16:57:02.093 [info] =======>Debug ttft time 164.35725700017065
+2025-09-04 16:57:02.094 [info] Average of latest 20 ttft time 169.05253250001115
+2025-09-04 16:57:02.094 [info] Average of latest 20 stream time 169.31633660001097
+2025-09-04 16:57:02.094 [info] Average of latest 20 total time NaN
+2025-09-04 16:57:02.094 [info] Average of latest 20 client time 231.027490234375
+2025-09-04 16:57:02.094 [info] Average of latest 20 discrepencies NaN
+2025-09-04 16:57:02.094 [info] CPP RT LOG: All stats {"streamingtime":209.570556640625,"actualTtftFromStart":130.113525390625,"timeTillServerRequest":84.622314453125,"requestToTtft":45.4912109375,"totalTime":294.150146484375}
+2025-09-04 16:57:02.171 [info] CURSOR LOG: Done streaming cpp with id e0797196-5ece-4a1e-b06f-9b6d24ee3de9
+2025-09-04 16:57:02.171 [info] CPP RT LOG: Time taken for streaming cpp 294.286376953125 with request e0797196-5ece-4a1e-b06f-9b6d24ee3de9
+2025-09-04 16:57:02.172 [info] CPP Request Log with id e0797196-5ece-4a1e-b06f-9b6d24ee3de9
+2025-09-04 16:57:02.172 [info] =======>Model output 
+@@ /home/aaron/.cursor/mcp.json:8
+-|        "http://localhost:888"
+-|      ],
+-|      "description": "HexStrike AI v6.0 - Advanced 
+-|Cybersecurity Automation Platform",
++|        "http://localhost:8881"
++|      ],
++|      "description": "HexStrike AI v6.0 - Advanced Cybersecurity Automation Platform",
+2025-09-04 16:57:02.172 [info] =======>Debug stream time 247.77976099960506
+2025-09-04 16:57:02.172 [info] =======>Debug ttft time 247.53813199978322
+2025-09-04 16:57:02.172 [info] Average of latest 20 ttft time 174.8517821999907
+2025-09-04 16:57:02.173 [info] Average of latest 20 stream time 175.11755769998416
+2025-09-04 16:57:02.173 [info] Average of latest 20 total time NaN
+2025-09-04 16:57:02.173 [info] Average of latest 20 client time 236.8576171875
+2025-09-04 16:57:02.173 [info] Average of latest 20 discrepencies NaN
+2025-09-04 16:57:02.173 [info] CPP RT LOG: All stats {"streamingtime":294.286376953125,"actualTtftFromStart":187.45654296875,"timeTillServerRequest":141.45361328125,"requestToTtft":46.0029296875,"totalTime":435.68408203125}
+2025-09-04 16:57:03.842 [info] CURSOR LOG: requestId a2cee6f3-e4ab-4f9d-b2fe-a6125240a02a  
+2025-09-04 16:57:04.013 [info] CURSOR LOG: Done streaming cpp with id a2cee6f3-e4ab-4f9d-b2fe-a6125240a02a
+2025-09-04 16:57:04.013 [info] CPP RT LOG: Time taken for streaming cpp 172.72216796875 with request a2cee6f3-e4ab-4f9d-b2fe-a6125240a02a
+2025-09-04 16:57:04.013 [info] CPP Request Log with id a2cee6f3-e4ab-4f9d-b2fe-a6125240a02a
+2025-09-04 16:57:04.013 [info] =======>Model output 
+@@ /home/aaron/.cursor/mcp.json:10
+-|      "description": "HexStrike AI v6.0 - Advanced 
+-|Cybersecurity Automation Platform",
++|      "description": "HexStrike AI v6.0 - Advanced Cybersecurity Automation Platform",
+2025-09-04 16:57:04.013 [info] =======>Debug stream time 122.45201999996789
+2025-09-04 16:57:04.013 [info] =======>Debug ttft time 122.20977400010452
+2025-09-04 16:57:04.014 [info] Average of latest 20 ttft time 170.31062444999117
+2025-09-04 16:57:04.014 [info] Average of latest 20 stream time 170.5733294999809
+2025-09-04 16:57:04.014 [info] Average of latest 20 total time NaN
+2025-09-04 16:57:04.014 [info] Average of latest 20 client time 232.44178466796876
+2025-09-04 16:57:04.014 [info] Average of latest 20 discrepencies NaN
+2025-09-04 16:57:04.014 [info] CPP RT LOG: All stats {"streamingtime":172.72216796875,"actualTtftFromStart":106.38134765625,"timeTillServerRequest":55.49853515625,"requestToTtft":50.8828125,"totalTime":228.169921875}
+2025-09-04 16:57:05.314 [info] CURSOR LOG: requestId 2635a67c-0bad-4d80-99c2-d8688ef156ab  
+2025-09-04 16:57:05.554 [info] CURSOR LOG: Done streaming cpp with id 2635a67c-0bad-4d80-99c2-d8688ef156ab
+2025-09-04 16:57:05.554 [info] CPP RT LOG: Time taken for streaming cpp 242.652099609375 with request 2635a67c-0bad-4d80-99c2-d8688ef156ab
+2025-09-04 16:57:05.555 [info] CPP Request Log with id 2635a67c-0bad-4d80-99c2-d8688ef156ab
+2025-09-04 16:57:05.555 [info] =======>Model output 
+@@ /home/aaron/.cursor/mcp.json:5
+-|
+-|"/home/aaron/git/hexstrike-ai/hexstrike_mcp.py",
++|        "/home/aaron/git/hexstrike-ai/hexstrike_mcp.py",
+2025-09-04 16:57:05.555 [info] =======>Debug stream time 196.7830840004608
+2025-09-04 16:57:05.555 [info] =======>Debug ttft time 196.522735000588
+2025-09-04 16:57:05.555 [info] Average of latest 20 ttft time 173.38948455002392
+2025-09-04 16:57:05.555 [info] Average of latest 20 stream time 173.65304790000664
+2025-09-04 16:57:05.555 [info] Average of latest 20 total time NaN
+2025-09-04 16:57:05.555 [info] Average of latest 20 client time 235.3294189453125
+2025-09-04 16:57:05.555 [info] Average of latest 20 discrepencies NaN
+2025-09-04 16:57:05.555 [info] CPP RT LOG: All stats {"streamingtime":242.652099609375,"actualTtftFromStart":99.971923828125,"timeTillServerRequest":53.218505859375,"requestToTtft":46.75341796875,"totalTime":295.815673828125}
+2025-09-04 16:57:08.291 [info] CURSOR LOG: requestId 1ab4a4a0-39cc-49f7-8899-8b8d33471507  
+2025-09-04 16:57:08.539 [info] CURSOR LOG: Done streaming cpp with id 1ab4a4a0-39cc-49f7-8899-8b8d33471507
+2025-09-04 16:57:08.539 [info] CPP RT LOG: Time taken for streaming cpp 249.950439453125 with request 1ab4a4a0-39cc-49f7-8899-8b8d33471507
+2025-09-04 16:57:08.539 [info] CPP Request Log with id 1ab4a4a0-39cc-49f7-8899-8b8d33471507
+2025-09-04 16:57:08.539 [info] =======>Model output 
+@@ /home/aaron/.cursor/mcp.json:5
+-|
+-|"/home/aaron/git/hexstrike-ai/hexstrike_mcp.py",
++|        "/home/aaron/git/hexstrike-ai/hexstrike_mcp.py",
+2025-09-04 16:57:08.540 [info] =======>Debug stream time 186.49731300002895
+2025-09-04 16:57:08.540 [info] =======>Debug ttft time 186.24422100000083
+2025-09-04 16:57:08.540 [info] Average of latest 20 ttft time 164.52479075002483
+2025-09-04 16:57:08.540 [info] Average of latest 20 stream time 164.78748105001287
+2025-09-04 16:57:08.540 [info] Average of latest 20 total time NaN
+2025-09-04 16:57:08.540 [info] Average of latest 20 client time 227.18016357421874
+2025-09-04 16:57:08.540 [info] Average of latest 20 discrepencies NaN
+2025-09-04 16:57:08.540 [info] CPP RT LOG: All stats {"streamingtime":249.950439453125,"actualTtftFromStart":120.679931640625,"timeTillServerRequest":56.743408203125,"requestToTtft":63.9365234375,"totalTime":306.645751953125}
+2025-09-04 16:57:22.057 [info] CURSOR LOG: requestId a1b9d73c-0aa4-49ef-964e-7c77e3a77319  
+2025-09-04 16:57:22.347 [info] CURSOR LOG: Done streaming cpp with id a1b9d73c-0aa4-49ef-964e-7c77e3a77319
+2025-09-04 16:57:22.347 [info] CPP RT LOG: Time taken for streaming cpp 292.562255859375 with request a1b9d73c-0aa4-49ef-964e-7c77e3a77319
+2025-09-04 16:57:22.348 [info] CPP Request Log with id a1b9d73c-0aa4-49ef-964e-7c77e3a77319
+2025-09-04 16:57:22.348 [info] =======>Model output 
+@@ /home/aaron/.cursor/mcp.json:5
+-|
+-|"/home/aaron/git/hexstrike-ai/hexstrike_mcp.py",
++|        "/home/aaron/git/hexstrike-ai/hexstrike_mcp.py",
+2025-09-04 16:57:22.348 [info] =======>Debug stream time 239.9837609999813
+2025-09-04 16:57:22.348 [info] =======>Debug ttft time 239.68397599994205
+2025-09-04 16:57:22.348 [info] Average of latest 20 ttft time 168.59237695001647
+2025-09-04 16:57:22.348 [info] Average of latest 20 stream time 168.85979265000788
+2025-09-04 16:57:22.348 [info] Average of latest 20 total time NaN
+2025-09-04 16:57:22.348 [info] Average of latest 20 client time 231.41824951171876
+2025-09-04 16:57:22.348 [info] Average of latest 20 discrepencies NaN
+2025-09-04 16:57:22.348 [info] CPP RT LOG: All stats {"streamingtime":292.562255859375,"actualTtftFromStart":117.2470703125,"timeTillServerRequest":64.925537109375,"requestToTtft":52.321533203125,"totalTime":357.439208984375}
+2025-09-04 16:57:34.567 [info] CURSOR LOG: requestId bbd3e0a4-0095-4384-bdfd-744ac5f68678  
+2025-09-04 16:57:34.702 [info] CURSOR LOG: Done streaming cpp with id bbd3e0a4-0095-4384-bdfd-744ac5f68678
+2025-09-04 16:57:34.702 [info] CPP RT LOG: Time taken for streaming cpp 136.4326171875 with request bbd3e0a4-0095-4384-bdfd-744ac5f68678
+2025-09-04 16:57:34.702 [info] CPP Request Log with id bbd3e0a4-0095-4384-bdfd-744ac5f68678
+2025-09-04 16:57:34.702 [info] =======>Model output 
+
+2025-09-04 16:57:34.702 [info] =======>Debug stream time 90.37313399999402
+2025-09-04 16:57:34.704 [info] CURSOR LOG: Error in streaming cpp (connect error) [unavailable] Error
+2025-09-04 16:57:55.552 [info] CURSOR LOG: requestId 90fa6143-dcae-4024-8ada-b17b24861b56  
+2025-09-04 16:57:55.802 [info] CURSOR LOG: Done streaming cpp with id 90fa6143-dcae-4024-8ada-b17b24861b56
+2025-09-04 16:57:55.802 [info] CPP RT LOG: Time taken for streaming cpp 252.03564453125 with request 90fa6143-dcae-4024-8ada-b17b24861b56
+2025-09-04 16:57:55.802 [info] CPP Request Log with id 90fa6143-dcae-4024-8ada-b17b24861b56
+2025-09-04 16:57:55.802 [info] =======>Model output 
+@@ /home/aaron/.cursor/mcp.json:5
+-|
+-|"/home/aaron/git/hexstrike-ai/hexstrike_mcp.py",
++|        "/home/aaron/git/hexstrike-ai/hexstrike_mcp.py",
+2025-09-04 16:57:55.802 [info] =======>Debug stream time 199.17947700014338
+2025-09-04 16:57:55.802 [info] =======>Debug ttft time 198.94632200011984
+2025-09-04 16:57:55.803 [info] Average of latest 20 ttft time 171.4964084000152
+2025-09-04 16:57:55.803 [info] Average of latest 20 stream time 170.98401130000713
+2025-09-04 16:57:55.803 [info] Average of latest 20 total time NaN
+2025-09-04 16:57:55.803 [info] Average of latest 20 client time 234.21961669921876
+2025-09-04 16:57:55.803 [info] Average of latest 20 discrepencies NaN
+2025-09-04 16:57:55.803 [info] CPP RT LOG: All stats {"streamingtime":252.03564453125,"actualTtftFromStart":106.2021484375,"timeTillServerRequest":54.478759765625,"requestToTtft":51.723388671875,"totalTime":306.4638671875}
+2025-09-04 16:57:56.457 [info] CURSOR LOG: requestId dcb66516-b5f2-40c2-aa94-2f2e6995c54d  
+2025-09-04 16:57:56.651 [info] CURSOR LOG: Done streaming cpp with id dcb66516-b5f2-40c2-aa94-2f2e6995c54d
+2025-09-04 16:57:56.651 [info] CPP RT LOG: Time taken for streaming cpp 193.872802734375 with request dcb66516-b5f2-40c2-aa94-2f2e6995c54d
+2025-09-04 16:57:56.651 [info] CPP Request Log with id dcb66516-b5f2-40c2-aa94-2f2e6995c54d
+2025-09-04 16:57:56.652 [info] =======>Model output 
+@@ /home/aaron/.cursor/mcp.json:10
+-|      "description": "HexStrike AI v6.0 - Advanced 
+-|Cybersecurity Automation Platform",
++|      "description": "HexStrike AI v6.0 - Advanced Cybersecurity Automation Platform",
+2025-09-04 16:57:56.652 [info] =======>Debug stream time 140.6373029993847
+2025-09-04 16:57:56.652 [info] =======>Debug ttft time 140.38958099950105
+2025-09-04 16:57:56.652 [info] Average of latest 20 ttft time 173.23030889999353
+2025-09-04 16:57:56.652 [info] Average of latest 20 stream time 168.3063126999943
+2025-09-04 16:57:56.652 [info] Average of latest 20 total time NaN
+2025-09-04 16:57:56.652 [info] Average of latest 20 client time 235.728271484375
+2025-09-04 16:57:56.652 [info] Average of latest 20 discrepencies NaN
+2025-09-04 16:57:56.652 [info] CPP RT LOG: All stats {"streamingtime":193.872802734375,"actualTtftFromStart":104.08154296875,"timeTillServerRequest":53.200439453125,"requestToTtft":50.881103515625,"totalTime":247.008056640625}
+2025-09-04 16:57:56.810 [info] CURSOR LOG: requestId e72d2c91-08ce-488a-a247-cb3037b9410a  
+2025-09-04 16:57:57.086 [info] CURSOR LOG: Done streaming cpp with id e72d2c91-08ce-488a-a247-cb3037b9410a
+2025-09-04 16:57:57.086 [info] CPP RT LOG: Time taken for streaming cpp 278.521484375 with request e72d2c91-08ce-488a-a247-cb3037b9410a
+2025-09-04 16:57:57.086 [info] CPP Request Log with id e72d2c91-08ce-488a-a247-cb3037b9410a
+2025-09-04 16:57:57.086 [info] =======>Model output 
+@@ /home/aaron/.cursor/mcp.json:8
+-|        "http://localhost:888"
+-|      ],
+-|      "description": "HexStrike AI v6.0 - Advanced 
+-|Cybersecurity Automation Platform",
++|        "http://localhost:8888"
++|      ],
++|      "description": "HexStrike AI v6.0 - Advanced Cybersecurity Automation Platform",
+2025-09-04 16:57:57.086 [info] =======>Debug stream time 227.8540919998195
+2025-09-04 16:57:57.086 [info] =======>Debug ttft time 227.4916769999545
+2025-09-04 16:57:57.087 [info] Average of latest 20 ttft time 174.90717520001346
+2025-09-04 16:57:57.087 [info] Average of latest 20 stream time 174.06857544998056
+2025-09-04 16:57:57.087 [info] Average of latest 20 total time NaN
+2025-09-04 16:57:57.087 [info] Average of latest 20 client time 235.99844970703126
+2025-09-04 16:57:57.087 [info] Average of latest 20 discrepencies NaN
+2025-09-04 16:57:57.087 [info] CPP RT LOG: All stats {"streamingtime":278.521484375,"actualTtftFromStart":104.473876953125,"timeTillServerRequest":53.050537109375,"requestToTtft":51.42333984375,"totalTime":331.5126953125}
+2025-09-04 16:57:57.104 [info] CURSOR LOG: requestId b29218e8-1222-42b8-9edb-059424baee45  
+2025-09-04 16:57:57.346 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-09-04 16:57:57.395 [info] CURSOR LOG: requestId c3b46c88-fcde-4a0f-92df-d2ad08938a42  
+2025-09-04 16:57:57.603 [info] CURSOR LOG: Done streaming cpp with id c3b46c88-fcde-4a0f-92df-d2ad08938a42
+2025-09-04 16:57:57.603 [info] CPP RT LOG: Time taken for streaming cpp 209.42041015625 with request c3b46c88-fcde-4a0f-92df-d2ad08938a42
+2025-09-04 16:57:57.603 [info] CPP Request Log with id c3b46c88-fcde-4a0f-92df-d2ad08938a42
+2025-09-04 16:57:57.603 [info] =======>Model output 
+@@ /home/aaron/.cursor/mcp.json:10
+-|        "description": "HexStrike AI v6.0 - Advanced 
+-|  Cybersecurity Automation Platform",
++|        "description": "HexStrike AI v6.0 - Advanced Cybersecurity Automation Platform",
+2025-09-04 16:57:57.603 [info] =======>Debug stream time 163.3444900000468
+2025-09-04 16:57:57.603 [info] =======>Debug ttft time 163.09944600006565
+2025-09-04 16:57:57.604 [info] Average of latest 20 ttft time 177.44624950003345
+2025-09-04 16:57:57.604 [info] Average of latest 20 stream time 176.16040374998119
+2025-09-04 16:57:57.604 [info] Average of latest 20 total time NaN
+2025-09-04 16:57:57.604 [info] Average of latest 20 client time 238.24661865234376
+2025-09-04 16:57:57.604 [info] Average of latest 20 discrepencies NaN
+2025-09-04 16:57:57.604 [info] CPP RT LOG: All stats {"streamingtime":209.42041015625,"actualTtftFromStart":100.325439453125,"timeTillServerRequest":52.83203125,"requestToTtft":47.493408203125,"totalTime":262.193603515625}
+2025-09-04 16:58:46.646 [info] CURSOR LOG: requestId c438a148-667b-41f1-9efa-9860ab8ba1a0  
+2025-09-04 16:58:47.034 [info] CURSOR LOG: Done streaming cpp with id c438a148-667b-41f1-9efa-9860ab8ba1a0
+2025-09-04 16:58:47.034 [info] CPP RT LOG: Time taken for streaming cpp 389.399169921875 with request c438a148-667b-41f1-9efa-9860ab8ba1a0
+2025-09-04 16:58:47.034 [info] CPP Request Log with id c438a148-667b-41f1-9efa-9860ab8ba1a0
+2025-09-04 16:58:47.034 [info] =======>Model output 
+@@ /home/aaron/.cursor/mcp.json:6
+-|"--server", "http://127.0.0.1:8881"],
++|"--server", "http://127.0.0.1:8881"],
+2025-09-04 16:58:47.034 [info] =======>Debug stream time 140.16490800026804
+2025-09-04 16:58:47.034 [info] =======>Debug ttft time 139.9381610006094
+2025-09-04 16:58:47.035 [info] Average of latest 20 ttft time 178.38123350006063
+2025-09-04 16:58:47.035 [info] Average of latest 20 stream time 178.03812674999352
+2025-09-04 16:58:47.035 [info] Average of latest 20 total time NaN
+2025-09-04 16:58:47.035 [info] Average of latest 20 client time 248.9577880859375
+2025-09-04 16:58:47.035 [info] Average of latest 20 discrepencies NaN
+2025-09-04 16:58:47.035 [info] CPP RT LOG: All stats {"streamingtime":389.399169921875,"actualTtftFromStart":318.994873046875,"timeTillServerRequest":66.597900390625,"requestToTtft":252.39697265625,"totalTime":455.94189453125}
+2025-09-04 16:58:52.033 [info] CURSOR LOG: requestId c37a3f0b-9814-4041-85df-c17725f3c115  
+2025-09-04 16:58:52.193 [info] CURSOR LOG: Done streaming cpp with id c37a3f0b-9814-4041-85df-c17725f3c115
+2025-09-04 16:58:52.193 [info] CPP RT LOG: Time taken for streaming cpp 162.85498046875 with request c37a3f0b-9814-4041-85df-c17725f3c115
+2025-09-04 16:58:52.193 [info] CPP Request Log with id c37a3f0b-9814-4041-85df-c17725f3c115
+2025-09-04 16:58:52.193 [info] =======>Model output 
+@@ /home/aaron/.cursor/mcp.json:6
+-|"--server", "http://127.0.0.1:8881"],
++|"--server", "http://127.0.0.1:8881"],
+2025-09-04 16:58:52.194 [info] =======>Debug stream time 114.77074100007303
+2025-09-04 16:58:52.194 [info] =======>Debug ttft time 114.53902200004086
+2025-09-04 16:58:52.194 [info] Average of latest 20 ttft time 178.99008545005927
+2025-09-04 16:58:52.194 [info] Average of latest 20 stream time 171.66388119999903
+2025-09-04 16:58:52.194 [info] Average of latest 20 total time NaN
+2025-09-04 16:58:52.194 [info] Average of latest 20 client time 249.316748046875
+2025-09-04 16:58:52.194 [info] Average of latest 20 discrepencies NaN
+2025-09-04 16:58:52.194 [info] CPP RT LOG: All stats {"streamingtime":162.85498046875,"actualTtftFromStart":106.611083984375,"timeTillServerRequest":59.23095703125,"requestToTtft":47.380126953125,"totalTime":222.030517578125}
+2025-09-04 17:01:18.862 [info] CURSOR LOG: requestId 1aa51414-71d8-4839-afdf-04a99a01ca6b  
+2025-09-04 17:01:19.057 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-09-04 17:01:19.123 [info] CURSOR LOG: requestId cd374763-03f9-4d0b-b8c5-659eaf7d9484  
+2025-09-04 17:01:19.316 [info] CURSOR LOG: Done streaming cpp with id cd374763-03f9-4d0b-b8c5-659eaf7d9484
+2025-09-04 17:01:19.316 [info] CPP RT LOG: Time taken for streaming cpp 195.56005859375 with request cd374763-03f9-4d0b-b8c5-659eaf7d9484
+2025-09-04 17:01:19.317 [info] CPP Request Log with id cd374763-03f9-4d0b-b8c5-659eaf7d9484
+2025-09-04 17:01:19.317 [info] =======>Model output 
+@@ /home/aaron/.cursor/mcp.json:0
+-|{
++|{
+2025-09-04 17:01:19.317 [info] =======>Debug stream time 144.40822799969465
+2025-09-04 17:01:19.317 [info] =======>Debug ttft time 144.16785500012338
+2025-09-04 17:01:19.317 [info] Average of latest 20 ttft time 174.09793145005824
+2025-09-04 17:01:19.317 [info] Average of latest 20 stream time 170.3870065499621
+2025-09-04 17:01:19.317 [info] Average of latest 20 total time NaN
+2025-09-04 17:01:19.317 [info] Average of latest 20 client time 244.56505126953124
+2025-09-04 17:01:19.317 [info] Average of latest 20 discrepencies NaN
+2025-09-04 17:01:19.317 [info] CPP RT LOG: All stats {"streamingtime":195.56005859375,"actualTtftFromStart":129.153564453125,"timeTillServerRequest":55.8056640625,"requestToTtft":73.347900390625,"totalTime":251.312744140625}
+2025-09-04 17:01:23.429 [info] CURSOR LOG: requestId 34b292e6-a6e9-46e9-b30a-61434a6af329  
+2025-09-04 17:01:23.630 [info] CURSOR LOG: Done streaming cpp with id 34b292e6-a6e9-46e9-b30a-61434a6af329
+2025-09-04 17:01:23.630 [info] CPP RT LOG: Time taken for streaming cpp 203.958984375 with request 34b292e6-a6e9-46e9-b30a-61434a6af329
+2025-09-04 17:01:23.630 [info] CPP Request Log with id 34b292e6-a6e9-46e9-b30a-61434a6af329
+2025-09-04 17:01:23.630 [info] =======>Model output 
+@@ /home/aaron/.cursor/mcp.json:20
+-|      "description": "HexStrike AI v6.0 - Advanced 
+-|Cybersecurity Automation Platform"
++|      "description": "HexStrike AI v6.0 - Advanced Cybersecurity Automation Platform"
+2025-09-04 17:01:23.630 [info] =======>Debug stream time 146.2602959999349
+2025-09-04 17:01:23.630 [info] =======>Debug ttft time 145.95852599991485
+2025-09-04 17:01:23.631 [info] Average of latest 20 ttft time 172.91715090003564
+2025-09-04 17:01:23.631 [info] Average of latest 20 stream time 169.6492735999578
+2025-09-04 17:01:23.631 [info] Average of latest 20 total time NaN
+2025-09-04 17:01:23.631 [info] Average of latest 20 client time 243.937646484375
+2025-09-04 17:01:23.631 [info] Average of latest 20 discrepencies NaN
+2025-09-04 17:01:23.631 [info] CPP RT LOG: All stats {"streamingtime":203.958984375,"actualTtftFromStart":114.957275390625,"timeTillServerRequest":57.810302734375,"requestToTtft":57.14697265625,"totalTime":261.70361328125}
+2025-09-04 17:01:24.829 [info] CURSOR LOG: requestId b7aa7ef1-88c3-4c27-a84a-eeebf24f49d2  
+2025-09-04 17:01:24.972 [info] CURSOR LOG: Done streaming cpp with id b7aa7ef1-88c3-4c27-a84a-eeebf24f49d2
+2025-09-04 17:01:24.972 [info] CPP RT LOG: Time taken for streaming cpp 144.482177734375 with request b7aa7ef1-88c3-4c27-a84a-eeebf24f49d2
+2025-09-04 17:01:24.972 [info] CPP Request Log with id b7aa7ef1-88c3-4c27-a84a-eeebf24f49d2
+2025-09-04 17:01:24.972 [info] =======>Model output 
+
+2025-09-04 17:01:24.972 [info] =======>Debug stream time 95.86685399990529
+2025-09-04 17:01:24.974 [info] Average of latest 20 ttft time 172.91715090003564
+2025-09-04 17:01:24.974 [info] Average of latest 20 stream time 167.19547294997028
+2025-09-04 17:01:24.974 [info] Average of latest 20 total time NaN
+2025-09-04 17:01:24.974 [info] Average of latest 20 client time 240.8391357421875
+2025-09-04 17:01:24.974 [info] Average of latest 20 discrepencies NaN
+2025-09-04 17:01:24.974 [info] CPP RT LOG: All stats {"streamingtime":144.482177734375,"actualTtftFromStart":103.259521484375,"timeTillServerRequest":52.260498046875,"requestToTtft":50.9990234375,"totalTime":196.6904296875}
+2025-09-04 17:01:34.001 [info] CURSOR LOG: requestId e5046898-adcf-40b5-bd66-e372630ec974  
+2025-09-04 17:01:34.316 [info] CURSOR LOG: Done streaming cpp with id e5046898-adcf-40b5-bd66-e372630ec974
+2025-09-04 17:01:34.316 [info] CPP RT LOG: Time taken for streaming cpp 316.86669921875 with request e5046898-adcf-40b5-bd66-e372630ec974
+2025-09-04 17:01:34.317 [info] CPP Request Log with id e5046898-adcf-40b5-bd66-e372630ec974
+2025-09-04 17:01:34.317 [info] =======>Model output 
+@@ /home/aaron/.cursor/mcp.json:11
+-|{
++|
+2025-09-04 17:01:34.317 [info] =======>Debug stream time 107.63111600000411
+2025-09-04 17:01:34.317 [info] =======>Debug ttft time 107.37879400048405
+2025-09-04 17:01:34.318 [info] Average of latest 20 ttft time 170.24938460005214
+2025-09-04 17:01:34.318 [info] Average of latest 20 stream time 167.0297145499673
+2025-09-04 17:01:34.318 [info] Average of latest 20 total time NaN
+2025-09-04 17:01:34.318 [info] Average of latest 20 client time 247.11424560546874
+2025-09-04 17:01:34.318 [info] Average of latest 20 discrepencies NaN
+2025-09-04 17:01:34.318 [info] CPP RT LOG: All stats {"streamingtime":316.86669921875,"actualTtftFromStart":298.110107421875,"timeTillServerRequest":86.72607421875,"requestToTtft":211.384033203125,"totalTime":403.5390625}
+2025-09-04 17:01:50.341 [info] CURSOR LOG: requestId 7d9b454a-3af5-41b9-bafe-5b04b16d3f48  
+2025-09-04 17:01:50.520 [info] CURSOR LOG: Done streaming cpp with id 7d9b454a-3af5-41b9-bafe-5b04b16d3f48
+2025-09-04 17:01:50.520 [info] CPP RT LOG: Time taken for streaming cpp 180.7158203125 with request 7d9b454a-3af5-41b9-bafe-5b04b16d3f48
+2025-09-04 17:01:50.520 [info] CPP Request Log with id 7d9b454a-3af5-41b9-bafe-5b04b16d3f48
+2025-09-04 17:01:50.520 [info] =======>Model output 
+@@ /home/aaron/.cursor/mcp.json:11
+-|{
++|{
+2025-09-04 17:01:50.520 [info] =======>Debug stream time 130.02913299994543
+2025-09-04 17:01:50.520 [info] =======>Debug ttft time 129.803088999819
+2025-09-04 17:01:50.521 [info] Average of latest 20 ttft time 169.50682725004154
+2025-09-04 17:01:50.521 [info] Average of latest 20 stream time 162.90853709996446
+2025-09-04 17:01:50.521 [info] Average of latest 20 total time NaN
+2025-09-04 17:01:50.521 [info] Average of latest 20 client time 248.2565673828125
+2025-09-04 17:01:50.521 [info] Average of latest 20 discrepencies NaN
+2025-09-04 17:01:50.521 [info] CPP RT LOG: All stats {"streamingtime":180.7158203125,"actualTtftFromStart":124.012451171875,"timeTillServerRequest":73.418212890625,"requestToTtft":50.59423828125,"totalTime":254.090087890625}
+2025-09-04 17:01:53.707 [info] CURSOR LOG: requestId a9dc239a-adb3-4b3c-9a67-817947d37191  
+2025-09-04 17:01:53.887 [info] CURSOR LOG: Done streaming cpp with id a9dc239a-adb3-4b3c-9a67-817947d37191
+2025-09-04 17:01:53.887 [info] CPP RT LOG: Time taken for streaming cpp 181.592041015625 with request a9dc239a-adb3-4b3c-9a67-817947d37191
+2025-09-04 17:01:53.887 [info] CPP Request Log with id a9dc239a-adb3-4b3c-9a67-817947d37191
+2025-09-04 17:01:53.887 [info] =======>Model output 
+@@ /home/aaron/.cursor/mcp.json:1
+-|  "mcpServers": {
++|  "mcpServers": {
+2025-09-04 17:01:53.887 [info] =======>Debug stream time 131.98727399948984
+2025-09-04 17:01:53.887 [info] =======>Debug ttft time 131.76843499951065
+2025-09-04 17:01:53.888 [info] Average of latest 20 ttft time 170.562897550012
+2025-09-04 17:01:53.888 [info] Average of latest 20 stream time 161.57939819995082
+2025-09-04 17:01:53.888 [info] Average of latest 20 total time NaN
+2025-09-04 17:01:53.888 [info] Average of latest 20 client time 243.274169921875
+2025-09-04 17:01:53.888 [info] Average of latest 20 discrepencies NaN
+2025-09-04 17:01:53.888 [info] CPP RT LOG: All stats {"streamingtime":181.592041015625,"actualTtftFromStart":109.074462890625,"timeTillServerRequest":59.33740234375,"requestToTtft":49.737060546875,"totalTime":240.8837890625}
+2025-09-04 17:01:59.247 [info] CURSOR LOG: requestId be218ea9-c96f-4357-8265-88b01d56b0de  
+2025-09-04 17:01:59.388 [info] CURSOR LOG: Done streaming cpp with id be218ea9-c96f-4357-8265-88b01d56b0de
+2025-09-04 17:01:59.388 [info] CPP RT LOG: Time taken for streaming cpp 143.619873046875 with request be218ea9-c96f-4357-8265-88b01d56b0de
+2025-09-04 17:01:59.389 [info] CPP Request Log with id be218ea9-c96f-4357-8265-88b01d56b0de
+2025-09-04 17:01:59.389 [info] =======>Model output 
+
+2025-09-04 17:01:59.389 [info] =======>Debug stream time 89.81373200006783
+2025-09-04 17:01:59.389 [info] Average of latest 20 ttft time 170.562897550012
+2025-09-04 17:01:59.389 [info] Average of latest 20 stream time 154.0199652499403
+2025-09-04 17:01:59.389 [info] Average of latest 20 total time NaN
+2025-09-04 17:01:59.389 [info] Average of latest 20 client time 230.63515625
+2025-09-04 17:01:59.389 [info] Average of latest 20 discrepencies NaN
+2025-09-04 17:01:59.389 [info] CPP RT LOG: All stats {"streamingtime":143.619873046875,"actualTtftFromStart":109.7666015625,"timeTillServerRequest":55.687255859375,"requestToTtft":54.079345703125,"totalTime":199.255615234375}
+2025-09-04 17:02:14.412 [info] CURSOR LOG: requestId 9733db1e-5e72-4a03-aac6-604bf618e5e2  
+2025-09-04 17:02:14.536 [info] CURSOR LOG: Done streaming cpp with id 9733db1e-5e72-4a03-aac6-604bf618e5e2
+2025-09-04 17:02:14.536 [info] CPP RT LOG: Time taken for streaming cpp 125.943359375 with request 9733db1e-5e72-4a03-aac6-604bf618e5e2
+2025-09-04 17:02:14.537 [info] CPP Request Log with id 9733db1e-5e72-4a03-aac6-604bf618e5e2
+2025-09-04 17:02:14.537 [info] =======>Model output 
+
+2025-09-04 17:02:14.537 [info] =======>Debug stream time 71.16394099988975
+2025-09-04 17:02:14.537 [info] Average of latest 20 ttft time 170.562897550012
+2025-09-04 17:02:14.537 [info] Average of latest 20 stream time 149.34903289993525
+2025-09-04 17:02:14.537 [info] Average of latest 20 total time NaN
+2025-09-04 17:02:14.537 [info] Average of latest 20 client time 222.0293701171875
+2025-09-04 17:02:14.537 [info] Average of latest 20 discrepencies NaN
+2025-09-04 17:02:14.537 [info] CPP RT LOG: All stats {"streamingtime":125.943359375,"actualTtftFromStart":112.518798828125,"timeTillServerRequest":59.009765625,"requestToTtft":53.509033203125,"totalTime":184.89990234375}
+2025-09-04 17:04:53.804 [info] CURSOR LOG: requestId 097997f4-3b7e-4c9f-878d-8f9b5498f5f7  
+2025-09-04 17:04:54.001 [info] CURSOR LOG: Done streaming cpp with id 097997f4-3b7e-4c9f-878d-8f9b5498f5f7
+2025-09-04 17:04:54.001 [info] CPP RT LOG: Time taken for streaming cpp 198.213134765625 with request 097997f4-3b7e-4c9f-878d-8f9b5498f5f7
+2025-09-04 17:04:54.001 [info] CPP Request Log with id 097997f4-3b7e-4c9f-878d-8f9b5498f5f7
+2025-09-04 17:04:54.001 [info] =======>Model output 
+
+2025-09-04 17:04:54.001 [info] =======>Debug stream time 96.4237630001735
+2025-09-04 17:04:54.002 [info] Average of latest 20 ttft time 170.562897550012
+2025-09-04 17:04:54.002 [info] Average of latest 20 stream time 141.7812329999637
+2025-09-04 17:04:54.002 [info] Average of latest 20 total time NaN
+2025-09-04 17:04:54.002 [info] Average of latest 20 client time 221.4614990234375
+2025-09-04 17:04:54.002 [info] Average of latest 20 discrepencies NaN
+2025-09-04 17:04:54.002 [info] CPP RT LOG: All stats {"streamingtime":198.213134765625,"actualTtftFromStart":131.964599609375,"timeTillServerRequest":74.37548828125,"requestToTtft":57.589111328125,"totalTime":272.553466796875}
+2025-09-04 17:06:02.114 [info] CURSOR LOG: requestId 4c87f67f-c8c5-4f04-8cc4-10d354cf81e4  
+2025-09-04 17:06:02.594 [info] CURSOR LOG: Done streaming cpp with id 4c87f67f-c8c5-4f04-8cc4-10d354cf81e4
+2025-09-04 17:06:02.594 [info] CPP RT LOG: Time taken for streaming cpp 531.982177734375 with request 4c87f67f-c8c5-4f04-8cc4-10d354cf81e4
+2025-09-04 17:06:02.594 [info] CPP Request Log with id 4c87f67f-c8c5-4f04-8cc4-10d354cf81e4
+2025-09-04 17:06:02.594 [info] =======>Model output 
+@@ /home/aaron/.cursor/mcp.json:9
+-|      "description": "HexStrike AI v6.0 - Advanced Cybersecurity Automation Platform"
+-|      
++|      "description": "HexStrike AI v6.0 - Advanced Cybersecurity Automation Platform",
++|      "timeout": 300
+2025-09-04 17:06:02.594 [info] =======>Debug stream time 217.57260899990797
+2025-09-04 17:06:02.594 [info] =======>Debug ttft time 217.32167199999094
+2025-09-04 17:06:02.595 [info] Average of latest 20 ttft time 170.8187253500102
+2025-09-04 17:06:02.595 [info] Average of latest 20 stream time 146.53726244996068
+2025-09-04 17:06:02.595 [info] Average of latest 20 total time NaN
+2025-09-04 17:06:02.595 [info] Average of latest 20 client time 233.3462890625
+2025-09-04 17:06:02.595 [info] Average of latest 20 discrepencies NaN
+2025-09-04 17:06:02.595 [info] CPP RT LOG: All stats {"streamingtime":531.982177734375,"actualTtftFromStart":375.70166015625,"timeTillServerRequest":60.981201171875,"requestToTtft":314.720458984375,"totalTime":592.927001953125}
+2025-09-04 17:06:04.378 [info] CURSOR LOG: requestId d7c86c77-d3f4-45fd-bf2e-b69e5aa1639c  
+2025-09-04 17:06:04.554 [info] CURSOR LOG: Done streaming cpp with id d7c86c77-d3f4-45fd-bf2e-b69e5aa1639c
+2025-09-04 17:06:04.554 [info] CPP RT LOG: Time taken for streaming cpp 177.773193359375 with request d7c86c77-d3f4-45fd-bf2e-b69e5aa1639c
+2025-09-04 17:06:04.554 [info] CPP Request Log with id d7c86c77-d3f4-45fd-bf2e-b69e5aa1639c
+2025-09-04 17:06:04.554 [info] =======>Model output 
+@@ /home/aaron/.cursor/mcp.json:10
+-|      ""
++|      "timeout": 300
+2025-09-04 17:06:04.554 [info] =======>Debug stream time 124.99046199955046
+2025-09-04 17:06:04.554 [info] =======>Debug ttft time 124.75985900033265
+2025-09-04 17:06:04.555 [info] Average of latest 20 ttft time 169.14005030004773
+2025-09-04 17:06:04.555 [info] Average of latest 20 stream time 142.94763134991518
+2025-09-04 17:06:04.555 [info] Average of latest 20 total time NaN
+2025-09-04 17:06:04.555 [info] Average of latest 20 client time 233.59884033203124
+2025-09-04 17:06:04.555 [info] Average of latest 20 discrepencies NaN
+2025-09-04 17:06:04.555 [info] CPP RT LOG: All stats {"streamingtime":177.773193359375,"actualTtftFromStart":133.291015625,"timeTillServerRequest":80.64111328125,"requestToTtft":52.64990234375,"totalTime":258.364013671875}
+2025-09-04 17:06:11.032 [info] CURSOR LOG: requestId 2a536cc5-b173-4e7e-8368-960f0882f17c  
+2025-09-04 17:06:11.233 [info] CURSOR LOG: Done streaming cpp with id 2a536cc5-b173-4e7e-8368-960f0882f17c
+2025-09-04 17:06:11.233 [info] CPP RT LOG: Time taken for streaming cpp 200.905029296875 with request 2a536cc5-b173-4e7e-8368-960f0882f17c
+2025-09-04 17:06:11.233 [info] CPP Request Log with id 2a536cc5-b173-4e7e-8368-960f0882f17c
+2025-09-04 17:06:11.233 [info] =======>Model output 
+@@ /home/aaron/.cursor/mcp.json:9
+-|      "description": "HexStrike AI v6.0 - Advanced Cybersecurity Automation Platform"
+-|      "tim
++|      "description": "HexStrike AI v6.0 - Advanced Cybersecurity Automation Platform",
++|      "timeout": 300
+2025-09-04 17:06:11.233 [info] =======>Debug stream time 154.5636090002954
+2025-09-04 17:06:11.233 [info] =======>Debug ttft time 154.29973800014704
+2025-09-04 17:06:11.234 [info] Average of latest 20 ttft time 164.82091360006015
+2025-09-04 17:06:11.234 [info] Average of latest 20 stream time 141.3509461499285
+2025-09-04 17:06:11.234 [info] Average of latest 20 total time NaN
+2025-09-04 17:06:11.234 [info] Average of latest 20 client time 231.51148681640626
+2025-09-04 17:06:11.234 [info] Average of latest 20 discrepencies NaN
+2025-09-04 17:06:11.234 [info] CPP RT LOG: All stats {"streamingtime":200.905029296875,"actualTtftFromStart":99.85498046875,"timeTillServerRequest":52.865966796875,"requestToTtft":46.989013671875,"totalTime":253.69189453125}
+2025-09-04 17:06:11.286 [info] CURSOR LOG: requestId 84591fd7-fc8e-467c-9c4b-365959dc4d27  
+2025-09-04 17:06:11.441 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-09-04 17:06:11.494 [info] CURSOR LOG: requestId 7415a875-d3ac-4258-af28-71db16d54bc9  
+2025-09-04 17:06:11.603 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-09-04 17:06:11.653 [info] CURSOR LOG: requestId f72a5f2d-a119-4e68-887d-380720db5991  
+2025-09-04 17:06:11.853 [info] CURSOR LOG: Done streaming cpp with id f72a5f2d-a119-4e68-887d-380720db5991
+2025-09-04 17:06:11.853 [info] CPP RT LOG: Time taken for streaming cpp 202.1318359375 with request f72a5f2d-a119-4e68-887d-380720db5991
+2025-09-04 17:06:11.853 [info] CPP Request Log with id f72a5f2d-a119-4e68-887d-380720db5991
+2025-09-04 17:06:11.853 [info] =======>Model output 
+@@ /home/aaron/.cursor/mcp.json:9
+-|      "description": "HexStrike AI v6.0 - Advanced Cybersecurity Automation Platform"
+-|      "
++|      "description": "HexStrike AI v6.0 - Advanced Cybersecurity Automation Platform",
++|      "timeout": 300
+2025-09-04 17:06:11.853 [info] =======>Debug stream time 155.61889499984682
+2025-09-04 17:06:11.853 [info] =======>Debug ttft time 155.36793200019747
+2025-09-04 17:06:11.854 [info] Average of latest 20 ttft time 164.3714473500615
+2025-09-04 17:06:11.854 [info] Average of latest 20 stream time 137.13270284992177
+2025-09-04 17:06:11.854 [info] Average of latest 20 total time NaN
+2025-09-04 17:06:11.854 [info] Average of latest 20 client time 229.120556640625
+2025-09-04 17:06:11.854 [info] Average of latest 20 discrepencies NaN
+2025-09-04 17:06:11.854 [info] CPP RT LOG: All stats {"streamingtime":202.1318359375,"actualTtftFromStart":98.361572265625,"timeTillServerRequest":52.200439453125,"requestToTtft":46.1611328125,"totalTime":254.27197265625}
+2025-09-04 17:06:11.981 [info] CURSOR LOG: requestId 186977c7-3689-4682-84f0-2818b90b8c1c  
+2025-09-04 17:06:12.186 [info] CURSOR LOG: Done streaming cpp with id 186977c7-3689-4682-84f0-2818b90b8c1c
+2025-09-04 17:06:12.187 [info] CPP RT LOG: Time taken for streaming cpp 207.18994140625 with request 186977c7-3689-4682-84f0-2818b90b8c1c
+2025-09-04 17:06:12.187 [info] CPP Request Log with id 186977c7-3689-4682-84f0-2818b90b8c1c
+2025-09-04 17:06:12.187 [info] =======>Model output 
+@@ /home/aaron/.cursor/mcp.json:9
+-|      "description": "HexStrike AI v6.0 - Advanced Cybersecurity Automation Platform"
+-|      
++|      "description": "HexStrike AI v6.0 - Advanced Cybersecurity Automation Platform",
++|      "timeout": 300
+2025-09-04 17:06:12.187 [info] =======>Debug stream time 155.4480060003698
+2025-09-04 17:06:12.187 [info] =======>Debug ttft time 155.16238700039685
+2025-09-04 17:06:12.187 [info] Average of latest 20 ttft time 159.75266010009219
+2025-09-04 17:06:12.188 [info] Average of latest 20 stream time 140.38644644994056
+2025-09-04 17:06:12.188 [info] Average of latest 20 total time NaN
+2025-09-04 17:06:12.188 [info] Average of latest 20 client time 224.85194091796876
+2025-09-04 17:06:12.188 [info] Average of latest 20 discrepencies NaN
+2025-09-04 17:06:12.188 [info] CPP RT LOG: All stats {"streamingtime":207.18994140625,"actualTtftFromStart":130.435546875,"timeTillServerRequest":81.9404296875,"requestToTtft":48.4951171875,"totalTime":289.068115234375}
+2025-09-04 17:06:18.466 [info] CURSOR LOG: requestId 15672556-9003-4a5a-a3d7-29d608fb0dab  
+2025-09-04 17:06:18.677 [info] CURSOR LOG: Done streaming cpp with id 15672556-9003-4a5a-a3d7-29d608fb0dab
+2025-09-04 17:06:18.677 [info] CPP RT LOG: Time taken for streaming cpp 212.947265625 with request 15672556-9003-4a5a-a3d7-29d608fb0dab
+2025-09-04 17:06:18.677 [info] CPP Request Log with id 15672556-9003-4a5a-a3d7-29d608fb0dab
+2025-09-04 17:06:18.677 [info] =======>Model output 
+@@ /home/aaron/.cursor/mcp.json:11
++|      "enabled": true
+2025-09-04 17:06:18.677 [info] =======>Debug stream time 142.55514599988237
+2025-09-04 17:06:18.677 [info] =======>Debug ttft time 142.32300100009888
+2025-09-04 17:06:18.678 [info] Average of latest 20 ttft time 160.7583214500919
+2025-09-04 17:06:18.678 [info] Average of latest 20 stream time 137.5552298999275
+2025-09-04 17:06:18.678 [info] Average of latest 20 total time NaN
+2025-09-04 17:06:18.678 [info] Average of latest 20 client time 222.89752197265625
+2025-09-04 17:06:18.678 [info] Average of latest 20 discrepencies NaN
+2025-09-04 17:06:18.678 [info] CPP RT LOG: All stats {"streamingtime":212.947265625,"actualTtftFromStart":122.88525390625,"timeTillServerRequest":52.684814453125,"requestToTtft":70.200439453125,"totalTime":265.575927734375}
+2025-09-04 17:06:23.169 [info] CURSOR LOG: requestId 8faaa810-551e-4f24-aab2-660ca845581e  
+2025-09-04 17:06:23.352 [info] CURSOR LOG: Done streaming cpp with id 8faaa810-551e-4f24-aab2-660ca845581e
+2025-09-04 17:06:23.352 [info] CPP RT LOG: Time taken for streaming cpp 185.756103515625 with request 8faaa810-551e-4f24-aab2-660ca845581e
+2025-09-04 17:06:23.352 [info] CPP Request Log with id 8faaa810-551e-4f24-aab2-660ca845581e
+2025-09-04 17:06:23.352 [info] =======>Model output 
+@@ /home/aaron/.cursor/mcp.json:11
++|      "enabled": true
+2025-09-04 17:06:23.352 [info] =======>Debug stream time 134.21564800000124
+2025-09-04 17:06:23.352 [info] =======>Debug ttft time 133.83292399999846
+2025-09-04 17:06:23.353 [info] Average of latest 20 ttft time 157.62383090006242
+2025-09-04 17:06:23.353 [info] Average of latest 20 stream time 137.23414714995835
+2025-09-04 17:06:23.353 [info] Average of latest 20 total time NaN
+2025-09-04 17:06:23.353 [info] Average of latest 20 client time 222.49168701171874
+2025-09-04 17:06:23.353 [info] Average of latest 20 discrepencies NaN
+2025-09-04 17:06:23.353 [info] CPP RT LOG: All stats {"streamingtime":185.756103515625,"actualTtftFromStart":104.078369140625,"timeTillServerRequest":53.593505859375,"requestToTtft":50.48486328125,"totalTime":239.287109375}
+2025-09-04 17:06:23.983 [info] CURSOR LOG: requestId afcdebac-403c-43d1-8965-852c8fed53e1  
+2025-09-04 17:06:24.255 [info] CURSOR LOG: Done streaming cpp with id afcdebac-403c-43d1-8965-852c8fed53e1
+2025-09-04 17:06:24.255 [info] CPP RT LOG: Time taken for streaming cpp 275.072265625 with request afcdebac-403c-43d1-8965-852c8fed53e1
+2025-09-04 17:06:24.255 [info] CPP Request Log with id afcdebac-403c-43d1-8965-852c8fed53e1
+2025-09-04 17:06:24.256 [info] =======>Model output 
+@@ /home/aaron/.cursor/mcp.json:11
+-|      
++|      "env": {
++|        "PYTHONPATH": "/home/aaron/git/hexstrike-ai"
++|      }
+2025-09-04 17:06:24.256 [info] =======>Debug stream time 221.89369100006297
+2025-09-04 17:06:24.256 [info] =======>Debug ttft time 212.2259770000819
+2025-09-04 17:06:24.256 [info] Average of latest 20 ttft time 158.92291870006648
+2025-09-04 17:06:24.256 [info] Average of latest 20 stream time 136.93612709997052
+2025-09-04 17:06:24.256 [info] Average of latest 20 total time NaN
+2025-09-04 17:06:24.256 [info] Average of latest 20 client time 222.31922607421876
+2025-09-04 17:06:24.256 [info] Average of latest 20 discrepencies NaN
+2025-09-04 17:06:24.256 [info] CPP RT LOG: All stats {"streamingtime":275.072265625,"actualTtftFromStart":103.010009765625,"timeTillServerRequest":51.799072265625,"requestToTtft":51.2109375,"totalTime":326.801513671875}
+2025-09-04 17:06:25.092 [info] CURSOR LOG: requestId 8a8eb1ea-d85a-440f-abd7-c01d06bc3d85  
+2025-09-04 17:06:25.180 [info] CURSOR LOG: requestId 6721c842-6037-476e-945a-b06378288606  
+2025-09-04 17:06:25.280 [info] CURSOR LOG: Done streaming cpp with id 8a8eb1ea-d85a-440f-abd7-c01d06bc3d85
+2025-09-04 17:06:25.280 [info] CPP RT LOG: Time taken for streaming cpp 188.641845703125 with request 8a8eb1ea-d85a-440f-abd7-c01d06bc3d85
+2025-09-04 17:06:25.281 [info] CPP Request Log with id 8a8eb1ea-d85a-440f-abd7-c01d06bc3d85
+2025-09-04 17:06:25.281 [info] =======>Model output 
+@@ /home/aaron/.cursor/mcp.json:11
+-|      d
++|      "disabled": false
+2025-09-04 17:06:25.281 [info] =======>Debug stream time 137.21281699999236
+2025-09-04 17:06:25.281 [info] =======>Debug ttft time 136.98921800008975
+2025-09-04 17:06:25.281 [info] Average of latest 20 ttft time 153.78818080007386
+2025-09-04 17:06:25.281 [info] Average of latest 20 stream time 135.6295434499678
+2025-09-04 17:06:25.281 [info] Average of latest 20 total time NaN
+2025-09-04 17:06:25.281 [info] Average of latest 20 client time 221.2802978515625
+2025-09-04 17:06:25.281 [info] Average of latest 20 discrepencies NaN
+2025-09-04 17:06:25.281 [info] CPP RT LOG: All stats {"streamingtime":188.641845703125,"actualTtftFromStart":113.95849609375,"timeTillServerRequest":61.248291015625,"requestToTtft":52.710205078125,"totalTime":249.8427734375}
+2025-09-04 17:06:25.296 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-09-04 17:06:42.331 [info] CURSOR LOG: requestId b64a2f99-49ee-49f8-acb3-618f4fc5c478  
+2025-09-04 17:06:42.486 [info] CURSOR LOG: Done streaming cpp with id b64a2f99-49ee-49f8-acb3-618f4fc5c478
+2025-09-04 17:06:42.486 [info] CPP RT LOG: Time taken for streaming cpp 157.12548828125 with request b64a2f99-49ee-49f8-acb3-618f4fc5c478
+2025-09-04 17:06:42.486 [info] CPP Request Log with id b64a2f99-49ee-49f8-acb3-618f4fc5c478
+2025-09-04 17:06:42.486 [info] =======>Model output 
+@@ /home/aaron/.cursor/mcp.json:11
+-|      "disabled": false
++|      "disabled": false
+2025-09-04 17:06:42.486 [info] =======>Debug stream time 113.07637399993837
+2025-09-04 17:06:42.486 [info] =======>Debug ttft time 112.84331599995494
+2025-09-04 17:06:42.487 [info] Average of latest 20 ttft time 149.4830305000656
+2025-09-04 17:06:42.487 [info] Average of latest 20 stream time 134.2751167499513
+2025-09-04 17:06:42.487 [info] Average of latest 20 total time NaN
+2025-09-04 17:06:42.487 [info] Average of latest 20 client time 209.66661376953124
+2025-09-04 17:06:42.487 [info] Average of latest 20 discrepencies NaN
+2025-09-04 17:06:42.487 [info] CPP RT LOG: All stats {"streamingtime":157.12548828125,"actualTtftFromStart":104.179443359375,"timeTillServerRequest":58.5849609375,"requestToTtft":45.594482421875,"totalTime":215.649658203125}
+2025-09-04 17:06:54.532 [info] CURSOR LOG: requestId 4d726c9d-22a2-43f7-b9bd-d5c4c8893660  
+2025-09-04 17:06:54.678 [info] CURSOR LOG: Done streaming cpp with id 4d726c9d-22a2-43f7-b9bd-d5c4c8893660
+2025-09-04 17:06:54.678 [info] CPP RT LOG: Time taken for streaming cpp 148.541015625 with request 4d726c9d-22a2-43f7-b9bd-d5c4c8893660
+2025-09-04 17:06:54.678 [info] CPP Request Log with id 4d726c9d-22a2-43f7-b9bd-d5c4c8893660
+2025-09-04 17:06:54.678 [info] =======>Model output 
+@@ /home/aaron/.cursor/mcp.json:11
+-|      "disabled": false
++|      "disabled": false
+2025-09-04 17:06:54.678 [info] =======>Debug stream time 97.60812599956989
+2025-09-04 17:06:54.678 [info] =======>Debug ttft time 97.38305999990553
+2025-09-04 17:06:54.679 [info] Average of latest 20 ttft time 147.33270445008583
+2025-09-04 17:06:54.679 [info] Average of latest 20 stream time 133.41698599992614
+2025-09-04 17:06:54.679 [info] Average of latest 20 total time NaN
+2025-09-04 17:06:54.679 [info] Average of latest 20 client time 208.95091552734374
+2025-09-04 17:06:54.679 [info] Average of latest 20 discrepencies NaN
+2025-09-04 17:06:54.679 [info] CPP RT LOG: All stats {"streamingtime":148.541015625,"actualTtftFromStart":108.031494140625,"timeTillServerRequest":56.40087890625,"requestToTtft":51.630615234375,"totalTime":204.868896484375}
+2025-09-04 17:06:57.367 [info] CURSOR LOG: requestId c1a84a68-1cd2-43f0-9edb-1ef4ebf0d4f8  
+2025-09-04 17:06:57.660 [info] CURSOR LOG: Done streaming cpp with id c1a84a68-1cd2-43f0-9edb-1ef4ebf0d4f8
+2025-09-04 17:06:57.660 [info] CPP RT LOG: Time taken for streaming cpp 294.5166015625 with request c1a84a68-1cd2-43f0-9edb-1ef4ebf0d4f8
+2025-09-04 17:06:57.660 [info] CPP Request Log with id c1a84a68-1cd2-43f0-9edb-1ef4ebf0d4f8
+2025-09-04 17:06:57.660 [info] =======>Model output 
+@@ /home/aaron/.cursor/mcp.json:3
+-|      "command": "/home/aaron/hexstrike_env/bin/python",
++|      "command": "/home/aaron/hexstrike_env/bin/python",
+2025-09-04 17:06:57.660 [info] =======>Debug stream time 219.74324500001967
+2025-09-04 17:06:57.660 [info] =======>Debug ttft time 219.51822599954903
+2025-09-04 17:06:57.661 [info] Average of latest 20 ttft time 146.93403190006558
+2025-09-04 17:06:57.661 [info] Average of latest 20 stream time 137.1837368499424
+2025-09-04 17:06:57.661 [info] Average of latest 20 total time NaN
+2025-09-04 17:06:57.661 [info] Average of latest 20 client time 213.89874267578125
+2025-09-04 17:06:57.661 [info] Average of latest 20 discrepencies NaN
+2025-09-04 17:06:57.661 [info] CPP RT LOG: All stats {"streamingtime":294.5166015625,"actualTtftFromStart":128.616943359375,"timeTillServerRequest":56.775390625,"requestToTtft":71.841552734375,"totalTime":351.239501953125}
+2025-09-04 17:07:04.087 [info] CURSOR LOG: requestId c5b3bbf4-14ad-4fcf-b6ec-5f3cde6d6a06  
+2025-09-04 17:07:04.126 [info] CURSOR LOG: requestId ab8f416e-3283-4e63-8d3a-31e1add65aa9  
+2025-09-04 17:07:04.285 [info] CURSOR LOG: Done streaming cpp with id c5b3bbf4-14ad-4fcf-b6ec-5f3cde6d6a06
+2025-09-04 17:07:04.285 [info] CPP RT LOG: Time taken for streaming cpp 199.0078125 with request c5b3bbf4-14ad-4fcf-b6ec-5f3cde6d6a06
+2025-09-04 17:07:04.285 [info] CPP Request Log with id c5b3bbf4-14ad-4fcf-b6ec-5f3cde6d6a06
+2025-09-04 17:07:04.285 [info] =======>Model output 
+@@ /home/aaron/.cursor/mcp.json:3
+-|      "command": "/home/aaron/ghexstrike_env/bin/python",
++|      "command": "/home/aaron/git/hexstrike-ai/hexstrike_env/bin/python",
+2025-09-04 17:07:04.285 [info] =======>Debug stream time 150.16749299969524
+2025-09-04 17:07:04.285 [info] =======>Debug ttft time 149.9607009999454
+2025-09-04 17:07:04.286 [info] Average of latest 20 ttft time 146.27709465005955
+2025-09-04 17:07:04.286 [info] Average of latest 20 stream time 137.37909669993041
+2025-09-04 17:07:04.286 [info] Average of latest 20 total time NaN
+2025-09-04 17:07:04.286 [info] Average of latest 20 client time 213.65118408203125
+2025-09-04 17:07:04.286 [info] Average of latest 20 discrepencies NaN
+2025-09-04 17:07:04.286 [info] CPP RT LOG: All stats {"streamingtime":199.0078125,"actualTtftFromStart":140.73046875,"timeTillServerRequest":92.80322265625,"requestToTtft":47.92724609375,"totalTime":291.771484375}
+2025-09-04 17:07:04.304 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-09-04 17:07:04.689 [info] CURSOR LOG: requestId 0ba90f77-24bb-4128-b192-71c6c94699d3  
+2025-09-04 17:07:04.883 [info] CURSOR LOG: Done streaming cpp with id 0ba90f77-24bb-4128-b192-71c6c94699d3
+2025-09-04 17:07:04.883 [info] CPP RT LOG: Time taken for streaming cpp 195.63330078125 with request 0ba90f77-24bb-4128-b192-71c6c94699d3
+2025-09-04 17:07:04.883 [info] CPP Request Log with id 0ba90f77-24bb-4128-b192-71c6c94699d3
+2025-09-04 17:07:04.883 [info] =======>Model output 
+@@ /home/aaron/.cursor/mcp.json:3
+-|      "command": "/home/aaron/ghexstrike_env/bin/python",
++|      "command": "/home/aaron/git/hexstrike-ai/hexstrike_env/bin/python",
+2025-09-04 17:07:04.883 [info] =======>Debug stream time 141.27669300045818
+2025-09-04 17:07:04.883 [info] =======>Debug ttft time 141.04443900007755
+2025-09-04 17:07:04.887 [info] Average of latest 20 ttft time 146.33240855003297
+2025-09-04 17:07:04.887 [info] Average of latest 20 stream time 139.64958864995805
+2025-09-04 17:07:04.887 [info] Average of latest 20 total time NaN
+2025-09-04 17:07:04.887 [info] Average of latest 20 client time 216.208740234375
+2025-09-04 17:07:04.887 [info] Average of latest 20 discrepencies NaN
+2025-09-04 17:07:04.887 [info] CPP RT LOG: All stats {"streamingtime":195.63330078125,"actualTtftFromStart":120.321044921875,"timeTillServerRequest":64.991455078125,"requestToTtft":55.32958984375,"totalTime":260.537109375}
+2025-09-04 17:07:04.943 [info] CURSOR LOG: requestId 6a9db355-54e3-4f27-bc3f-67c6ebff20ea  
+2025-09-04 17:07:05.137 [info] CURSOR LOG: Done streaming cpp with id 6a9db355-54e3-4f27-bc3f-67c6ebff20ea
+2025-09-04 17:07:05.137 [info] CPP RT LOG: Time taken for streaming cpp 196.1416015625 with request 6a9db355-54e3-4f27-bc3f-67c6ebff20ea
+2025-09-04 17:07:05.138 [info] CPP Request Log with id 6a9db355-54e3-4f27-bc3f-67c6ebff20ea
+2025-09-04 17:07:05.138 [info] =======>Model output 
+@@ /home/aaron/.cursor/mcp.json:3
+-|      "command": "/home/aaron/gihexstrike_env/bin/python",
++|      "command": "/home/aaron/git/hexstrike-ai/hexstrike_env/bin/python",
+2025-09-04 17:07:05.138 [info] =======>Debug stream time 138.28461299999617
+2025-09-04 17:07:05.138 [info] =======>Debug ttft time 137.99643999990076
+2025-09-04 17:07:05.138 [info] Average of latest 20 ttft time 147.50527945002597
+2025-09-04 17:07:05.138 [info] Average of latest 20 stream time 141.18226349995766
+2025-09-04 17:07:05.138 [info] Average of latest 20 total time NaN
+2025-09-04 17:07:05.138 [info] Average of latest 20 client time 210.1724853515625
+2025-09-04 17:07:05.138 [info] Average of latest 20 discrepencies NaN
+2025-09-04 17:07:05.138 [info] CPP RT LOG: All stats {"streamingtime":196.1416015625,"actualTtftFromStart":115.019287109375,"timeTillServerRequest":56.757080078125,"requestToTtft":58.26220703125,"totalTime":252.830078125}
+2025-09-04 17:07:10.995 [info] CURSOR LOG: requestId 217f4cf0-1cfa-4901-b883-eeb2d58f8bcd  
+2025-09-04 17:07:11.178 [info] CURSOR LOG: Done streaming cpp with id 217f4cf0-1cfa-4901-b883-eeb2d58f8bcd
+2025-09-04 17:07:11.178 [info] CPP RT LOG: Time taken for streaming cpp 184.037841796875 with request 217f4cf0-1cfa-4901-b883-eeb2d58f8bcd
+2025-09-04 17:07:11.178 [info] CPP Request Log with id 217f4cf0-1cfa-4901-b883-eeb2d58f8bcd
+2025-09-04 17:07:11.178 [info] =======>Model output 
+@@ /home/aaron/.cursor/mcp.json:3
+-|      "command": "/home/aaron/git/hexstrike-ai/ hexstrike_env/bin/python",
++|      "command": "/home/aaron/git/hexstrike-ai/hexstrike_env/bin/python",
+2025-09-04 17:07:11.178 [info] =======>Debug stream time 126.33556200005114
+2025-09-04 17:07:11.178 [info] =======>Debug ttft time 126.05153000005521
+2025-09-04 17:07:11.179 [info] Average of latest 20 ttft time 146.59946320002254
+2025-09-04 17:07:11.179 [info] Average of latest 20 stream time 140.99758494996294
+2025-09-04 17:07:11.179 [info] Average of latest 20 total time NaN
+2025-09-04 17:07:11.179 [info] Average of latest 20 client time 210.33858642578124
+2025-09-04 17:07:11.179 [info] Average of latest 20 discrepencies NaN
+2025-09-04 17:07:11.179 [info] CPP RT LOG: All stats {"streamingtime":184.037841796875,"actualTtftFromStart":111.508056640625,"timeTillServerRequest":54.24658203125,"requestToTtft":57.261474609375,"totalTime":238.229248046875}
+2025-09-04 17:07:12.240 [info] CURSOR LOG: requestId c7382828-231a-411b-a7ef-2d83bd12c325  
+2025-09-04 17:07:12.395 [info] CURSOR LOG: Done streaming cpp with id c7382828-231a-411b-a7ef-2d83bd12c325
+2025-09-04 17:07:12.395 [info] CPP RT LOG: Time taken for streaming cpp 156.68359375 with request c7382828-231a-411b-a7ef-2d83bd12c325
+2025-09-04 17:07:12.395 [info] CPP Request Log with id c7382828-231a-411b-a7ef-2d83bd12c325
+2025-09-04 17:07:12.395 [info] =======>Model output 
+@@ /home/aaron/.cursor/mcp.json:3
+-|      "command": "/home/aaron/git/hexstrike-ai/hexstrike_env/bin/python",
++|      "command": "/home/aaron/git/hexstrike-ai/hexstrike_env/bin/python",
+2025-09-04 17:07:12.395 [info] =======>Debug stream time 105.48996599996462
+2025-09-04 17:07:12.395 [info] =======>Debug ttft time 105.28994800010696
+2025-09-04 17:07:12.396 [info] Average of latest 20 ttft time 144.56603430003216
+2025-09-04 17:07:12.396 [info] Average of latest 20 stream time 139.67271954998668
+2025-09-04 17:07:12.396 [info] Average of latest 20 total time NaN
+2025-09-04 17:07:12.396 [info] Average of latest 20 client time 209.0931640625
+2025-09-04 17:07:12.396 [info] Average of latest 20 discrepencies NaN
+2025-09-04 17:07:12.396 [info] CPP RT LOG: All stats {"streamingtime":156.68359375,"actualTtftFromStart":103.848388671875,"timeTillServerRequest":52.21728515625,"requestToTtft":51.631103515625,"totalTime":208.8486328125}

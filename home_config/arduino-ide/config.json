@@ -2,13 +2,24 @@
 	"windowstate": {
 		"isFullScreen": false,
 		"isMaximized": false,
-		"width": 954,
-		"height": 534,
-		"x": 3,
-		"y": 543,
+		"width": 1108,
+		"height": 93,
+		"x": 2409,
+		"y": 3,
 		"frame": true,
-		"screenLayout": "0:0:1920:1080-1920:0:1600:900",
+		"screenLayout": "0:0:1600:900-1600:0:1920:1080",
 		"backgroundColor": "rgb(31, 39, 42)"
 	},
-	"workspaces": []
+	"workspaces": [
+		{
+			"x": 2409,
+			"y": 3,
+			"width": 1108,
+			"height": 93,
+			"isMaximized": false,
+			"isFullScreen": false,
+			"file": "/home/aaron/projects/lidar3/arduino_lds/simple_lidar",
+			"time": 1757610716118
+		}
+	]
 }

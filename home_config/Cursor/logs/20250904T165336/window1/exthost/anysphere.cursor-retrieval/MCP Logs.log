@@ -1,0 +1,433 @@
+2025-09-04 16:55:06.453 [info] user-hexstrike-ai: Handling CreateClient action
+2025-09-04 16:55:06.453 [info] user-hexstrike-ai: Starting new stdio process with command: python3 /home/aaron/git/hexstrike-ai/hexstrike_mcp.py --server http://localhost:8888
+2025-09-04 16:55:06.477 [info] user-hexstrike-ai: Handling CreateClient action
+2025-09-04 16:55:06.477 [info] user-hexstrike-ai: Starting new stdio process with command: python3 /home/aaron/git/hexstrike-ai/hexstrike_mcp.py --server http://localhost:8888
+2025-09-04 16:55:06.544 [error] user-hexstrike-ai: Traceback (most recent call last):
+
+2025-09-04 16:55:06.547 [error] user-hexstrike-ai:   File "/home/aaron/git/hexstrike-ai/hexstrike_mcp.py", line 25, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+
+2025-09-04 16:55:06.559 [info] user-hexstrike-ai: Client closed for command
+2025-09-04 16:55:06.561 [info] user-hexstrike-ai: Handling ListOfferings action
+2025-09-04 16:55:06.561 [error] user-hexstrike-ai: No server info found
+2025-09-04 16:55:06.562 [info] user-hexstrike-ai: Handling ListOfferings action
+2025-09-04 16:55:06.562 [error] user-hexstrike-ai: No server info found
+2025-09-04 16:55:06.565 [error] user-hexstrike-ai: Traceback (most recent call last):
+
+2025-09-04 16:55:06.569 [error] user-hexstrike-ai:   File "/home/aaron/git/hexstrike-ai/hexstrike_mcp.py", line 25, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+
+2025-09-04 16:55:06.579 [info] user-hexstrike-ai: Client closed for command
+2025-09-04 16:55:06.580 [info] user-hexstrike-ai: Handling ListOfferings action
+2025-09-04 16:55:06.580 [error] user-hexstrike-ai: No server info found
+2025-09-04 16:55:06.581 [info] user-hexstrike-ai: Handling ListOfferings action
+2025-09-04 16:55:06.581 [error] user-hexstrike-ai: No server info found
+2025-09-04 16:55:17.613 [info] user-hexstrike-ai: Handling DeleteClient action
+2025-09-04 16:55:17.613 [info] user-hexstrike-ai: Handling DeleteClient action
+2025-09-04 16:55:17.636 [info] user-hexstrike-ai: Handling CreateClient action
+2025-09-04 16:55:17.636 [info] user-hexstrike-ai: Starting new stdio process with command: python3 /home/aaron/git/hexstrike-ai/hexstrike_mcp.py --server http://localhost:8881
+2025-09-04 16:55:17.660 [info] user-hexstrike-ai: Handling CreateClient action
+2025-09-04 16:55:17.660 [info] user-hexstrike-ai: Starting new stdio process with command: python3 /home/aaron/git/hexstrike-ai/hexstrike_mcp.py --server http://localhost:8881
+2025-09-04 16:55:17.731 [error] user-hexstrike-ai: Traceback (most recent call last):
+
+2025-09-04 16:55:17.734 [error] user-hexstrike-ai:   File "/home/aaron/git/hexstrike-ai/hexstrike_mcp.py", line 25, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+
+2025-09-04 16:55:17.745 [info] user-hexstrike-ai: Client closed for command
+2025-09-04 16:55:17.746 [info] user-hexstrike-ai: Handling ListOfferings action
+2025-09-04 16:55:17.746 [error] user-hexstrike-ai: No server info found
+2025-09-04 16:55:17.747 [info] user-hexstrike-ai: Handling ListOfferings action
+2025-09-04 16:55:17.747 [error] user-hexstrike-ai: No server info found
+2025-09-04 16:55:17.749 [error] user-hexstrike-ai: Traceback (most recent call last):
+
+2025-09-04 16:55:17.753 [error] user-hexstrike-ai:   File "/home/aaron/git/hexstrike-ai/hexstrike_mcp.py", line 25, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+
+2025-09-04 16:55:17.763 [info] user-hexstrike-ai: Client closed for command
+2025-09-04 16:55:17.765 [info] user-hexstrike-ai: Handling ListOfferings action
+2025-09-04 16:55:17.765 [error] user-hexstrike-ai: No server info found
+2025-09-04 16:55:17.766 [info] user-hexstrike-ai: Handling ListOfferings action
+2025-09-04 16:55:17.766 [error] user-hexstrike-ai: No server info found
+2025-09-04 16:55:21.535 [info] user-hexstrike-ai: Handling DeleteClient action
+2025-09-04 16:55:22.154 [info] user-hexstrike-ai: Handling CreateClient action
+2025-09-04 16:55:22.154 [info] user-hexstrike-ai: Starting new stdio process with command: python3 /home/aaron/git/hexstrike-ai/hexstrike_mcp.py --server http://localhost:8881
+2025-09-04 16:55:22.250 [error] user-hexstrike-ai: Traceback (most recent call last):
+
+2025-09-04 16:55:22.254 [error] user-hexstrike-ai:   File "/home/aaron/git/hexstrike-ai/hexstrike_mcp.py", line 25, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+
+2025-09-04 16:55:22.264 [info] user-hexstrike-ai: Client closed for command
+2025-09-04 16:55:22.267 [info] user-hexstrike-ai: Handling ListOfferings action
+2025-09-04 16:55:22.267 [error] user-hexstrike-ai: No server info found
+2025-09-04 16:55:41.703 [info] user-hexstrike-ai: Handling DeleteClient action
+2025-09-04 16:55:41.704 [info] user-hexstrike-ai: Handling DeleteClient action
+2025-09-04 16:55:41.729 [info] user-hexstrike-ai: Handling CreateClient action
+2025-09-04 16:55:41.729 [info] user-hexstrike-ai: Starting new stdio process with command: python3 /home/aaron/git/hexstrike-ai/hexstrike_mcp.py --server http://127.0.0.1:8881
+2025-09-04 16:55:41.748 [info] user-hexstrike-ai: Handling CreateClient action
+2025-09-04 16:55:41.748 [info] user-hexstrike-ai: Starting new stdio process with command: python3 /home/aaron/git/hexstrike-ai/hexstrike_mcp.py --server http://127.0.0.1:8881
+2025-09-04 16:55:41.821 [error] user-hexstrike-ai: Traceback (most recent call last):
+
+2025-09-04 16:55:41.825 [error] user-hexstrike-ai:   File "/home/aaron/git/hexstrike-ai/hexstrike_mcp.py", line 25, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+
+2025-09-04 16:55:41.836 [info] user-hexstrike-ai: Client closed for command
+2025-09-04 16:55:41.836 [error] user-hexstrike-ai: Traceback (most recent call last):
+
+2025-09-04 16:55:41.838 [info] user-hexstrike-ai: Handling ListOfferings action
+2025-09-04 16:55:41.838 [error] user-hexstrike-ai: No server info found
+2025-09-04 16:55:41.838 [info] user-hexstrike-ai: Handling ListOfferings action
+2025-09-04 16:55:41.838 [error] user-hexstrike-ai: No server info found
+2025-09-04 16:55:41.840 [error] user-hexstrike-ai:   File "/home/aaron/git/hexstrike-ai/hexstrike_mcp.py", line 25, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+
+2025-09-04 16:55:41.850 [info] user-hexstrike-ai: Client closed for command
+2025-09-04 16:55:41.851 [info] user-hexstrike-ai: Handling ListOfferings action
+2025-09-04 16:55:41.851 [error] user-hexstrike-ai: No server info found
+2025-09-04 16:55:41.852 [info] user-hexstrike-ai: Handling ListOfferings action
+2025-09-04 16:55:41.852 [error] user-hexstrike-ai: No server info found
+2025-09-04 16:55:52.915 [info] user-hexstrike-ai: Handling DeleteClient action
+2025-09-04 16:55:53.370 [info] user-hexstrike-ai: Handling CreateClient action
+2025-09-04 16:55:53.370 [info] user-hexstrike-ai: Starting new stdio process with command: python3 /home/aaron/git/hexstrike-ai/hexstrike_mcp.py --server http://127.0.0.1:8881
+2025-09-04 16:55:53.463 [error] user-hexstrike-ai: Traceback (most recent call last):
+
+2025-09-04 16:55:53.467 [error] user-hexstrike-ai:   File "/home/aaron/git/hexstrike-ai/hexstrike_mcp.py", line 25, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+
+2025-09-04 16:55:53.476 [info] user-hexstrike-ai: Client closed for command
+2025-09-04 16:55:53.479 [info] user-hexstrike-ai: Handling ListOfferings action
+2025-09-04 16:55:53.479 [error] user-hexstrike-ai: No server info found
+2025-09-04 16:57:16.672 [info] user-hexstrike-ai: Handling DeleteClient action
+2025-09-04 16:57:16.673 [info] user-hexstrike-ai: Handling DeleteClient action
+2025-09-04 16:58:43.274 [info] user-hexstrike-ai: Handling CreateClient action
+2025-09-04 16:58:43.275 [info] user-hexstrike-ai: Starting new stdio process with command: python3 /home/aaron/git/hexstrike-ai/hexstrike_mcp.py --server http://127.0.0.1:8881
+2025-09-04 16:58:43.294 [info] user-hexstrike-ai: Handling CreateClient action
+2025-09-04 16:58:43.294 [info] user-hexstrike-ai: Starting new stdio process with command: python3 /home/aaron/git/hexstrike-ai/hexstrike_mcp.py --server http://127.0.0.1:8881
+2025-09-04 16:58:43.367 [error] user-hexstrike-ai: Traceback (most recent call last):
+
+2025-09-04 16:58:43.371 [error] user-hexstrike-ai:   File "/home/aaron/git/hexstrike-ai/hexstrike_mcp.py", line 25, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+
+2025-09-04 16:58:43.382 [info] user-hexstrike-ai: Client closed for command
+2025-09-04 16:58:43.383 [error] user-hexstrike-ai: Traceback (most recent call last):
+
+2025-09-04 16:58:43.384 [info] user-hexstrike-ai: Handling ListOfferings action
+2025-09-04 16:58:43.384 [error] user-hexstrike-ai: No server info found
+2025-09-04 16:58:43.384 [info] user-hexstrike-ai: Handling ListOfferings action
+2025-09-04 16:58:43.384 [error] user-hexstrike-ai: No server info found
+2025-09-04 16:58:43.385 [error] user-hexstrike-ai:   File "/home/aaron/git/hexstrike-ai/hexstrike_mcp.py", line 25, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+
+2025-09-04 16:58:43.395 [info] user-hexstrike-ai: Client closed for command
+2025-09-04 16:58:43.396 [info] user-hexstrike-ai: Handling ListOfferings action
+2025-09-04 16:58:43.396 [error] user-hexstrike-ai: No server info found
+2025-09-04 16:58:43.397 [info] user-hexstrike-ai: Handling ListOfferings action
+2025-09-04 16:58:43.397 [error] user-hexstrike-ai: No server info found
+2025-09-04 17:01:21.769 [info] user-hexstrike-ai: Handling DeleteClient action
+2025-09-04 17:01:21.769 [info] user-hexstrike-ai: Handling DeleteClient action
+2025-09-04 17:01:55.166 [info] user-hexstrike-ai: Handling CreateClient action
+2025-09-04 17:01:55.166 [info] user-hexstrike-ai: Starting new stdio process with command: python3 /home/aaron/git/hexstrike-ai/hexstrike_mcp.py --server http://127.0.0.1:8881
+2025-09-04 17:01:55.186 [info] user-hexstrike-ai: Handling CreateClient action
+2025-09-04 17:01:55.187 [info] user-hexstrike-ai: Starting new stdio process with command: python3 /home/aaron/git/hexstrike-ai/hexstrike_mcp.py --server http://127.0.0.1:8881
+2025-09-04 17:01:55.255 [error] user-hexstrike-ai: Traceback (most recent call last):
+
+2025-09-04 17:01:55.259 [error] user-hexstrike-ai:   File "/home/aaron/git/hexstrike-ai/hexstrike_mcp.py", line 25, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+
+2025-09-04 17:01:55.270 [info] user-hexstrike-ai: Client closed for command
+2025-09-04 17:01:55.271 [info] user-hexstrike-ai: Handling ListOfferings action
+2025-09-04 17:01:55.271 [error] user-hexstrike-ai: No server info found
+2025-09-04 17:01:55.271 [info] user-hexstrike-ai: Handling ListOfferings action
+2025-09-04 17:01:55.272 [error] user-hexstrike-ai: No server info found
+2025-09-04 17:01:55.276 [error] user-hexstrike-ai: Traceback (most recent call last):
+
+2025-09-04 17:01:55.280 [error] user-hexstrike-ai:   File "/home/aaron/git/hexstrike-ai/hexstrike_mcp.py", line 25, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+
+2025-09-04 17:01:55.290 [info] user-hexstrike-ai: Client closed for command
+2025-09-04 17:01:55.292 [info] user-hexstrike-ai: Handling ListOfferings action
+2025-09-04 17:01:55.292 [error] user-hexstrike-ai: No server info found
+2025-09-04 17:01:55.292 [info] user-hexstrike-ai: Handling ListOfferings action
+2025-09-04 17:01:55.292 [error] user-hexstrike-ai: No server info found
+2025-09-04 17:02:12.007 [info] user-hexstrike-ai: Handling DeleteClient action
+2025-09-04 17:02:12.555 [info] user-hexstrike-ai: Handling CreateClient action
+2025-09-04 17:02:12.555 [info] user-hexstrike-ai: Starting new stdio process with command: python3 /home/aaron/git/hexstrike-ai/hexstrike_mcp.py --server http://127.0.0.1:8881
+2025-09-04 17:02:12.646 [error] user-hexstrike-ai: Traceback (most recent call last):
+
+2025-09-04 17:02:12.650 [error] user-hexstrike-ai:   File "/home/aaron/git/hexstrike-ai/hexstrike_mcp.py", line 25, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+
+2025-09-04 17:02:12.665 [info] user-hexstrike-ai: Client closed for command
+2025-09-04 17:02:12.667 [info] user-hexstrike-ai: Handling ListOfferings action
+2025-09-04 17:02:12.667 [error] user-hexstrike-ai: No server info found
+2025-09-04 17:04:00.554 [info] user-hexstrike-ai: Handling DeleteClient action
+2025-09-04 17:04:00.554 [info] user-hexstrike-ai: Handling DeleteClient action
+2025-09-04 17:04:00.580 [info] user-hexstrike-ai: Handling CreateClient action
+2025-09-04 17:04:00.580 [info] user-hexstrike-ai: Starting new stdio process with command: /home/aaron/hexstrike_env/bin/python /home/aaron/git/hexstrike-ai/hexstrike_mcp.py --server http://127.0.0.1:8881
+2025-09-04 17:04:00.580 [error] user-hexstrike-ai: Client error for command A system error occurred (spawn /home/aaron/hexstrike_env/bin/python ENOENT)
+2025-09-04 17:04:00.584 [info] user-hexstrike-ai: Client closed for command
+2025-09-04 17:04:00.607 [info] user-hexstrike-ai: Handling CreateClient action
+2025-09-04 17:04:00.607 [info] user-hexstrike-ai: Starting new stdio process with command: /home/aaron/hexstrike_env/bin/python /home/aaron/git/hexstrike-ai/hexstrike_mcp.py --server http://127.0.0.1:8881
+2025-09-04 17:04:00.607 [error] user-hexstrike-ai: Client error for command A system error occurred (spawn /home/aaron/hexstrike_env/bin/python ENOENT)
+2025-09-04 17:04:00.609 [info] user-hexstrike-ai: Client closed for command
+2025-09-04 17:04:00.610 [info] user-hexstrike-ai: Handling ListOfferings action
+2025-09-04 17:04:00.610 [error] user-hexstrike-ai: No server info found
+2025-09-04 17:04:00.610 [info] user-hexstrike-ai: Handling ListOfferings action
+2025-09-04 17:04:00.610 [error] user-hexstrike-ai: No server info found
+2025-09-04 17:04:00.611 [info] user-hexstrike-ai: Handling ListOfferings action
+2025-09-04 17:04:00.611 [error] user-hexstrike-ai: No server info found
+2025-09-04 17:04:00.612 [info] user-hexstrike-ai: Handling ListOfferings action
+2025-09-04 17:04:00.612 [error] user-hexstrike-ai: No server info found
+2025-09-04 17:04:02.994 [info] user-hexstrike-ai: Handling DeleteClient action
+2025-09-04 17:04:03.811 [info] user-hexstrike-ai: Handling CreateClient action
+2025-09-04 17:04:03.811 [info] user-hexstrike-ai: Starting new stdio process with command: /home/aaron/hexstrike_env/bin/python /home/aaron/git/hexstrike-ai/hexstrike_mcp.py --server http://127.0.0.1:8881
+2025-09-04 17:04:03.811 [error] user-hexstrike-ai: Client error for command A system error occurred (spawn /home/aaron/hexstrike_env/bin/python ENOENT)
+2025-09-04 17:04:03.812 [info] user-hexstrike-ai: Client closed for command
+2025-09-04 17:04:03.813 [info] user-hexstrike-ai: Handling ListOfferings action
+2025-09-04 17:04:03.813 [error] user-hexstrike-ai: No server info found
+2025-09-04 17:05:03.119 [info] user-hexstrike-ai: Handling DeleteClient action
+2025-09-04 17:05:03.760 [info] user-hexstrike-ai: Handling CreateClient action
+2025-09-04 17:05:03.760 [info] user-hexstrike-ai: Starting new stdio process with command: /home/aaron/hexstrike_env/bin/python /home/aaron/git/hexstrike-ai/hexstrike_mcp.py --server http://127.0.0.1:8881
+2025-09-04 17:05:03.761 [error] user-hexstrike-ai: Client error for command A system error occurred (spawn /home/aaron/hexstrike_env/bin/python ENOENT)
+2025-09-04 17:05:03.762 [info] user-hexstrike-ai: Client closed for command
+2025-09-04 17:05:03.763 [info] user-hexstrike-ai: Handling ListOfferings action
+2025-09-04 17:05:03.763 [error] user-hexstrike-ai: No server info found
+2025-09-04 17:06:28.101 [info] user-hexstrike-ai: Handling CreateClient action
+2025-09-04 17:06:28.101 [info] user-hexstrike-ai: Starting new stdio process with command: /home/aaron/hexstrike_env/bin/python /home/aaron/git/hexstrike-ai/hexstrike_mcp.py --server http://127.0.0.1:8881
+2025-09-04 17:06:28.101 [error] user-hexstrike-ai: Client error for command A system error occurred (spawn /home/aaron/hexstrike_env/bin/python ENOENT)
+2025-09-04 17:06:28.102 [info] user-hexstrike-ai: Client closed for command
+2025-09-04 17:06:28.121 [info] user-hexstrike-ai: Handling CreateClient action
+2025-09-04 17:06:28.121 [info] user-hexstrike-ai: Starting new stdio process with command: /home/aaron/hexstrike_env/bin/python /home/aaron/git/hexstrike-ai/hexstrike_mcp.py --server http://127.0.0.1:8881
+2025-09-04 17:06:28.121 [error] user-hexstrike-ai: Client error for command A system error occurred (spawn /home/aaron/hexstrike_env/bin/python ENOENT)
+2025-09-04 17:06:28.122 [info] user-hexstrike-ai: Client closed for command
+2025-09-04 17:06:28.123 [info] user-hexstrike-ai: Handling ListOfferings action
+2025-09-04 17:06:28.123 [error] user-hexstrike-ai: No server info found
+2025-09-04 17:06:28.123 [info] user-hexstrike-ai: Handling ListOfferings action
+2025-09-04 17:06:28.123 [error] user-hexstrike-ai: No server info found
+2025-09-04 17:06:28.124 [info] user-hexstrike-ai: Handling ListOfferings action
+2025-09-04 17:06:28.124 [error] user-hexstrike-ai: No server info found
+2025-09-04 17:06:28.124 [info] user-hexstrike-ai: Handling ListOfferings action
+2025-09-04 17:06:28.124 [error] user-hexstrike-ai: No server info found
+2025-09-04 17:06:30.650 [info] user-hexstrike-ai: Handling DeleteClient action
+2025-09-04 17:06:31.520 [info] user-hexstrike-ai: Handling CreateClient action
+2025-09-04 17:06:31.520 [info] user-hexstrike-ai: Starting new stdio process with command: /home/aaron/hexstrike_env/bin/python /home/aaron/git/hexstrike-ai/hexstrike_mcp.py --server http://127.0.0.1:8881
+2025-09-04 17:06:31.520 [error] user-hexstrike-ai: Client error for command A system error occurred (spawn /home/aaron/hexstrike_env/bin/python ENOENT)
+2025-09-04 17:06:31.521 [info] user-hexstrike-ai: Client closed for command
+2025-09-04 17:06:31.522 [info] user-hexstrike-ai: Handling ListOfferings action
+2025-09-04 17:06:31.522 [error] user-hexstrike-ai: No server info found
+2025-09-04 17:06:48.258 [info] user-hexstrike-ai: Handling DeleteClient action
+2025-09-04 17:06:48.804 [info] user-hexstrike-ai: Handling CreateClient action
+2025-09-04 17:06:48.804 [info] user-hexstrike-ai: Starting new stdio process with command: /home/aaron/hexstrike_env/bin/python /home/aaron/git/hexstrike-ai/hexstrike_mcp.py --server http://127.0.0.1:8881
+2025-09-04 17:06:48.804 [error] user-hexstrike-ai: Client error for command A system error occurred (spawn /home/aaron/hexstrike_env/bin/python ENOENT)
+2025-09-04 17:06:48.808 [info] user-hexstrike-ai: Client closed for command
+2025-09-04 17:06:48.809 [info] user-hexstrike-ai: Handling ListOfferings action
+2025-09-04 17:06:48.809 [error] user-hexstrike-ai: No server info found
+2025-09-04 17:07:13.796 [info] user-hexstrike-ai: Handling DeleteClient action
+2025-09-04 17:07:13.796 [info] user-hexstrike-ai: Handling DeleteClient action
+2025-09-04 17:07:13.821 [info] user-hexstrike-ai: Handling CreateClient action
+2025-09-04 17:07:13.821 [info] user-hexstrike-ai: Starting new stdio process with command: /home/aaron/git/hexstrike-ai/hexstrike_env/bin/python /home/aaron/git/hexstrike-ai/hexstrike_mcp.py --server http://127.0.0.1:8881
+2025-09-04 17:07:13.840 [info] user-hexstrike-ai: Handling CreateClient action
+2025-09-04 17:07:13.840 [info] user-hexstrike-ai: Starting new stdio process with command: /home/aaron/git/hexstrike-ai/hexstrike_env/bin/python /home/aaron/git/hexstrike-ai/hexstrike_mcp.py --server http://127.0.0.1:8881
+2025-09-04 17:07:14.485 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-04 17:07:14 [INFO] [38;5;46m✅ 🚀 Starting HexStrike AI MCP Client v6.0[0m
+[🔥 HexStrike MCP] 2025-09-04 17:07:14 [INFO] [38;5;46m✅ 🔗 Connecting to: http://127.0.0.1:8881[0m
+[🔥 HexStrike MCP] 2025-09-04 17:07:14 [INFO] [38;5;46m✅ 🔗 Attempting to connect to HexStrike AI API at http://127.0.0.1:8881 (attempt 1/3)[0m
+
+2025-09-04 17:07:14.487 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-04 17:07:14 [WARNING] [38;5;208m⚠️ 🔌 Connection refused to http://127.0.0.1:8881. Make sure the HexStrike AI server is running.[0m
+
+2025-09-04 17:07:14.500 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-04 17:07:14 [INFO] [38;5;46m✅ 🚀 Starting HexStrike AI MCP Client v6.0[0m
+[🔥 HexStrike MCP] 2025-09-04 17:07:14 [INFO] [38;5;46m✅ 🔗 Connecting to: http://127.0.0.1:8881[0m
+
+2025-09-04 17:07:14.500 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-04 17:07:14 [INFO] [38;5;46m✅ 🔗 Attempting to connect to HexStrike AI API at http://127.0.0.1:8881 (attempt 1/3)[0m
+
+2025-09-04 17:07:14.501 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-04 17:07:14 [WARNING] [38;5;208m⚠️ 🔌 Connection refused to http://127.0.0.1:8881. Make sure the HexStrike AI server is running.[0m
+
+2025-09-04 17:07:16.487 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-04 17:07:16 [INFO] [38;5;46m✅ 🔗 Attempting to connect to HexStrike AI API at http://127.0.0.1:8881 (attempt 2/3)[0m
+
+2025-09-04 17:07:16.489 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-04 17:07:16 [WARNING] [38;5;208m⚠️ 🔌 Connection refused to http://127.0.0.1:8881. Make sure the HexStrike AI server is running.[0m
+
+2025-09-04 17:07:16.502 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-04 17:07:16 [INFO] [38;5;46m✅ 🔗 Attempting to connect to HexStrike AI API at http://127.0.0.1:8881 (attempt 2/3)[0m
+
+2025-09-04 17:07:16.503 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-04 17:07:16 [WARNING] [38;5;208m⚠️ 🔌 Connection refused to http://127.0.0.1:8881. Make sure the HexStrike AI server is running.[0m
+
+2025-09-04 17:07:18.490 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-04 17:07:18 [INFO] [38;5;46m✅ 🔗 Attempting to connect to HexStrike AI API at http://127.0.0.1:8881 (attempt 3/3)[0m
+
+2025-09-04 17:07:18.491 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-04 17:07:18 [WARNING] [38;5;208m⚠️ 🔌 Connection refused to http://127.0.0.1:8881. Make sure the HexStrike AI server is running.[0m
+
+2025-09-04 17:07:18.504 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-04 17:07:18 [INFO] [38;5;46m✅ 🔗 Attempting to connect to HexStrike AI API at http://127.0.0.1:8881 (attempt 3/3)[0m
+
+2025-09-04 17:07:18.505 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-04 17:07:18 [WARNING] [38;5;208m⚠️ 🔌 Connection refused to http://127.0.0.1:8881. Make sure the HexStrike AI server is running.[0m
+
+2025-09-04 17:07:20.491 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-04 17:07:20 [ERROR] [38;5;196m❌ Failed to establish connection to HexStrike AI API Server at http://127.0.0.1:8881 after 3 attempts[0m
+
+2025-09-04 17:07:20.493 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-04 17:07:20 [ERROR] [38;5;196m❌ 🚫 Request failed: HTTPConnectionPool(host='127.0.0.1', port=8881): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc02ab3bce0>: Failed to establish a new connection: [Errno 111] Connection refused'))[0m
+[🔥 HexStrike MCP] 2025-09-04 17:07:20 [WARNING] [38;5;208m⚠️ ⚠️  Unable to connect to HexStrike AI API server at http://127.0.0.1:8881: Request failed: HTTPConnectionPool(host='127.0.0.1', port=8881): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc02ab3bce0>: Failed to establish a new connection: [Errno 111] Connection refused'))[0m
+[🔥 HexStrike MCP] 2025-09-04 17:07:20 [WARNING] [38;5;208m⚠️ 🚀 MCP server will start, but tool execution may fail[0m
+
+2025-09-04 17:07:20.505 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-04 17:07:20 [ERROR] [38;5;196m❌ Failed to establish connection to HexStrike AI API Server at http://127.0.0.1:8881 after 3 attempts[0m
+
+2025-09-04 17:07:20.507 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-04 17:07:20 [ERROR] [38;5;196m❌ 🚫 Request failed: HTTPConnectionPool(host='127.0.0.1', port=8881): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6b40d37ce0>: Failed to establish a new connection: [Errno 111] Connection refused'))[0m
+[🔥 HexStrike MCP] 2025-09-04 17:07:20 [WARNING] [38;5;208m⚠️ ⚠️  Unable to connect to HexStrike AI API server at http://127.0.0.1:8881: Request failed: HTTPConnectionPool(host='127.0.0.1', port=8881): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6b40d37ce0>: Failed to establish a new connection: [Errno 111] Connection refused'))[0m
+[🔥 HexStrike MCP] 2025-09-04 17:07:20 [WARNING] [38;5;208m⚠️ 🚀 MCP server will start, but tool execution may fail[0m
+
+2025-09-04 17:07:20.765 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-04 17:07:20 [WARNING] [38;5;208m⚠️ Tool already exists: httpx_probe[0m
+
+2025-09-04 17:07:20.783 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-04 17:07:20 [WARNING] [38;5;208m⚠️ Tool already exists: httpx_probe[0m
+
+2025-09-04 17:07:20.893 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-04 17:07:20 [INFO] [38;5;46m✅ 🚀 Starting HexStrike AI MCP server[0m
+[🔥 HexStrike MCP] 2025-09-04 17:07:20 [INFO] [38;5;46m✅ 🤖 Ready to serve AI agents with enhanced cybersecurity capabilities[0m
+
+2025-09-04 17:07:20.900 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-04 17:07:20 [INFO] [38;5;46m✅ 🚀 Starting HexStrike AI MCP server[0m
+[🔥 HexStrike MCP] 2025-09-04 17:07:20 [INFO] [38;5;46m✅ 🤖 Ready to serve AI agents with enhanced cybersecurity capabilities[0m
+
+2025-09-04 17:07:20.912 [info] user-hexstrike-ai: Successfully connected to stdio server
+2025-09-04 17:07:20.912 [info] user-hexstrike-ai: Storing stdio client
+2025-09-04 17:07:20.915 [info] user-hexstrike-ai: Successfully connected to stdio server
+2025-09-04 17:07:20.915 [info] user-hexstrike-ai: A second client was created while connecting, discarding it.
+2025-09-04 17:07:20.917 [info] user-hexstrike-ai: Handling ListOfferings action
+2025-09-04 17:07:20.917 [info] user-hexstrike-ai: Listing offerings
+2025-09-04 17:07:20.918 [info] user-hexstrike-ai: Connected to stdio server, fetching offerings
+2025-09-04 17:07:20.918 [info] user-hexstrike-ai: Handling ListOfferings action
+2025-09-04 17:07:20.918 [info] user-hexstrike-ai: Listing offerings
+2025-09-04 17:07:20.918 [info] user-hexstrike-ai: Connected to stdio server, fetching offerings
+2025-09-04 17:07:20.919 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-04 17:07:20 [INFO] [38;5;46m✅ Processing request of type ListToolsRequest[0m
+
+2025-09-04 17:07:20.919 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-04 17:07:20 [INFO] [38;5;46m✅ Processing request of type ListToolsRequest[0m
+
+2025-09-04 17:07:20.920 [info] user-hexstrike-ai: Handling ListOfferings action
+2025-09-04 17:07:20.920 [info] user-hexstrike-ai: Listing offerings
+2025-09-04 17:07:20.920 [info] user-hexstrike-ai: Connected to stdio server, fetching offerings
+2025-09-04 17:07:20.921 [info] user-hexstrike-ai: Handling ListOfferings action
+2025-09-04 17:07:20.921 [info] user-hexstrike-ai: Listing offerings
+2025-09-04 17:07:20.921 [info] user-hexstrike-ai: Connected to stdio server, fetching offerings
+2025-09-04 17:07:21.001 [info] listOfferings: Found 150 tools
+2025-09-04 17:07:21.001 [info] user-hexstrike-ai: Found 150 tools
+2025-09-04 17:07:21.011 [info] listOfferings: Found 150 tools
+2025-09-04 17:07:21.011 [info] user-hexstrike-ai: Found 150 tools
+2025-09-04 17:07:21.022 [info] listOfferings: Found 150 tools
+2025-09-04 17:07:21.022 [info] user-hexstrike-ai: Found 150 tools
+2025-09-04 17:07:21.023 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-04 17:07:20 [INFO] [38;5;46m✅ Processing request of type ListToolsRequest[0m
+[🔥 HexStrike MCP] 2025-09-04 17:07:20 [INFO] [38;5;46m✅ Processing request of type ListToolsRequest[0m
+[🔥 HexStrike MCP] 2025-09-04 17:07:20 [INFO] [38;5;46m✅ Processing request of type ListToolsRequest[0m
+
+2025-09-04 17:07:21.024 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-04 17:07:20 [INFO] [38;5;46m✅ Processing request of type ListToolsRequest[0m
+[🔥 HexStrike MCP] 2025-09-04 17:07:20 [INFO] [38;5;46m✅ Processing request of type ListToolsRequest[0m
+[🔥 HexStrike MCP] 2025-09-04 17:07:20 [INFO] [38;5;46m✅ Processing request of type ListToolsRequest[0m
+
+2025-09-04 17:07:21.042 [info] listOfferings: Found 150 tools
+2025-09-04 17:07:21.042 [info] user-hexstrike-ai: Found 150 tools
+2025-09-04 17:08:25.990 [info] user-hexstrike-ai: Handling CallTool action for tool 'nmap_advanced_scan'
+2025-09-04 17:08:25.990 [info] user-hexstrike-ai: Calling tool 'nmap_advanced_scan' with toolCallId: tool_01f723bd-eedb-444a-9d1c-1413d109c44
+2025-09-04 17:08:25.993 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-04 17:08:25 [INFO] [38;5;46m✅ Processing request of type CallToolRequest[0m
+
+2025-09-04 17:08:25.993 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-04 17:08:25 [INFO] [38;5;46m✅ Processing request of type CallToolRequest[0m
+
+2025-09-04 17:08:25.993 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-04 17:08:25 [INFO] [38;5;46m✅ 🔍 Starting Advanced Nmap: 192.168.50.1[0m
+
+2025-09-04 17:08:25.994 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-04 17:08:25 [INFO] [38;5;46m✅ 🔍 Starting Advanced Nmap: 192.168.50.1[0m
+
+2025-09-04 17:08:25.996 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-04 17:08:25 [ERROR] [38;5;196m❌ 🚫 Request failed: HTTPConnectionPool(host='127.0.0.1', port=8881): Max retries exceeded with url: /api/tools/nmap-advanced (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc02ab3ba80>: Failed to establish a new connection: [Errno 111] Connection refused'))[0m
+[🔥 HexStrike MCP] 2025-09-04 17:08:25 [ERROR] [38;5;196m❌ ❌ Advanced Nmap failed for 192.168.50.1[0m
+
+2025-09-04 17:08:25.996 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-04 17:08:25 [ERROR] [38;5;196m❌ 🚫 Request failed: HTTPConnectionPool(host='127.0.0.1', port=8881): Max retries exceeded with url: /api/tools/nmap-advanced (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc02ab3ba80>: Failed to establish a new connection: [Errno 111] Connection refused'))[0m
+[🔥 HexStrike MCP] 2025-09-04 17:08:25 [ERROR] [38;5;196m❌ ❌ Advanced Nmap failed for 192.168.50.1[0m
+
+2025-09-04 17:08:26.004 [info] user-hexstrike-ai: Successfully called tool 'nmap_advanced_scan'
+2025-09-04 17:08:27.196 [info] user-hexstrike-ai: Handling CallTool action for tool 'rustscan_fast_scan'
+2025-09-04 17:08:27.196 [info] user-hexstrike-ai: Calling tool 'rustscan_fast_scan' with toolCallId: tool_2ccdf849-90d3-4c39-bcf9-4d7850d81b8
+2025-09-04 17:08:27.199 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-04 17:08:27 [INFO] [38;5;46m✅ Processing request of type CallToolRequest[0m
+
+2025-09-04 17:08:27.199 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-04 17:08:27 [INFO] [38;5;46m✅ Processing request of type CallToolRequest[0m
+
+2025-09-04 17:08:27.199 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-04 17:08:27 [INFO] [38;5;46m✅ ⚡ Starting Rustscan: 192.168.50.1[0m
+
+2025-09-04 17:08:27.199 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-04 17:08:27 [INFO] [38;5;46m✅ ⚡ Starting Rustscan: 192.168.50.1[0m
+
+2025-09-04 17:08:27.201 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-04 17:08:27 [ERROR] [38;5;196m❌ 🚫 Request failed: HTTPConnectionPool(host='127.0.0.1', port=8881): Max retries exceeded with url: /api/tools/rustscan (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc02a832690>: Failed to establish a new connection: [Errno 111] Connection refused'))[0m
+[🔥 HexStrike MCP] 2025-09-04 17:08:27 [ERROR] [38;5;196m❌ ❌ Rustscan failed for 192.168.50.1[0m
+
+2025-09-04 17:08:27.202 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-04 17:08:27 [ERROR] [38;5;196m❌ 🚫 Request failed: HTTPConnectionPool(host='127.0.0.1', port=8881): Max retries exceeded with url: /api/tools/rustscan (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc02a832690>: Failed to establish a new connection: [Errno 111] Connection refused'))[0m
+[🔥 HexStrike MCP] 2025-09-04 17:08:27 [ERROR] [38;5;196m❌ ❌ Rustscan failed for 192.168.50.1[0m
+
+2025-09-04 17:08:27.207 [info] user-hexstrike-ai: Successfully called tool 'rustscan_fast_scan'
+2025-09-04 17:08:28.856 [info] user-hexstrike-ai: Handling CallTool action for tool 'nuclei_scan'
+2025-09-04 17:08:28.856 [info] user-hexstrike-ai: Calling tool 'nuclei_scan' with toolCallId: tool_b34b30d4-9c5d-4d3b-af16-7e8e396d48c
+2025-09-04 17:08:28.859 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-04 17:08:28 [INFO] [38;5;46m✅ Processing request of type CallToolRequest[0m
+
+2025-09-04 17:08:28.859 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-04 17:08:28 [INFO] [38;5;46m✅ Processing request of type CallToolRequest[0m
+
+2025-09-04 17:08:28.859 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-04 17:08:28 [INFO] [38;5;46m✅ [38;5;124m🔬 Starting Nuclei vulnerability scan: 192.168.50.1[0m[0m
+
+2025-09-04 17:08:28.859 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-04 17:08:28 [INFO] [38;5;46m✅ [38;5;124m🔬 Starting Nuclei vulnerability scan: 192.168.50.1[0m[0m
+
+2025-09-04 17:08:28.862 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-04 17:08:28 [ERROR] [38;5;196m❌ 🚫 Request failed: HTTPConnectionPool(host='127.0.0.1', port=8881): Max retries exceeded with url: /api/tools/nuclei (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc02abc2cf0>: Failed to establish a new connection: [Errno 111] Connection refused'))[0m
+[🔥 HexStrike MCP] 2025-09-04 17:08:28 [ERROR] [38;5;196m❌ [38;5;196m❌ Nuclei scan failed for 192.168.50.1[0m[0m
+
+2025-09-04 17:08:28.862 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-04 17:08:28 [ERROR] [38;5;196m❌ 🚫 Request failed: HTTPConnectionPool(host='127.0.0.1', port=8881): Max retries exceeded with url: /api/tools/nuclei (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc02abc2cf0>: Failed to establish a new connection: [Errno 111] Connection refused'))[0m
+[🔥 HexStrike MCP] 2025-09-04 17:08:28 [ERROR] [38;5;196m❌ [38;5;196m❌ Nuclei scan failed for 192.168.50.1[0m[0m
+
+2025-09-04 17:08:28.867 [info] user-hexstrike-ai: Successfully called tool 'nuclei_scan'
+2025-09-04 17:12:17.328 [info] user-hexstrike-ai: Handling CallTool action for tool 'nmap_scan'
+2025-09-04 17:12:17.328 [info] user-hexstrike-ai: Calling tool 'nmap_scan' with toolCallId: tool_bd78b8de-6c4a-4049-b121-cf228024342
+2025-09-04 17:12:17.331 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-04 17:12:17 [INFO] [38;5;46m✅ Processing request of type CallToolRequest[0m
+
+2025-09-04 17:12:17.331 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-04 17:12:17 [INFO] [38;5;46m✅ Processing request of type CallToolRequest[0m
+
+2025-09-04 17:12:17.331 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-04 17:12:17 [INFO] [38;5;46m✅ [38;5;202m🔍 Initiating Nmap scan: 192.168.50.1[0m[0m
+
+2025-09-04 17:12:17.331 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-04 17:12:17 [INFO] [38;5;46m✅ [38;5;202m🔍 Initiating Nmap scan: 192.168.50.1[0m[0m
+
+2025-09-04 17:12:17.334 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-04 17:12:17 [ERROR] [38;5;196m❌ 🚫 Request failed: HTTPConnectionPool(host='127.0.0.1', port=8881): Max retries exceeded with url: /api/tools/nmap (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc02abc3240>: Failed to establish a new connection: [Errno 111] Connection refused'))[0m
+[🔥 HexStrike MCP] 2025-09-04 17:12:17 [ERROR] [38;5;196m❌ [38;5;196m❌ Nmap scan failed for 192.168.50.1[0m[0m
+
+2025-09-04 17:12:17.334 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-04 17:12:17 [ERROR] [38;5;196m❌ 🚫 Request failed: HTTPConnectionPool(host='127.0.0.1', port=8881): Max retries exceeded with url: /api/tools/nmap (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc02abc3240>: Failed to establish a new connection: [Errno 111] Connection refused'))[0m
+[🔥 HexStrike MCP] 2025-09-04 17:12:17 [ERROR] [38;5;196m❌ [38;5;196m❌ Nmap scan failed for 192.168.50.1[0m[0m
+
+2025-09-04 17:12:17.341 [info] user-hexstrike-ai: Successfully called tool 'nmap_scan'
+2025-09-04 17:12:17.480 [info] user-hexstrike-ai: Handling CallTool action for tool 'nuclei_scan'
+2025-09-04 17:12:17.480 [info] user-hexstrike-ai: Calling tool 'nuclei_scan' with toolCallId: tool_02495173-d2f2-4845-ad8f-dd812061f95
+2025-09-04 17:12:17.483 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-04 17:12:17 [INFO] [38;5;46m✅ Processing request of type CallToolRequest[0m
+
+2025-09-04 17:12:17.483 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-04 17:12:17 [INFO] [38;5;46m✅ Processing request of type CallToolRequest[0m
+
+2025-09-04 17:12:17.484 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-04 17:12:17 [INFO] [38;5;46m✅ [38;5;124m🔬 Starting Nuclei vulnerability scan: 192.168.50.1[0m[0m
+
+2025-09-04 17:12:17.484 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-04 17:12:17 [INFO] [38;5;46m✅ [38;5;124m🔬 Starting Nuclei vulnerability scan: 192.168.50.1[0m[0m
+
+2025-09-04 17:12:17.488 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-04 17:12:17 [ERROR] [38;5;196m❌ 🚫 Request failed: HTTPConnectionPool(host='127.0.0.1', port=8881): Max retries exceeded with url: /api/tools/nuclei (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc02abc3460>: Failed to establish a new connection: [Errno 111] Connection refused'))[0m
+
+2025-09-04 17:12:17.488 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-04 17:12:17 [ERROR] [38;5;196m❌ 🚫 Request failed: HTTPConnectionPool(host='127.0.0.1', port=8881): Max retries exceeded with url: /api/tools/nuclei (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc02abc3460>: Failed to establish a new connection: [Errno 111] Connection refused'))[0m
+
+2025-09-04 17:12:17.488 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-04 17:12:17 [ERROR] [38;5;196m❌ [38;5;196m❌ Nuclei scan failed for 192.168.50.1[0m[0m
+
+2025-09-04 17:12:17.488 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-04 17:12:17 [ERROR] [38;5;196m❌ [38;5;196m❌ Nuclei scan failed for 192.168.50.1[0m[0m
+
+2025-09-04 17:12:17.494 [info] user-hexstrike-ai: Successfully called tool 'nuclei_scan'
+2025-09-04 18:16:58.426 [info] user-hexstrike-ai: Handling CallTool action for tool 'nikto_scan'
+2025-09-04 18:16:58.426 [info] user-hexstrike-ai: Calling tool 'nikto_scan' with toolCallId: tool_8f400bf8-de31-40c4-960d-8957b5dce52
+2025-09-04 18:16:58.429 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-04 18:16:58 [INFO] [38;5;46m✅ Processing request of type CallToolRequest[0m
+
+2025-09-04 18:16:58.429 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-04 18:16:58 [INFO] [38;5;46m✅ Processing request of type CallToolRequest[0m
+
+2025-09-04 18:16:58.429 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-04 18:16:58 [INFO] [38;5;46m✅ 🔬 Starting Nikto scan: 192.168.50.1[0m
+
+2025-09-04 18:16:58.429 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-04 18:16:58 [INFO] [38;5;46m✅ 🔬 Starting Nikto scan: 192.168.50.1[0m
+
+2025-09-04 18:16:58.432 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-04 18:16:58 [ERROR] [38;5;196m❌ 🚫 Request failed: HTTPConnectionPool(host='127.0.0.1', port=8881): Max retries exceeded with url: /api/tools/nikto (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc02abc3790>: Failed to establish a new connection: [Errno 111] Connection refused'))[0m
+[🔥 HexStrike MCP] 2025-09-04 18:16:58 [ERROR] [38;5;196m❌ ❌ Nikto scan failed for 192.168.50.1[0m
+
+2025-09-04 18:16:58.432 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-04 18:16:58 [ERROR] [38;5;196m❌ 🚫 Request failed: HTTPConnectionPool(host='127.0.0.1', port=8881): Max retries exceeded with url: /api/tools/nikto (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc02abc3790>: Failed to establish a new connection: [Errno 111] Connection refused'))[0m
+[🔥 HexStrike MCP] 2025-09-04 18:16:58 [ERROR] [38;5;196m❌ ❌ Nikto scan failed for 192.168.50.1[0m
+
+2025-09-04 18:16:58.438 [info] user-hexstrike-ai: Successfully called tool 'nikto_scan'

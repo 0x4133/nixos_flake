@@ -1,0 +1,471 @@
+2025-09-05 11:45:19.721 [info] user-hexstrike-ai: Handling ListOfferings action
+2025-09-05 11:45:19.721 [error] user-hexstrike-ai: No server info found
+2025-09-05 11:45:19.721 [info] user-hexstrike-ai: Handling ListOfferings action
+2025-09-05 11:45:19.721 [error] user-hexstrike-ai: No server info found
+2025-09-05 11:45:19.721 [info] user-hexstrike-ai: Handling CreateClient action
+2025-09-05 11:45:19.721 [info] user-hexstrike-ai: Starting new stdio process with command: /home/aaron/git/hexstrike-ai/hexstrike_env/bin/python /home/aaron/git/hexstrike-ai/hexstrike_mcp.py --server http://127.0.0.1:8881
+2025-09-05 11:45:20.400 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:45:20 [INFO] [38;5;46m✅ 🚀 Starting HexStrike AI MCP Client v6.0[0m
+[🔥 HexStrike MCP] 2025-09-05 11:45:20 [INFO] [38;5;46m✅ 🔗 Connecting to: http://127.0.0.1:8881[0m
+[🔥 HexStrike MCP] 2025-09-05 11:45:20 [INFO] [38;5;46m✅ 🔗 Attempting to connect to HexStrike AI API at http://127.0.0.1:8881 (attempt 1/3)[0m
+[🔥 HexStrike MCP] 2025-09-05 11:45:20 [WARNING] [38;5;208m⚠️ 🔌 Connection refused to http://127.0.0.1:8881. Make sure the HexStrike AI server is running.[0m
+
+2025-09-05 11:45:22.330 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:45:22 [INFO] [38;5;46m✅ 🔗 Attempting to connect to HexStrike AI API at http://127.0.0.1:8881 (attempt 2/3)[0m
+[🔥 HexStrike MCP] 2025-09-05 11:45:22 [WARNING] [38;5;208m⚠️ 🔌 Connection refused to http://127.0.0.1:8881. Make sure the HexStrike AI server is running.[0m
+
+2025-09-05 11:45:24.290 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:45:24 [INFO] [38;5;46m✅ 🔗 Attempting to connect to HexStrike AI API at http://127.0.0.1:8881 (attempt 3/3)[0m
+
+2025-09-05 11:45:24.291 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:45:24 [WARNING] [38;5;208m⚠️ 🔌 Connection refused to http://127.0.0.1:8881. Make sure the HexStrike AI server is running.[0m
+
+2025-09-05 11:45:26.292 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:45:26 [ERROR] [38;5;196m❌ Failed to establish connection to HexStrike AI API Server at http://127.0.0.1:8881 after 3 attempts[0m
+
+2025-09-05 11:45:26.294 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:45:26 [ERROR] [38;5;196m❌ 🚫 Request failed: HTTPConnectionPool(host='127.0.0.1', port=8881): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f7ed2c43ce0>: Failed to establish a new connection: [Errno 111] Connection refused'))[0m
+
+2025-09-05 11:45:26.294 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:45:26 [WARNING] [38;5;208m⚠️ ⚠️  Unable to connect to HexStrike AI API server at http://127.0.0.1:8881: Request failed: HTTPConnectionPool(host='127.0.0.1', port=8881): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f7ed2c43ce0>: Failed to establish a new connection: [Errno 111] Connection refused'))[0m
+[🔥 HexStrike MCP] 2025-09-05 11:45:26 [WARNING] [38;5;208m⚠️ 🚀 MCP server will start, but tool execution may fail[0m
+
+2025-09-05 11:45:26.584 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:45:26 [WARNING] [38;5;208m⚠️ Tool already exists: httpx_probe[0m
+
+2025-09-05 11:45:26.711 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:45:26 [INFO] [38;5;46m✅ 🚀 Starting HexStrike AI MCP server[0m
+[🔥 HexStrike MCP] 2025-09-05 11:45:26 [INFO] [38;5;46m✅ 🤖 Ready to serve AI agents with enhanced cybersecurity capabilities[0m
+
+2025-09-05 11:45:26.732 [info] user-hexstrike-ai: Successfully connected to stdio server
+2025-09-05 11:45:26.732 [info] user-hexstrike-ai: Storing stdio client
+2025-09-05 11:45:26.735 [info] user-hexstrike-ai: Handling ListOfferings action
+2025-09-05 11:45:26.735 [info] user-hexstrike-ai: Listing offerings
+2025-09-05 11:45:26.736 [info] user-hexstrike-ai: Connected to stdio server, fetching offerings
+2025-09-05 11:45:26.736 [info] user-hexstrike-ai: Handling ListOfferings action
+2025-09-05 11:45:26.736 [info] user-hexstrike-ai: Listing offerings
+2025-09-05 11:45:26.737 [info] user-hexstrike-ai: Connected to stdio server, fetching offerings
+2025-09-05 11:45:26.737 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:45:26 [INFO] [38;5;46m✅ Processing request of type ListToolsRequest[0m
+
+2025-09-05 11:45:26.737 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:45:26 [INFO] [38;5;46m✅ Processing request of type ListToolsRequest[0m
+
+2025-09-05 11:45:26.743 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:45:26 [INFO] [38;5;46m✅ Processing request of type ListToolsRequest[0m
+
+2025-09-05 11:45:26.743 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:45:26 [INFO] [38;5;46m✅ Processing request of type ListToolsRequest[0m
+
+2025-09-05 11:45:26.821 [info] listOfferings: Found 150 tools
+2025-09-05 11:45:26.821 [info] user-hexstrike-ai: Found 150 tools
+2025-09-05 11:45:26.831 [info] listOfferings: Found 150 tools
+2025-09-05 11:45:26.831 [info] user-hexstrike-ai: Found 150 tools
+2025-09-05 11:48:37.653 [info] user-hexstrike-ai: Handling CallTool action for tool 'nmap_scan'
+2025-09-05 11:48:37.653 [info] user-hexstrike-ai: Calling tool 'nmap_scan' with toolCallId: tool_2015bf96-fbac-48d9-bb3e-9865e5e62e7
+2025-09-05 11:48:37.655 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:48:37 [INFO] [38;5;46m✅ Processing request of type CallToolRequest[0m
+
+2025-09-05 11:48:37.655 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:48:37 [INFO] [38;5;46m✅ Processing request of type CallToolRequest[0m
+
+2025-09-05 11:48:37.655 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:48:37 [INFO] [38;5;46m✅ [38;5;202m🔍 Initiating Nmap scan: 127.0.0.1[0m[0m
+
+2025-09-05 11:48:37.655 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:48:37 [INFO] [38;5;46m✅ [38;5;202m🔍 Initiating Nmap scan: 127.0.0.1[0m[0m
+
+2025-09-05 11:48:37.657 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:48:37 [ERROR] [38;5;196m❌ 🚫 Request failed: HTTPConnectionPool(host='127.0.0.1', port=8881): Max retries exceeded with url: /api/tools/nmap (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f7ed26183e0>: Failed to establish a new connection: [Errno 111] Connection refused'))[0m
+[🔥 HexStrike MCP] 2025-09-05 11:48:37 [ERROR] [38;5;196m❌ [38;5;196m❌ Nmap scan failed for 127.0.0.1[0m[0m
+
+2025-09-05 11:48:37.657 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:48:37 [ERROR] [38;5;196m❌ 🚫 Request failed: HTTPConnectionPool(host='127.0.0.1', port=8881): Max retries exceeded with url: /api/tools/nmap (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f7ed26183e0>: Failed to establish a new connection: [Errno 111] Connection refused'))[0m
+[🔥 HexStrike MCP] 2025-09-05 11:48:37 [ERROR] [38;5;196m❌ [38;5;196m❌ Nmap scan failed for 127.0.0.1[0m[0m
+
+2025-09-05 11:48:37.662 [info] user-hexstrike-ai: Successfully called tool 'nmap_scan'
+2025-09-05 11:52:04.285 [info] user-hexstrike-ai: Handling CallTool action for tool 'nmap_advanced_scan'
+2025-09-05 11:52:04.285 [info] user-hexstrike-ai: Calling tool 'nmap_advanced_scan' with toolCallId: tool_f3de0367-9c90-4ae9-ba27-e32ec1e9012
+2025-09-05 11:52:04.287 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:04 [INFO] [38;5;46m✅ Processing request of type CallToolRequest[0m
+
+2025-09-05 11:52:04.287 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:04 [INFO] [38;5;46m✅ Processing request of type CallToolRequest[0m
+
+2025-09-05 11:52:04.287 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:04 [INFO] [38;5;46m✅ 🔍 Starting Advanced Nmap: 127.0.0.1[0m
+
+2025-09-05 11:52:04.287 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:04 [INFO] [38;5;46m✅ 🔍 Starting Advanced Nmap: 127.0.0.1[0m
+
+2025-09-05 11:52:04.464 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:04 [ERROR] [38;5;196m❌ ❌ Advanced Nmap failed for 127.0.0.1[0m
+
+2025-09-05 11:52:04.464 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:04 [ERROR] [38;5;196m❌ ❌ Advanced Nmap failed for 127.0.0.1[0m
+
+2025-09-05 11:52:04.470 [info] user-hexstrike-ai: Successfully called tool 'nmap_advanced_scan'
+2025-09-05 11:52:04.986 [info] user-hexstrike-ai: Handling CallTool action for tool 'rustscan_fast_scan'
+2025-09-05 11:52:04.986 [info] user-hexstrike-ai: Calling tool 'rustscan_fast_scan' with toolCallId: tool_a4d13ed0-00d9-4257-9bd9-e6cf128bfee
+2025-09-05 11:52:04.989 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:04 [INFO] [38;5;46m✅ Processing request of type CallToolRequest[0m
+
+2025-09-05 11:52:04.989 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:04 [INFO] [38;5;46m✅ Processing request of type CallToolRequest[0m
+
+2025-09-05 11:52:04.989 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:04 [INFO] [38;5;46m✅ ⚡ Starting Rustscan: 127.0.0.1[0m
+
+2025-09-05 11:52:04.989 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:04 [INFO] [38;5;46m✅ ⚡ Starting Rustscan: 127.0.0.1[0m
+
+2025-09-05 11:52:05.065 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:05 [ERROR] [38;5;196m❌ ❌ Rustscan failed for 127.0.0.1[0m
+
+2025-09-05 11:52:05.065 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:05 [ERROR] [38;5;196m❌ ❌ Rustscan failed for 127.0.0.1[0m
+
+2025-09-05 11:52:05.071 [info] user-hexstrike-ai: Successfully called tool 'rustscan_fast_scan'
+2025-09-05 11:52:05.810 [info] user-hexstrike-ai: Handling CallTool action for tool 'nuclei_scan'
+2025-09-05 11:52:05.810 [info] user-hexstrike-ai: Calling tool 'nuclei_scan' with toolCallId: tool_974d7db6-4101-4d51-beec-0901e6d4f8a
+2025-09-05 11:52:05.812 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:05 [INFO] [38;5;46m✅ Processing request of type CallToolRequest[0m
+
+2025-09-05 11:52:05.812 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:05 [INFO] [38;5;46m✅ Processing request of type CallToolRequest[0m
+
+2025-09-05 11:52:05.812 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:05 [INFO] [38;5;46m✅ [38;5;124m🔬 Starting Nuclei vulnerability scan: 127.0.0.1[0m[0m
+
+2025-09-05 11:52:05.812 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:05 [INFO] [38;5;46m✅ [38;5;124m🔬 Starting Nuclei vulnerability scan: 127.0.0.1[0m[0m
+
+2025-09-05 11:52:28.824 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:28 [INFO] [38;5;46m✅ [38;5;46m✅ Nuclei scan completed for 127.0.0.1[0m[0m
+
+2025-09-05 11:52:28.824 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:28 [INFO] [38;5;46m✅ [38;5;46m✅ Nuclei scan completed for 127.0.0.1[0m[0m
+
+2025-09-05 11:52:28.830 [info] user-hexstrike-ai: Successfully called tool 'nuclei_scan'
+2025-09-05 11:52:28.952 [info] user-hexstrike-ai: Handling CallTool action for tool 'nikto_scan'
+2025-09-05 11:52:28.952 [info] user-hexstrike-ai: Calling tool 'nikto_scan' with toolCallId: tool_95c37ab6-ab9e-4bce-8669-b7d4d8f7335
+2025-09-05 11:52:28.954 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:28 [INFO] [38;5;46m✅ Processing request of type CallToolRequest[0m
+
+2025-09-05 11:52:28.954 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:28 [INFO] [38;5;46m✅ Processing request of type CallToolRequest[0m
+
+2025-09-05 11:52:28.955 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:28 [INFO] [38;5;46m✅ 🔬 Starting Nikto scan: 127.0.0.1[0m
+
+2025-09-05 11:52:28.955 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:28 [INFO] [38;5;46m✅ 🔬 Starting Nikto scan: 127.0.0.1[0m
+
+2025-09-05 11:52:29.480 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:29 [INFO] [38;5;46m✅ ✅ Nikto scan completed for 127.0.0.1[0m
+
+2025-09-05 11:52:29.480 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:29 [INFO] [38;5;46m✅ ✅ Nikto scan completed for 127.0.0.1[0m
+
+2025-09-05 11:52:29.485 [info] user-hexstrike-ai: Successfully called tool 'nikto_scan'
+2025-09-05 11:52:31.091 [info] user-hexstrike-ai: Handling CallTool action for tool 'nmap_scan'
+2025-09-05 11:52:31.091 [info] user-hexstrike-ai: Calling tool 'nmap_scan' with toolCallId: tool_63ed9341-d886-476e-913f-0bdea853471
+2025-09-05 11:52:31.094 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:31 [INFO] [38;5;46m✅ Processing request of type CallToolRequest[0m
+
+2025-09-05 11:52:31.094 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:31 [INFO] [38;5;46m✅ Processing request of type CallToolRequest[0m
+
+2025-09-05 11:52:31.094 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:31 [INFO] [38;5;46m✅ [38;5;202m🔍 Initiating Nmap scan: 127.0.0.1[0m[0m
+
+2025-09-05 11:52:31.094 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:31 [INFO] [38;5;46m✅ [38;5;202m🔍 Initiating Nmap scan: 127.0.0.1[0m[0m
+
+2025-09-05 11:52:31.218 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:31 [INFO] [38;5;46m✅ [38;5;46m✅ Nmap scan completed successfully for 127.0.0.1[0m[0m
+
+2025-09-05 11:52:31.218 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:31 [INFO] [38;5;46m✅ [38;5;46m✅ Nmap scan completed successfully for 127.0.0.1[0m[0m
+
+2025-09-05 11:52:31.224 [info] user-hexstrike-ai: Successfully called tool 'nmap_scan'
+2025-09-05 11:52:31.986 [info] user-hexstrike-ai: Handling CallTool action for tool 'rustscan_fast_scan'
+2025-09-05 11:52:31.986 [info] user-hexstrike-ai: Calling tool 'rustscan_fast_scan' with toolCallId: tool_6563ca88-d385-4733-a971-062f723e891
+2025-09-05 11:52:31.989 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:31 [INFO] [38;5;46m✅ Processing request of type CallToolRequest[0m
+
+2025-09-05 11:52:31.989 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:31 [INFO] [38;5;46m✅ Processing request of type CallToolRequest[0m
+
+2025-09-05 11:52:31.989 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:31 [INFO] [38;5;46m✅ ⚡ Starting Rustscan: 127.0.0.1[0m
+
+2025-09-05 11:52:31.989 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:31 [INFO] [38;5;46m✅ ⚡ Starting Rustscan: 127.0.0.1[0m
+
+2025-09-05 11:52:32.063 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:32 [INFO] [38;5;46m✅ ✅ Rustscan completed for 127.0.0.1[0m
+
+2025-09-05 11:52:32.063 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:32 [INFO] [38;5;46m✅ ✅ Rustscan completed for 127.0.0.1[0m
+
+2025-09-05 11:52:32.069 [info] user-hexstrike-ai: Successfully called tool 'rustscan_fast_scan'
+2025-09-05 11:52:32.873 [info] user-hexstrike-ai: Handling CallTool action for tool 'httpx_probe'
+2025-09-05 11:52:32.873 [info] user-hexstrike-ai: Calling tool 'httpx_probe' with toolCallId: tool_b6487c3e-f4ea-4dff-9e4e-e1fd1f19a41
+2025-09-05 11:52:32.876 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:32 [INFO] [38;5;46m✅ Processing request of type CallToolRequest[0m
+
+2025-09-05 11:52:32.876 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:32 [INFO] [38;5;46m✅ Processing request of type CallToolRequest[0m
+
+2025-09-05 11:52:32.877 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:32 [INFO] [38;5;46m✅ 🌍 Starting httpx probe: 127.0.0.1[0m
+
+2025-09-05 11:52:32.877 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:32 [INFO] [38;5;46m✅ 🌍 Starting httpx probe: 127.0.0.1[0m
+
+2025-09-05 11:52:33.203 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:33 [ERROR] [38;5;196m❌ ❌ httpx probe failed for 127.0.0.1[0m
+
+2025-09-05 11:52:33.203 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:33 [ERROR] [38;5;196m❌ ❌ httpx probe failed for 127.0.0.1[0m
+
+2025-09-05 11:52:33.208 [info] user-hexstrike-ai: Successfully called tool 'httpx_probe'
+2025-09-05 11:52:33.324 [info] user-hexstrike-ai: Handling CallTool action for tool 'arp_scan_discovery'
+2025-09-05 11:52:33.324 [info] user-hexstrike-ai: Calling tool 'arp_scan_discovery' with toolCallId: tool_37e36e67-95ec-49fe-853d-fb75a6445c2
+2025-09-05 11:52:33.326 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:33 [INFO] [38;5;46m✅ Processing request of type CallToolRequest[0m
+
+2025-09-05 11:52:33.326 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:33 [INFO] [38;5;46m✅ Processing request of type CallToolRequest[0m
+
+2025-09-05 11:52:33.326 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:33 [INFO] [38;5;46m✅ 🔍 Starting arp-scan: local network[0m
+
+2025-09-05 11:52:33.326 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:33 [INFO] [38;5;46m✅ 🔍 Starting arp-scan: local network[0m
+
+2025-09-05 11:52:33.337 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:33 [ERROR] [38;5;196m❌ ❌ arp-scan failed[0m
+
+2025-09-05 11:52:33.337 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:33 [ERROR] [38;5;196m❌ ❌ arp-scan failed[0m
+
+2025-09-05 11:52:33.343 [info] user-hexstrike-ai: Successfully called tool 'arp_scan_discovery'
+2025-09-05 11:52:35.180 [info] user-hexstrike-ai: Handling CallTool action for tool 'httpx_probe'
+2025-09-05 11:52:35.180 [info] user-hexstrike-ai: Calling tool 'httpx_probe' with toolCallId: tool_51769ca3-6947-407a-b69f-15e275e93a4
+2025-09-05 11:52:35.182 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:35 [INFO] [38;5;46m✅ Processing request of type CallToolRequest[0m
+
+2025-09-05 11:52:35.182 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:35 [INFO] [38;5;46m✅ Processing request of type CallToolRequest[0m
+
+2025-09-05 11:52:35.182 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:35 [INFO] [38;5;46m✅ 🌍 Starting httpx probe: http://127.0.0.1[0m
+
+2025-09-05 11:52:35.182 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:35 [INFO] [38;5;46m✅ 🌍 Starting httpx probe: http://127.0.0.1[0m
+
+2025-09-05 11:52:35.507 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:35 [ERROR] [38;5;196m❌ ❌ httpx probe failed for http://127.0.0.1[0m
+
+2025-09-05 11:52:35.507 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:35 [ERROR] [38;5;196m❌ ❌ httpx probe failed for http://127.0.0.1[0m
+
+2025-09-05 11:52:35.512 [info] user-hexstrike-ai: Successfully called tool 'httpx_probe'
+2025-09-05 11:52:35.909 [info] user-hexstrike-ai: Handling CallTool action for tool 'httpx_probe'
+2025-09-05 11:52:35.909 [info] user-hexstrike-ai: Calling tool 'httpx_probe' with toolCallId: tool_ef16743c-bcf6-4af5-a6b3-917ab5d2f75
+2025-09-05 11:52:35.911 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:35 [INFO] [38;5;46m✅ Processing request of type CallToolRequest[0m
+
+2025-09-05 11:52:35.911 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:35 [INFO] [38;5;46m✅ Processing request of type CallToolRequest[0m
+
+2025-09-05 11:52:35.912 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:35 [INFO] [38;5;46m✅ 🌍 Starting httpx probe: https://127.0.0.1[0m
+
+2025-09-05 11:52:35.912 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:35 [INFO] [38;5;46m✅ 🌍 Starting httpx probe: https://127.0.0.1[0m
+
+2025-09-05 11:52:36.236 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:36 [ERROR] [38;5;196m❌ ❌ httpx probe failed for https://127.0.0.1[0m
+
+2025-09-05 11:52:36.236 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:36 [ERROR] [38;5;196m❌ ❌ httpx probe failed for https://127.0.0.1[0m
+
+2025-09-05 11:52:36.242 [info] user-hexstrike-ai: Successfully called tool 'httpx_probe'
+2025-09-05 11:52:37.222 [info] user-hexstrike-ai: Handling CallTool action for tool 'nmap_scan'
+2025-09-05 11:52:37.222 [info] user-hexstrike-ai: Calling tool 'nmap_scan' with toolCallId: tool_c9a202cb-f5a4-4a44-808c-249cea756e3
+2025-09-05 11:52:37.225 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:37 [INFO] [38;5;46m✅ Processing request of type CallToolRequest[0m
+
+2025-09-05 11:52:37.225 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:37 [INFO] [38;5;46m✅ Processing request of type CallToolRequest[0m
+
+2025-09-05 11:52:37.225 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:37 [INFO] [38;5;46m✅ [38;5;202m🔍 Initiating Nmap scan: 127.0.0.1[0m[0m
+
+2025-09-05 11:52:37.225 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:37 [INFO] [38;5;46m✅ [38;5;202m🔍 Initiating Nmap scan: 127.0.0.1[0m[0m
+
+2025-09-05 11:52:43.572 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:43 [INFO] [38;5;46m✅ [38;5;46m✅ Nmap scan completed successfully for 127.0.0.1[0m[0m
+
+2025-09-05 11:52:43.572 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:43 [INFO] [38;5;46m✅ [38;5;46m✅ Nmap scan completed successfully for 127.0.0.1[0m[0m
+
+2025-09-05 11:52:43.577 [info] user-hexstrike-ai: Successfully called tool 'nmap_scan'
+2025-09-05 11:52:43.727 [info] user-hexstrike-ai: Handling CallTool action for tool 'nmap_scan'
+2025-09-05 11:52:43.727 [info] user-hexstrike-ai: Calling tool 'nmap_scan' with toolCallId: tool_0d62c88f-f255-4950-a195-bd2565e838b
+2025-09-05 11:52:43.730 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:43 [INFO] [38;5;46m✅ Processing request of type CallToolRequest[0m
+
+2025-09-05 11:52:43.730 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:43 [INFO] [38;5;46m✅ Processing request of type CallToolRequest[0m
+
+2025-09-05 11:52:43.730 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:43 [INFO] [38;5;46m✅ [38;5;202m🔍 Initiating Nmap scan: 127.0.0.1[0m[0m
+
+2025-09-05 11:52:43.730 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:43 [INFO] [38;5;46m✅ [38;5;202m🔍 Initiating Nmap scan: 127.0.0.1[0m[0m
+
+2025-09-05 11:52:43.762 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:43 [ERROR] [38;5;196m❌ [38;5;196m❌ Nmap scan failed for 127.0.0.1[0m[0m
+[🔥 HexStrike MCP] 2025-09-05 11:52:43 [ERROR] [38;5;196m❌ [48;5;196m[38;5;15m[1m HUMAN ESCALATION REQUIRED [0m[0m
+
+2025-09-05 11:52:43.762 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:43 [ERROR] [38;5;196m❌ [38;5;196m❌ Nmap scan failed for 127.0.0.1[0m[0m
+[🔥 HexStrike MCP] 2025-09-05 11:52:43 [ERROR] [38;5;196m❌ [48;5;196m[38;5;15m[1m HUMAN ESCALATION REQUIRED [0m[0m
+
+2025-09-05 11:52:43.766 [info] user-hexstrike-ai: Successfully called tool 'nmap_scan'
+2025-09-05 11:52:45.468 [info] user-hexstrike-ai: Handling CallTool action for tool 'nmap_scan'
+2025-09-05 11:52:45.468 [info] user-hexstrike-ai: Calling tool 'nmap_scan' with toolCallId: tool_5d68c0c3-38e7-4ba5-8bdf-52dc1fbc348
+2025-09-05 11:52:45.470 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:45 [INFO] [38;5;46m✅ Processing request of type CallToolRequest[0m
+
+2025-09-05 11:52:45.470 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:45 [INFO] [38;5;46m✅ Processing request of type CallToolRequest[0m
+
+2025-09-05 11:52:45.471 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:45 [INFO] [38;5;46m✅ [38;5;202m🔍 Initiating Nmap scan: 127.0.0.1[0m[0m
+
+2025-09-05 11:52:45.471 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:45 [INFO] [38;5;46m✅ [38;5;202m🔍 Initiating Nmap scan: 127.0.0.1[0m[0m
+
+2025-09-05 11:52:45.544 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:45 [INFO] [38;5;46m✅ [38;5;46m✅ Nmap scan completed successfully for 127.0.0.1[0m[0m
+
+2025-09-05 11:52:45.545 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:45 [INFO] [38;5;46m✅ [38;5;46m✅ Nmap scan completed successfully for 127.0.0.1[0m[0m
+
+2025-09-05 11:52:45.550 [info] user-hexstrike-ai: Successfully called tool 'nmap_scan'
+2025-09-05 11:52:45.957 [info] user-hexstrike-ai: Handling CallTool action for tool 'nuclei_scan'
+2025-09-05 11:52:45.957 [info] user-hexstrike-ai: Calling tool 'nuclei_scan' with toolCallId: tool_b8a1535e-0a52-49f5-9600-d9a5dc9501e
+2025-09-05 11:52:45.960 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:45 [INFO] [38;5;46m✅ Processing request of type CallToolRequest[0m
+
+2025-09-05 11:52:45.960 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:45 [INFO] [38;5;46m✅ Processing request of type CallToolRequest[0m
+
+2025-09-05 11:52:45.960 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:45 [INFO] [38;5;46m✅ [38;5;124m🔬 Starting Nuclei vulnerability scan: http://127.0.0.1[0m[0m
+
+2025-09-05 11:52:45.960 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:45 [INFO] [38;5;46m✅ [38;5;124m🔬 Starting Nuclei vulnerability scan: http://127.0.0.1[0m[0m
+
+2025-09-05 11:52:55.021 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:55 [INFO] [38;5;46m✅ [38;5;46m✅ Nuclei scan completed for http://127.0.0.1[0m[0m
+
+2025-09-05 11:52:55.021 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:55 [INFO] [38;5;46m✅ [38;5;46m✅ Nuclei scan completed for http://127.0.0.1[0m[0m
+
+2025-09-05 11:52:55.027 [info] user-hexstrike-ai: Successfully called tool 'nuclei_scan'
+2025-09-05 11:52:55.160 [info] user-hexstrike-ai: Handling CallTool action for tool 'nuclei_scan'
+2025-09-05 11:52:55.160 [info] user-hexstrike-ai: Calling tool 'nuclei_scan' with toolCallId: tool_0857a191-8b20-41c9-8b46-051d6c19a97
+2025-09-05 11:52:55.163 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:55 [INFO] [38;5;46m✅ Processing request of type CallToolRequest[0m
+
+2025-09-05 11:52:55.163 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:55 [INFO] [38;5;46m✅ Processing request of type CallToolRequest[0m
+
+2025-09-05 11:52:55.163 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:55 [INFO] [38;5;46m✅ [38;5;124m🔬 Starting Nuclei vulnerability scan: https://127.0.0.1[0m[0m
+
+2025-09-05 11:52:55.163 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:52:55 [INFO] [38;5;46m✅ [38;5;124m🔬 Starting Nuclei vulnerability scan: https://127.0.0.1[0m[0m
+
+2025-09-05 11:53:06.983 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:53:06 [INFO] [38;5;46m✅ [38;5;46m✅ Nuclei scan completed for https://127.0.0.1[0m[0m
+
+2025-09-05 11:53:06.983 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:53:06 [INFO] [38;5;46m✅ [38;5;46m✅ Nuclei scan completed for https://127.0.0.1[0m[0m
+
+2025-09-05 11:53:06.989 [info] user-hexstrike-ai: Successfully called tool 'nuclei_scan'
+2025-09-05 11:53:07.118 [info] user-hexstrike-ai: Handling CallTool action for tool 'nuclei_scan'
+2025-09-05 11:53:07.118 [info] user-hexstrike-ai: Calling tool 'nuclei_scan' with toolCallId: tool_d14ebd1c-6df8-4ba6-8067-11e73114cf7
+2025-09-05 11:53:07.121 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:53:07 [INFO] [38;5;46m✅ Processing request of type CallToolRequest[0m
+
+2025-09-05 11:53:07.121 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:53:07 [INFO] [38;5;46m✅ Processing request of type CallToolRequest[0m
+
+2025-09-05 11:53:07.121 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:53:07 [INFO] [38;5;46m✅ [38;5;124m🔬 Starting Nuclei vulnerability scan: http://127.0.0.1:631[0m[0m
+
+2025-09-05 11:53:07.121 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:53:07 [INFO] [38;5;46m✅ [38;5;124m🔬 Starting Nuclei vulnerability scan: http://127.0.0.1:631[0m[0m
+
+2025-09-05 11:58:07.224 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:58:07 [ERROR] [38;5;196m❌ 🚫 Request failed: HTTPConnectionPool(host='127.0.0.1', port=8881): Read timed out. (read timeout=300)[0m
+[🔥 HexStrike MCP] 2025-09-05 11:58:07 [ERROR] [38;5;196m❌ [38;5;196m❌ Nuclei scan failed for http://127.0.0.1:631[0m[0m
+
+2025-09-05 11:58:07.224 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:58:07 [ERROR] [38;5;196m❌ 🚫 Request failed: HTTPConnectionPool(host='127.0.0.1', port=8881): Read timed out. (read timeout=300)[0m
+[🔥 HexStrike MCP] 2025-09-05 11:58:07 [ERROR] [38;5;196m❌ [38;5;196m❌ Nuclei scan failed for http://127.0.0.1:631[0m[0m
+
+2025-09-05 11:58:07.230 [info] user-hexstrike-ai: Successfully called tool 'nuclei_scan'
+2025-09-05 11:58:08.760 [info] user-hexstrike-ai: Handling CallTool action for tool 'nuclei_scan'
+2025-09-05 11:58:08.760 [info] user-hexstrike-ai: Calling tool 'nuclei_scan' with toolCallId: tool_e979cfff-1fba-44cf-a297-c70e64b457a
+2025-09-05 11:58:08.762 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:58:08 [INFO] [38;5;46m✅ Processing request of type CallToolRequest[0m
+
+2025-09-05 11:58:08.763 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:58:08 [INFO] [38;5;46m✅ Processing request of type CallToolRequest[0m
+
+2025-09-05 11:58:08.763 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:58:08 [INFO] [38;5;46m✅ [38;5;124m🔬 Starting Nuclei vulnerability scan: http://127.0.0.1:631[0m[0m
+
+2025-09-05 11:58:08.763 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:58:08 [INFO] [38;5;46m✅ [38;5;124m🔬 Starting Nuclei vulnerability scan: http://127.0.0.1:631[0m[0m
+
+2025-09-05 11:58:41.289 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:58:41 [INFO] [38;5;46m✅ [38;5;46m✅ Nuclei scan completed for http://127.0.0.1:631[0m[0m
+
+2025-09-05 11:58:41.289 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:58:41 [INFO] [38;5;46m✅ [38;5;46m✅ Nuclei scan completed for http://127.0.0.1:631[0m[0m
+
+2025-09-05 11:58:41.295 [info] user-hexstrike-ai: Successfully called tool 'nuclei_scan'
+2025-09-05 11:58:41.434 [info] user-hexstrike-ai: Handling CallTool action for tool 'nmap_scan'
+2025-09-05 11:58:41.434 [info] user-hexstrike-ai: Calling tool 'nmap_scan' with toolCallId: tool_06601cc1-d255-481c-8f45-a00764424bf
+2025-09-05 11:58:41.436 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:58:41 [INFO] [38;5;46m✅ Processing request of type CallToolRequest[0m
+
+2025-09-05 11:58:41.436 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:58:41 [INFO] [38;5;46m✅ Processing request of type CallToolRequest[0m
+
+2025-09-05 11:58:41.437 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:58:41 [INFO] [38;5;46m✅ [38;5;202m🔍 Initiating Nmap scan: 127.0.0.1[0m[0m
+
+2025-09-05 11:58:41.437 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:58:41 [INFO] [38;5;46m✅ [38;5;202m🔍 Initiating Nmap scan: 127.0.0.1[0m[0m
+
+2025-09-05 11:58:41.511 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:58:41 [INFO] [38;5;46m✅ [38;5;46m✅ Nmap scan completed successfully for 127.0.0.1[0m[0m
+
+2025-09-05 11:58:41.511 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:58:41 [INFO] [38;5;46m✅ [38;5;46m✅ Nmap scan completed successfully for 127.0.0.1[0m[0m
+
+2025-09-05 11:58:41.517 [info] user-hexstrike-ai: Successfully called tool 'nmap_scan'
+2025-09-05 11:58:41.653 [info] user-hexstrike-ai: Handling CallTool action for tool 'nmap_scan'
+2025-09-05 11:58:41.653 [info] user-hexstrike-ai: Calling tool 'nmap_scan' with toolCallId: tool_194eed1f-f866-4abd-9558-034755a9045
+2025-09-05 11:58:41.655 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:58:41 [INFO] [38;5;46m✅ Processing request of type CallToolRequest[0m
+
+2025-09-05 11:58:41.655 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:58:41 [INFO] [38;5;46m✅ Processing request of type CallToolRequest[0m
+
+2025-09-05 11:58:41.656 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:58:41 [INFO] [38;5;46m✅ [38;5;202m🔍 Initiating Nmap scan: 127.0.0.1[0m[0m
+
+2025-09-05 11:58:41.656 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:58:41 [INFO] [38;5;46m✅ [38;5;202m🔍 Initiating Nmap scan: 127.0.0.1[0m[0m
+
+2025-09-05 11:58:41.728 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:58:41 [INFO] [38;5;46m✅ [38;5;46m✅ Nmap scan completed successfully for 127.0.0.1[0m[0m
+
+2025-09-05 11:58:41.728 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:58:41 [INFO] [38;5;46m✅ [38;5;46m✅ Nmap scan completed successfully for 127.0.0.1[0m[0m
+
+2025-09-05 11:58:41.733 [info] user-hexstrike-ai: Successfully called tool 'nmap_scan'
+2025-09-05 11:58:44.791 [info] user-hexstrike-ai: Handling CallTool action for tool 'nmap_scan'
+2025-09-05 11:58:44.791 [info] user-hexstrike-ai: Calling tool 'nmap_scan' with toolCallId: tool_74ac81e7-9d2f-418c-94df-d2e58688ca5
+2025-09-05 11:58:44.794 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:58:44 [INFO] [38;5;46m✅ Processing request of type CallToolRequest[0m
+
+2025-09-05 11:58:44.794 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:58:44 [INFO] [38;5;46m✅ Processing request of type CallToolRequest[0m
+
+2025-09-05 11:58:44.794 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:58:44 [INFO] [38;5;46m✅ [38;5;202m🔍 Initiating Nmap scan: 127.0.0.1[0m[0m
+
+2025-09-05 11:58:44.794 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 11:58:44 [INFO] [38;5;46m✅ [38;5;202m🔍 Initiating Nmap scan: 127.0.0.1[0m[0m
+
+2025-09-05 12:03:44.813 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 12:03:44 [INFO] [38;5;46m✅ [38;5;46m✅ Nmap scan completed successfully for 127.0.0.1[0m[0m
+
+2025-09-05 12:03:44.813 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 12:03:44 [INFO] [38;5;46m✅ [38;5;46m✅ Nmap scan completed successfully for 127.0.0.1[0m[0m
+
+2025-09-05 12:03:44.819 [info] user-hexstrike-ai: Successfully called tool 'nmap_scan'
+2025-09-05 12:03:44.987 [info] user-hexstrike-ai: Handling CallTool action for tool 'nmap_scan'
+2025-09-05 12:03:44.987 [info] user-hexstrike-ai: Calling tool 'nmap_scan' with toolCallId: tool_20b22cc8-7a97-4bd3-b039-18a6380986f
+2025-09-05 12:03:44.989 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 12:03:44 [INFO] [38;5;46m✅ Processing request of type CallToolRequest[0m
+
+2025-09-05 12:03:44.989 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 12:03:44 [INFO] [38;5;46m✅ Processing request of type CallToolRequest[0m
+
+2025-09-05 12:03:44.990 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 12:03:44 [INFO] [38;5;46m✅ [38;5;202m🔍 Initiating Nmap scan: 127.0.0.1[0m[0m
+
+2025-09-05 12:03:44.990 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 12:03:44 [INFO] [38;5;46m✅ [38;5;202m🔍 Initiating Nmap scan: 127.0.0.1[0m[0m
+
+2025-09-05 12:08:45.008 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 12:08:45 [INFO] [38;5;46m✅ [38;5;46m✅ Nmap scan completed successfully for 127.0.0.1[0m[0m
+
+2025-09-05 12:08:45.008 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 12:08:45 [INFO] [38;5;46m✅ [38;5;46m✅ Nmap scan completed successfully for 127.0.0.1[0m[0m
+
+2025-09-05 12:08:45.013 [info] user-hexstrike-ai: Successfully called tool 'nmap_scan'
+2025-09-05 12:08:47.447 [info] user-hexstrike-ai: Handling CallTool action for tool 'nmap_scan'
+2025-09-05 12:08:47.447 [info] user-hexstrike-ai: Calling tool 'nmap_scan' with toolCallId: tool_d5c3f211-52cb-4d1c-91b1-1a46c489bc1
+2025-09-05 12:08:47.449 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 12:08:47 [INFO] [38;5;46m✅ Processing request of type CallToolRequest[0m
+
+2025-09-05 12:08:47.450 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 12:08:47 [INFO] [38;5;46m✅ Processing request of type CallToolRequest[0m
+
+2025-09-05 12:08:47.450 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 12:08:47 [INFO] [38;5;46m✅ [38;5;202m🔍 Initiating Nmap scan: 127.0.0.1[0m[0m
+
+2025-09-05 12:08:47.450 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 12:08:47 [INFO] [38;5;46m✅ [38;5;202m🔍 Initiating Nmap scan: 127.0.0.1[0m[0m
+
+2025-09-05 12:08:58.905 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 12:08:58 [INFO] [38;5;46m✅ [38;5;46m✅ Nmap scan completed successfully for 127.0.0.1[0m[0m
+
+2025-09-05 12:08:58.905 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 12:08:58 [INFO] [38;5;46m✅ [38;5;46m✅ Nmap scan completed successfully for 127.0.0.1[0m[0m
+
+2025-09-05 12:08:58.911 [info] user-hexstrike-ai: Successfully called tool 'nmap_scan'
+2025-09-05 12:08:59.100 [info] user-hexstrike-ai: Handling CallTool action for tool 'nuclei_scan'
+2025-09-05 12:08:59.100 [info] user-hexstrike-ai: Calling tool 'nuclei_scan' with toolCallId: tool_4452c2b7-028e-4b91-8d47-3850d3ebfb8
+2025-09-05 12:08:59.103 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 12:08:59 [INFO] [38;5;46m✅ Processing request of type CallToolRequest[0m
+
+2025-09-05 12:08:59.103 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 12:08:59 [INFO] [38;5;46m✅ Processing request of type CallToolRequest[0m
+
+2025-09-05 12:08:59.103 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 12:08:59 [INFO] [38;5;46m✅ [38;5;124m🔬 Starting Nuclei vulnerability scan: http://127.0.0.1:8881[0m[0m
+
+2025-09-05 12:08:59.103 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 12:08:59 [INFO] [38;5;46m✅ [38;5;124m🔬 Starting Nuclei vulnerability scan: http://127.0.0.1:8881[0m[0m
+
+2025-09-05 12:10:23.322 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 12:10:23 [INFO] [38;5;46m✅ [38;5;46m✅ Nuclei scan completed for http://127.0.0.1:8881[0m[0m
+
+2025-09-05 12:10:23.322 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 12:10:23 [INFO] [38;5;46m✅ [38;5;46m✅ Nuclei scan completed for http://127.0.0.1:8881[0m[0m
+
+2025-09-05 12:10:23.328 [info] user-hexstrike-ai: Successfully called tool 'nuclei_scan'
+2025-09-05 12:10:23.496 [info] user-hexstrike-ai: Handling CallTool action for tool 'nuclei_scan'
+2025-09-05 12:10:23.496 [info] user-hexstrike-ai: Calling tool 'nuclei_scan' with toolCallId: tool_913ceb13-8580-4352-8779-007ea96590e
+2025-09-05 12:10:23.499 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 12:10:23 [INFO] [38;5;46m✅ Processing request of type CallToolRequest[0m
+
+2025-09-05 12:10:23.499 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 12:10:23 [INFO] [38;5;46m✅ Processing request of type CallToolRequest[0m
+
+2025-09-05 12:10:23.499 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 12:10:23 [INFO] [38;5;46m✅ [38;5;124m🔬 Starting Nuclei vulnerability scan: http://127.0.0.1:6463[0m[0m
+
+2025-09-05 12:10:23.499 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 12:10:23 [INFO] [38;5;46m✅ [38;5;124m🔬 Starting Nuclei vulnerability scan: http://127.0.0.1:6463[0m[0m
+
+2025-09-05 12:10:39.422 [info] user-hexstrike-ai: Handling CallTool action for tool 'nuclei_scan'
+2025-09-05 12:10:39.422 [info] user-hexstrike-ai: Calling tool 'nuclei_scan' with toolCallId: tool_4c9102df-b70b-4a5c-b43a-f14a7434786
+2025-09-05 12:10:50.988 [info] user-hexstrike-ai: Handling CallTool action for tool 'nuclei_scan'
+2025-09-05 12:10:50.988 [info] user-hexstrike-ai: Calling tool 'nuclei_scan' with toolCallId: tool_f7010248-43b5-40d1-9452-c98b1893644
+2025-09-05 12:11:00.632 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 12:11:00 [ERROR] [38;5;196m❌ 🚫 Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))[0m
+[🔥 HexStrike MCP] 2025-09-05 12:11:00 [ERROR] [38;5;196m❌ [38;5;196m❌ Nuclei scan failed for http://127.0.0.1:6463[0m[0m
+
+2025-09-05 12:11:00.632 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 12:11:00 [ERROR] [38;5;196m❌ 🚫 Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))[0m
+[🔥 HexStrike MCP] 2025-09-05 12:11:00 [ERROR] [38;5;196m❌ [38;5;196m❌ Nuclei scan failed for http://127.0.0.1:6463[0m[0m
+
+2025-09-05 12:11:00.638 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 12:11:00 [INFO] [38;5;46m✅ Processing request of type CallToolRequest[0m
+
+2025-09-05 12:11:00.638 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 12:11:00 [INFO] [38;5;46m✅ Processing request of type CallToolRequest[0m
+
+2025-09-05 12:11:00.638 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 12:11:00 [INFO] [38;5;46m✅ [38;5;124m🔬 Starting Nuclei vulnerability scan: http://127.0.0.1:42211[0m[0m
+
+2025-09-05 12:11:00.638 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 12:11:00 [INFO] [38;5;46m✅ [38;5;124m🔬 Starting Nuclei vulnerability scan: http://127.0.0.1:42211[0m[0m
+
+2025-09-05 12:11:00.640 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 12:11:00 [ERROR] [38;5;196m❌ 🚫 Request failed: HTTPConnectionPool(host='127.0.0.1', port=8881): Max retries exceeded with url: /api/tools/nuclei (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f7ed2cca580>: Failed to establish a new connection: [Errno 111] Connection refused'))[0m
+
+2025-09-05 12:11:00.640 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 12:11:00 [ERROR] [38;5;196m❌ 🚫 Request failed: HTTPConnectionPool(host='127.0.0.1', port=8881): Max retries exceeded with url: /api/tools/nuclei (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f7ed2cca580>: Failed to establish a new connection: [Errno 111] Connection refused'))[0m
+
+2025-09-05 12:11:00.640 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 12:11:00 [ERROR] [38;5;196m❌ [38;5;196m❌ Nuclei scan failed for http://127.0.0.1:42211[0m[0m
+
+2025-09-05 12:11:00.640 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 12:11:00 [ERROR] [38;5;196m❌ [38;5;196m❌ Nuclei scan failed for http://127.0.0.1:42211[0m[0m
+
+2025-09-05 12:11:00.645 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 12:11:00 [INFO] [38;5;46m✅ Processing request of type CallToolRequest[0m
+
+2025-09-05 12:11:00.645 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 12:11:00 [INFO] [38;5;46m✅ Processing request of type CallToolRequest[0m
+
+2025-09-05 12:11:00.646 [info] user-hexstrike-ai: Successfully called tool 'nuclei_scan'
+2025-09-05 12:11:00.646 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 12:11:00 [INFO] [38;5;46m✅ [38;5;124m🔬 Starting Nuclei vulnerability scan: http://127.0.0.1:6463[0m[0m
+
+2025-09-05 12:11:00.646 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 12:11:00 [INFO] [38;5;46m✅ [38;5;124m🔬 Starting Nuclei vulnerability scan: http://127.0.0.1:6463[0m[0m
+
+2025-09-05 12:11:00.647 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 12:11:00 [ERROR] [38;5;196m❌ 🚫 Request failed: HTTPConnectionPool(host='127.0.0.1', port=8881): Max retries exceeded with url: /api/tools/nuclei (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f7ed2cca7a0>: Failed to establish a new connection: [Errno 111] Connection refused'))[0m
+
+2025-09-05 12:11:00.647 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 12:11:00 [ERROR] [38;5;196m❌ 🚫 Request failed: HTTPConnectionPool(host='127.0.0.1', port=8881): Max retries exceeded with url: /api/tools/nuclei (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f7ed2cca7a0>: Failed to establish a new connection: [Errno 111] Connection refused'))[0m
+
+2025-09-05 12:11:00.647 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 12:11:00 [ERROR] [38;5;196m❌ [38;5;196m❌ Nuclei scan failed for http://127.0.0.1:6463[0m[0m
+
+2025-09-05 12:11:00.647 [error] user-hexstrike-ai: [🔥 HexStrike MCP] 2025-09-05 12:11:00 [ERROR] [38;5;196m❌ [38;5;196m❌ Nuclei scan failed for http://127.0.0.1:6463[0m[0m
+
+2025-09-05 12:11:00.652 [info] user-hexstrike-ai: Successfully called tool 'nuclei_scan'
+2025-09-05 12:11:00.653 [info] user-hexstrike-ai: Successfully called tool 'nuclei_scan'
