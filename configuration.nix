@@ -248,7 +248,7 @@ services.udev.packages = [ pkgs.hackrf ];
         xorg.libXi
         xorg. libXxf86vm
         wf-recorder
-        
+        qflipper
       
        # Sectools
         nmap masscan rustscan amass subfinder nuclei fierce dnsenum
