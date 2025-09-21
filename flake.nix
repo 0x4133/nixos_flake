@@ -7,7 +7,7 @@
    
   };
 
-  outputs = { nixpkgs, yabridge-nix,  ...} @ inputs: 
+  outputs = { nixpkgs,  ...} @ inputs: 
 
    {
    nixosConfigurations.nixos = nixpkgs.lib.nixosSystem {
