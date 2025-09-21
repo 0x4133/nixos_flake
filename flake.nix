@@ -4,7 +4,7 @@
 
   inputs = { 
     nixpkgs.url = "github:nixos/nixpkgs?ref=nixos-unstable";
-    yabridge-nix.url = "github:robbert-vdh/yabridge-nix";
+   
   };
 
   outputs = { nixpkgs, yabridge-nix,  ...} @ inputs: 
