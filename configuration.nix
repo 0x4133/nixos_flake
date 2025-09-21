@@ -324,6 +324,13 @@ environment.systemPackages = with pkgs; [
   # If you want the unpatched dmenu as well, you would list it separately.
   # dmenu 
 ];
+
+ environment.sessionVariables = {
+    NIX_PROFILES = "${yabridge-pkg}";
+    # Replace this with the actual path to your VST directories
+    YABRIDGE_PLUGIN_DIRS = "/home/aaron/.wine/drive_c/Program Files/Common Files/VST3";
+  };
+  
 services.udev.extraRules = ''
   # bladeRF udev rule
   SUBSYSTEM=="usb", ATTRS{idVendor}=="1d50", ATTRS{idProduct}=="6066", MODE="0660", GROUP="dialout"
