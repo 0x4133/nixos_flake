@@ -251,6 +251,9 @@ services.udev.packages = [ pkgs.hackrf ];
         qflipper
         yabridge
         yabridgectl
+        carla
+
+        
        # Sectools
         nmap masscan rustscan amass subfinder nuclei fierce dnsenum
          theharvester responder netexec enum4linux-ng nikto
