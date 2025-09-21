@@ -326,7 +326,7 @@ environment.systemPackages = with pkgs; [
 ];
 
  environment.sessionVariables = {
-    NIX_PROFILES = "${yabridge-pkg}";
+    NIX_PROFILES = "/nix/store/mgm684yazy2rz7c7nflrjxckdzvg9hah-yabridge-5.1.1/lib/libyabridge-chainloader-vst2.so";
     # Replace this with the actual path to your VST directories
     YABRIDGE_PLUGIN_DIRS = "/home/aaron/.wine/drive_c/Program Files/Common Files/VST3";
   };
