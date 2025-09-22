@@ -252,7 +252,7 @@ services.udev.packages = [ pkgs.hackrf ];
         yabridge
         yabridgectl
         carla
-
+        sox
         
        # Sectools
         nmap masscan rustscan amass subfinder nuclei fierce dnsenum
