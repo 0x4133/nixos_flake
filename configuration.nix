@@ -253,7 +253,7 @@ services.udev.packages = [ pkgs.hackrf ];
         yabridgectl
         carla
         xorg.xhost
-        
+        ncdu
        # Sectools
         nmap masscan rustscan amass subfinder nuclei fierce dnsenum
          theharvester responder netexec enum4linux-ng nikto
