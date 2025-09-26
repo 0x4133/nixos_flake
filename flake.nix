@@ -1,21 +1,21 @@
 {
+  description = "A very basic flake (nixos-unstable)";
 
-  description = "A very basic flake";
-
-  inputs = { 
-    nixpkgs.url = "github:nixos/nixpkgs?ref=nixos-unstable";
-   
+  inputs = {
+    nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
   };
 
-  outputs = { nixpkgs,  ...} @ inputs: 
-
-   {
-   nixosConfigurations.nixos = nixpkgs.lib.nixosSystem {
-    specialArgs = { inherit inputs; };
-   	modules = [
-   	    ./configuration.nix	
-   	];
-   };
-
+  outputs = { self, nixpkgs, ... }:
+  let
+    # Change if you're on a different arch:
+    system = "x86_64-linux";
+  in {
+    nixosConfigurations.nixos = nixpkgs.lib.nixosSystem {
+      inherit system;
+      specialArgs = { inherit nixpkgs self; }; # plus anything else you want to pass
+      modules = [
+        ./configuration.nix
+      ];
+    };
   };
 }
