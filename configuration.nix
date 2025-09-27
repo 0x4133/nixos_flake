@@ -256,7 +256,7 @@ services.udev.packages = [ pkgs.hackrf ];
         ncdu
         piper
         quickshell
-        code
+        vscode
        # Sectools
         nmap masscan rustscan amass subfinder nuclei fierce dnsenum
          theharvester responder netexec enum4linux-ng nikto
