@@ -254,6 +254,9 @@ services.udev.packages = [ pkgs.hackrf ];
         carla
         xorg.xhost
         ncdu
+        piper
+
+        
        # Sectools
         nmap masscan rustscan amass subfinder nuclei fierce dnsenum
          theharvester responder netexec enum4linux-ng nikto
