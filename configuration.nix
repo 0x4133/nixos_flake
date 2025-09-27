@@ -255,7 +255,7 @@ services.udev.packages = [ pkgs.hackrf ];
         xorg.xhost
         ncdu
         piper
-
+        quickshell
         
        # Sectools
         nmap masscan rustscan amass subfinder nuclei fierce dnsenum
