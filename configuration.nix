@@ -258,6 +258,7 @@ services.udev.packages = [ pkgs.hackrf ];
         quickshell
         vscode
         reaper
+        bitwig-studio
        # Sectools
         nmap masscan rustscan amass subfinder nuclei fierce dnsenum
          theharvester responder netexec enum4linux-ng nikto
