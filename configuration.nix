@@ -114,6 +114,12 @@
     #media-session.enable = true;
   };
 
+services.ollama = {
+  enable = true;
+  host = "0.0.0.0"; # Allows access from any network interface
+  openFirewall = true; # Open the firewall for Ollama's port
+  loadModels = [ "gpt-oss" ]; # Preload models
+};
   # Enable touchpad support (enabled default in most desktopManager).
   # services.xserver.libinput.enable = true;
 services.udev.packages = [ pkgs.hackrf ];
