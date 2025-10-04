@@ -4,19 +4,20 @@
 ##
 { config, pkgs, inputs, ... }:
 
-  {   # Enable OpenGL
-    hardware.graphics = {
-      enable = true;
-    };
+{
+  # Enable OpenGL
+  hardware.graphics = {
+    enable = true;
+  };
 
-    
-   virtualisation.docker.enable = true;
-    
+  virtualisation.docker.enable = true;
+
   # Load nvidia driver for Xorg and Wayland
-  services.xserver.videoDrivers = ["nvidia"];
+  services.xserver.videoDrivers = [ "nvidia" ];
   hardware.nvidia = {
- # Modesetting is required.
+    # Modesetting is required.
     modesetting.enable = true;
+
     # Nvidia power management. Experimental, and can cause sleep/suspend to fail.
     # Enable this if you have graphical corruption issues or application crashes after waking
     # up from sleep. This fixes it by saving the entire VRAM memory to /tmp/ instead 
@@ -35,31 +36,25 @@
     # Only available from driver 515.43.04+
     open = false;
 
-    # Enable the Nvidia settings menu,
-	# accessible via `nvidia-settings`.
+    # Enable the Nvidia settings menu, accessible via `nvidia-settings`.
     nvidiaSettings = true;
 
     # Optionally, you may need to select the appropriate driver version for your specific GPU.
     package = config.boot.kernelPackages.nvidiaPackages.production;
   };
-  
-    
-  nix.settings.experimental-features = ["nix-command" "flakes"];
-  imports =
-    [ # Include the results of the hardware scan.
-      /etc/nixos/hardware-configuration.nix
-    ];
+
+  nix.settings.experimental-features = [ "nix-command" "flakes" ];
+
+  imports = [
+    # Include the results of the hardware scan.
+    /etc/nixos/hardware-configuration.nix
+  ];
 
   # Bootloader.
   boot.loader.systemd-boot.enable = true;
   boot.loader.efi.canTouchEfiVariables = true;
 
   networking.hostName = "nixos"; # Define your hostname.
-  # networking.wireless.enable = true;  # Enables wireless support via wpa_supplicant.
-
-  # Configure network proxy if necessary
-  # networking.proxy.default = "http://user:password@proxy:port/";
-  # networking.proxy.noProxy = "127.0.0.1,localhost,internal.domain";
 
   # Enable networking
   networking.networkmanager.enable = true;
@@ -107,85 +102,80 @@
     alsa.support32Bit = true;
     pulse.enable = true;
     # If you want to use JACK applications, uncomment this
-    #jack.enable = true;
-
-    # use the example session manager (no others are packaged yet so this is enabled by default,
-    # no need to redefine it in your config for now)
-    #media-session.enable = true;
+    # jack.enable = true;
   };
 
-services.ollama = {
-  enable = true;
-  host = "0.0.0.0"; # Allows access from any network interface
-  openFirewall = true; # Open the firewall for Ollama's port
-  loadModels = [ "gpt-oss" ]; # Preload models
-};
-  # Enable touchpad support (enabled default in most desktopManager).
-  # services.xserver.libinput.enable = true;
-services.udev.packages = [ pkgs.hackrf ];
+  services.ollama = {
+    enable = true;
+    host = "0.0.0.0"; # Allows access from any network interface
+    openFirewall = true; # Open the firewall for Ollama's port
+    loadModels = [ "gpt-oss" ]; # Preload models
+  };
+
+  # SDR udev & groups
+  services.udev.packages = [ pkgs.hackrf ];
   users.groups.plugdev = { };
 
+  programs.obs-studio = {
+    enable = true;
 
+    # optional Nvidia hardware acceleration
+    package = (pkgs.obs-studio.override {
+      cudaSupport = true;
+    });
 
-   programs.obs-studio = {
-     enable = true;
-
-     # optional Nvidia hardware acceleration
-     package = (
-       pkgs.obs-studio.override {
-         cudaSupport = true;
-       }
-     );
-
-     plugins = with pkgs.obs-studio-plugins; [
-       wlrobs
-       obs-backgroundremoval
-       obs-pipewire-audio-capture
+    plugins = with pkgs.obs-studio-plugins; [
+      wlrobs
+      obs-backgroundremoval
+      obs-pipewire-audio-capture
       # obs-vaapi #optional AMD hardware acceleration
-       obs-gstreamer
-       obs-vkcapture
-     ];
-   };
+      obs-gstreamer
+      obs-vkcapture
+    ];
+  };
+
   # Define a user account. Don't forget to set a password with ‘passwd’.
   users.users.aaron = {
     isNormalUser = true;
     description = "aaron";
-    extraGroups = [ "networkmanager" "wheel" "plugdev" "dialout" "docker" "incus-admin"];
+    extraGroups = [ "networkmanager" "wheel" "plugdev" "dialout" "docker" "incus-admin" ];
     packages = with pkgs; [
-    #  thunderbird
       # hyprland
-       tesseract
-       poppler_utils
-       clipse
-       slurp
-       grim
-       fish
-       kitty
-     # hyprpaper
-       wofi
-     # dolphin
-       firefox
-       yt-dlp
-       waypaper
-       swaybg 
-       bash
-       micro
-       fastfetch
-       google-chrome
-       spotify
-       git
-       tealdeer
-       xclip
-       bat
-       ani-cli
-       mpv
-       discord
-       ffmpeg
-       fzf
-       go
+      tesseract
+      poppler_utils
+      clipse
+      slurp
+      grim
+      fish
+      kitty
+      # hyprpaper
+      wofi
+      # dolphin
+      firefox
+      yt-dlp
+      waypaper
+      swaybg 
+      bash
+      micro
+      fastfetch
+      google-chrome
+      spotify
+      git
+      tealdeer
+      xclip
+      bat
+      ani-cli
+      mpv
+      discord
+      ffmpeg
+      fzf
+      go
       code-cursor
       nodejs_24
-      python3
+
+      # Provide the same Python interpreter with NumPy for this user
+      (python311.withPackages (ps: with ps; [ numpy ipython pip ]))
+
       system76-keyboard-configurator 
       wl-clipboard
       gruppled-white-cursors
@@ -205,79 +195,80 @@ services.udev.packages = [ pkgs.hackrf ];
       conda
       gnumake
       ollama
-      (pkgs.ollama.override { 
-             acceleration = "cuda";
-           }) 
+      (pkgs.ollama.override { acceleration = "cuda"; })
       asciinema
       asciinema-agg
-        arduino-ide
-        transmission
-        obsidian
-        git-credential-manager
-        lmms
-        libusb1
-        yt-dlp
-        imagemagick
-        usbutils
-        gqrx
-        hackrf
-        sdrangel
-        qgis
-        ubertooth
-        timg
-        bloodhound
-        neo4j
-        openjdk17 
-        maltego
-        pavucontrol
-        kismet
-        wireshark
-        ffmpeg
-        v4l-utils
-        SDL2
-        pkg-config
-        cabextract 
-        unzip 
-        p7zip
-        wineWowPackages.waylandFull
-        winetricks
-        gcc
-        libGL
-        picocom
-        minicom
-         fritzing
-         kicad
-        xorg.libX11
-        xorg.libXcursor
-        xorg.libXrandr
-        xorg.libXinerama
-        xorg.libXi
-        xorg. libXxf86vm
-        wf-recorder
-        qflipper
-        yabridge
-        yabridgectl
-        carla
-        xorg.xhost
-        ncdu
-        piper
-        quickshell
-        vscode
-        cherrytree    
-        
-       # Sectools
-        nmap masscan rustscan amass subfinder nuclei fierce dnsenum
-         theharvester responder netexec enum4linux-ng nikto
+      arduino-ide
+      transmission
+      obsidian
+      git-credential-manager
+      lmms
+      libusb1
+      yt-dlp
+      imagemagick
+      usbutils
+      gqrx
+      hackrf
+      sdrangel
+      qgis
+      ubertooth
+      timg
+      bloodhound
+      neo4j
+      openjdk17 
+      maltego
+      pavucontrol
+      kismet
+      wireshark
+      ffmpeg
+      v4l-utils
+      SDL2
+      pkg-config
+      cabextract 
+      unzip 
+      p7zip
+      wineWowPackages.waylandFull
+      winetricks
+      gcc
+      libGL
+      picocom
+      minicom
+      fritzing
+      kicad
+      xorg.libX11
+      xorg.libXcursor
+      xorg.libXrandr
+      xorg.libXinerama
+      xorg.libXi
+      xorg.libXxf86vm
+      wf-recorder
+      qflipper
+      yabridge
+      yabridgectl
+      carla
+      xorg.xhost
+      ncdu
+      piper
+      quickshell
+      vscode
+      cherrytree    
+
+      # Sectools
+      nmap masscan rustscan amass subfinder nuclei fierce dnsenum
+      theharvester responder netexec enum4linux-ng nikto
     ];
   };
-networking.firewall.trustedInterfaces = [ "incusbr0" ];
-networking.firewall.allowedTCPPorts = [ 7474 7687 ];
-networking.firewall.enable = false;
-virtualisation.incus.ui.enable = true;
-virtualisation.incus.enable = true;
-networking.nftables.enable = true;
 
-services.neo4j = {
+  networking.firewall.trustedInterfaces = [ "incusbr0" ];
+  networking.firewall.allowedTCPPorts = [ 7474 7687 ];
+  networking.firewall.enable = false;
+
+  virtualisation.incus.ui.enable = true;
+  virtualisation.incus.enable = true;
+
+  networking.nftables.enable = true;
+
+  services.neo4j = {
     enable = true;
     bolt.enable = true;
     https.enable = true;
@@ -286,15 +277,16 @@ services.neo4j = {
     # directories.home = "/var/lib/neo4j";
   };
   
- programs.appimage = {
-   enable = true;
-   binfmt = true;
- };
+  programs.appimage = {
+    enable = true;
+    binfmt = true;
+  };
 
   fonts.packages = with pkgs; [
-  nerd-fonts.fira-code
-  nerd-fonts.droid-sans-mono
+    nerd-fonts.fira-code
+    nerd-fonts.droid-sans-mono
   ];
+
   programs.thunar.enable = true;
   
   nixpkgs.overlays = [
@@ -310,63 +302,45 @@ services.neo4j = {
     enable = true;
     # Whether to enable XWayland
     xwayland.enable = true;
-   };
+  };
+
   # Install firefox.
   programs.firefox.enable = true;
 
   # Allow unfree packages
   nixpkgs.config.allowUnfree = true;
 
-
-
-
   # List packages installed in system profile. To search, run:
   # $ nix search wget
-environment.systemPackages = with pkgs; [
-  #  vim # Do not forget to add an editor to edit configuration.nix! The Nano editor is also installed by default.
-  #  wget
-  (dmenu.overrideAttrs (oldAttrs: {
-    patches = (oldAttrs.patches or []) ++ [
-      # Specify local patches:
-      /home/aaron/flakes/scripts/dmenu-center-20250407-b1e217b.diff
-    ];
-  }))
-  hyprpaper
-  nwg-look
+  environment.systemPackages = with pkgs; [
+    #  vim # Do not forget to add an editor to edit configuration.nix! The Nano editor is also installed by default.
+    #  wget
+    (dmenu.overrideAttrs (oldAttrs: {
+      patches = (oldAttrs.patches or []) ++ [
+        # Specify local patches:
+        /home/aaron/flakes/scripts/dmenu-center-20250407-b1e217b.diff
+      ];
+    }))
+    hyprpaper
+    nwg-look
 
-   # hyprpaper is added as a separate package after the dmenu override
-  # If you want the unpatched dmenu as well, you would list it separately.
-  # dmenu 
-];
+    # System-wide Python with NumPy (available for all users)
+    (python311.withPackages (ps: with ps; [ numpy ipython pip ]))
 
- environment.sessionVariables = {
+    # If you want the unpatched dmenu as well, you would list it separately.
+    # dmenu 
+  ];
+
+  environment.sessionVariables = {
     NIX_PROFILES = "/nix/store/mgm684yazy2rz7c7nflrjxckdzvg9hah-yabridge-5.1.1";
     # Replace this with the actual path to your VST directories
     YABRIDGE_PLUGIN_DIRS = "/home/aaron/.wine/drive_c/Program Files/Common Files/VST3";
   };
   
-services.udev.extraRules = ''
-  # bladeRF udev rule
-  SUBSYSTEM=="usb", ATTRS{idVendor}=="1d50", ATTRS{idProduct}=="6066", MODE="0660", GROUP="dialout"
-'';
-  # Some programs need SUID wrappers, can be configured further or are
-  # started in user sessions.
-  # programs.mtr.enable = true;
-  # programs.gnupg.agent = {
-  #   enable = true;
-  #   enableSSHSupport = true;
-  # };
-
-  # List services that you want to enable:
-
-  # Enable the OpenSSH daemon.
-  # services.openssh.enable = true;
-
-  # Open ports in the firewall.
-  # networking.firewall.allowedTCPPorts = [ ... ];
-  # networking.firewall.allowedUDPPorts = [ ... ];
-  # Or disable the firewall altogether.
-  # networking.firewall.enable = false;
+  services.udev.extraRules = ''
+    # bladeRF udev rule
+    SUBSYSTEM=="usb", ATTRS{idVendor}=="1d50", ATTRS{idProduct}=="6066", MODE="0660", GROUP="dialout"
+  '';
 
   # This value determines the NixOS release from which the default
   # settings for stateful data, like file locations and database versions
@@ -375,5 +349,4 @@ services.udev.extraRules = ''
   # Before changing this value read the documentation for this option
   # (e.g. man configuration.nix or on https://nixos.org/nixos/options.html).
   system.stateVersion = "25.05"; # Did you read the comment?
-
 }
