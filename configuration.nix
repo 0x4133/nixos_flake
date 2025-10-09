@@ -98,6 +98,8 @@
     ];
   };
 
+  virtualisation.docker.rootless.enable = true;
+
   users.users.aaron = {
     isNormalUser = true;
     description = "aaron";
