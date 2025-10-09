@@ -218,8 +218,7 @@
       # Sectools
       nmap masscan rustscan amass subfinder nuclei fierce dnsenum
       theharvester responder netexec enum4linux-ng nikto
-    ];
-    let
+       let
           winapps =
             (import (builtins.fetchTarball "https://github.com/winapps-org/winapps/archive/main.tar.gz"))
             .packages."${system}";
@@ -228,6 +227,7 @@
           winapps.winapps
           winapps.winapps-launcher # optional
         ];
+   
   };
 
 
