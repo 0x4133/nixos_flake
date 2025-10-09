@@ -223,7 +223,7 @@
 
 
 
-{
+
   # set up binary cache (optional)
   nix.settings = {
     substituters = [ "https://winapps.cachix.org/" ];
@@ -241,7 +241,7 @@
       winapps.winapps
       winapps.winapps-launcher # optional
     ];
-}
+
 
 
   networking.firewall.trustedInterfaces = [ "incusbr0" ];
