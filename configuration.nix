@@ -214,7 +214,7 @@
       cherrytree
       gimp
       audacity
-      
+      mirc
       # Sectools
       nmap masscan rustscan amass subfinder nuclei fierce dnsenum
       theharvester responder netexec enum4linux-ng nikto
