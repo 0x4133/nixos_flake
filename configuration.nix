@@ -229,7 +229,7 @@
       cherrytree
       gimp
       audacity
-
+      diskpart
       # Sectools
       nmap masscan rustscan amass subfinder nuclei fierce dnsenum
       theharvester responder netexec enum4linux-ng nikto
