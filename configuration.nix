@@ -10,20 +10,17 @@
     enable = true;
   };
 
-  # Docker (rootless)
+  # Docker (rootless setup)
   virtualisation.docker = {
-    enable = true;  # keeps rootful available if needed, but we’ll run rootless as user service
+    enable = true;  # system daemon is available; we'll run rootless as a user service
     rootless = {
       enable = true;
-      setSocketVariable = true; # exports DOCKER_HOST to the user socket
+      setSocketVariable = true; # export DOCKER_HOST to the user socket for your user session
     };
   };
 
-  # Allow user namespaces (safer for rootless)
+  # Allow unprivileged user namespaces (needed for rootless containers)
   security.unprivilegedUsernsClone = true;
-
-  # Keep user services (like rootless docker) running after logout
-  services.logind.lingerUsers = [ "aaron" ];
 
   # Load nvidia driver for Xorg and Wayland
   services.xserver.videoDrivers = [ "nvidia" ];
@@ -115,7 +112,11 @@
     isNormalUser = true;
     description = "aaron";
     extraGroups = [ "networkmanager" "wheel" "plugdev" "dialout" "docker" "incus-admin" "kvm" ];
-    # Subuid/subgid ranges help avoid newuidmap/newgidmap issues in rootless mode
+
+    # Keep your user services (like rootless docker) alive after logout
+    linger = true;
+
+    # Subuid/subgid ranges help avoid newuidmap/newgidmap errors for rootless
     subUidRanges = [{ startUid = 100000; count = 65536; }];
     subGidRanges = [{ startGid = 100000; count = 65536; }];
 
@@ -228,7 +229,7 @@
       cherrytree
       gimp
       audacity
-      
+
       # Sectools
       nmap masscan rustscan amass subfinder nuclei fierce dnsenum
       theharvester responder netexec enum4linux-ng nikto
@@ -289,6 +290,7 @@
     }))
     hyprpaper
     nwg-look
+
     # System-wide Python for all users (no GUI deps):
     (python311.withPackages (ps: with ps; [ numpy pip ]))
   ];
