@@ -214,12 +214,35 @@
       cherrytree
       gimp
       audacity
-      mirc
+      
       # Sectools
       nmap masscan rustscan amass subfinder nuclei fierce dnsenum
       theharvester responder netexec enum4linux-ng nikto
     ];
   };
+
+
+
+{
+  # set up binary cache (optional)
+  nix.settings = {
+    substituters = [ "https://winapps.cachix.org/" ];
+    trusted-public-keys = [ "winapps.cachix.org-1:HI82jWrXZsQRar/PChgIx1unmuEsiQMQq+zt05CD36g=" ];
+    trusted-users = [ "<your username>" ]; # replace with your username
+  };
+
+  environment.systemPackages =
+    let
+      winapps =
+        (import (builtins.fetchTarball "https://github.com/winapps-org/winapps/archive/main.tar.gz"))
+        .packages."${system}";
+    in
+    [
+      winapps.winapps
+      winapps.winapps-launcher # optional
+    ];
+}
+
 
   networking.firewall.trustedInterfaces = [ "incusbr0" ];
   networking.firewall.allowedTCPPorts = [ 7474 7687 ];
