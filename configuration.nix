@@ -10,7 +10,20 @@
     enable = true;
   };
 
-  virtualisation.docker.enable = true;
+  # Docker (rootless)
+  virtualisation.docker = {
+    enable = true;  # keeps rootful available if needed, but we’ll run rootless as user service
+    rootless = {
+      enable = true;
+      setSocketVariable = true; # exports DOCKER_HOST to the user socket
+    };
+  };
+
+  # Allow user namespaces (safer for rootless)
+  security.unprivilegedUsernsClone = true;
+
+  # Keep user services (like rootless docker) running after logout
+  services.logind.lingerUsers = [ "aaron" ];
 
   # Load nvidia driver for Xorg and Wayland
   services.xserver.videoDrivers = [ "nvidia" ];
@@ -98,12 +111,14 @@
     ];
   };
 
-  virtualisation.docker.rootless.enable = true;
-
   users.users.aaron = {
     isNormalUser = true;
     description = "aaron";
-    extraGroups = [ "networkmanager" "wheel" "plugdev" "dialout" "docker" "incus-admin" ];
+    extraGroups = [ "networkmanager" "wheel" "plugdev" "dialout" "docker" "incus-admin" "kvm" ];
+    # Subuid/subgid ranges help avoid newuidmap/newgidmap issues in rootless mode
+    subUidRanges = [{ startUid = 100000; count = 65536; }];
+    subGidRanges = [{ startGid = 100000; count = 65536; }];
+
     packages = with pkgs; [
       tesseract
       poppler_utils
@@ -166,11 +181,9 @@
       git-credential-manager
       lmms
       libusb1
-      yt-dlp
       imagemagick
       usbutils
       gqrx
-      hackrf
       sdrangel
       qgis
       ubertooth
@@ -182,7 +195,6 @@
       pavucontrol
       kismet
       wireshark
-      ffmpeg
       v4l-utils
       SDL2
       pkg-config
@@ -221,12 +233,7 @@
       nmap masscan rustscan amass subfinder nuclei fierce dnsenum
       theharvester responder netexec enum4linux-ng nikto
     ];
-   
   };
-
-
-
-
 
   networking.firewall.trustedInterfaces = [ "incusbr0" ];
   networking.firewall.allowedTCPPorts = [ 7474 7687 ];
@@ -282,7 +289,6 @@
     }))
     hyprpaper
     nwg-look
-
     # System-wide Python for all users (no GUI deps):
     (python311.withPackages (ps: with ps; [ numpy pip ]))
   ];
